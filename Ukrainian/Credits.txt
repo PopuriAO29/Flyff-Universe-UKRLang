@@ -1,0 +1,52 @@
+﻿#b#cffe4b100Flyff Universe#nb#nc
+
+За мотивами оригінальної гри #bFlyff Online#nb від Gala Lab Corp.
+
+#bПрограма#nb
+Loïc Saos
+Marc Bassiere
+Ibrahim Ennara
+Alexandre Piot
+Jean-Alexandre Valentin
+
+#bДизайн рівнів#nb
+Dimitri
+Cameron Calvert
+Baptiste Bochet-Cadet
+
+#bДизайн персонажів#nb
+Ankou
+Pau Pagtalunan
+IdSayBucketsOfArt
+
+#bЗвук#nb
+Alan Saos
+Thelostrune
+
+#bМодерація#nb
+Amenofus
+Amizer
+Annyse
+Arash
+dane
+Kaytomasu
+Kroontje
+Lapteck
+LENKUN
+Marinho
+Missy
+OzokuLight
+papiRoy
+Recneliz Gaming YT
+Squid
+stan
+Toffee
+Xerion
+Yonu
+
+#bБібліотеки сторонніх розробників#nb
+cpp-cryptlite
+OpenGL Mathematics (GLM)
+miniz-cpp
+
+Copyright 2019-2026 © Gala Lab Corp. & Sniegu Technologies SAS. Усі права захищені.

@@ -1,0 +1,186 @@
+﻿Key,English,Ukrainian
+MMI_0,Dialog,Dialog
+MMI_1,Quest,Quest
+MMI_2,Trade,Trade
+MMI_3,Attack,Attack
+MMI_4,Message,Message
+MMI_5,Add to my list,Add to my list
+MMI_6,Invite to join party,Invite to join party
+MMI_7,Invite to join guild,Invite to join guild
+MMI_8,Place of Resurrection,Place of Resurrection
+MMI_9,Bank,Bank
+MMI_10,Duel,Duel
+MMI_11,Request party duel,Request party duel
+MMI_12,Follow,Follow
+MMI_13,Beauty Shop,Beauty Shop
+MMI_14,Repair,Repair
+MMI_15,Guild Warehouse,Guild Warehouse
+MMI_16,Guild ranking,Guild ranking
+MMI_17,Guild war ranking,Guild war ranking
+MMI_18,Overall guild war ranking,Overall guild war ranking
+MMI_21,Put Bounty,Put Bounty
+MMI_22,See the Bounty List,See the Bounty List
+MMI_24,View equipment,View equipment
+MMI_25,Mailbox,Mailbox
+MMI_26,Apply,Apply
+MMI_27,Status,Status
+MMI_28,Cancel,Cancel
+MMI_29,Enter,Enter
+MMI_30,Ranking,Ranking
+MMI_31,Cheer,Cheer
+MMI_32,Remove piercing card,Remove piercing card
+MMI_33,Lineup Setup,Lineup Setup
+MMI_34,Claim Guild Penya,Claim Guild Penya
+MMI_35,Reward Information,Reward Information
+MMI_36,Claim MVP Penya Reward,Claim MVP Penya Reward
+MMI_37,Participation Information,Participation Information
+MMI_38,Basic Rules,Basic Rules
+MMI_39,Winning Conditions,Winning Conditions
+MMI_40,Application Fee Information,Application Fee Information
+MMI_41,The refund of application fee,The refund of application fee
+MMI_42,Cosmetic Upgrades,Cosmetic Upgrades
+MMI_44,Rock-Paper-Scissors,Rock-Paper-Scissors
+MMI_49,Pet State,Pet State
+MMI_50,Un-summon pet,Un-summon pet
+MMI_51,Create Shining Power Dice,Create Shining Power Dice
+MMI_53,Create Jewels,Create Jewels
+MMI_54,Create Unique Weapon,Create Unique Weapon
+MMI_59,Remove Element,Remove Element
+MMI_71,Remove Level Reduction,Remove Level Reduction
+MMI_74,Get Buffed!,Get Buffed!
+MMI_75,Exchange Rare Item Pieces,Exchange Rare Item Pieces
+MMI_76,Exchange Card Pieces,Exchange Card Pieces
+MMI_79,Remove Premium Item Blessing,Remove Premium Item Blessing
+MMI_80,Enter Arena,Enter Arena
+MMI_81,Leave Arena,Leave Arena
+MMI_82,Arena Ranking,Arena Ranking
+MMI_83,Arena Reward,Arena Reward
+MMI_134,Upgrading,Upgrading
+MMI_136,Piercing,Piercing
+MMI_167,Element Upgrading,Element Upgrading
+MMI_142,Store Pet,Store Pet
+MMI_272,Exchange RPS Coupon,Exchange RPS Coupon
+MMI_309,Card Upgrade,Card Upgrade
+MMI_310,Weapon Socket Card Reshuffle,Weapon Socket Card Reshuffle
+MMI_311,Couple proposal,Couple proposal
+MMI_1000,Drop Filter,Drop Filter
+MMI_1001,Report,Report
+MMI_1002,Inspect,Inspect
+MMI_1003,Unbinding,Unbinding
+MMI_1004,Exchange,Exchange
+MMI_1005,Combat Power Ranking,Combat Power Ranking
+MMI_1006,Giant Hunt Ranking ,Giant Hunt Ranking 
+MMI_1007,Accessory Upgrade,Accessory Upgrade
+MMI_1008,Mute,Mute
+MMI_1009,Unmute,Unmute
+MMI_1010,Freeze,Freeze
+MMI_1011,Unfreeze,Unfreeze
+MMI_1012,Shadow Mute,Shadow Mute
+MMI_1013,Pet Candy Crafting,Pet Candy Crafting
+MMI_1014,Exchange Dice,Exchange Dice
+MMI_1015,Pet Sacrificing,Pet Sacrificing
+MMI_1016,Red Chip Shop,Red Chip Shop
+MMI_1017,Cosmetic Wardrobe,Cosmetic Wardrobe
+MMI_1018,Lv80 GS Apply,Lv80 GS Apply
+MMI_1019,Lv80 GS Status,Lv80 GS Status
+MMI_1020,Lv80 GS Cancel,Lv80 GS Cancel
+MMI_1021,Lv80 GS Enter,Lv80 GS Enter
+MMI_1022,Lv80 GS Lineup Setup,Lv80 GS Lineup Setup
+MMI_1023,Lv80 GS Ranking,Lv80 GS Ranking
+MMI_1024,Lv80 GS Information,Lv80 GS Information
+MMI_1025,Lv60 GS Apply,Lv60 GS Apply
+MMI_1026,Lv60 GS Status,Lv60 GS Status
+MMI_1027,Lv60 GS Cancel,Lv60 GS Cancel
+MMI_1028,Lv60 GS Enter,Lv60 GS Enter
+MMI_1029,Lv60 GS Lineup Setup,Lv60 GS Lineup Setup
+MMI_1030,Lv60 GS Ranking,Lv60 GS Ranking
+MMI_1031,Lv60 GS Information,Lv60 GS Information
+MMI_1032,Blue Chip Shop,Blue Chip Shop
+MMI_1033,Valentine's Letter Exchange,Valentine's Letter Exchange
+MMI_1034,Dungeon,Dungeon
+MMI_1035,PK Chip Shop,PK Chip Shop
+MMI_1036,Exchange,Exchange
+MMI_1037,Green Chip Shop,Green Chip Shop
+MMI_1038,FWC Gear Exchange,FWC Gear Exchange
+MMI_1039,FWC Jewel Exchange,FWC Jewel Exchange
+MMI_1040,Use Capsule Coins,Use Capsule Coins
+MMI_1041,Music Festival Exchange,Music Festival Exchange
+MMI_1042,Fitting Room,Fitting Room
+MMI_1043,FWC PVP Registrations Board,FWC PVP Registrations Board
+MMI_1047,Join FWC PVP Arena,Join FWC PVP Arena
+MMI_1046,FWC PVP Ranking,FWC PVP Ranking
+MMI_1048,Spectate FWC PVP Contest,Spectate FWC PVP Contest
+MMI_1049,Rock Paper Scissors,Rock Paper Scissors
+MMI_1050,W-Token Shop,W-Token Shop
+MMI_1051,Costume Box Upgrade,Costume Box Upgrade
+MMI_1054,Exchange Rings,Exchange Rings
+MMI_1055,Dismantle Item,Dismantle Item
+MMI_1056,Buy that Guild House,Buy that Guild House
+MMI_1057,Enter in Guild House,Enter in Guild House
+MMI_1058,Enter Your House,Enter Your House
+MMI_1059,Select House Template,Select House Template
+MMI_1060,Visit Friend's House,Visit Friend's House
+MMI_1061,Edit,Edit
+MMI_1062,Remove,Remove
+MMI_1063,Exchange Earrings,Exchange Earrings
+MMI_1064,Exchange Necklaces,Exchange Necklaces
+MMI_1065,Rainbow Race,Rainbow Race
+MMI_1066,Create Ultimate Weapon,Create Ultimate Weapon
+MMI_1069,Open Guest Book,Open Guest Book
+MMI_1070,Orphanage Keeper Shop,Orphanage Keeper Shop
+MMI_1071,Kalgas Assault Registration,Kalgas Assault Registration
+MMI_1072,Kalgas Assault Enter,Kalgas Assault Enter
+MMI_1073,Kalgas Assault Rank,Kalgas Assault Rank
+MMI_1074,Kalgas Assault Info,Kalgas Assault Info
+MMI_1075,Kalgas Chip Shop,Kalgas Chip Shop
+MMI_1076,Couple's Storage,Couple's Storage
+MMI_1077,Create Ultimate Jewel,Create Ultimate Jewel
+MMI_1078,Fuse Ultimate Jewel,Fuse Ultimate Jewel
+MMI_1079,Teleport,Teleport
+MMI_1080,Sea Shell Upgrading,Sea Shell Upgrading
+MMI_1081,Fuse Rainbow Jewel,Fuse Rainbow Jewel
+MMI_1082,Dismantle Rainbow Jewel,Dismantle Rainbow Jewel
+MMI_1083,Pet Training,Pet Training
+MMI_1084,Teleport,Teleport
+MMI_1085,Individual Race (Item),Individual Race (Item)
+MMI_1086,Individual Race (Speed),Individual Race (Speed)
+MMI_1087,Duo Team Race (Item),Duo Team Race (Item)
+MMI_1088,Duo Team Race (Speed),Duo Team Race (Speed)
+MMI_1089,Sit,Sit
+MMI_1090,Sleep,Sleep
+MMI_1091,Yellow Chip Shop,Yellow Chip Shop
+MMI_1092,Madrigal Tournament Registration,Madrigal Tournament Registration
+MMI_1093,Enter Madrigal Tournament,Enter Madrigal Tournament
+MMI_1094,Madrigal Tournament Ranking,Madrigal Tournament Ranking
+MMI_1095,Madrigal Tournament Reward,Madrigal Tournament Reward
+MMI_1096,Madrigal Tournament Bidding,Madrigal Tournament Bidding
+MMI_1097,Remove Ultimate Jewel,Remove Ultimate Jewel
+MMI_1098,Customize,Customize
+MMI_1099,Enter Couple House,Enter Couple House
+MMI_1100,Select Couple House Template,Select Couple House Template
+MMI_1101,Wandering Shop,Wandering Shop
+MMI_1102,Master Chip Shop - Alchemy,Master Chip Shop - Alchemy
+MMI_1103,Product Upgrade,Product Upgrade
+MMI_1104,Life Mastery Ranking,Life Mastery Ranking
+MMI_1105,Life Mastery Ranking Reward,Life Mastery Ranking Reward
+MMI_1106,Alchemy,Alchemy
+MMI_1107,Cooking,Cooking
+MMI_1108,Carpentry,Carpentry
+MMI_1109,Smithing,Smithing
+MMI_1110,Enter Race,Enter Race
+MMI_1111,Master Chip Shop - Cooking,Master Chip Shop - Cooking
+MMI_1112,Master Chip Shop - Carpentry,Master Chip Shop - Carpentry
+MMI_1113,Master Chip Shop - Smithing,Master Chip Shop - Smithing
+MMI_1115,Join Boss Raid,Join Boss Raid
+MMI_1120,3rd Anniversary Egg Upgrade Event,3rd Anniversary Egg Upgrade Event
+MMI_1121,Champion Coin Exchange,Champion Coin Exchange
+MMI_1116,Synthesize Ultimate Jewel,Synthesize Ultimate Jewel
+MMI_1117,Convert Ultimate Jewel,Convert Ultimate Jewel
+MMI_2025,PTS Exchange (Equipment),PTS Exchange (Equipment)
+MMI_2026,Give Feedback,Give Feedback
+MMI_2027,PTS Exchange (Materials),PTS Exchange (Materials)
+MMI_2028,PTS Exchange (Essentials),PTS Exchange (Essentials)
+MMI_2029,PTS Exchange (Jewelry),PTS Exchange (Jewelry)
+MMI_2030,PTS Exchange (Other Equipment),PTS Exchange (Other Equipment)
+MMI_2031,Reset Cooldowns,Reset Cooldowns
+MMI_2032,PTS Exchange (New Equipment),PTS Exchange (New Equipment)
