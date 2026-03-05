@@ -1,3 +1,5 @@
+![Flyff Universe Ukrainian Language Translation](Banner.png)
+
 # Flyff Universe Ukrainian Language Translation
 
 This is the repository that was created by me which I translated Ukrainian Language due to the Russo-Ukrainian war ongoing.
@@ -20,4 +22,5 @@ We always support with Ukraine country. Our people required for donation and can
 **Do more to stop war - keep helping Ukraine**
 
 ## Copyright
+
 * Copyright (C) 2002-2026 Gala Lab Corp. All rights reserved.
