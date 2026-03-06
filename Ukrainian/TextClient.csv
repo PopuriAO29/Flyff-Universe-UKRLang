@@ -359,8 +359,8 @@ TEXTCLIENT_PK_LIMIT_DAY,%d Day,%d Day
 TEXTCLIENT_PK_LIMIT_HOUR,%d Hr,%d Hr
 TEXTCLIENT_PK_LIMIT_MINUTE,%d Min,%d Min
 TEXTCLIENT_PK_LIMIT_SECOND,%d Sec,%d Sec
-TEXTCLIENT_DONOTUSE_RESTATE,Unable to reset your stats since you already have basic stats.,Неможливо скинути ваші статистики, оскільки у вас вже є базові статистики.
-TEXTCLIENT_NOTCHOAS,Only criminals can use this item.,Цим предметом можуть користуватися лише злочинці.
+TEXTCLIENT_DONOTUSE_RESTATE,Unable to reset your stats since you already have basic stats.,"Неможливо скинути ваші статистики, оскільки у вас вже є базові статистики.
+TEXTCLIENT_NOTCHOAS,Only criminals can use this item.,Цим предметом можуть користуватися лише злочинці."
 TEXTCLIENT_GETKARMA,Recovered 1 Karma.,Відновлено 1 Карму.
 TEXTCLIENT_NTROUPEO10,Either you are not a party member or the party level is higher than 10.,"Або ви не є членом партії, або рівень партії вищий за 10."
 TEXTCLIENT_EXP_NOTUSE,"You cannot stack this scroll anymore. At level %d ~ %d, this scroll can only be stacked %d times.","Ви більше не можете укладати цей сувій. На рівнях %d ~ %d цей сувій можна скласти лише %d разів."
