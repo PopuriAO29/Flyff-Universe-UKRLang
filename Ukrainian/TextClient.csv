@@ -378,8 +378,8 @@ TEXTCLIENT_ADMIN_IMMORTAL,Undying1,Undying1
 TEXTCLIENT_ADMIN_IMMORTALHALF,Undying2,Undying2
 TEXTCLIENT_ADMIN_NOMOVING,Freeze player,Заблокувати гравця
 TEXTCLIENT_ADMIN_MIGHTY,OneKill,OneKill
-TEXTCLIENT_TELESKILL_CLICK,Touch on the ground where you want to use %s.,Доторкніться до землі там, де ви хочете використовувати %s.
-TEXTCLIENT_CREATEMON_CLICK,Touch on the ground where you want to invoke the monster.,Доторкніться до землі там, де ви хочете викликати чудовисько.
+TEXTCLIENT_TELESKILL_CLICK,Touch on the ground where you want to use %s.,"Доторкніться до землі там, де ви хочете використовувати %s."
+TEXTCLIENT_CREATEMON_CLICK,Touch on the ground where you want to invoke the monster.,"Доторкніться до землі там, де ви хочете викликати чудовисько."
 TEXTCLIENT_TELESKILL_CANCEL,%s invocation was cancelled.,Виклик %s було скасовано.
 TEXTCLIENT_CREATEMON_CANCEL,Monster invocation was cancelled.,Виклик монстра скасовано.
 TEXTCLIENT_USEAIRCRAFT,"In order to ride a flying vehicle, you must reach level 20.","Щоб керувати літальним транспортним засобом, ви повинні досягти 20 рівня."
@@ -445,7 +445,7 @@ TEXTCLIENT_CARDRESHUFFLE_NOTAVAILABLE,Registration is not possible because the g
 TEXTCLIENT_ERROR_NOPIERCING,There is no space to put a card.,"Немає місця, щоб покласти картку."
 TEXTCLIENT_PIERCINGFAIL,Piercing failed.,Пірсинг не вдався.
 TEXTCLIENT_PIERCINGSUCCESS,Piercing Succeeded.,Пірсинг успішно виконано.
-TEXTCLIENT_REMOVE_PIERCING_ERROR,Only suits pierced with cards can be used.,Можна використовувати лише костюми, пронизані картами.
+TEXTCLIENT_REMOVE_PIERCING_ERROR,Only suits pierced with cards can be used.,"Можна використовувати лише костюми, пронизані картами."
 TEXTCLIENT_PIERCING_REMOVE_SUCCESS,Your pierced card has been removed succesfully.,Вашу проколоту картку успішно видалено.
 TEXTCLIENT_NOTEQUALITEM,This item cannot be used.,Цей предмет не можна використовувати.
 TEXTCLIENT_PREMIUM_NOTUPGRADE,Premium item cannot be refined.,Преміальний предмет не можна удосконалити.
@@ -453,7 +453,7 @@ TEXTCLIENT_WRONGSUPITEM,Wrong supplement item.,Неправильний прод
 TEXTCLIENT_USE_PIERCING_MENU,You can use this item with Piercing menu at Weapon Shop.,Ви можете використовувати цей предмет у меню Пробивання в Магазині зброї.
 TEXTCLIENT_USE_ACCESSORY_MENU,You can use this item with Accessory Upgrade menu at Weapon Shop.,Ви можете використовувати цей предмет у меню покращення аксесуарів у магазині зброї.
 TEXTCLIENT_USE_UPGRADE_MENU,You can use this item with Upgrade menu at Armor Shop.,Ви можете використовувати цей предмет у меню Покращення в магазині броні.
-TEXTCLIENT_USE_INVENTORY_WINDOW,Double click on this item in Inventory window to use it.,Двічі клацніть на цей предмет у вікні Інвентарю, щоб використати його.
+TEXTCLIENT_USE_INVENTORY_WINDOW,Double click on this item in Inventory window to use it.,"Двічі клацніть на цей предмет у вікні Інвентарю, щоб використати його."
 TEXTCLIENT_NOTELEUPGRADE,Item cannot be upgraded using this element.,Елемент не можна поліпшити за допомогою цього предмета.
 TEXTCLIENT_UPGRADE_ERROR_TWOELEMENT,You cannot put two different elements on one item.,Ви не можете помістити два різні елементи на один предмет.
 TEXTCLIENT_WRONGUPLEVEL,Using wrong item to upgrade.,Використання неправильного предмета для оновлення.
@@ -474,7 +474,7 @@ TEXTCLIENT_PK_BLINK_NO,You cannot use a blinkwing at Kebaras.,Ви не може
 TEXTCLIENT_BLINK_EVENT_NO,You cannot use a blinkwing during event.,Ви не можете використовувати мерехтливе крило під час події.
 TEXTCLIENT_GUILDCOMBAT_NO_OUTWAR,You cannot use Blinkwings to escape the Guild Siege arena.,"Ви не можете використовувати Блискавкові крила, щоб втекти з арени облоги Гільдії."
 TEXTCLIENT_ARENA_BLINKPOOL,You cannot use Blinkpool in the Arena.,Ви не можете використовувати Blinkpool в Арені.
-TEXTCLIENT_WARNINGCCLS,Your stats will reset after you change your job. Do you want to change your job?,Ваші статистики скинуться після того, як ви зміните роботу. Ви хочете змінити роботу?
+TEXTCLIENT_WARNINGCCLS,Your stats will reset after you change your job. Do you want to change your job?,"Ваші статистики скинуться після того, як ви зміните роботу. Ви хочете змінити роботу?"
 TEXTCLIENT_CHANGECLASS,You successfully changed your Job to %s.,Ви успішно змінили свою роботу на %s.
 TEXTCLIENT_RETURN_USEITEM,The item loses its potency 4 hours after being equipped if not returned to the inventory . Do you want to use the item?,"Об'єкт втрачає свою силу через 4 години після оснащення, якщо його не повернути до інвентарю. Ви хочете використати об'єкт?"
 TEXTCLIENT_LIMITZONE_USE,Unable to use item in the limit zone.,Неможливо використовувати предмет у зоні обмеження.
@@ -491,7 +491,7 @@ TEXTCLIENT_PRIORITYSUMMONMOB,This monster was summoned by %s. You cannot attack 
 TEXTCLIENT_CREATEMON_LIMIT,You cannot summon anymore monsters. Please wait and try again.,"Ви більше не можете викликати монстрів. Будь ласка, зачекайте і спробуйте ще раз."
 TEXTCLIENT_GETPKPOINT,You recovered your Karma points by %d.,Ви відновили свої бали Карми на %d.
 TEXTCLIENT_DECPKPOINT,%d Karma points have been reduced.,%d бал карми було зменшено.
-TEXTCLIENT_PK_MARKETNOUSE,You cannot use stores if your Karma grade is Vicious.,Ви не можете користуватися магазинами, якщо ваш рівень Карми — Злобний.
+TEXTCLIENT_PK_MARKETNOUSE,You cannot use stores if your Karma grade is Vicious.,"Ви не можете користуватися магазинами, якщо ваш рівень Карми — Злобний."
 TEXTCLIENT_PKDEAD,You have been slain by %s.,Тебе вбив %s.
 TEXTCLIENT_GETFAMEPOINT,You gained %d fame points.,Ти отримав %d очок слави.
 TEXTCLIENT_DECFAMEPOINT,You lost %d fame points.,Ти втратив %d очок слави.
@@ -595,7 +595,7 @@ TEXTCLIENT_SUMMON_SUCCESS1,You are summoned to %s,You are summoned to %s
 TEXTCLIENT_SUMMON_SUCCESS,%s is summoned,%s is summoned
 TEXTCLIENT_SUMMONPARTY_NOTTIME,You can not go.,Тобі не можна йти.
 TEXTCLIENT_TROUPECREATE,Only the party leader can use this function.,Цю функцію може використовувати лише лідер партії.
-TEXTCLIENT_ITEM_TRANSY,This item is not available. Please input another item.,Цей товар недоступний. Будь ласка, введіть інший товар.
+TEXTCLIENT_ITEM_TRANSY,This item is not available. Please input another item.,"Цей товар недоступний. Будь ласка, введіть інший товар."
 TEXTCLIENT_ITEM_TRANSY_NOT_LEVEL,Only %d-%d level items are usable.,Only %d-%d level items are usable.
 TEXTCLIENT_ITEM_TRANSY_SUCCESS,The change from %s to %s was successful.,The change from %s to %s was successful.
 TEXTCLIENT_GUILDCREATE,Only the guild master can use this function.,Цю функцію може використовувати лише гільдійний майстер.
