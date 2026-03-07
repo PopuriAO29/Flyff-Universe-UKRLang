@@ -10,12 +10,12 @@ TEXTCLIENT_DISCONNECTING,The device is being disconnected. Please login again in
 TEXTCLIENT_CHANNELFULL,"This channel is currently full, please wait a moment or select another channel.","Цей канал зараз заповнений, будь ласка, зачекайте хвилинку або виберіть інший канал."
 TEXTCLIENT_NAMEALREADYUSED,That character name is already in use.,Це ім'я персонажа вже використовується.
 TEXTCLIENT_BIGMONSTER,Boss Monster Detected!,Виявлено Босса-Монстра!
-TEXTCLIENT_APP_MAP,World Map,World Map
+TEXTCLIENT_APP_MAP,World Map,Карта світу
 TEXTCLIENT_APP_OPTION,Options,Опції
-TEXTCLIENT_APP_LOGOUT,Logout,Logout
+TEXTCLIENT_APP_LOGOUT,Logout,Вийти
 TEXTCLIENT_APP_QUIT,Quit,Вихід
 TEXTCLIENT_APP_SUPPORT,Support,Підтримка
-TEXTCLIENT_APP_PRIVACY,Privacy,Privacy
+TEXTCLIENT_APP_PRIVACY,Privacy,Приватність
 TEXTCLIENT_APP_NAVIGATOR,Navigator,Навігатор
 TEXTCLIENT_APP_DEBUG,Debug,Debug
 TEXTCLIENT_LOGGINGOUT,Logging out in %d sec(s).,Logging out in %d sec(s).
@@ -42,14 +42,14 @@ TEXTCLIENT_DEVELOPER,Dev,Dev
 TEXTCLIENT_GAMEMASTER,Game Master,Майстер гри
 TEXTCLIENT_MODERATOR,MOD,MOD
 TEXTCLIENT_VENDOR_NPC,[Vendor],[Vendor]
-TEXTCLIENT_APP_CHAT,Chatting,Chatting
+TEXTCLIENT_APP_CHAT,Chatting,Чат
 TEXTCLIENT_INVALIDLOGIN,Your login or password is invalid.,Ваш логін або пароль недійсний.
 TEXTCLIENT_INVALIDAUTHTOKEN,Authentication failed. Please try again.,"Аутентифікація не вдалася. Будь ласка, спробуйте ще раз."
 TEXTCLIENT_NOWPOSITION,"Position: x = %f, y = %f, z = %f, angle = %f","Position: x = %f, y = %f, z = %f, angle = %f"
 TEXTCLIENT_NOTTRANSSELF,You cannot send a PM to yourself.,You cannot send a PM to yourself.
 TEXTCLIENT_PLAYERNOTEXIST,%s does not exist or is offline.,%s не існує або перебуває офлайн.
 TEXTCLIENT_APP_NOTICE,Notice,Notice
-TEXTCLIENT_APP_STATUS,Status,Status
+TEXTCLIENT_APP_STATUS,Status,Статус
 TEXTCLIENT_PLAYERINFORMATION,%s - Lv: %d,%s - Lv: %d
 TEXTCLIENT_BLINK_LIMIT,You cannot use it during skill motion.,Ви не можете використовувати це під час руху навичкою.
 TEXTCLIENT_NOTSIT_BLINK,You cannot use a Blinkwing while sitting.,You cannot use a Blinkwing while sitting.
@@ -58,7 +58,7 @@ TEXTCLIENT_FLIGHT_NOUSE,Unable to use while flying.,Неможливо вико�
 TEXTCLIENT_ERROR_NOFLY,You cannot fly here.,Ви не можете літати тут.
 TEXTCLIENT_ERROR_NOTALK,You are not allowed to talk.,Тобі не дозволено говорити.
 TEXTCLIENT_ERROR_CHATSPAM,You received %d minutes penalty because of too much of chatting.,Ви отримали штраф у %d хвилин через надмірне спілкування.
-TEXTCLIENT_APP_MOTION,Motion,Motion
+TEXTCLIENT_APP_MOTION,Motion,Рухи
 TEXTCLIENT_APP_CHARINFO,Character,Персонаж
 TEXTCLIENT_LIMIT_RECOVER,%s recovery limited to %d.,%s recovery limited to %d.
 TEXTCLIENT_ATTENTIONCOOLTIME,Please wait a while before using the item again.,"Будь ласка, почекайте деякий час, перш ніж знову користуватися предметом."
@@ -85,7 +85,7 @@ TEXTCLIENT_LACKSPACE,Inventory is full. Please make room and try again.,Інве
 TEXTCLIENT_REAPITEM,You received %s.,Ви отримали %s.
 TEXTCLIENT_REAPITEM_UPGRADE,You received %s +%d.,Ви отримали %s +%d.
 TEXTCLIENT_TROUPEREAPITEM,%s has gained %s.,%s has gained %s.
-TEXTCLIENT_APP_INVENTORY,Inventory,Inventory
+TEXTCLIENT_APP_INVENTORY,Inventory,Інвентар
 TEXTCLIENT_REAPMONEY,You received %s Penya (Total: %s Penya).,Ви отримали %s Пеня (Всього: %s Пеня).
 TEXTCLIENT_ERROR_SEX,%s is not for your gender.,%s is not for your gender.
 TEXTCLIENT_ERROR_JOB,You cannot equip the %s. Requirements not met.,You cannot equip the %s. Requirements not met.
@@ -105,7 +105,7 @@ TEXTCLIENT_ERROR_NPCBUFFLEVEL,Only level %d~%d character can get buffs.,Only lev
 TEXTCLIENT_ERROR_NPCBUFFFAIL,You cannot use %s right now.,You cannot use %s right now.
 TEXTCLIENT_LEVEL15JOB,Now it's time to choose your job.,Now it's time to choose your job.
 TEXTCLIENT_CHANGEJOB,Congratulations! You have advanced to the %s job class.,Congratulations! You have advanced to the %s job class.
-TEXTCLIENT_APP_SKILL,Skills,Skills
+TEXTCLIENT_APP_SKILL,Skills,Навички
 TEXTCLIENT_BASESKILLLEVEL,Character Level: %d,Character Level: %d
 TEXTCLIENT_PATTERNUP,You are learning new attack patterns!,You are learning new attack patterns!
 TEXTCLIENT_WRONGITEM,You need to equip the correct weapon or item to use that skill.,You need to equip the correct weapon or item to use that skill.
@@ -115,24 +115,24 @@ TEXTCLIENT_REQHP,Not enough HP.,Недостатньо HP.
 TEXTCLIENT_BLOCKTARGETING,This action has been blocked by an obstacle..,Цю дію заблоковано перешкодою.
 TEXTCLIENT_SKILLREQUIRED,%s skill level %d is needed.,%s skill level %d is needed.
 TEXTCLIENT_SKILLLEVELUP,%s skill level increased.,%s skill level increased.
-TEXTCLIENT_APP_PRIVATE_SHOP,Private shop,Private shop
-TEXTCLIENT_APP_QUEST,Quests,Quests
-TEXTCLIENT_APP_CASH_SHOP,Flyff Shop,Flyff Shop
+TEXTCLIENT_APP_PRIVATE_SHOP,Private shop,Приватний магазин
+TEXTCLIENT_APP_QUEST,Quests,Квести
+TEXTCLIENT_APP_CASH_SHOP,Flyff Shop,Flyff Магазин
 TEXTCLIENT_PREMIUM_ITEMS,Premium Items,Premium Items
 TEXTCLIENT_COMMUNICATION,Communication,Спілкування
 TEXTCLIENT_COMMUNITY,Community,Спільнота
 TEXTCLIENT_HELPER,Helper,Помічник
-TEXTCLIENT_APP_ITEM_DURATION,Duration,Duration
-TEXTCLIENT_APP_MESSENGER,Messenger,Messenger
-TEXTCLIENT_APP_PARTY,Party,Party
-TEXTCLIENT_APP_GUILD,Guild,Guild
-TEXTCLIENT_APP_COUPLE,Couple,Couple
-TEXTCLIENT_APP_HELP,Help,Help
-TEXTCLIENT_APP_HELP_TIPS,Tips,Tips
-TEXTCLIENT_APP_FAQ,FAQ,FAQ
-TEXTCLIENT_APP_FITTINGROOM,Fitting Room,Fitting Room
-TEXTCLIENT_APP_HELP_WIKI,Wiki Help,Wiki Help
-TEXTCLIENT_APP_INFO_PANG,Info-Pang,Info-Pang
+TEXTCLIENT_APP_ITEM_DURATION,Duration,Тривалість
+TEXTCLIENT_APP_MESSENGER,Messenger,Месенджер
+TEXTCLIENT_APP_PARTY,Party,Партія
+TEXTCLIENT_APP_GUILD,Guild,Гільдія
+TEXTCLIENT_APP_COUPLE,Couple,Пара
+TEXTCLIENT_APP_HELP,Help,Допомога
+TEXTCLIENT_APP_HELP_TIPS,Tips,Поради
+TEXTCLIENT_APP_FAQ,FAQ,Найчастіші запитання
+TEXTCLIENT_APP_FITTINGROOM,Fitting Room,Примірювальня
+TEXTCLIENT_APP_HELP_WIKI,Wiki Help,Вікі Допомога
+TEXTCLIENT_APP_INFO_PANG,Info-Pang,Інфо-Панг
 TEXTCLIENT_GUILDCOMBAT_CANNOT_PARTY,You cannot make a party in the Guild Siege arena.,You cannot make a party in the Guild Siege arena.
 TEXTCLIENT_PPVP_ADD_PARTY,You cannot invite another character to join the party during party PvP.,You cannot invite another character to join the party during party PvP.
 TEXTCLIENT_DUEL_ADD_PARTY,You cannot join the party during duel.,You cannot join the party during duel.
@@ -736,7 +736,7 @@ TEXTCLIENT_SOULLINKCONVERT_SUCCESS,Convert Succesful!,Convert Succesful!
 TEXTCLIENT_GUILD_ADDSUPPM,%s increased the amount of members you can have in the guild by 5!,%s increased the amount of members you can have in the guild by 5!
 TEXTCLIENT_REPORT_SUCCESS,Successfully sent report.,Звіт успішно надіслано.
 TEXTCLIENT_REPORT_WAIT,You must wait before reporting the same player.,"Ви повинні зачекати, перш ніж повідомляти про того самого гравця."
-TEXTCLIENT_APP_ACHIEVEMENTS,Achievements,Achievements
+TEXTCLIENT_APP_ACHIEVEMENTS,Achievements,Досягнення
 TEXTCLIENT_ACHIEVEMENT_CLAIMSUCCESS,Successfully claimed,Successfully claimed
 TEXTCLIENT_ACHIEVEMENT_CLAIMNOTHING,You have nothing to claim,You have nothing to claim
 TEXTCLIENT_ACHIEVEMENT_LEVELREACH,"You reached level %d of achievement ""%s""","You reached level %d of achievement ""%s"""
@@ -788,7 +788,7 @@ TEXTCLIENT_SENDITEM_PLACE,You have %d items to receive. Please make room in your
 TEXTCLIENT_ERROR_ITEMLOCK,This item is marked as Favorite.,This item is marked as Favorite.
 TEXTCLIENT_EXTRABAG_INUSE,You are already using 2 Extra Bags.,You are already using 2 Extra Bags.
 TEXTCLIENT_EXTRABAG_USED,Inventory is now expanded.,Inventory is now expanded.
-TEXTCLIENT_APP_EXTRABAG,Inventory View,Inventory View
+TEXTCLIENT_APP_EXTRABAG,Inventory View,Розширений Інвентар
 TEXTCLIENT_BOUNTYINPUT_NOMURDERER,Someone has to kill you in order to put a bounty.,Someone has to kill you in order to put a bounty.
 TEXTCLIENT_BOUNTYINPUT_SUCCESS,Successfully registered bounty.,Successfully registered bounty.
 TEXTCLIENT_BOUNTYINPUT_WAIT,You must wait before registering a bounty on this player.,You must wait before registering a bounty on this player.
@@ -797,9 +797,9 @@ TEXTCLIENT_INVENTORYSPACE,Your inventory space increased by %d!,Your inventory s
 TEXTCLIENT_UPGRADEANNOUNCE,%s upgraded %s to %s+%d!,%s upgraded %s to %s+%d!
 TEXTCLIENT_UPGRADEANNOUNCE_BOUND,%s upgraded [Soul-Bound] %s to %s+%d!,%s upgraded [Soul-Bound] %s to %s+%d!
 TEXTCLIENT_LEVELUPANNOUNCE,%s reached level %d!,%s reached level %d!
-TEXTCLIENT_APP_GACHA,Gacha,Gacha
+TEXTCLIENT_APP_GACHA,Gacha,Гача
 TEXTCLIENT_GACHA_RESET_SUCCESS,The box has been successfully reset.,The box has been successfully reset.
-TEXTCLIENT_APP_BOT,Bot,Bot
+TEXTCLIENT_APP_BOT,Bot,Бот
 TEXTCLIENT_SKILL_AWAKE,Item received a bonus.,Item received a bonus.
 TEXTCLIENT_SKILL_AWAKE_FAILED,No bonus is available for this item.,No bonus is available for this item.
 TEXTCLIENT_INVALID_TARGET_ITEM,Cannot be done.,Cannot be done.
@@ -876,7 +876,7 @@ TEXTCLIENT_ITEM_TRANSMUTE_INCOMPATIBLE,These items are not compatible for transm
 TEXTCLIENT_ITEM_TRANSMUTE_REMOVE,The transmutation has been removed.,The transmutation has been removed.
 TEXTCLIENT_ADDWARDROBE,The item has been added to your wardrobe.,The item has been added to your wardrobe.
 TEXTCLIENT_GUILDWARCHANNEL,Unable to declare war in this channel.,Unable to declare war in this channel.
-TEXTCLIENT_APP_BATTLEPASS,Flyff Pass,Flyff Pass
+TEXTCLIENT_APP_BATTLEPASS,Flyff Pass,Flyff Пас
 TEXTCLIENT_BATTLEPASS_MISSIONCOMPLETE,%s mission %s completed.,%s mission %s completed.
 TEXTCLIENT_BATTLEPASS_GETPOINTS,You received %d %s points.,You received %d %s points.
 TEXTCLIENT_BATTLEPASS_RESET,The %s season has been reset!,The %s season has been reset!
@@ -927,7 +927,7 @@ TEXTCLIENT_ACHIEVEMENT_SKILLUNLOCK,You unlocked skill [%s] lv.%d!,You unlocked s
 TEXTCLIENT_THIEFSANTAHUNT_RANKING_MAIL,Congratulations for your rank %d in the Thief Santa Hunt ranking!,Congratulations for your rank %d in the Thief Santa Hunt ranking!
 TEXTCLIENT_THIEFSANTAHUNT_RANKING_MAIL1,Congratulations for reaching %d points in the Thief Santa Hunt ranking!,Congratulations for reaching %d points in the Thief Santa Hunt ranking!
 TEXTCLIENT_THIEFSANTAHUNT_RECEIVE,You received %d Thief Santa Hunting Points (Total %d)!,You received %d Thief Santa Hunting Points (Total %d)!
-TEXTCLIENT_APP_LOTTERY,Lottery,Lottery
+TEXTCLIENT_APP_LOTTERY,Lottery,Лотерея
 TEXTCLIENT_LOTTERY_LOWLEVEL,"Your level is too low, you must be level %d minimum to start this lottery!","Your level is too low, you must be level %d minimum to start this lottery!"
 TEXTCLIENT_LOTTERY_HIGHLEVEL,"Your level is too high, you must be level %d maximum to start this lottery!","Your level is too high, you must be level %d maximum to start this lottery!"
 TEXTCLIENT_LOTTERY_ITEMSMISSING,You must have %d %s to start this lottery!,You must have %d %s to start this lottery!
@@ -935,7 +935,7 @@ TEXTCLIENT_LOTTERY_ERRORSTARTED,You already started a lottery! Wait for it to fi
 TEXTCLIENT_LOTTERY_NOREWARD,Unlucky.. You got no reward this time!,Unlucky.. You got no reward this time!
 TEXTCLIENT_LOTTERY_NOFREESPINS,You don't have any free spins left!,You don't have any free spins left!
 TEXTCLIENT_LOTTERY_FREESPIN,You can now claim your free Lottery Wheel spin!,You can now claim your free Lottery Wheel spin!
-TEXTCLIENT_APP_EVENTPASS,Lunar Pass,Lunar Pass
+TEXTCLIENT_APP_EVENTPASS,Lunar Pass,Місячний Пас
 TEXTCLIENT_BATTLEPASS_REWARD,You need to be at least level %d to claim %s rewards!,You need to be at least level %d to claim %s rewards!
 TEXTCLIENT_EXCHANGECONSUME_ERROR,You already have one buff of that type active.,You already have one buff of that type active.
 TEXTCLIENT_GUILD_NOTFOUND,The guild %s was not found.,The guild %s was not found.
@@ -963,7 +963,7 @@ TEXTCLIENT_SOMEONEUSING,Another player is using this! Please wait..,Another play
 TEXTCLIENT_NOTUSESKILL_ITEMUSE_CUMULABLE,The item %s is only cumulable if the buff is the exact same item. Current buff item %s.,The item %s is only cumulable if the buff is the exact same item. Current buff item %s.
 TEXTCLIENT_COSTUMECOLLECTION_ISEVENTUSED,Costume is already used.,Costume is already used.
 TEXTCLIENT_COSTUMECOLLECTION_NOTHING,You have nothing to submit.,You have nothing to submit.
-TEXTCLIENT_APP_EVENTS,Events,Events
+TEXTCLIENT_APP_EVENTS,Events,Події
 TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_1,You have nothing to submit.,You have nothing to submit.
 TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_2,Achievement collection error 02.,Achievement collection error 02.
 TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_3,Achievement collection error 03.,Achievement collection error 03.
@@ -977,7 +977,7 @@ TEXTCLIENT_MESSAGE_TOO_LONG,Your message exceeds the maximum length.,Your messag
 TEXTCLIENT_FREEZE_NOTUSE,You cannot teleport if you're frozen.,You cannot teleport if you're frozen.
 TEXTCLIENT_MINLVLTRADE,You must reach level %d to trade premium items.,You must reach level %d to trade premium items.
 TEXTCLIENT_MINLVLMOTION,You must reach level %d to use this motion.,You must reach level %d to use this motion.
-TEXTCLIENT_APP_SWITCHEQUIP,Switch Equip,Switch Equip
+TEXTCLIENT_APP_SWITCHEQUIP,Switch Equip,Змінити Спорядження
 TEXTCLIENT_SWITCHEQUIP_NOTUSEITEM,You can only equip items from the SwitchEquip menu/shortcut.,You can only equip items from the SwitchEquip menu/shortcut.
 TEXTCLIENT_SWITCHEQUIP_SUCCESS_UPDATED,You Successfully updated preset %s!,You Successfully updated preset %s!
 TEXTCLIENT_SWITCHEQUIP_ERROR_COUNT,You have too many presets!,You have too many presets!
