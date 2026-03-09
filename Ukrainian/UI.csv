@@ -20,7 +20,7 @@ UI_SELECTSERVER_NEXT,Next,Далі
 UI_SELECTSERVER_FULL,full,повний
 UI_SELECTSERVER_BUSY,busy,зайнятий
 UI_SELECTSERVER_BEST,best,найкращий
-UI_SELECTSERVER_NEWNAME,Please enter another name:,Будь ласка, введіть інше ім'я:
+UI_SELECTSERVER_NEWNAME,Please enter another name:,"Будь ласка, введіть інше ім'я:"
 UI_SELECTSERVER_NAMETITLE,Character Name,Ім'я персонажа
 UI_CHARLIST_TITLE,Characters,Персонажі
 UI_CHARLIST_PLAY,Play,Грати
@@ -878,7 +878,7 @@ UI_APP_PRIVACY_TIP,Open the privacy tab.,Відкрийте вкладку ко�
 UI_APP_LOGOUT_TIP,Logout,Вийти
 UI_APP_OPTION_TIP,Option,Опції
 UI_APP_MAP_TIP,A Map of the World,A Map of the World
-UI_APP_NAVIGATOR_TIP,A mini-map to help you find your way.,Міні-карта, яка допоможе вам знайти дорогу.
+UI_APP_NAVIGATOR_TIP,A mini-map to help you find your way.,"Міні-карта, яка допоможе вам знайти дорогу."
 UI_APP_NOTICE_TIP,Notice,Notice
 UI_OPTION_OLD_KEYBOARD_MODE,Basic Keyboard Mode,Базовий режим клавіатури
 UI_GUILDCOMBAT_OFFER_TITLE,Apply for Guild Siege,Apply for Guild Siege
@@ -1459,7 +1459,7 @@ UI_TOOLTIP_DURATION_VENDOR,Shop Time:,Shop Time:
 UI_TOOLTIP_VISUAL_CLOAK,Can be worn over another cloak.,Можна носити поверх іншого плаща.
 UI_MESSAGE_ADMINCLIENT,Only Game Masters can login. Please use the public client to play.,"Увійти можуть тільки Майстри Ігор. Будь ласка, використовуйте публічний клієнт для гри."
 UI_CONVERTWEAP_WEAPON,Weapon,Зброя
-UI_CONVERTWEAP_WEAPON_TIP,Place a General Weapon in the window to upgrade it to a Unique Weapon.,Помістіть Загальну Зброю у вікно, щоб покращити її до Унікальної Зброї.
+UI_CONVERTWEAP_WEAPON_TIP,Place a General Weapon in the window to upgrade it to a Unique Weapon.,"Помістіть Загальну Зброю у вікно, щоб покращити її до Унікальної Зброї."
 UI_CONVERTWEAP_DICE,Shining Power Dice,Shining Power Dice
 UI_CONVERTWEAP_DICE_TIP,You need to use a Shining Power Dice.,You need to use a Shining Power Dice.
 UI_CONVERTWEAP_GEM,Jewel,Коштовність
