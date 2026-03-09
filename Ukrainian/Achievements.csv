@@ -909,7 +909,7 @@ ACHIEVEMENT_DAILY_PLAY_TIME_LVL2,20 min,20 хви
 ACHIEVEMENT_DAILY_PLAY_TIME_LVL3,30 min,30 хви
 ACHIEVEMENT_DAILY_PLAY_TIME_LVL4,40 min,40 хви
 ACHIEVEMENT_CONNECTION_SERIES_NAME,Login Streak,Login Streak
-ACHIEVEMENT_CONNECTION_SERIES_DESC,Log in on consecutive days to unlock increasing daily rewards. Missing a day resets the streak. Resets at midnight.,Увійдіть у гру протягом кількох днів поспіль, щоб розблокувати зростаючі щоденні нагороди. Пропуск дня скидає серію. Скидається опівночі.
+ACHIEVEMENT_CONNECTION_SERIES_DESC,Log in on consecutive days to unlock increasing daily rewards. Missing a day resets the streak. Resets at midnight.,"Увійдіть у гру протягом кількох днів поспіль, щоб розблокувати зростаючі щоденні нагороди. Пропуск дня скидає серію. Скидається опівночі."
 ACHIEVEMENT_CONNECTION_SERIES_LVL1,Day 1,День 1
 ACHIEVEMENT_CONNECTION_SERIES_LVL2,Day 2,День 2
 ACHIEVEMENT_CONNECTION_SERIES_LVL3,Day 3,День 3
