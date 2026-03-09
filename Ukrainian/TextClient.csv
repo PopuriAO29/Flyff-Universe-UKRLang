@@ -46,7 +46,7 @@ TEXTCLIENT_APP_CHAT,Chatting,Чат
 TEXTCLIENT_INVALIDLOGIN,Your login or password is invalid.,Ваш логін або пароль недійсний.
 TEXTCLIENT_INVALIDAUTHTOKEN,Authentication failed. Please try again.,"Аутентифікація не вдалася. Будь ласка, спробуйте ще раз."
 TEXTCLIENT_NOWPOSITION,"Position: x = %f, y = %f, z = %f, angle = %f","Position: x = %f, y = %f, z = %f, angle = %f"
-TEXTCLIENT_NOTTRANSSELF,You cannot send a PM to yourself.,You cannot send a PM to yourself.
+TEXTCLIENT_NOTTRANSSELF,You cannot send a PM to yourself.,Ви не можете надіслати приватне повідомлення самому собі.
 TEXTCLIENT_PLAYERNOTEXIST,%s does not exist or is offline.,%s не існує або перебуває офлайн.
 TEXTCLIENT_APP_NOTICE,Notice,Notice
 TEXTCLIENT_APP_STATUS,Status,Статус
@@ -80,7 +80,7 @@ TEXTCLIENT_SPEED_NORMAL,Normal,Звичайний
 TEXTCLIENT_SPEED_FAST,Fast,Швидкий
 TEXTCLIENT_SPEED_VERYFAST,Very fast,Дуже швидко
 TEXTCLIENT_SPEED_FASTEST,Fastest,Найшвидший
-TEXTCLIENT_ITEMPRIORITY,The %s belongs to another player at the moment. Please wait a while.,The %s belongs to another player at the moment. Please wait a while.
+TEXTCLIENT_ITEMPRIORITY,The %s belongs to another player at the moment. Please wait a while.,"%s наразі належить іншому гравцеві. Будь ласка, зачекайте деякий час."
 TEXTCLIENT_LACKSPACE,Inventory is full. Please make room and try again.,Інвентар заповнений. Звільніть місце та спробуйте ще раз.
 TEXTCLIENT_REAPITEM,You received %s.,Ви отримали %s.
 TEXTCLIENT_REAPITEM_UPGRADE,You received %s +%d.,Ви отримали %s +%d.
@@ -707,10 +707,10 @@ TEXTCLIENT_DISCONNECTED_HACK,Your character has been banned because the system d
 TEXTCLIENT_CASHMAP_MAPITEMUSE,"If you use the torch, you will be able to see this map. Continue?","Якщо ви скористаєтеся ліхтариком, то зможете побачити цю карту. Продовжити?"
 TEXTCLIENT_PET_NOWUSE,You already have a pet summoned.,You already have a pet summoned.
 TEXTCLIENT_CHAOTIC_NO_FLY,A character with a bad Disposition cannot fly.,A character with a bad Disposition cannot fly.
-TEXTCLIENT_SERVERTEST,[Notice] This is a test! Server will close in %s and characters will be deleted.,"[Notice] Це тест! Сервер закриється через %s, і символи будуть видалені."
-TEXTCLIENT_EARLY_ACCESS,[Notice] This is the Early Access! Server stability issues and bugs can occur.,[Notice] Це ранній доступ! Можуть виникати проблеми зі стабільністю сервера та помилки.
-TEXTCLIENT_ALERT_NO_PK,[Notice] A GM (Game Master) will never ask for your Account or Bank Password.,[Notice] Гейм-майстер (GM) ніколи не запитуватиме ваш пароль від облікового запису чи банківського рахунку.
-TEXTCLIENT_ALERT_PK,[Notice] Do not lend or let a player borrow your items. If they do not give the item back it is lost forever.,"[Notice] Не позичайте та не давайте гравцеві свої предмети в борг. Якщо вони не повернуть предмет, він втрачається назавжди."
+TEXTCLIENT_SERVERTEST,[Notice] This is a test! Server will close in %s and characters will be deleted.,"[Повідомлення] Це тест! Сервер закриється через %s, і символи будуть видалені."
+TEXTCLIENT_EARLY_ACCESS,[Notice] This is the Early Access! Server stability issues and bugs can occur.,[Повідомлення] Це ранній доступ! Можуть виникати проблеми зі стабільністю сервера та помилки.
+TEXTCLIENT_ALERT_NO_PK,[Notice] A GM (Game Master) will never ask for your Account or Bank Password.,[Повідомлення] Гейм-майстер (GM) ніколи не запитуватиме ваш пароль від облікового запису чи банківського рахунку.
+TEXTCLIENT_ALERT_PK,[Notice] Do not lend or let a player borrow your items. If they do not give the item back it is lost forever.,"[Повідомлення] Не позичайте та не давайте гравцеві свої предмети в борг. Якщо вони не повернуть предмет, він втрачається назавжди."
 TEXTCLIENT_ERROR_DISTANCE,You are too far from the target.,Ви занадто далеко від цілі.
 TEXTCLIENT_GUILDCOMBAT_KILLING_STREAK,%s is on a killing spree!,%s is on a killing spree!
 TEXTCLIENT_GUILDCOMBAT_RAMPAGE,%s is on a rampage!,%s is on a rampage!
@@ -719,11 +719,11 @@ TEXTCLIENT_GROUPQUEST_KILL_TIMER,%d minute(s) remaining to kill the boss,%d minu
 TEXTCLIENT_GROUPQUEST_KILL,%s killed the %s!,%s killed the %s!
 TEXTCLIENT_GROUPQUEST_KILL_GUILD,%s from Guild %s killed the %s!,%s from Guild %s killed the %s!
 TEXTCLIENT_GROUPQUEST_LOOT_TIMER,%d minute(s) remaining to loot the items,%d minute(s) remaining to loot the items
-TEXTCLIENT_ERROR_ARENA_VAGRANT,A vagrant cannot join the Arena.,A vagrant cannot join the Arena.
-TEXTCLIENT_ERROR_ARENA_LEAVE,Please move out of the Arena first.,Please move out of the Arena first.
-TEXTCLIENT_ERROR_ARENA_COOLDOWN,You can only use the Arena teleportation every 3 minutes.,You can only use the Arena teleportation every 3 minutes.
-TEXTCLIENT_CHANGE_FACE,Change your Appearance.,Change your Appearance.
-TEXTCLIENT_CHANGE_FACE_QUESTION,Do you want to change your appearance?,Do you want to change your appearance?
+TEXTCLIENT_ERROR_ARENA_VAGRANT,A vagrant cannot join the Arena.,Бродяга не може приєднатися до Арени.
+TEXTCLIENT_ERROR_ARENA_LEAVE,Please move out of the Arena first.,"Будь ласка, спочатку вийдіть з Арени."
+TEXTCLIENT_ERROR_ARENA_COOLDOWN,You can only use the Arena teleportation every 3 minutes.,Ви можете використовувати телепортацію на Арені лише кожні 3 хвилини.
+TEXTCLIENT_CHANGE_FACE,Change your Appearance.,Змініть свій зовнішній вигляд.
+TEXTCLIENT_CHANGE_FACE_QUESTION,Do you want to change your appearance?,Хочете змінити свою зовнішність?
 TEXTCLIENT_PARTYQUEST_COOLDOWN,%s must wait %s before doing the dungeon again.,%s must wait %s before doing the dungeon again.
 TEXTCLIENT_LOSEMONEY,You lost %s Penya (Total: %s Penya).,You lost %s Penya (Total: %s Penya).
 TEXTCLIENT_DUEL_NOACTION,You can't do that during a duel.,You can't do that during a duel.
@@ -732,7 +732,7 @@ TEXTCLIENT_CARDUPGRADE_SUCCESS,Card upgrade successful!,Card upgrade successful!
 TEXTCLIENT_CARDUPGRADE_FAIL,Card upgrade failed.,Card upgrade failed.
 TEXTCLIENT_CARDUPGRADE_FAIL2,Card upgrade failed. %d of registered card will be destroyed.,Card upgrade failed. %d of registered card will be destroyed.
 TEXTCLIENT_CARDRESHUFFLE_SUCCESS,You received %s.,Ви отримали %s.
-TEXTCLIENT_SOULLINKCONVERT_SUCCESS,Convert Succesful!,Convert Succesful!
+TEXTCLIENT_SOULLINKCONVERT_SUCCESS,Convert Succesful!,Конвертація успішна!
 TEXTCLIENT_GUILD_ADDSUPPM,%s increased the amount of members you can have in the guild by 5!,%s increased the amount of members you can have in the guild by 5!
 TEXTCLIENT_REPORT_SUCCESS,Successfully sent report.,Звіт успішно надіслано.
 TEXTCLIENT_REPORT_WAIT,You must wait before reporting the same player.,"Ви повинні зачекати, перш ніж повідомляти про того самого гравця."
@@ -784,10 +784,10 @@ TEXTCLIENT_PRIVATE_SHOP_MAXPRICE,The price of %s cannot exceed %s Penya.,The pri
 TEXTCLIENT_VENDOR_SHOP_CREATE,Your Vendor Shop is now open.,Your Vendor Shop is now open.
 TEXTCLIENT_VENDOR_SHOP_CLOSE,Your Vendor Shop has been closed.,Your Vendor Shop has been closed.
 TEXTCLIENT_VENDOR_SHOP_NOTOWN,You cannot purchase items from your own Vendor.,You cannot purchase items from your own Vendor.
-TEXTCLIENT_SENDITEM_PLACE,You have %d items to receive. Please make room in your inventory and login again.,You have %d items to receive. Please make room in your inventory and login again.
-TEXTCLIENT_ERROR_ITEMLOCK,This item is marked as Favorite.,This item is marked as Favorite.
+TEXTCLIENT_SENDITEM_PLACE,You have %d items to receive. Please make room in your inventory and login again.,"Ви маєте отримати %d предмети. Будь ласка, звільніть місце у своєму інвентарі та увійдіть знову."
+TEXTCLIENT_ERROR_ITEMLOCK,This item is marked as Favorite.,Цей елемент позначено як улюблений.
 TEXTCLIENT_EXTRABAG_INUSE,You are already using 2 Extra Bags.,You are already using 2 Extra Bags.
-TEXTCLIENT_EXTRABAG_USED,Inventory is now expanded.,Inventory is now expanded.
+TEXTCLIENT_EXTRABAG_USED,Inventory is now expanded.,Тепер інвентар розширено.
 TEXTCLIENT_APP_EXTRABAG,Inventory View,Розширений Інвентар
 TEXTCLIENT_BOUNTYINPUT_NOMURDERER,Someone has to kill you in order to put a bounty.,Someone has to kill you in order to put a bounty.
 TEXTCLIENT_BOUNTYINPUT_SUCCESS,Successfully registered bounty.,Successfully registered bounty.
@@ -1040,13 +1040,13 @@ TEXTCLIENT_PVPCONTEST_NOMATCHS,There is no match to spectate.,There is no match 
 TEXTCLIENT_PVPCONTEST_SPECT_ERROR_1,You can't spectate if you're already participating in a match.,You can't spectate if you're already participating in a match.
 TEXTCLIENT_PVPCONTEST_SPECT_ERROR_2,The match you're trying to spectate is ending. Please select another one.,The match you're trying to spectate is ending. Please select another one.
 TEXTCLIENT_PVPCONTEST_RANK34,"You lost that match, but you will have the opportunity to compete in a final match for the 3rd rank against the other losing guild when the final match takes place. Best of luck!","You lost that match, but you will have the opportunity to compete in a final match for the 3rd rank against the other losing guild when the final match takes place. Best of luck!"
-TEXTCLIENT_SERVERTRANSFER,You have requested a server transfer to %s.,You have requested a server transfer to %s.
-TEXTCLIENT_RPS_DAILYLIMITOVER,You've used all the chances for today.,You've used all the chances for today.
-TEXTCLIENT_RPS_SOLDOUT,All the rewards for today are gone. See you tomorrow.,All the rewards for today are gone. See you tomorrow.
-TEXTCLIENT_RPS_ISOPENED,You are already speaking with this NPC.,You are already speaking with this NPC.
-TEXTCLIENT_RPS_MINTARGETLEVEL,Only available to level %d or above.,Only available to level %d or above.
+TEXTCLIENT_SERVERTRANSFER,You have requested a server transfer to %s.,Ви подали запит на перенесення сервера до %s.
+TEXTCLIENT_RPS_DAILYLIMITOVER,You've used all the chances for today.,Ви використали всі шанси на сьогодні.
+TEXTCLIENT_RPS_SOLDOUT,All the rewards for today are gone. See you tomorrow.,Усі нагороди на сьогодні зникли. До зустрічі завтра.
+TEXTCLIENT_RPS_ISOPENED,You are already speaking with this NPC.,Ви вже розмовляєте з цим NPC.
+TEXTCLIENT_RPS_MINTARGETLEVEL,Only available to level %d or above.,Доступно лише до рівня %d або вище.
 TEXTCLIENT_RPS_PLAYABLE,You can't play Lucky RPS. Check your state.,You can't play Lucky RPS. Check your state.
-TEXTCLIENT_RPS_DAYCHANGE,You do not have the right to acquire the item.,You do not have the right to acquire the item.
+TEXTCLIENT_RPS_DAYCHANGE,You do not have the right to acquire the item.,Ви не маєте права придбати товар.
 TEXTCLIENT_PVPCONTEST_SPECTATE_AUTH,You don't have the required auth to spectate.,You don't have the required auth to spectate.
 TEXTCLIENT_GUILDBUFF_NEW,Your Guild just unlocked Guild Buff Level %d!,Your Guild just unlocked Guild Buff Level %d!
 TEXTCLIENT_GUILDBUFF_DONATE,%s donated %s #bx%d#nb to the Guild (Total: %d)!,%s donated %s #bx%d#nb to the Guild (Total: %d)!
@@ -1071,7 +1071,7 @@ TEXTCLIENT_CANNOT_USE_COMBAT,You cannot use the item during combat.,You cannot u
 TEXTCLIENT_RAINBOWRACE_ITEMUSED,%s Used %s on you!,%s Used %s on you!
 TEXTCLIENT_RAINBOWRACE_USEITEM,You used %s on %s!,You used %s on %s!
 TEXTCLIENT_RAINBOWRACE_USEITEM_SELF,You used %s!,You used %s!
-TEXTCLIENT_RAINBOWRACE_USEITEM_NOTARGET,No target found.,No target found.
+TEXTCLIENT_RAINBOWRACE_USEITEM_NOTARGET,No target found.,Ціль не знайдено.
 TEXTCLIENT_RAINBOWRACE_USEITEM_TARGETBARRIER,The target blocked with a Rainbow Barrier!,The target blocked with a Rainbow Barrier!
 TEXTCLIENT_RAINBOWRACE_USEITEM_USERBARRIER,You've blocked an item with your Rainbow Barrier!,You've blocked an item with your Rainbow Barrier!
 TEXTCLIENT_RAINBOWRACE_NOFLY,You cannot start flying during the preparatory period.,You cannot start flying during the preparatory period.
