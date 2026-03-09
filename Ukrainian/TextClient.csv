@@ -249,9 +249,9 @@ TEXTCLIENT_MAILBOX_FULL,%s's mail box is full.,%s's mail box is full.
 TEXTCLIENT_LACKMONEY,You do not have enough Penya.,You do not have enough Penya.
 TEXTCLIENT_CANNOTPOST,You cannot send this item.,You cannot send this item.
 TEXTCLIENT_MAIL_UNKNOWN,Unknown user,Unknown user
-TEXTCLIENT_POST_ERROR,You have failed to send.,You have failed to send.
-TEXTCLIENT_MAIL_SEND_OK,Your mail has been sent successfully.,Your mail has been sent successfully.
-TEXTCLIENT_ERROR_RETRY,"An error occured, please retry the operation.","An error occured, please retry the operation."
+TEXTCLIENT_POST_ERROR,You have failed to send.,Вам не вдалося надіслати.
+TEXTCLIENT_MAIL_SEND_OK,Your mail has been sent successfully.,Ваш лист успішно надіслано.
+TEXTCLIENT_ERROR_RETRY,"An error occured, please retry the operation.","Сталася помилка, будь ласка, повторіть операцію."
 TEXTCLIENT_REALTIME,Real Time - %s,Real Time - %s
 TEXTCLIENT_MADRIGALTIME,Madrigal Time - %s,Madrigal Time - %s
 TEXTCLIENT_NEW_QUEST,New Quest,New Quest
@@ -270,7 +270,7 @@ TEXTCLIENT_QUEST_NOINVENTORYSPACE,Unable to complete quest. Not enough room in y
 TEXTCLIENT_REAPEXP,You have gained Experience.,You have gained Experience.
 TEXTCLIENT_ENDQUEST,Congratulations! %s has been completed.,Congratulations! %s has been completed.
 TEXTCLIENT_PARTYQUEST_NOTJOIN,"If a member of party is over level %d, he cannot enter.","If a member of party is over level %d, he cannot enter."
-TEXTCLIENT_ERROR_DONTCHECK,You cannot check that anymore.,You cannot check that anymore.
+TEXTCLIENT_ERROR_DONTCHECK,You cannot check that anymore.,Ви вже не можете цього перевірити.
 TEXTCLIENT_COMACCEPT,You have joined the %s guild.,You have joined the %s guild.
 TEXTCLIENT_COMLEAVE,You are no longer a member of the %s guild.,You are no longer a member of the %s guild.
 TEXTCLIENT_GUILDWARERRORLOGO,You cannot change your guild logo during a guild duel.,You cannot change your guild logo during a guild duel.
@@ -521,7 +521,7 @@ TEXTCLIENT_CASHSHOP_SERVEROFFLINE,Cannot use Flyff Shop because the server is of
 TEXTCLIENT_CASHSHOP_LACKCASH,You don't have enough money to purchase the item. Reload your account before purchasing.,You don't have enough money to purchase the item. Reload your account before purchasing.
 TEXTCLIENT_CASHSHOP_PURCHASEEXCEED,You reached the maximum amount of purchases per character for this product.,You reached the maximum amount of purchases per character for this product.
 TEXTCLIENT_CASHSHOP_UNKNOWNERROR,"Unknown error, please try again.","Unknown error, please try again."
-TEXTCLIENT_CASHSHOP_PURCHASESUCCESS,Thank you for your purchase! If the inventory is full please make room and login again to receive the item.,Thank you for your purchase! If the inventory is full please make room and login again to receive the item.
+TEXTCLIENT_CASHSHOP_PURCHASESUCCESS,Thank you for your purchase! If the inventory is full please make room and login again to receive the item.,"Дякуємо за покупку! Якщо запас вичерпано, звільніть місце та увійдіть знову, щоб отримати товар."
 TEXTCLIENT_CASHSHOP_INVALIDPLAYER,The player is invalid and cannot use Flyff Shop.,The player is invalid and cannot use Flyff Shop.
 TEXTCLIENT_CASHSHOP_TIMEOVER,The operation is taking too much time. Please try again.,The operation is taking too much time. Please try again.
 TEXTCLIENT_FATHER,#cff0000ff I am your father!#nc,#cff0000ff I am your father!#nc
@@ -1177,7 +1177,7 @@ TEXTCLIENT_RAINBOWRACE_DISQUALIFY,You have been disqualified from the race.,You 
 TEXTCLIENT_RAINBOWRACE_PREANNOUNCE,The Rainbow Race will begin in 10 minutes! Register in Darken City.,The Rainbow Race will begin in 10 minutes! Register in Darken City.
 TEXTCLIENT_BANK_EXTRABAG_USED,Bank is now expanded.,Bank is now expanded.
 TEXTCLIENT_RAINBOWRACE_NOBOARD,You cannot enter the Rainbow Race because equipping the flying item failed.,You cannot enter the Rainbow Race because equipping the flying item failed.
-TEXTCLIENT_EXTERNALLOGIN,Direct sign in is not available. Please sign in from the website.,Direct sign in is not available. Please sign in from the website.
+TEXTCLIENT_EXTERNALLOGIN,Direct sign in is not available. Please sign in from the website.,"Прямий вхід недоступний. Будь ласка, увійдіть з вебсайту."
 TEXTCLIENT_EVENTBUFF,%s is active!,%s is active!
 TEXTCLIENT_STORAGEFULL,The bag is full.,The bag is full.
 TEXTCLIENT_STORAGE_ARMOR,%s Armor Pack (%d/%d),%s Armor Pack (%d/%d)
@@ -1208,7 +1208,7 @@ TEXTCLIENT_GUILDHOUSING_DISMISSED_1,The owner of this guild house has dismantled
 TEXTCLIENT_GUILDHOUSING_DISMISSED_2,"The guild house's artifact is now in ruins, and the ownership of the house is now vacant.","The guild house's artifact is now in ruins, and the ownership of the house is now vacant."
 TEXTCLIENT_KALGASASSAULT_FAIL,Registration failed.,Registration failed.
 TEXTCLIENT_KALGASASSAULT_FAIL_LEVEL,The registration is not possible due to low level.,The registration is not possible due to low level.
-TEXTCLIENT_KALGASASSAULT_SUCCESS,You have successfully registered.,You have successfully registered.
+TEXTCLIENT_KALGASASSAULT_SUCCESS,You have successfully registered.,Ви успішно зареєструвалися.
 TEXTCLIENT_KALGASASSAULT_ENTRY_FAILURE,Entry failed.,Entry failed.
 TEXTCLIENT_KALGASASSAULT_CANNOT_FRIENDADD,You cannot add friends in the Kalgas Assault.,You cannot add friends in the Kalgas Assault.
 TEXTCLIENT_KALGASASSAULT_CANNOT_PARTY,You cannot make a party in the Kalgas Assault.,You cannot make a party in the Kalgas Assault.
@@ -1256,8 +1256,8 @@ TEXTCLIENT_CONTINENT_MINLEVEL,You must reach level %d to access this area.,You m
 TEXTCLIENT_SUMMON_MINLEVEL,You cannot summon a player below level %d.,You cannot summon a player below level %d.
 TEXTCLIENT_SUMMON_MINLEVELPARTY,You cannot summon %s because the level is below %d.,You cannot summon %s because the level is below %d.
 TEXTCLIENT_COLLECT_GUEST,Guest Characters cannot equip this item. Please link an account.,Guest Characters cannot equip this item. Please link an account.
-TEXTCLIENT_ACCOUNT_DELETED,Your account has been successfully deleted.,Your account has been successfully deleted.
-TEXTCLIENT_ACCOUNT_DELETIONFAILED,Your password is invalid.,Your password is invalid.
+TEXTCLIENT_ACCOUNT_DELETED,Your account has been successfully deleted.,Ваш обліковий запис успішно видалено.
+TEXTCLIENT_ACCOUNT_DELETIONFAILED,Your password is invalid.,Ваш пароль недійсний.
 TEXTCLIENT_NOT_ENOUGH_ITEM,Not enough %s.,Not enough %s.
 TEXTCLIENT_CRAFTANNOUNCE,%s crafted %s!,%s crafted %s!
 TEXTCLIENT_TRADE_DISTANCE,You cannot trade due to distance.,You cannot trade due to distance.
@@ -1277,10 +1277,10 @@ TEXTCLIENT_APP_SEARCHSHOP,Search Shop,Search Shop
 TEXTCLIENT_PARTY_READY_ON,There is already a ready check in progress.,There is already a ready check in progress.
 TEXTCLIENT_PIRATESHIP_APPEARS,There is a Pirate Ship above the Madrigal!!,There is a Pirate Ship above the Madrigal!!
 TEXTCLIENT_PARTY_READY_LEADER,"Only the leader may start a ready check, and there is not one currently in progress.","Only the leader may start a ready check, and there is not one currently in progress."
-TEXTCLIENT_THROWITEM_ERROR_15,It can only be used when the target is within 15 meters.,It can only be used when the target is within 15 meters.
-TEXTCLIENT_THROWITEM_ERROR_TARGET,There is no target to use it on.,There is no target to use it on.
-TEXTCLIENT_THROWITEM_ERROR_AREA,You cannot use it there.,You cannot use it there.
-TEXTCLIENT_SEARCHSHOP_TPSELF,You cannot teleport to yourself.,You cannot teleport to yourself.
+TEXTCLIENT_THROWITEM_ERROR_15,It can only be used when the target is within 15 meters.,"Його можна використовувати лише тоді, коли ціль знаходиться в межах 15 метрів."
+TEXTCLIENT_THROWITEM_ERROR_TARGET,There is no target to use it on.,"Немає цілі, на яку можна було б його використати."
+TEXTCLIENT_THROWITEM_ERROR_AREA,You cannot use it there.,Ви не можете його там використовувати.
+TEXTCLIENT_SEARCHSHOP_TPSELF,You cannot teleport to yourself.,Ви не можете телепортуватися до себе.
 TEXTCLIENT_SEARCHSHOP_CLOSED,The shop has been closed.,The shop has been closed.
 TEXTCLIENT_PVPMATCH_TEAM,Team ,Team 
 TEXTCLIENT_PVPMATCH_MATCHEND_WINNER,Match has ended! Winner is %s!,Match has ended! Winner is %s!
@@ -1449,15 +1449,15 @@ TEXTCLIENT_LIFEMASTERY_RANKING_REWARD_FAIL,Could not send life mastery ranking r
 TEXTCLIENT_FISHING_FAIL_DIFF_POS,Fishing failed. Please move to a different spot and try again.,Fishing failed. Please move to a different spot and try again.
 TEXTCLIENT_COUPLEHOUSING_BUYSUCCESS,You successfully setup your couple house.,You successfully setup your couple house.
 TEXTCLIENT_COUPLEHOUSING_NOTOWN,You currently have no couple house yet.,You currently have no couple house yet.
-TEXTCLIENT_PROPINTERACTION_TOOFAR,You are too far.,You are too far.
+TEXTCLIENT_PROPINTERACTION_TOOFAR,You are too far.,Ти занадто далеко.
 TEXTCLIENT_HOUSINGINVENTORY_NOPET,You need to use that pet at least once before putting it in the pet inventory.,You need to use that pet at least once before putting it in the pet inventory.
 TEXTCLIENT_HOUSINGINVENTORY_NOEGG,You cannot put eggs in the pet inventory.,You cannot put eggs in the pet inventory.
-TEXTCLIENT_RAINBOWRACE_MAX_INVITEES,You have exceeded the maximum number of invitees.,You have exceeded the maximum number of invitees.
-TEXTCLIENT_MATOURNAMENT_ENTRYSTART,The entrance time for the tournament match is now.,The entrance time for the tournament match is now.
-TEXTCLIENT_SWITCHEQUIP_USEATTACK,You can't use an equipment preset while attacking.,You can't use an equipment preset while attacking.
-TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_1,There are currently no races available to enter.,There are currently no races available to enter.
-TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_2,You are not a registered player.,You are not a registered player.
-TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_3,You cannot enter on the current channel.,You cannot enter on the current channel.
+TEXTCLIENT_RAINBOWRACE_MAX_INVITEES,You have exceeded the maximum number of invitees.,Ви перевищили максимальну кількість запрошених.
+TEXTCLIENT_MATOURNAMENT_ENTRYSTART,The entrance time for the tournament match is now.,Час входу на турнірний матч вже розпочався.
+TEXTCLIENT_SWITCHEQUIP_USEATTACK,You can't use an equipment preset while attacking.,Ви не можете використовувати пресет спорядження під час атаки.
+TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_1,There are currently no races available to enter.,Наразі немає доступних для участі перегонів.
+TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_2,You are not a registered player.,Ви не зареєстрований гравець.
+TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_3,You cannot enter on the current channel.,Ви не можете увійти на поточному каналі.
 TEXTCLIENT_MAIL_ITEM_PRODUCT_OVER,Product %s cannot be stored in the inventory or the bank if it exceeds %d items.,Product %s cannot be stored in the inventory or the bank if it exceeds %d items.
 TEXTCLIENT_HARVEST_NOTREADY,You can't harvest this now.,You can't harvest this now.
 TEXTCLIENT_HARVEST_NORIGHTS,You can't harvest this here.,You can't harvest this here.
@@ -1496,7 +1496,7 @@ TEXTCLIENT_NO_SPECTATE_SELF,You cannot spectate yourself.,You cannot spectate yo
 TEXTCLIENT_NO_SPECTATE_POWER,You do not have permission to spectate.,You do not have permission to spectate.
 TEXTCLIENT_START_SPECTATE,You are now spectating %s.,You are now spectating %s.
 UI_TOOLTIP_PICKUP_RANGE,Pickup boost range,Pickup boost range
-TEXTCLIENT_INVALIDORIGIN,Server refused the connection. Please make sure you are accessing from the official game page.,Server refused the connection. Please make sure you are accessing from the official game page.
+TEXTCLIENT_INVALIDORIGIN,Server refused the connection. Please make sure you are accessing from the official game page.,"Сервер відмовив у підключенні. Переконайтеся, що ви заходите на офіційну сторінку гри."
 TEXTCLIENT_GATHERING_EVE_PICKAXE,[Event] Chroma Pickaxe,[Event] Chroma Pickaxe
 TEXTCLIENT_APP_SHADER_DEBUG,Shader Debug,Shader Debug
 TEXTCLIENT_APP_ACCOUNT,Account,Account
@@ -1520,9 +1520,9 @@ TEXTCLIENT_PVPMATCH_COLOR_3,Green Team,Зелена команда
 TEXTCLIENT_PVPMATCH_COLOR_4,Yellow Team,Жовта команда
 TEXTCLIENT_PVPMATCH_KILL,[%s] %s,[%s] %s
 TEXTCLIENT_TRADE_BLOCKED,Item or Penya has been removed. Please wait.,Item or Penya has been removed. Please wait.
-TEXTCLIENT_MAIL_LEVEL,You must reach level %d to send a mail.,You must reach level %d to send a mail.
-TEXTCLIENT_MAILBOX_FAILED,Mail delivery failed due to recipient settings.,Mail delivery failed due to recipient settings.
-TEXTCLIENT_MAILBOX_BLOCKED,Mail delivery failed due to messenger settings.,Mail delivery failed due to messenger settings.
+TEXTCLIENT_MAIL_LEVEL,You must reach level %d to send a mail.,"Ви повинні досягти %d-го рівня, щоб надіслати листа."
+TEXTCLIENT_MAILBOX_FAILED,Mail delivery failed due to recipient settings.,Не вдалося доставити пошту через налаштування одержувача.
+TEXTCLIENT_MAILBOX_BLOCKED,Mail delivery failed due to messenger settings.,Не вдалося доставити пошту через налаштування месенджера.
 TEXTCLIENT_ITEM_RECEIVED,You have received %s x%d.,You have received %s x%d.
 TEXTCLIENT_ADD_ATTRIBUTE_SUCCESS,Item has been upgraded.,Item has been upgraded.
 TEXTCLIENT_ADD_ATTRIBUTE_INVALID,This item is not upgradeable.,This item is not upgradeable.

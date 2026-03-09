@@ -7,8 +7,8 @@ PROPITEM_TXT_000014,(Practice) Wooden Sword,(Практика) Дерев'яни
 PROPITEM_TXT_000016,Wooden Sword,Дерев'яний меч
 PROPITEM_TXT_000018,Normal Sword,Normal Sword
 PROPITEM_TXT_000020,Long Sword,Long Sword
-PROPITEM_TXT_000022,Hand Saw,Hand Saw
-PROPITEM_TXT_000024,Hand Claw,Hand Claw
+PROPITEM_TXT_000022,Hand Saw,Ручна пилка
+PROPITEM_TXT_000024,Hand Claw,Кіготь руки
 PROPITEM_TXT_000026,Leaf Sword,Leaf Sword
 PROPITEM_TXT_000028,Parmil Sword,Parmil Sword
 PROPITEM_TXT_000030,Penel Sword,Penel Sword
@@ -304,7 +304,7 @@ PROPITEM_TXT_000608,Itun,Itun
 PROPITEM_TXT_000610,Sleeper,Sleeper
 PROPITEM_TXT_000612,Slepint,Slepint
 PROPITEM_TXT_000614,Cleeper,Cleeper
-PROPITEM_TXT_000616,Client,Client
+PROPITEM_TXT_000616,Client,Клієнт
 PROPITEM_TXT_000618,Tri Finger,Tri Finger
 PROPITEM_TXT_000620,Tensu,Tensu
 PROPITEM_TXT_000622,Imperial,Imperial
@@ -1863,42 +1863,42 @@ PROPITEM_TXT_003726,Yakshadain Stick,Yakshadain Stick
 PROPITEM_TXT_003728,Clrael Wand,Clrael Wand
 PROPITEM_TXT_003730,Shamerel Staff,Shamerel Staff
 PROPITEM_TXT_003732,Yakadain Knuckle,Yakadain Knuckle
-PROPITEM_TXT_003734,Wooden Shield,Wooden Shield
-PROPITEM_TXT_003736,Green Shield,Green Shield
-PROPITEM_TXT_003738,Buckler,Buckler
-PROPITEM_TXT_003740,Round Shield,Round Shield
-PROPITEM_TXT_003742,Guard Shield,Guard Shield
-PROPITEM_TXT_003744,Sentinel Shield,Sentinel Shield
-PROPITEM_TXT_003746,Turtle Shield,Turtle Shield
-PROPITEM_TXT_003748,Sparkle Shield,Sparkle Shield
-PROPITEM_TXT_003750,Scale Shield,Scale Shield
-PROPITEM_TXT_003752,Shurain Shield,Shurain Shield
-PROPITEM_TXT_003754,Nine Shield,Nine Shield
-PROPITEM_TXT_003756,Gyro Shield,Gyro Shield
-PROPITEM_TXT_003758,Drain Shield,Drain Shield
-PROPITEM_TXT_003760,Vortex Shield,Vortex Shield
-PROPITEM_TXT_003762,Cross Shield,Cross Shield
-PROPITEM_TXT_003764,Plus Shield,Plus Shield
-PROPITEM_TXT_003766,Tower Shield,Tower Shield
-PROPITEM_TXT_003768,Plate Shield,Plate Shield
-PROPITEM_TXT_003770,Heart Shield,Heart Shield
-PROPITEM_TXT_003772,Kite Shield,Kite Shield
-PROPITEM_TXT_003774,Star Shield,Star Shield
-PROPITEM_TXT_003776,Aster Shield,Aster Shield
-PROPITEM_TXT_003778,Crescent Shield,Crescent Shield
-PROPITEM_TXT_003780,Comet Shield,Comet Shield
-PROPITEM_TXT_003782,Lucid Shield,Lucid Shield
-PROPITEM_TXT_003784,Icicle Shield,Icicle Shield
-PROPITEM_TXT_003786,Hillaren Shield,Hillaren Shield
-PROPITEM_TXT_003788,Hileitine Shield,Hileitine Shield
-PROPITEM_TXT_003790,Coivellue Shield,Coivellue Shield
-PROPITEM_TXT_003792,Coien Shield,Coien Shield
-PROPITEM_TXT_003794,Rukhoa Shield,Rukhoa Shield
-PROPITEM_TXT_003796,Rukenshia Shield,Rukenshia Shield
-PROPITEM_TXT_003798,Towrien Shield,Towrien Shield
-PROPITEM_TXT_003800,Toeffin Shield,Toeffin Shield
-PROPITEM_TXT_003802,Catacop Shield,Catacop Shield
-PROPITEM_TXT_003804,Catepo Shield,Catepo Shield
+PROPITEM_TXT_003734,Wooden Shield,Дерев'яний щит
+PROPITEM_TXT_003736,Green Shield,Зелений щит
+PROPITEM_TXT_003738,Buckler,Баклер
+PROPITEM_TXT_003740,Round Shield,Круглий щит
+PROPITEM_TXT_003742,Guard Shield,Щит-охоронець
+PROPITEM_TXT_003744,Sentinel Shield,Вартовий Щит
+PROPITEM_TXT_003746,Turtle Shield,Щит черепахи
+PROPITEM_TXT_003748,Sparkle Shield,Блискучий щит
+PROPITEM_TXT_003750,Scale Shield,Лускатий щит
+PROPITEM_TXT_003752,Shurain Shield,Щит Шурейна
+PROPITEM_TXT_003754,Nine Shield,Дев'ять щитів
+PROPITEM_TXT_003756,Gyro Shield,Гіро Щит
+PROPITEM_TXT_003758,Drain Shield,Зливний щит
+PROPITEM_TXT_003760,Vortex Shield,Вихровий щит
+PROPITEM_TXT_003762,Cross Shield,Хрест Щит
+PROPITEM_TXT_003764,Plus Shield,Плюс Щит
+PROPITEM_TXT_003766,Tower Shield,Щит вежі
+PROPITEM_TXT_003768,Plate Shield,Пластинний щит
+PROPITEM_TXT_003770,Heart Shield,Серцевий щит
+PROPITEM_TXT_003772,Kite Shield,Щит повітряного змія
+PROPITEM_TXT_003774,Star Shield,Зоряний щит
+PROPITEM_TXT_003776,Aster Shield,Айстровий щит
+PROPITEM_TXT_003778,Crescent Shield,Щит півмісяця
+PROPITEM_TXT_003780,Comet Shield,Кометний щит
+PROPITEM_TXT_003782,Lucid Shield,Прозорий щит
+PROPITEM_TXT_003784,Icicle Shield,Щит з бурульок
+PROPITEM_TXT_003786,Hillaren Shield,Щит Хілларен
+PROPITEM_TXT_003788,Hileitine Shield,Гілейтинський щит
+PROPITEM_TXT_003790,Coivellue Shield,Щит Куавеллю
+PROPITEM_TXT_003792,Coien Shield,Щит Коєна
+PROPITEM_TXT_003794,Rukhoa Shield,Щит Рукхоа
+PROPITEM_TXT_003796,Rukenshia Shield,Щит Рукеншії
+PROPITEM_TXT_003798,Towrien Shield,Щит Тауріена
+PROPITEM_TXT_003800,Toeffin Shield,Щит Тоеффіна
+PROPITEM_TXT_003802,Catacop Shield,Щит Катакопа
+PROPITEM_TXT_003804,Catepo Shield,Щит Катепо
 PROPITEM_TXT_003806,Tritium Sword,Tritium Sword
 PROPITEM_TXT_003808,Tritium Axe,Tritium Axe
 PROPITEM_TXT_003810,Tritium Stick,Tritium Stick
@@ -1960,7 +1960,7 @@ PROPITEM_TXT_003918,Historic Wand,Historic Wand
 PROPITEM_TXT_003920,Historic Staff,Historic Staff
 PROPITEM_TXT_003922,Historic Bow,Historic Bow
 PROPITEM_TXT_003924,Historic Yo-Yo,Historic Yo-Yo
-PROPITEM_TXT_003926,Angel Sword,Angel Sword
+PROPITEM_TXT_003926,Angel Sword,Ангельський меч
 PROPITEM_TXT_003928,Angel Big Sword,Angel Big Sword
 PROPITEM_TXT_003930,Angel Axe,Angel Axe
 PROPITEM_TXT_003932,Angel Big Axe,Angel Big Axe
@@ -1968,18 +1968,18 @@ PROPITEM_TXT_003934,Angel Glove,Angel Glove
 PROPITEM_TXT_003936,Angel Stick,Angel Stick
 PROPITEM_TXT_003938,Angel Wand,Angel Wand
 PROPITEM_TXT_003940,Angel Staff,Angel Staff
-PROPITEM_TXT_003942,Angel Bow,Angel Bow
-PROPITEM_TXT_003944,Angel Yo-Yo,Angel Yo-Yo
-PROPITEM_TXT_003946,Legendary Golden Sword,Legendary Golden Sword
-PROPITEM_TXT_003948,Legendary Golden Big Sword,Legendary Golden Big Sword
-PROPITEM_TXT_003950,Legendary Golden Axe,Legendary Golden Axe
-PROPITEM_TXT_003952,Legendary Golden Big Axe,Legendary Golden Big Axe
-PROPITEM_TXT_003954,Legendary Golden Gloves,Legendary Golden Gloves
+PROPITEM_TXT_003942,Angel Bow,Ангельський лук
+PROPITEM_TXT_003944,Angel Yo-Yo,Ангельське йо-йо
+PROPITEM_TXT_003946,Legendary Golden Sword,Легендарний Золотий Меч
+PROPITEM_TXT_003948,Legendary Golden Big Sword,Легендарний золотий великий меч
+PROPITEM_TXT_003950,Legendary Golden Axe,Легендарна Золота Сокира
+PROPITEM_TXT_003952,Legendary Golden Big Axe,Легендарна Золота Велика Сокира
+PROPITEM_TXT_003954,Legendary Golden Gloves,Легендарні золоті рукавички
 PROPITEM_TXT_003956,Legendary Golden Stick,Legendary Golden Stick
 PROPITEM_TXT_003958,Legendary Golden Wand,Legendary Golden Wand
-PROPITEM_TXT_003960,Legendary Golden Staff,Legendary Golden Staff
-PROPITEM_TXT_003962,Legendary Golden Bow,Legendary Golden Bow
-PROPITEM_TXT_003964,Legendary Golden Yo-Yo,Legendary Golden Yo-Yo
+PROPITEM_TXT_003960,Legendary Golden Staff,Легендарний Золотий посох
+PROPITEM_TXT_003962,Legendary Golden Bow,Легендарний Золотий Лук
+PROPITEM_TXT_003964,Legendary Golden Yo-Yo,Легендарне золоте йо-йо
 PROPITEM_TXT_003966,First Refresher,Перший освіжувач
 PROPITEM_TXT_003967,MP 65 Recovery,Відновлює 65 MP
 PROPITEM_TXT_003968,Second Refresher,Другий освіжувач
@@ -2023,32 +2023,32 @@ PROPITEM_TXT_004008,VitalDrink 800,Життєвий напій 800
 PROPITEM_TXT_004009,FP 520 Recovery,Відновлює 520 FP
 PROPITEM_TXT_004010,VitalDrink 900,Життєвий напій 900
 PROPITEM_TXT_004011,FP 590 Recovery,Відновлює 590 FP
-PROPITEM_TXT_004012,Poison Immunity Potion,Poison Immunity Potion
-PROPITEM_TXT_004013,Short Immunity from Potion,Short Immunity from Potion
+PROPITEM_TXT_004012,Poison Immunity Potion,Зілля імунітету до отрути
+PROPITEM_TXT_004013,Short Immunity from Potion,Короткий імунітет від зілля
 PROPITEM_TXT_004014,Demol Earring +1,Demol Earring +1
-PROPITEM_TXT_004015,+24 Damage Earring,+24 Damage Earring
+PROPITEM_TXT_004015,+24 Damage Earring,+24 Сережка до пошкодження
 PROPITEM_TXT_004016,Demol Earring +2,Demol Earring +2
-PROPITEM_TXT_004017,+39 Damage Earring,+39 Damage Earring
+PROPITEM_TXT_004017,+39 Damage Earring,+39 Сережка до пошкодження
 PROPITEM_TXT_004018,Demol Earring +3,Demol Earring +3
-PROPITEM_TXT_004019,+57 Damage Earring,+57 Damage Earring
+PROPITEM_TXT_004019,+57 Damage Earring,+57 Сережка до пошкодження
 PROPITEM_TXT_004020,Demol Earring +4,Demol Earring +4
-PROPITEM_TXT_004021,+66 Damage Earring,+66 Damage Earring
+PROPITEM_TXT_004021,+66 Damage Earring,+66 Сережка до пошкодження
 PROPITEM_TXT_004022,Demol Earring +5,Demol Earring +5
-PROPITEM_TXT_004023,+78 Damage Earring,+78 Damage Earring
+PROPITEM_TXT_004023,+78 Damage Earring,+78 Сережка до пошкодження
 PROPITEM_TXT_004024,Demol Earring +6,Demol Earring +6
-PROPITEM_TXT_004025,+93 Damage Earring,+93 Damage Earring
+PROPITEM_TXT_004025,+93 Damage Earring,+93 Сережка до пошкодження
 PROPITEM_TXT_004026,Plug Earring +1,Plug Earring +1
-PROPITEM_TXT_004027,+39 Defense Earring,+39 Defense Earring
+PROPITEM_TXT_004027,+39 Defense Earring,+39 Сережка захисту
 PROPITEM_TXT_004028,Plug Earring +2,Plug Earring +2
-PROPITEM_TXT_004029,+60 Defense Earring,+60 Defense Earring
+PROPITEM_TXT_004029,+60 Defense Earring,+60 Сережка захисту
 PROPITEM_TXT_004030,Plug Earring +3,Plug Earring +3
-PROPITEM_TXT_004031,+80 Defense Earring,+80 Defense Earring
+PROPITEM_TXT_004031,+80 Defense Earring,+80 Сережка захисту
 PROPITEM_TXT_004032,Plug Earring +4,Plug Earring +4
-PROPITEM_TXT_004033,+94 Defense Earring,+94 Defense Earring
+PROPITEM_TXT_004033,+94 Defense Earring,+94 Сережка захисту
 PROPITEM_TXT_004034,Plug Earring +5,Plug Earring +5
-PROPITEM_TXT_004035,+109 Defense Earring,+109 Defense Earring
+PROPITEM_TXT_004035,+109 Defense Earring,+109 Сережка захисту
 PROPITEM_TXT_004036,Plug Earring +6,Plug Earring +6
-PROPITEM_TXT_004037,+128 Defense Earring,+128 Defense Earring
+PROPITEM_TXT_004037,+128 Defense Earring,+128 Сережка захисту
 PROPITEM_TXT_004038,Gore Necklace +1,Gore Necklace +1
 PROPITEM_TXT_004039,+182 Max. HP Necklace,+182 Max. HP Necklace
 PROPITEM_TXT_004040,Gore Necklace +2,Gore Necklace +2
@@ -2086,61 +2086,61 @@ PROPITEM_TXT_004071,+346 Max. FP Necklace,+346 Max. FP Necklace
 PROPITEM_TXT_004072,Peision Necklace +6,Peision Necklace +6
 PROPITEM_TXT_004073,+424 Max. FP Necklace,+424 Max. FP Necklace
 PROPITEM_TXT_004074,Vigor Ring +1,Vigor Ring +1
-PROPITEM_TXT_004075,STR +2 Ring,STR +2 Ring
+PROPITEM_TXT_004075,STR +2 Ring,Кільце STR +2
 PROPITEM_TXT_004076,Vigor Ring +2,Vigor Ring +2
-PROPITEM_TXT_004077,STR +3 Ring,STR +3 Ring
+PROPITEM_TXT_004077,STR +3 Ring,Кільце STR +3
 PROPITEM_TXT_004078,Vigor Ring +3,Vigor Ring +3
-PROPITEM_TXT_004079,STR +4 Ring,STR +4 Ring
+PROPITEM_TXT_004079,STR +4 Ring,Кільце STR +4
 PROPITEM_TXT_004080,Vigor Ring +4,Vigor Ring +4
-PROPITEM_TXT_004081,STR +5 Ring,STR +5 Ring
+PROPITEM_TXT_004081,STR +5 Ring,Кільце STR +5
 PROPITEM_TXT_004082,Vigor Ring +5,Vigor Ring +5
-PROPITEM_TXT_004083,STR +6 Ring,STR +6 Ring
+PROPITEM_TXT_004083,STR +6 Ring,Кільце STR +6
 PROPITEM_TXT_004084,Vigor Ring +6,Vigor Ring +6
-PROPITEM_TXT_004085,STR +7 Ring,STR +7 Ring
+PROPITEM_TXT_004085,STR +7 Ring,Кільце STR +7
 PROPITEM_TXT_004086,Intelli Ring +1,Intelli Ring +1
-PROPITEM_TXT_004087,INT +2 Ring,INT +2 Ring
+PROPITEM_TXT_004087,INT +2 Ring,Кільце INT +2
 PROPITEM_TXT_004088,Intelli Ring +2,Intelli Ring +2
-PROPITEM_TXT_004089,INT +3 Ring,INT +3 Ring
+PROPITEM_TXT_004089,INT +3 Ring,Кільце INT +3
 PROPITEM_TXT_004090,Intelli Ring +3,Intelli Ring +3
-PROPITEM_TXT_004091,INT +4 Ring,INT +4 Ring
+PROPITEM_TXT_004091,INT +4 Ring,Кільце INT +4
 PROPITEM_TXT_004092,Intelli Ring +4,Intelli Ring +4
-PROPITEM_TXT_004093,INT +5 Ring,INT +5 Ring
+PROPITEM_TXT_004093,INT +5 Ring,Кільце INT +5
 PROPITEM_TXT_004094,Intelli Ring +5,Intelli Ring +5
-PROPITEM_TXT_004095,INT +6 Ring,INT +6 Ring
+PROPITEM_TXT_004095,INT +6 Ring,Кільце INT +6
 PROPITEM_TXT_004096,Intelli Ring +6,Intelli Ring +6
-PROPITEM_TXT_004097,INT +7 Ring,INT +7 Ring
-PROPITEM_TXT_004098,Arek Ring +1,Arek Ring +1
-PROPITEM_TXT_004099,DEX +2 Ring,DEX +2 Ring
-PROPITEM_TXT_004100,Arek Ring +2,Arek Ring +2
-PROPITEM_TXT_004101,DEX +3 Ring,DEX +3 Ring
-PROPITEM_TXT_004102,Arek Ring +3,Arek Ring +3
-PROPITEM_TXT_004103,DEX +4 Ring,DEX +4 Ring
-PROPITEM_TXT_004104,Arek Ring +4,Arek Ring +4
-PROPITEM_TXT_004105,DEX +5 Ring,DEX +5 Ring
-PROPITEM_TXT_004106,Arek Ring +5,Arek Ring +5
-PROPITEM_TXT_004107,DEX +6 Ring,DEX +6 Ring
-PROPITEM_TXT_004108,Arek Ring +6,Arek Ring +6
-PROPITEM_TXT_004109,DEX +7 Ring,DEX +7 Ring
-PROPITEM_TXT_004110,Stam Ring +1,Stam Ring +1
-PROPITEM_TXT_004111,STA +2 Ring,STA +2 Ring
-PROPITEM_TXT_004112,Stam Ring +2,Stam Ring +2
-PROPITEM_TXT_004113,STA +3 Ring,STA +3 Ring
-PROPITEM_TXT_004114,Stam Ring +3,Stam Ring +3
-PROPITEM_TXT_004115,STA +4 Ring,STA +4 Ring
-PROPITEM_TXT_004116,Stam Ring +4,Stam Ring +4
-PROPITEM_TXT_004117,STA +5 Ring,STA +5 Ring
-PROPITEM_TXT_004118,Stam Ring +5,Stam Ring +5
-PROPITEM_TXT_004119,STA +6 Ring,STA +6 Ring
-PROPITEM_TXT_004120,Stam Ring +6,Stam Ring +6
-PROPITEM_TXT_004121,STA +7 Ring,STA +7 Ring
+PROPITEM_TXT_004097,INT +7 Ring,Кільце INT +7
+PROPITEM_TXT_004098,Arek Ring +1,Кільце Арека +1
+PROPITEM_TXT_004099,DEX +2 Ring,Кільце DEX +2
+PROPITEM_TXT_004100,Arek Ring +2,Кільце Арека +2
+PROPITEM_TXT_004101,DEX +3 Ring,Кільце DEX +3
+PROPITEM_TXT_004102,Arek Ring +3,Кільце Арека +3
+PROPITEM_TXT_004103,DEX +4 Ring,Кільце DEX +4
+PROPITEM_TXT_004104,Arek Ring +4,Кільце Арека +4
+PROPITEM_TXT_004105,DEX +5 Ring,Кільце DEX +5
+PROPITEM_TXT_004106,Arek Ring +5,Кільце Арека +5
+PROPITEM_TXT_004107,DEX +6 Ring,Кільце DEX +6
+PROPITEM_TXT_004108,Arek Ring +6,Кільце Арека +6
+PROPITEM_TXT_004109,DEX +7 Ring,Кільце DEX +7
+PROPITEM_TXT_004110,Stam Ring +1,Кільце Стама +1
+PROPITEM_TXT_004111,STA +2 Ring,Кільце STA +2
+PROPITEM_TXT_004112,Stam Ring +2,Кільце Стама +2
+PROPITEM_TXT_004113,STA +3 Ring,Кільце STA +3
+PROPITEM_TXT_004114,Stam Ring +3,Кільце Стама +3
+PROPITEM_TXT_004115,STA +4 Ring,Кільце STA +4
+PROPITEM_TXT_004116,Stam Ring +4,Кільце Стама +4
+PROPITEM_TXT_004117,STA +5 Ring,Кільце STA +5
+PROPITEM_TXT_004118,Stam Ring +5,Кільце Стама +5
+PROPITEM_TXT_004119,STA +6 Ring,Кільце STA +6
+PROPITEM_TXT_004120,Stam Ring +6,Кільце Стама +6
+PROPITEM_TXT_004121,STA +7 Ring,Кільце STA +7
 PROPITEM_TXT_004122,Vigor Ring +0,Vigor Ring +0
-PROPITEM_TXT_004123,STR +1 Ring,STR +1 Ring
+PROPITEM_TXT_004123,STR +1 Ring,Кільце STR +1
 PROPITEM_TXT_004124,Intelli Ring +0,Intelli Ring +0
-PROPITEM_TXT_004125,INT +1 Ring,INT +1 Ring
-PROPITEM_TXT_004126,Stam Ring +0,Stam Ring +0
-PROPITEM_TXT_004127,STA +1 Ring,STA +1 Ring
-PROPITEM_TXT_004128,Arek Ring +0,Arek Ring +0
-PROPITEM_TXT_004129,DEX +1 Ring,DEX +1 Ring
+PROPITEM_TXT_004125,INT +1 Ring,Кільце INT +1
+PROPITEM_TXT_004126,Stam Ring +0,Кільце Стама +0
+PROPITEM_TXT_004127,STA +1 Ring,Кільце STA +1
+PROPITEM_TXT_004128,Arek Ring +0,Кільце Арека +0
+PROPITEM_TXT_004129,DEX +1 Ring,Кільце DEX +1
 PROPITEM_TXT_004130,Mighteer +1,Mighteer +1
 PROPITEM_TXT_004131,+120 Damage Earring,+120 Damage Earring
 PROPITEM_TXT_004132,Mighteer +2,Mighteer +2
@@ -2169,27 +2169,27 @@ PROPITEM_TXT_004160,Enduky +1,Enduky +1
 PROPITEM_TXT_004162,Enduky +2,Enduky +2
 PROPITEM_TXT_004164,Enduky +3,Enduky +3
 PROPITEM_TXT_004166,Strente +1,Strente +1
-PROPITEM_TXT_004167,STR +10 Ring,STR +10 Ring
+PROPITEM_TXT_004167,STR +10 Ring,Кільце STR +10
 PROPITEM_TXT_004168,Strente +2,Strente +2
-PROPITEM_TXT_004169,STR +20 Ring,STR +20 Ring
+PROPITEM_TXT_004169,STR +20 Ring,Кільце STR +20
 PROPITEM_TXT_004170,Strente +3,Strente +3
-PROPITEM_TXT_004171,STR +30 Ring,STR +30 Ring
+PROPITEM_TXT_004171,STR +30 Ring,Кільце STR +30
 PROPITEM_TXT_004172,Intiret +1,Intiret +1
-PROPITEM_TXT_004173,INT +10 Ring,INT +10 Ring
+PROPITEM_TXT_004173,INT +10 Ring,Кільце INT +10
 PROPITEM_TXT_004174,Intiret +2,Intiret +2
-PROPITEM_TXT_004175,INT +20 Ring,INT +20 Ring
+PROPITEM_TXT_004175,INT +20 Ring,Кільце INT +20
 PROPITEM_TXT_004176,Intiret +3,Intiret +3
-PROPITEM_TXT_004177,INT +30 Ring,INT +30 Ring
+PROPITEM_TXT_004177,INT +30 Ring,Кільце INT +30
 PROPITEM_TXT_004178,Dexion +1,Dexion +1
-PROPITEM_TXT_004179,DEX +10 Ring,DEX +10 Ring
+PROPITEM_TXT_004179,DEX +10 Ring,Кільце DEX +10
 PROPITEM_TXT_004180,Dexion +2,Dexion +2
-PROPITEM_TXT_004181,DEX +20 Ring,DEX +20 Ring
+PROPITEM_TXT_004181,DEX +20 Ring,Кільце DEX +20
 PROPITEM_TXT_004182,Dexion +3,Dexion +3
-PROPITEM_TXT_004183,DEX +30 Ring,DEX +30 Ring
+PROPITEM_TXT_004183,DEX +30 Ring,Кільце DEX +30
 PROPITEM_TXT_004184,Meteor,Meteor
-PROPITEM_TXT_004185,All Stats +10 Ring,All Stats +10 Ring
+PROPITEM_TXT_004185,All Stats +10 Ring,Всі характеристики +10 до кільця
 PROPITEM_TXT_004186,Meteofy,Meteofy
-PROPITEM_TXT_004187,All Stats +20 Ring,All Stats +20 Ring
+PROPITEM_TXT_004187,All Stats +20 Ring,Всі характеристики +20 до кільця
 PROPITEM_TXT_004188,P.K STR Penalty,P.K STR Penalty
 PROPITEM_TXT_004190,P.K STA Penalty,P.K STA Penalty
 PROPITEM_TXT_004192,P.K INT Penalty,P.K INT Penalty
@@ -2222,7 +2222,7 @@ PROPITEM_TXT_004222,Barbecue,Барбекю
 PROPITEM_TXT_004223,Recovers 160 HP,Відновлює 160 HP
 PROPITEM_TXT_004224,Seafood Pancake,Млинець з морепродуктів
 PROPITEM_TXT_004225,Recovers 230 HP,Відновлює 230 HP
-PROPITEM_TXT_004226,Fish Soup,Fish Soup
+PROPITEM_TXT_004226,Fish Soup,Рибний суп
 PROPITEM_TXT_004227,Recovers 300 HP,Відновлює 300 HP
 PROPITEM_TXT_004228,Sausage Casserole,Sausage Casserole
 PROPITEM_TXT_004229,Recovers 370 HP,Відновлює 370 HP
@@ -2566,12 +2566,12 @@ PROPITEM_TXT_004642,Baji Shoes (M),Baji Shoes (M)
 PROPITEM_TXT_004644,Sakdong Hat (F),Sakdong Hat (F)
 PROPITEM_TXT_004646,Sakdong Suit (F),Sakdong Suit (F)
 PROPITEM_TXT_004648,Sakdong Shoes (F),Sakdong Shoes (F)
-PROPITEM_TXT_004650,Scroll of Name Change,Scroll of Name Change
-PROPITEM_TXT_004651,"This scroll allows you to change your character name. Simply double-click the scroll to activate it, then choose a new character name and press OK.","This scroll allows you to change your character name. Simply double-click the scroll to activate it, then choose a new character name and press OK."
+PROPITEM_TXT_004650,Scroll of Name Change,Сувій зміни імені
+PROPITEM_TXT_004651,"This scroll allows you to change your character name. Simply double-click the scroll to activate it, then choose a new character name and press OK.","Цей сувій дозволяє змінити ім'я вашого персонажа. Просто двічі клацніть на сувої, щоб активувати його, потім виберіть нове ім'я персонажа і натисніть OK."
 PROPITEM_TXT_004652,Scroll of Class Change,Scroll of Class Change
 PROPITEM_TXT_004653,Changes Job,Changes Job
 PROPITEM_TXT_004654,Scroll of Holy,Scroll of Holy
-PROPITEM_TXT_004655,Recovers from any negative status condition.,Recovers from any negative status condition.
+PROPITEM_TXT_004655,Recovers from any negative status condition.,Одужує після будь-якого негативного стану.
 PROPITEM_TXT_004656,Scroll of Forgive,Scroll of Forgive
 PROPITEM_TXT_004657,Reduces PK Value,Reduces PK Value
 PROPITEM_TXT_004658,Scroll of Selected Party,Scroll of Selected Party
@@ -2580,8 +2580,8 @@ PROPITEM_TXT_004660,Box of Change,Box of Change
 PROPITEM_TXT_004661,Contains a Scroll of Name Change and Transy,Contains a Scroll of Name Change and Transy
 PROPITEM_TXT_004662,Scroll of Blessing,Scroll of Blessing
 PROPITEM_TXT_004663,Prevents the loss of Exp through death. (Prevents the loss of 10% Exp for users with Karma),Prevents the loss of Exp through death. (Prevents the loss of 10% Exp for users with Karma)
-PROPITEM_TXT_004664,Scroll of Resurrection,Scroll of Resurrection
-PROPITEM_TXT_004665,"Allows the character to revive where it died, and prevents the loss of Exp through death. (Prevents the loss of 10% Exp for users with Karma)","Allows the character to revive where it died, and prevents the loss of Exp through death. (Prevents the loss of 10% Exp for users with Karma)"
+PROPITEM_TXT_004664,Scroll of Resurrection,Сувій Воскресіння
+PROPITEM_TXT_004665,"Allows the character to revive where it died, and prevents the loss of Exp through death. (Prevents the loss of 10% Exp for users with Karma)","Дозволяє персонажу відродитися там, де він помер, і запобігає втраті досвіду через смерть. (Запобігає втраті 10% досвіду для користувачів з кармою)"
 PROPITEM_TXT_004666,Scroll of Velocity,Scroll of Velocity
 PROPITEM_TXT_004667,Increases Moving Speed by 30% and Jump Height,Increases Moving Speed by 30% and Jump Height
 PROPITEM_TXT_004668,Box of Lucky,Box of Lucky
@@ -2609,19 +2609,19 @@ PROPITEM_TXT_004689,+50% Max. MP,+50% Max. MP
 PROPITEM_TXT_004690,Scroll of G-Name Change,Scroll of G-Name Change
 PROPITEM_TXT_004691,Changes Guild Name,Changes Guild Name
 PROPITEM_TXT_004692,Scroll of SProtect,Scroll of SProtect
-PROPITEM_TXT_004693,"This scroll prevents the loss of equipment in the event of upgrade or elemental attribute upgrade failure. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process.","This scroll prevents the loss of equipment in the event of upgrade or elemental attribute upgrade failure. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process."
+PROPITEM_TXT_004693,"This scroll prevents the loss of equipment in the event of upgrade or elemental attribute upgrade failure. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process.","Цей сувій запобігає втраті спорядження у разі невдалого оновлення або невдалого оновлення елементальних атрибутів. Щоб скористатися ним, помістіть сувій у відповідне поле в меню оновлення перед тим, як спробувати оновлення. Сувій витрачається в процесі."
 PROPITEM_TXT_004694,Low Scroll of SProtect,Low Scroll of SProtect
-PROPITEM_TXT_004695,"Decreases attribute instead of destroying the equipment while upgrading. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process.","Decreases attribute instead of destroying the equipment while upgrading. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process."
+PROPITEM_TXT_004695,"Decreases attribute instead of destroying the equipment while upgrading. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process.","Знижує атрибути замість того, щоб знищувати обладнання під час модернізації. Щоб використати, помістіть сувій у відповідне поле в меню модернізації перед тим, як розпочати модернізацію. Сувій витрачається в процесі."
 PROPITEM_TXT_004696,Scroll of GProtect,Scroll of GProtect
-PROPITEM_TXT_004697,"This scroll protects armor suits from breaking when a piercing fails. To use, place scroll in the appropriate box on the Piercing Menu before attempting the piercing. The scroll is consumed during the piercing process.","This scroll protects armor suits from breaking when a piercing fails. To use, place scroll in the appropriate box on the Piercing Menu before attempting the piercing. The scroll is consumed during the piercing process."
+PROPITEM_TXT_004697,"This scroll protects armor suits from breaking when a piercing fails. To use, place scroll in the appropriate box on the Piercing Menu before attempting the piercing. The scroll is consumed during the piercing process.","Цей сувій захищає броню від пошкодження, коли пробивання не вдається. Щоб скористатися ним, помістіть сувій у відповідне поле в меню пробивання перед спробою пробивання. Сувій витрачається під час процесу пробивання."
 PROPITEM_TXT_008934,Scroll of AProtect,Scroll of AProtect
-PROPITEM_TXT_008935,"This scroll prevents the loss of an accessory when an upgrade fails. To use, place scroll in the appropriate box on the Accessory Upgrade Menu before attempting the upgrade. The scroll is consumed during the upgrade process.","This scroll prevents the loss of an accessory when an upgrade fails. To use, place scroll in the appropriate box on the Accessory Upgrade Menu before attempting the upgrade. The scroll is consumed during the upgrade process."
+PROPITEM_TXT_008935,"This scroll prevents the loss of an accessory when an upgrade fails. To use, place scroll in the appropriate box on the Accessory Upgrade Menu before attempting the upgrade. The scroll is consumed during the upgrade process.","Цей сувій запобігає втраті аксесуара у разі невдалого оновлення. Щоб скористатися ним, помістіть сувій у відповідне поле в меню оновлення аксесуарів перед спробою оновлення. Сувій витрачається під час процесу оновлення."
 PROPITEM_TXT_004698,Scroll of Expansion,Scroll of Expansion
 PROPITEM_TXT_004699,"HP, FP & MP Recovery becomes possible in any situation, including combat. Lasts 15 Min.","HP, FP & MP Recovery becomes possible in any situation, including combat. Lasts 15 Min."
 PROPITEM_TXT_004700,Gloves of Cheering,Gloves of Cheering
 PROPITEM_TXT_004701,Gives the character 1 cheer point and +10% Exp. for 10 Min.,Gives the character 1 cheer point and +10% Exp. for 10 Min.
 PROPITEM_TXT_004702,Scroll of SFusion,Scroll of SFusion
-PROPITEM_TXT_004703,"Upgrade success rate x1.1 up to +7. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process.","Upgrade success rate x1.1 up to +7. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process."
+PROPITEM_TXT_004703,"Upgrade success rate x1.1 up to +7. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process.","Коефіцієнт успішності покращення x1,1 до +7. Щоб скористатися, помістіть сувій у відповідне поле в меню покращення перед тим, як спробувати покращення. Сувій витрачається в процесі."
 PROPITEM_TXT_004704,Scroll of Return,Scroll of Return
 PROPITEM_TXT_004705,Teleport where you want in Madrigal and return later where the scroll was activated.,Teleport where you want in Madrigal and return later where the scroll was activated.
 PROPITEM_TXT_004706,Shout of Blood,Shout of Blood
@@ -2670,36 +2670,36 @@ PROPITEM_TXT_004751,Increases Exp gain by 50% (x1.5) for 1h. This item can be st
 PROPITEM_TXT_004752,[80] Scroll of Amplification ES,[80] Scroll of Amplification ES
 PROPITEM_TXT_004753,Increases Exp gain by 50% (x1.5) for 1h. This item is not stackable.,Increases Exp gain by 50% (x1.5) for 1h. This item is not stackable.
 PROPITEM_TXT_004754,[120] Scroll of Amplification ES,[120] Scroll of Amplification ES
-PROPITEM_TXT_004772,Ball of Crown (5),Ball of Crown (5)
-PROPITEM_TXT_004773,Summons Lv.5 monsters,Summons Lv.5 monsters
-PROPITEM_TXT_004774,Ball of Crown (10),Ball of Crown (10)
-PROPITEM_TXT_004775,Summons Lv.10 monsters,Summons Lv.10 monsters
-PROPITEM_TXT_004776,Ball of Crown (15),Ball of Crown (15)
-PROPITEM_TXT_004777,Summons Lv. 15 monsters,Summons Lv. 15 monsters
-PROPITEM_TXT_004778,Ball of Crown (20),Ball of Crown (20)
-PROPITEM_TXT_004779,Summons Lv. 20 monsters,Summons Lv. 20 monsters
-PROPITEM_TXT_004780,Ball of Crown (25),Ball of Crown (25)
-PROPITEM_TXT_004781,Summons Lv. 25 monsters,Summons Lv. 25 monsters
-PROPITEM_TXT_004782,Ball of Crown (30),Ball of Crown (30)
-PROPITEM_TXT_004783,Summons Lv. 30 monsters,Summons Lv. 30 monsters
-PROPITEM_TXT_004784,Ball of Crown (35),Ball of Crown (35)
-PROPITEM_TXT_004785,Summons Lv. 35 monsters,Summons Lv. 35 monsters
-PROPITEM_TXT_004786,Ball of Crown (40),Ball of Crown (40)
-PROPITEM_TXT_004787,Summons Lv. 40 monsters,Summons Lv. 40 monsters
-PROPITEM_TXT_004788,Ball of Crown (45),Ball of Crown (45)
-PROPITEM_TXT_004789,Summons Lv. 45 monsters,Summons Lv. 45 monsters
-PROPITEM_TXT_004790,Ball of Crown (50),Ball of Crown (50)
-PROPITEM_TXT_004791,Summons Lv. 50 monsters,Summons Lv. 50 monsters
-PROPITEM_TXT_004792,Ball of Crown (55),Ball of Crown (55)
-PROPITEM_TXT_004793,Summons Lv. 55 monsters,Summons Lv. 55 monsters
-PROPITEM_TXT_004794,Ball of Crown (60),Ball of Crown (60)
-PROPITEM_TXT_004795,Summons Lv. 60 monsters,Summons Lv. 60 monsters
-PROPITEM_TXT_004796,Ball of Crown (65),Ball of Crown (65)
-PROPITEM_TXT_004797,Summons Lv. 65 monsters,Summons Lv. 65 monsters
-PROPITEM_TXT_004798,Ball of Crown (70),Ball of Crown (70)
-PROPITEM_TXT_004799,Summons Lv. 70 monsters,Summons Lv. 70 monsters
-PROPITEM_TXT_004800,Box of Wish,Box of Wish
-PROPITEM_TXT_004801,What on earth is in the box?,What on earth is in the box?
+PROPITEM_TXT_004772,Ball of Crown (5),Бал Корони (5)
+PROPITEM_TXT_004773,Summons Lv.5 monsters,Викликає монстрів 5 рівня
+PROPITEM_TXT_004774,Ball of Crown (10),Бал Корони (10)
+PROPITEM_TXT_004775,Summons Lv.10 monsters,Викликає монстрів 10 рівня
+PROPITEM_TXT_004776,Ball of Crown (15),Бал Корони (15)
+PROPITEM_TXT_004777,Summons Lv. 15 monsters,Викликає монстрів 15 рівня
+PROPITEM_TXT_004778,Ball of Crown (20),Бал Корони (20)
+PROPITEM_TXT_004779,Summons Lv. 20 monsters,Викликає монстрів 20 рівня
+PROPITEM_TXT_004780,Ball of Crown (25),Бал Корони (25)
+PROPITEM_TXT_004781,Summons Lv. 25 monsters,Викликає монстрів 25 рівня
+PROPITEM_TXT_004782,Ball of Crown (30),Бал Корони (30)
+PROPITEM_TXT_004783,Summons Lv. 30 monsters,Викликає монстрів 30 рівня
+PROPITEM_TXT_004784,Ball of Crown (35),Бал Корони (35)
+PROPITEM_TXT_004785,Summons Lv. 35 monsters,Викликає монстрів 35 рівня
+PROPITEM_TXT_004786,Ball of Crown (40),Бал Корони (40)
+PROPITEM_TXT_004787,Summons Lv. 40 monsters,Викликає монстрів 40 рівня
+PROPITEM_TXT_004788,Ball of Crown (45),Бал Корони (45)
+PROPITEM_TXT_004789,Summons Lv. 45 monsters,Викликає монстрів 45 рівня
+PROPITEM_TXT_004790,Ball of Crown (50),Бал Корони (50)
+PROPITEM_TXT_004791,Summons Lv. 50 monsters,Викликає монстрів 50 рівня
+PROPITEM_TXT_004792,Ball of Crown (55),Бал Корони (55)
+PROPITEM_TXT_004793,Summons Lv. 55 monsters,Викликає монстрів 55 рівня
+PROPITEM_TXT_004794,Ball of Crown (60),Бал Корони (60)
+PROPITEM_TXT_004795,Summons Lv. 60 monsters,Викликає монстрів 60 рівня
+PROPITEM_TXT_004796,Ball of Crown (65),Бал Корони (65)
+PROPITEM_TXT_004797,Summons Lv. 65 monsters,Викликає монстрів 65 рівня
+PROPITEM_TXT_004798,Ball of Crown (70),Бал Корони (70)
+PROPITEM_TXT_004799,Summons Lv. 70 monsters,Викликає монстрів 70 рівня
+PROPITEM_TXT_004800,Box of Wish,Коробка бажань
+PROPITEM_TXT_004801,What on earth is in the box?,"Що ж, заради всього святого, знаходиться в коробці?"
 PROPITEM_TXT_004802,Clothes Test,Clothes Test
 PROPITEM_TXT_004803,Item for testing costumes,Item for testing costumes
 PROPITEM_TXT_004804,Blue Sailor (M),Blue Sailor (M)
@@ -5372,7 +5372,7 @@ PROPITEM_TXT_010212,Panda Shoes (M),Panda Shoes (M)
 PROPITEM_TXT_020346,Purple Gothic Hat for Male Characters.,Purple Gothic Hat for Male Characters.
 PROPITEM_TXT_011178,Detective Shoes (F),Detective Shoes (F)
 PROPITEM_TXT_012317,This Cloak has a full length depiction of the flag of Uruguay on it.,This Cloak has a full length depiction of the flag of Uruguay on it.
-PROPITEM_TXT_009554,Hands (M),Hands (M)
+PROPITEM_TXT_009554,Hands (M),Руки (M)
 PROPITEM_TXT_016881,Vampire Shoes (F),Vampire Shoes (F)
 PROPITEM_TXT_017061,Stylish Santa Hat (M),Stylish Santa Hat (M)
 PROPITEM_TXT_011798,Cloak of the Sheep,Cloak of the Sheep
@@ -5669,7 +5669,7 @@ PROPITEM_TXT_009734,Brown Sandal (F),Brown Sandal (F)
 PROPITEM_TXT_017053,Stylish Santa Hat (F),Stylish Santa Hat (F)
 PROPITEM_TXT_014224,Colosseum Champion's Hat (F),Colosseum Champion's Hat (F)
 PROPITEM_TXT_010177,This Cloak has a full length depiction of the flag of United Kingdom on it.,This Cloak has a full length depiction of the flag of United Kingdom on it.
-PROPITEM_TXT_009562,Hands (F),Hands (F)
+PROPITEM_TXT_009562,Hands (F),Руки (F)
 PROPITEM_TXT_015863,Shinigami Gloves (F),Shinigami Gloves (F)
 PROPITEM_TXT_011806,Cloak of the Pig,Cloak of the Pig
 PROPITEM_TXT_017915,Blue Bunny Yukata Hat (M),Blue Bunny Yukata Hat (M)
@@ -6078,11 +6078,11 @@ PROPITEM_TXT_012486,Pretty Balloon (Yellow),Pretty Balloon (Yellow)
 PROPITEM_TXT_012487,A pretty balloon increases + HP 150,A pretty balloon increases + HP 150
 PROPITEM_TXT_012488,Pretty Balloon (Pink),Pretty Balloon (Pink)
 PROPITEM_TXT_012489,A pretty balloon increases + ATT 50,A pretty balloon increases + ATT 50
-PROPITEM_TXT_015873,Pink Balloon 6h,Pink Balloon 6h
+PROPITEM_TXT_015873,Pink Balloon 6h,Рожева повітряна кулька 6 годин
 PROPITEM_TXT_015874,Pretty Pink Balloons that increase your attack by +50. Lasts for 6 hours.,Pretty Pink Balloons that increase your attack by +50. Lasts for 6 hours.
-PROPITEM_TXT_015875,Blue Balloon 6h,Blue Balloon 6h
+PROPITEM_TXT_015875,Blue Balloon 6h,Синя повітряна куля 6 годин
 PROPITEM_TXT_015876,Beautiful Blue Balloons that increase your defense by +100. Lasts for 6 hours.,Beautiful Blue Balloons that increase your defense by +100. Lasts for 6 hours.
-PROPITEM_TXT_015877,Yellow Balloon 6h,Yellow Balloon 6h
+PROPITEM_TXT_015877,Yellow Balloon 6h,Жовта повітряна куля 6 годин
 PROPITEM_TXT_015878,Pretty Yellow Balloons that increase your health by +150. Lasts for 6 hours.,Pretty Yellow Balloons that increase your health by +150. Lasts for 6 hours.
 PROPITEM_TXT_008176,Rock-Paper-Scissors Coupon,Rock-Paper-Scissors Coupon
 PROPITEM_TXT_008177,A coupon that can be exchanged for a single game of Rock-Paper-Scissors.,A coupon that can be exchanged for a single game of Rock-Paper-Scissors.
@@ -6097,30 +6097,30 @@ PROPITEM_TXT_008490,Blessing of the Pet Tamer,Blessing of the Pet Tamer
 PROPITEM_TXT_008491,Return a pet to its previous Level with 99.99% Exp. Gives you a chance to get a higher pet bonus.(The possible pet level: C/B/A/S),Return a pet to its previous Level with 99.99% Exp. Gives you a chance to get a higher pet bonus.(The possible pet level: C/B/A/S)
 PROPITEM_TXT_008492,Chance of the Pet Tamer,Chance of the Pet Tamer
 PROPITEM_TXT_008493,"Randomly changes the level of a pet's current and previous class without changing the class itself. (Only works with B, A, and S Class Pets).","Randomly changes the level of a pet's current and previous class without changing the class itself. (Only works with B, A, and S Class Pets)."
-PROPITEM_TXT_008494,Pet Medicine (A),Pet Medicine (A)
-PROPITEM_TXT_008495,Pet HP does not decrease for 10 minutes.,Pet HP does not decrease for 10 minutes.
-PROPITEM_TXT_008496,Pet Medicine (B),Pet Medicine (B)
-PROPITEM_TXT_008497,Pet HP does not decrease for 10 minute and growing speed become * 1.5,Pet HP does not decrease for 10 minute and growing speed become * 1.5
-PROPITEM_TXT_008498,Pet Energy,Pet Energy
+PROPITEM_TXT_008494,Pet Medicine (A),Медицина для домашніх тварин (A)
+PROPITEM_TXT_008495,Pet HP does not decrease for 10 minutes.,Здоров'я вихованців не зменшується протягом 10 хвилин.
+PROPITEM_TXT_008496,Pet Medicine (B),Pet Медицина для домашніх тварин (B)
+PROPITEM_TXT_008497,Pet HP does not decrease for 10 minute and growing speed become * 1.5,Здоров'я вихованців не зменшується протягом 10 хвилин, а швидкість зростання стає * 1.5
+PROPITEM_TXT_008498,Pet Energy,Енергія домашніх тварин
 PROPITEM_TXT_008499,Add a random life amount (1-5) to your Pet. Does not revive pets.,Add a random life amount (1-5) to your Pet. Does not revive pets.
-PROPITEM_TXT_008500,Feed Bag,Feed Bag
-PROPITEM_TXT_008501,Feeds your pet with food from your inventory automatically. (Disappears 6 hrs. after first activation. Even if not being used.),Feeds your pet with food from your inventory automatically. (Disappears 6 hrs. after first activation. Even if not being used.)
+PROPITEM_TXT_008500,Feed Bag,Мішок для корму
+PROPITEM_TXT_008501,Feeds your pet with food from your inventory automatically. (Disappears 6 hrs. after first activation. Even if not being used.),"Автоматично годує вашого улюбленця їжею з вашого інвентарю. (Зникає через 6 годин після першої активації. Навіть якщо не використовується.)"
 PROPITEM_TXT_008502,Egg Hatcher,Egg Hatcher
 PROPITEM_TXT_008503,"This curious syringe contains a viscous liquid which, when injected into an Egg Pet, instantly hatches it into a random D Class pet.","This curious syringe contains a viscous liquid which, when injected into an Egg Pet, instantly hatches it into a random D Class pet."
 PROPITEM_TXT_008506,Pet Feed Maker,Pet Feed Maker
-PROPITEM_TXT_008507,Makes the maximum amount of pet food with the materials available in your inventory.,Makes the maximum amount of pet food with the materials available in your inventory.
+PROPITEM_TXT_008507,Makes the maximum amount of pet food with the materials available in your inventory.,"Виготовляє максимальну кількість корму для домашніх тварин з матеріалів, доступних у вашому інвентарі."
 PROPITEM_TXT_009330,Scroll of Pet Recovery,Scroll of Pet Recovery
 PROPITEM_TXT_009331,Increases the life of a raised pet by 1,Increases the life of a raised pet by 1
-PROPITEM_TXT_009242,Feed Bag (6 hrs),Feed Bag (6 hrs)
+PROPITEM_TXT_009242,Feed Bag (6 hrs),Мішок для корму (6 годин)
 PROPITEM_TXT_009243,Feeds your pet automatically with Pet Feed from your Inventory. (Stackable up to 99 times.),Feeds your pet automatically with Pet Feed from your Inventory. (Stackable up to 99 times.)
-PROPITEM_TXT_009265,Feed Bag (1 day),Feed Bag (1 day)
-PROPITEM_TXT_009266,Feed Bag (7 days),Feed Bag (7 days)
-PROPITEM_TXT_009267,Feed Bag (15 days),Feed Bag (15 days)
-PROPITEM_TXT_009268,Feed Bag (30 days),Feed Bag (30 days)
-PROPITEM_TXT_009269,Does not reduce the energy of Raised pets for 1 day when used.,Does not reduce the energy of Raised pets for 1 day when used.
-PROPITEM_TXT_009270,Does not reduce the energy of Raised pets for 7 days when used.,Does not reduce the energy of Raised pets for 7 days when used.
-PROPITEM_TXT_009271,Does not reduce the energy of Raised pets for 15 days when used.,Does not reduce the energy of Raised pets for 15 days when used.
-PROPITEM_TXT_009272,Does not reduce the energy of Raised pets for 30 days when used.,Does not reduce the energy of Raised pets for 30 days when used.
+PROPITEM_TXT_009265,Feed Bag (1 day),Мішок для корму (1 день)
+PROPITEM_TXT_009266,Feed Bag (7 days),Мішок для корму (7 днів)
+PROPITEM_TXT_009267,Feed Bag (15 days),Мішок для корму (15 днів)
+PROPITEM_TXT_009268,Feed Bag (30 days),Мішок для корму (30 днів)
+PROPITEM_TXT_009269,Does not reduce the energy of Raised pets for 1 day when used.,Не знижує енергію вирощених домашніх тварин протягом 1 дня при використанні.
+PROPITEM_TXT_009270,Does not reduce the energy of Raised pets for 7 days when used.,Не знижує енергію вирощених домашніх тварин протягом 7 днів при використанні.
+PROPITEM_TXT_009271,Does not reduce the energy of Raised pets for 15 days when used.,Не знижує енергію вирощених домашніх тварин протягом 15 днів при використанні.
+PROPITEM_TXT_009272,Does not reduce the energy of Raised pets for 30 days when used.,Не знижує енергію вирощених домашніх тварин протягом 30 днів при використанні.
 PROPITEM_TXT_010008,Scroll of Change Raised Pet Name,Scroll of Change Raised Pet Name
 PROPITEM_TXT_010009,A Special Scroll used to name your summoned pet. This scroll only works on raised pets.,A Special Scroll used to name your summoned pet. This scroll only works on raised pets.
 PROPITEM_TXT_009056,Scroll of Pet Revival Piece (S Class),Scroll of Pet Revival Piece (S Class)
@@ -6137,11 +6137,11 @@ PROPITEM_TXT_009066,Scroll of Pet Revival (B Class),Scroll of Pet Revival (B Cla
 PROPITEM_TXT_009067,Revives a dead B Class Pet.,Revives a dead B Class Pet.
 PROPITEM_TXT_008020,Free Makeup Coupon,Free Makeup Coupon
 PROPITEM_TXT_017355,Scroll of EProtect,Scroll of EProtect
-PROPITEM_TXT_017356,Prevents a card from being destroyed when an upgrade fails.,Prevents a card from being destroyed when an upgrade fails.
+PROPITEM_TXT_017356,Prevents a card from being destroyed when an upgrade fails.,Запобігає знищенню карти у разі невдалого оновлення.
 PROPITEM_TXT_100000,Scroll of Guild Members,Scroll of Guild Members
 PROPITEM_TXT_100001,Permanently increases the amount of members you can have in a guild by 5. Only works on the current guild you are in.,Permanently increases the amount of members you can have in a guild by 5. Only works on the current guild you are in.
-PROPITEM_TXT_100002,Change Channel,Change Channel
-PROPITEM_TXT_100003,Change the current channel.,Change the current channel.
+PROPITEM_TXT_100002,Change Channel,Змінити канал
+PROPITEM_TXT_100003,Change the current channel.,Змінити поточний канал.
 PROPITEM_TXT_009278,7 Days Scroll of Party Exp,7 Days Scroll of Party Exp
 PROPITEM_TXT_009279,"Increase the rate at which Party Exp is gained by 50%, when the party leader has it activated. (Lasts 7 days from activation, even if logged off)","Increase the rate at which Party Exp is gained by 50%, when the party leader has it activated. (Lasts 7 days from activation, even if logged off)"
 PROPITEM_TXT_009280,15 Days Scroll of Party Exp,15 Days Scroll of Party Exp
@@ -6213,15 +6213,15 @@ PROPITEM_TXT_008875,Resets your STA stats. Only applies to your current stat pag
 PROPITEM_TXT_008876,Re-Stat (INT),Re-Stat (INT)
 PROPITEM_TXT_008877,Resets your INT stats. Only applies to your current stat page.,Resets your INT stats. Only applies to your current stat page.
 PROPITEM_TXT_011748,Strength Re-Stat: Low,Strength Re-Stat: Low
-PROPITEM_TXT_011749,This Re-Stat scroll allows you to recover 50 points previously allocated to Strength (STR). Only applies to your current stat page.,This Re-Stat scroll allows you to recover 50 points previously allocated to Strength (STR). Only applies to your current stat page.
+PROPITEM_TXT_011749,This Re-Stat scroll allows you to recover 50 points previously allocated to Strength (STR). Only applies to your current stat page.,"Цей сувій відновлення характеристик дозволяє вам відновити 50 очок, раніше призначених для Сили (STR). Діє лише на вашу поточну сторінку характеристик."
 PROPITEM_TXT_011750,Dexterity Re-Stat: Low,Dexterity Re-Stat: Low
-PROPITEM_TXT_011751,This Re-Stat scroll allows you to recover 50 points previously allocated to Dexterity (DEX). Only applies to your current stat page.,This Re-Stat scroll allows you to recover 50 points previously allocated to Dexterity (DEX). Only applies to your current stat page.
+PROPITEM_TXT_011751,This Re-Stat scroll allows you to recover 50 points previously allocated to Dexterity (DEX). Only applies to your current stat page.,"Цей сувій відновлення характеристик дозволяє вам відновити 50 очок, раніше призначених для Спритності (DEX). Діє лише на вашу поточну сторінку характеристик."
 PROPITEM_TXT_011752,Stamina Re-Stat: Low,Stamina Re-Stat: Low
-PROPITEM_TXT_011753,This Re-Stat scroll allows you to recover 50 points previously allocated to Stamina (STA). Only applies to your current stat page.,This Re-Stat scroll allows you to recover 50 points previously allocated to Stamina (STA). Only applies to your current stat page.
+PROPITEM_TXT_011753,This Re-Stat scroll allows you to recover 50 points previously allocated to Stamina (STA). Only applies to your current stat page.,"Цей сувій відновлення характеристик дозволяє вам відновити 50 очок, раніше виділених на витривалість (STA). Діє лише на вашу поточну сторінку характеристик."
 PROPITEM_TXT_011754,Intelligence Re-Stat: Low,Intelligence Re-Stat: Low
-PROPITEM_TXT_011755,This Re-Stat scroll allows you to recover 50 points previously allocated to Intelligence (INT). Only applies to your current stat page.,This Re-Stat scroll allows you to recover 50 points previously allocated to Intelligence (INT). Only applies to your current stat page.
-PROPITEM_TXT_018781,Jump Scroll,Jump Scroll
-PROPITEM_TXT_018782,Enables you to jump much higher than usual for 3 minutes.,Enables you to jump much higher than usual for 3 minutes.
+PROPITEM_TXT_011755,This Re-Stat scroll allows you to recover 50 points previously allocated to Intelligence (INT). Only applies to your current stat page.,"Цей сувій відновлення статистики дозволяє вам відновити 50 очок, раніше призначених для Інтелекту (ІNT). Діє лише на вашу поточну сторінку статистики."
+PROPITEM_TXT_018781,Jump Scroll,Стрибковий прокрут
+PROPITEM_TXT_018782,Enables you to jump much higher than usual for 3 minutes.,Дозволяє стрибати набагато вище, ніж зазвичай, протягом 3 хвилин.
 PROPITEM_TXT_100032,Demon Effect (7 days),Demon Effect (7 days)
 PROPITEM_TXT_100033,A mystical Demon aura will appear on your character. Lasts 7 days.,A mystical Demon aura will appear on your character. Lasts 7 days.
 PROPITEM_TXT_100034,Angel Effect (7 days),Angel Effect (7 days)
@@ -6238,8 +6238,8 @@ PROPITEM_TXT_100044,Fire Effect (15 days),Fire Effect (15 days)
 PROPITEM_TXT_100045,A mystical Fire aura will appear on your character. Lasts 15 days.,A mystical Fire aura will appear on your character. Lasts 15 days.
 PROPITEM_TXT_100046,Rain Effect (15 days),Rain Effect (15 days)
 PROPITEM_TXT_100047,A cute Rainy Cloud will appear on your character's head. Lasts 15 days.,A cute Rainy Cloud will appear on your character's head. Lasts 15 days.
-PROPITEM_TXT_010864,Scroll of Sprint,Scroll of Sprint
-PROPITEM_TXT_010865,Substantially increases your run speed. Lasts 5 Minutes.,Substantially increases your run speed. Lasts 5 Minutes.
+PROPITEM_TXT_010864,Scroll of Sprint,Спринт-прокрутка
+PROPITEM_TXT_010865,Substantially increases your run speed. Lasts 5 Minutes.,Істотно збільшує швидкість бігу. Діє 5 хвилин.
 PROPITEM_TXT_009598,Giant Monster Ball (D),Giant Monster Ball (D)
 PROPITEM_TXT_009599,"Will summon a Giant Nautrepy, Syliaca, Greemong, or Boo nearby. To use, double click it, and select an area on the ground to summon the Giant.","Will summon a Giant Nautrepy, Syliaca, Greemong, or Boo nearby. To use, double click it, and select an area on the ground to summon the Giant."
 PROPITEM_TXT_009600,Giant Monster Ball (C),Giant Monster Ball (C)
@@ -6474,26 +6474,26 @@ PROPITEM_TXT_009018,Earthquake Card (4%) Piece,Earthquake Card (4%) Piece
 PROPITEM_TXT_009019,Gather 10 of these to get a Earthquake Card (4%) from Peach.,Gather 10 of these to get a Earthquake Card (4%) from Peach.
 PROPITEM_TXT_009020,Earthquake Card (7%) Piece,Earthquake Card (7%) Piece
 PROPITEM_TXT_009021,Gather 10 of these to get a Earthquake Card (7%) from Peach.,Gather 10 of these to get a Earthquake Card (7%) from Peach.
-PROPITEM_TXT_009022,Purple Cotton Candy,Purple Cotton Candy
-PROPITEM_TXT_009023,Increases STA by 3 for 30 minutes.,Increases STA by 3 for 30 minutes.
-PROPITEM_TXT_009024,Blue Cotton Candy,Blue Cotton Candy
-PROPITEM_TXT_009025,Increases INT by 3 for 30 minutes.,Increases INT by 3 for 30 minutes.
-PROPITEM_TXT_009026,Green Cotton Candy,Green Cotton Candy
-PROPITEM_TXT_009027,Increases DEX by 3 for 30 minutes.,Increases DEX by 3 for 30 minutes.
-PROPITEM_TXT_009028,Red Cotton Candy,Red Cotton Candy
-PROPITEM_TXT_009029,Increases STR by 3 for 30 minutes.,Increases STR by 3 for 30 minutes.
-PROPITEM_TXT_009030,Sky-Blue Cotton Candy,Sky-Blue Cotton Candy
-PROPITEM_TXT_009031,Increases Evasion Rate by 5 for 30 minutes.,Increases Evasion Rate by 5 for 30 minutes.
-PROPITEM_TXT_009032,Pink Cotton Candy,Pink Cotton Candy
-PROPITEM_TXT_009033,Increases Critical Rate by 5 for 30 minutes.,Increases Critical Rate by 5 for 30 minutes.
-PROPITEM_TXT_009034,Yellow Cotton Candy,Yellow Cotton Candy
-PROPITEM_TXT_009035,Increases Attack Speed by 5 for 30 minutes.,Increases Attack Speed by 5 for 30 minutes.
-PROPITEM_TXT_009036,White Cotton Candy,White Cotton Candy
-PROPITEM_TXT_009037,Decreases Cast Time by 5 for 30 minutes.,Decreases Cast Time by 5 for 30 minutes.
-PROPITEM_TXT_009038,Gray Cotton Candy,Gray Cotton Candy
-PROPITEM_TXT_009039,Increases Defense by 30 for 30 minutes.,Increases Defense by 30 for 30 minutes.
-PROPITEM_TXT_009040,Orange Cotton Candy,Orange Cotton Candy
-PROPITEM_TXT_009041,Increases Hit Rate by 5 for 30 minutes.,Increases Hit Rate by 5 for 30 minutes.
+PROPITEM_TXT_009022,Purple Cotton Candy,Фіолетова цукрова вата
+PROPITEM_TXT_009023,Increases STA by 3 for 30 minutes.,Збільшує витривалість (STA) на 3 протягом 30 хвилин.
+PROPITEM_TXT_009024,Blue Cotton Candy,Синя цукрова вата
+PROPITEM_TXT_009025,Increases INT by 3 for 30 minutes.,Збільшує Інтелект (INT) на 3 протягом 30 хвилин.
+PROPITEM_TXT_009026,Green Cotton Candy,Зелена цукрова вата
+PROPITEM_TXT_009027,Increases DEX by 3 for 30 minutes.,Збільшує Спритність (DEX) на 3 протягом 30 хвилин.
+PROPITEM_TXT_009028,Red Cotton Candy,Червона цукрова вата
+PROPITEM_TXT_009029,Increases STR by 3 for 30 minutes.,Збільшує Силу (STR) на 3 протягом 30 хвилин.
+PROPITEM_TXT_009030,Sky-Blue Cotton Candy,Небесно-блакитна цукрова вата
+PROPITEM_TXT_009031,Increases Evasion Rate by 5 for 30 minutes.,Збільшує шанс ухилення на 5 протягом 30 хвилин.
+PROPITEM_TXT_009032,Pink Cotton Candy,Рожева цукрова вата
+PROPITEM_TXT_009033,Increases Critical Rate by 5 for 30 minutes.,Збільшує шанс критичного удару на 5 протягом 30 хвилин.
+PROPITEM_TXT_009034,Yellow Cotton Candy,Жовта цукрова вата
+PROPITEM_TXT_009035,Increases Attack Speed by 5 for 30 minutes.,Збільшує швидкість атаки на 5 протягом 30 хвилин.
+PROPITEM_TXT_009036,White Cotton Candy,Біла цукрова вата
+PROPITEM_TXT_009037,Decreases Cast Time by 5 for 30 minutes.,Зменшує час чаклування на 5 протягом 30 хвилин.
+PROPITEM_TXT_009038,Gray Cotton Candy,Сіра цукрова вата
+PROPITEM_TXT_009039,Increases Defense by 30 for 30 minutes.,Збільшує Захист на 30 протягом 30 хвилин.
+PROPITEM_TXT_009040,Orange Cotton Candy,Помаранчева цукрова вата
+PROPITEM_TXT_009041,Increases Hit Rate by 5 for 30 minutes.,Збільшує шанс влучання на 5 протягом 30 хвилин.
 PROPITEM_TXT_009048,Lucky Cloud Box,Lucky Cloud Box
 PROPITEM_TXT_009049,Random box that contains Cotton Candies and a chance to get a Flying Cloud.,Random box that contains Cotton Candies and a chance to get a Flying Cloud.
 PROPITEM_TXT_100129,Power Dice 4 Piece,Power Dice 4 Piece
@@ -6545,9 +6545,9 @@ PROPITEM_TXT_008958,Vigor Ring,Vigor Ring
 PROPITEM_TXT_008959,Increases STR. Can be upgraded with a Power Dice 8 or 10 up to level 20.,Increases STR. Can be upgraded with a Power Dice 8 or 10 up to level 20.
 PROPITEM_TXT_008960,Intelli Ring,Intelli Ring
 PROPITEM_TXT_008961,Increases INT. Can be upgraded with a Power Dice 8 or 10 up to level 20.,Increases INT. Can be upgraded with a Power Dice 8 or 10 up to level 20.
-PROPITEM_TXT_008962,Arek Ring,Arek Ring
+PROPITEM_TXT_008962,Arek Ring,Кільце Арека
 PROPITEM_TXT_008963,Increases DEX. Can be upgraded with a Power Dice 8 or 10 up to level 20.,Increases DEX. Can be upgraded with a Power Dice 8 or 10 up to level 20.
-PROPITEM_TXT_008964,Stam Ring,Stam Ring
+PROPITEM_TXT_008964,Stam Ring,Кільце Стама
 PROPITEM_TXT_008965,Increases STA. Can be upgraded with a Power Dice 8 or 10 up to level 20.,Increases STA. Can be upgraded with a Power Dice 8 or 10 up to level 20.
 PROPITEM_TXT_100141,Zupeslayer,Zupeslayer
 PROPITEM_TXT_100142,Demonizer,Demonizer
@@ -6636,9 +6636,9 @@ PROPITEM_TXT_100210,Symbol of Shade,Symbol of Shade
 PROPITEM_TXT_100211,The proof that you defeated one of Shade's devotees. You should keep this Symbol!,The proof that you defeated one of Shade's devotees. You should keep this Symbol!
 PROPITEM_TXT_100212,Acceleration Fuel (1 Day),Acceleration Fuel (1 Day)
 PROPITEM_TXT_100213,Provides unlimited acceleration fuel for 1 day.,Provides unlimited acceleration fuel for 1 day.
-PROPITEM_TXT_100214,Rainbow Cotton Candy,Rainbow Cotton Candy
-PROPITEM_TXT_100215,Increases All Stats by 5 for 30 minutes.,Increases All Stats by 5 for 30 minutes.
-PROPITEM_TXT_100216,Common Bank 3,Common Bank 3
+PROPITEM_TXT_100214,Rainbow Cotton Candy,Райдужна цукрова вата
+PROPITEM_TXT_100215,Increases All Stats by 5 for 30 minutes.,Збільшує всі характеристики на 5 протягом 30 хвилин.
+PROPITEM_TXT_100216,Common Bank 3,Спільний банк 3
 PROPITEM_TXT_100217,Baby Pink Cobra,Baby Pink Cobra
 PROPITEM_TXT_100218,"A cute and fast, baby, Pink Cobra that follows its master around and picks up dropped items","A cute and fast, baby, Pink Cobra that follows its master around and picks up dropped items"
 PROPITEM_TXT_100219,Baby Giant Aibatt,Baby Giant Aibatt
@@ -17808,13 +17808,13 @@ PROPITEM_TXT_133427,Seafood Pancake (B),Seafood Pancake (B)
 PROPITEM_TXT_133428,Seafood Pancake (A),Seafood Pancake (A)
 PROPITEM_TXT_133429,Seafood Pancake (A+),Seafood Pancake (A+)
 PROPITEM_TXT_133430,Recovers 299 HP,Відновлює 299 HP
-PROPITEM_TXT_133431,Fish Soup (C),Fish Soup (C)
+PROPITEM_TXT_133431,Fish Soup (C),Рибний суп (C)
 PROPITEM_TXT_133432,Recovers 360 HP,Відновлює 360 HP
-PROPITEM_TXT_133433,Fish Soup (B),Fish Soup (B)
-PROPITEM_TXT_133434,Fish Soup (A),Fish Soup (A)
-PROPITEM_TXT_133435,Fish Soup (A+),Fish Soup (A+)
+PROPITEM_TXT_133433,Fish Soup (B),Рибний суп (B)
+PROPITEM_TXT_133434,Fish Soup (A),Рибний суп (A)
+PROPITEM_TXT_133435,Fish Soup (A+),Рибний суп (A+)
 PROPITEM_TXT_133436,Recovers 390 HP,Відновлює 390 HP
-PROPITEM_TXT_133437,Roll Bread (C),Roll Bread (C)
+PROPITEM_TXT_133437,Roll Bread (C),Булковий хліб (C)
 PROPITEM_TXT_133438,Recovers 396 HP,Відновлює 396 HP
 PROPITEM_TXT_133439,Sausage Casserole (C),Sausage Casserole (C)
 PROPITEM_TXT_133440,Recovers 444 HP,Відновлює 444 HP

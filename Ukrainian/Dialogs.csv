@@ -15,16 +15,16 @@ NPC_MEHJUSTBECAUSE,"Meh, just because?","Meh, just because?"
 NPC_YES_ENTER,Yes_Enter,Yes_Enter
 NPC_NO_ENTER,No_Enter,No_Enter
 NPC_WHEREAMI,Where am I?,Де я?
-NPC_MAKEANAPPOINTMENT,Make an appointment,Make an appointment
+NPC_MAKEANAPPOINTMENT,Make an appointment,Призначити зустріч
 NPC_FINALIZESTATSELECTION,Finalize Stat selection,Finalize Stat selection
 NPC_DEKANEMINE,Dekane Mine,Dekane Mine
 NPC_CELL,Cell,Cell
 NPC_AZRIAMINE,Azria Mine,Azria Mine
-NPC_CURSEDSYMBOL,Cursed Symbol,Cursed Symbol
-NPC_GIVESYMBOL,Give the Symbol,Give the Symbol
+NPC_CURSEDSYMBOL,Cursed Symbol,Проклятий символ
+NPC_GIVESYMBOL,Give the Symbol,Дайте Символ
 NPC_HAELLETTER,Hael's Letter,Hael's Letter
-NPC_GIVELETTER,Give Letter,Give Letter
-NPC_TREASURE_BOX,Treasure,Treasure
+NPC_GIVELETTER,Give Letter,Дайте листа
+NPC_TREASURE_BOX,Treasure,Скарб
 NPC_LOSTMEMORIES,Lost Memories,Lost Memories
 NPC_BREWINGPOTIONS,Brewing Potions,Brewing Potions
 NPC_THECURE,The Cure,The Cure
@@ -36,7 +36,7 @@ NPC_RECEIVEADDITIONALREWARDS,Receive additional rewards,Receive additional rewar
 NPC_000044,"Welcome to Keakoon, human! I've got a favor to ask... C'mere!","Welcome to Keakoon, human! I've got a favor to ask... C'mere!"
 NPC_000045,Fathers Package,Fathers Package
 NPC_000046,"Hrrmph! How strange... How did a human like you manage to get in here, anyway?","Hrrmph! How strange... How did a human like you manage to get in here, anyway?"
-NPC_000047,"Thank you for saving my father, human. So what brings you here?","Thank you for saving my father, human. So what brings you here?"
+NPC_000047,"Thank you for saving my father, human. So what brings you here?","Дякую, що врятував мого батька, людино. Отже, що привело вас сюди?"
 NPC_000048,"Please, save my father. He's imprisoned east of here! Hurry!","Please, save my father. He's imprisoned east of here! Hurry!"
 NPC_000049,"Hrrmph, listen... I don't know how you found this place, and I don't care. Leave now! This place is too dangerous for your kind.","Hrrmph, listen... I don't know how you found this place, and I don't care. Leave now! This place is too dangerous for your kind."
 NPC_000050,"Hrrmph! I am Drian - Son of Nevil, the Patriarch of Keakoon. You people look down on us, but you're the inferior ones!","Hrrmph! I am Drian - Son of Nevil, the Patriarch of Keakoon. You people look down on us, but you're the inferior ones!"
@@ -46,7 +46,7 @@ NPC_000053,*Sigh* this might take a while...,*Sigh* this might take a while...
 NPC_000054,"What? A human?! Here?!? Muahahahah!!! You're either brave or not all there in the head, buddy.","What? A human?! Here?!? Muahahahah!!! You're either brave or not all there in the head, buddy."
 NPC_000055,"Ewww!! A hew-mann... Your kind is not welcome here. Get out of my sight, vermin!","Ewww!! A hew-mann... Your kind is not welcome here. Get out of my sight, vermin!"
 NPC_000056,Who am I? Hah! Liked I'd consort with the likes of a human. Get lost!,Who am I? Hah! Liked I'd consort with the likes of a human. Get lost!
-NPC_000057,"Beat it, human! You're not welcome here!","Beat it, human! You're not welcome here!"
+NPC_000057,"Beat it, human! You're not welcome here!","Бий, людино! Вам тут не раді!"
 NPC_000058,*Whistles*,*Whistles*
 NPC_000059,"Gwarrll! You just gonna stand there, or are you gonna get me out of here? You know, people don't necessarily like to be stared at...","Gwarrll! You just gonna stand there, or are you gonna get me out of here? You know, people don't necessarily like to be stared at..."
 NPC_000060,"Garr!! I've not seen a human in years! I am Nevil, the honorable Patriarch of Keakoon.","Garr!! I've not seen a human in years! I am Nevil, the honorable Patriarch of Keakoon."
@@ -135,11 +135,11 @@ NPC_000142,"Well, what are you gonna do for me? Hmmm?","Well, what are you gonna
 NPC_000143,"We, the Khan Union, are traveling merchants. Our fine craftsmanship is well-known throughout Madrigal. So whaddya say? Interested in taking a peek at my inventory? ","We, the Khan Union, are traveling merchants. Our fine craftsmanship is well-known throughout Madrigal. So whaddya say? Interested in taking a peek at my inventory? "
 NPC_000144,"I am Chenbing Khan and I sell the best, finely-crafted, and affordable shields you'll find anywhere in Madrigal.","I am Chenbing Khan and I sell the best, finely-crafted, and affordable shields you'll find anywhere in Madrigal."
 NPC_000145,Take care! Tell your friends about us!,Take care! Tell your friends about us!
-NPC_000146,"So, have you completed that which you needed to in order to proceed?","So, have you completed that which you needed to in order to proceed?"
-NPC_000147,What do you want?,What do you want?
-NPC_000148,You couldn't possibly hope to understand what lies beyond this gate. I don't care how much research you've done. ,You couldn't possibly hope to understand what lies beyond this gate. I don't care how much research you've done. 
-NPC_000149,Don't concern yourself with such things. Who I am is of no consequence to you. All you need to know is that I am here to protect this gate.,Don't concern yourself with such things. Who I am is of no consequence to you. All you need to know is that I am here to protect this gate.
-NPC_000150,"Farewell, strange one.","Farewell, strange one."
+NPC_000146,"So, have you completed that which you needed to in order to proceed?","Отже, ви виконали те, що потрібно було для продовження?"
+NPC_000147,What do you want?,Чого ти хочеш?
+NPC_000148,You couldn't possibly hope to understand what lies beyond this gate. I don't care how much research you've done. ,"Ти ж не міг сподіватися зрозуміти, що ховається за цією брамою. Мені байдуже, скільки досліджень ти провів. "
+NPC_000149,Don't concern yourself with such things. Who I am is of no consequence to you. All you need to know is that I am here to protect this gate.,"Не переймайся такими речами. Хто я, тобі байдуже. Тобі потрібно лише знати, що я тут, щоб захищати ці ворота."
+NPC_000150,"Farewell, strange one.","Прощавай, диваку."
 NPC_000151,"Hey, you there! Help me! Let me out of here right now! Argh!!!","Hey, you there! Help me! Let me out of here right now! Argh!!!"
 NPC_000152,"Oh thank Rhisis, I knew someone would come! Oh thank you, thank you, thank you! Well, what are you doing just standing around? Let me out, darn it!!","Oh thank Rhisis, I knew someone would come! Oh thank you, thank you, thank you! Well, what are you doing just standing around? Let me out, darn it!!"
 NPC_000153,"Me? I, Colar Devoka, am the best actor in the Pepoview Troupe! Well, I was, but now I am stuck out here and this filthy cage waiting to be eaten by those filthy Leyenas.","Me? I, Colar Devoka, am the best actor in the Pepoview Troupe! Well, I was, but now I am stuck out here and this filthy cage waiting to be eaten by those filthy Leyenas."
@@ -161,7 +161,7 @@ NPC_000168,"The masquerpets you see here around us were once the machines used i
 NPC_000169,I'm surprised you haven't heard of me. I'm Dr. Est and I research Madrigal's ecosystem. My 2 brothers and I are thrilled to learn as much as we can about Madrigal. Have you met my brothers?,I'm surprised you haven't heard of me. I'm Dr. Est and I research Madrigal's ecosystem. My 2 brothers and I are thrilled to learn as much as we can about Madrigal. Have you met my brothers?
 NPC_000170,"Watch yourself out there, friend. Some creatures can be quite dangerous!","Watch yourself out there, friend. Some creatures can be quite dangerous!"
 NPC_000171,The will of Hynan will lead you to victory.,The will of Hynan will lead you to victory.
-NPC_000172,This is what you must to do.,This is what you must to do.
+NPC_000172,This is what you must to do.,"Це те, що ви повинні зробити."
 NPC_000173,"The Heroes fought hard to protect us from Shade's evil masquerpet army. We owe them all our livelihood. That is why I have devoted my life in service to Hynan, the brave Ranger Hero.","The Heroes fought hard to protect us from Shade's evil masquerpet army. We owe them all our livelihood. That is why I have devoted my life in service to Hynan, the brave Ranger Hero."
 NPC_000174,"I am Eliff, the Ranger Master. I have devoted my life to Hynan's legacy, and my duty is to pass along all that I have learned from him. I have sworn to uphold this promise until my last, dying breath. ","I am Eliff, the Ranger Master. I have devoted my life to Hynan's legacy, and my duty is to pass along all that I have learned from him. I have sworn to uphold this promise until my last, dying breath. "
 NPC_000175,"Hynan watches over us all. Go in peace, my friend.","Hynan watches over us all. Go in peace, my friend."
@@ -247,14 +247,14 @@ NPC_000287,I live for the thrill of the adventure! Woooo!,I live for the thrill 
 NPC_000288,"Hey, you there! I've got a job for you. No questions, just do it! Hahaha!","Hey, you there! I've got a job for you. No questions, just do it! Hahaha!"
 NPC_000289,The Arrows of the Clown Goddess will fall from the sky and dye the world red. I have foreseen it. What? You're darn right I have a defeatist attitude. Have you seen what Shade can do?,The Arrows of the Clown Goddess will fall from the sky and dye the world red. I have foreseen it. What? You're darn right I have a defeatist attitude. Have you seen what Shade can do?
 NPC_000290,"I'm Leikyen, if you must know. We High-Dwarpets are very different from the normal Dwarpets. However, both Dwarpets and High-Dwarpets are FAR superior to humans such as yourself.","I'm Leikyen, if you must know. We High-Dwarpets are very different from the normal Dwarpets. However, both Dwarpets and High-Dwarpets are FAR superior to humans such as yourself."
-NPC_000291,Was it something I said?,Was it something I said?
+NPC_000291,Was it something I said?,"Це щось, що я сказав?"
 NPC_000292,"Billaon, our Hero. We will follow your spirit.","Billaon, our Hero. We will follow your spirit."
 NPC_000293,"He will smile, and the world will smile back. He is in our thoughts, our dreams, our hopes. He will not fail us, or leave us unprotected. He, is Billaon.","He will smile, and the world will smile back. He is in our thoughts, our dreams, our hopes. He will not fail us, or leave us unprotected. He, is Billaon."
 NPC_000294,"My name is Lobiet Lee and I am one of the 8 priests of Billaon, the Knight Hero. I am here to deliver the will of Billaon to his future successor.","My name is Lobiet Lee and I am one of the 8 priests of Billaon, the Knight Hero. I am here to deliver the will of Billaon to his future successor."
 NPC_000295,"Billaon will be watching over you, always.","Billaon will be watching over you, always."
 NPC_000296,"Oh, I am so sleepy! Do you have a question? Then you should ask me, Pang!","Oh, I am so sleepy! Do you have a question? Then you should ask me, Pang!"
-NPC_000297,Choose what you want to do.,Choose what you want to do.
-NPC_000298,Hello this is the place where silly humans visit.,Hello this is the place where silly humans visit.
+NPC_000297,Choose what you want to do.,"Оберіть, що ви хочете зробити."
+NPC_000298,Hello this is the place where silly humans visit.,"Привіт, це місце, яке відвідують дурні люди."
 NPC_000299,"Hello I am Darkon Pang, the youngest of the Pang brothers. We manage the Lodelights.","Hello I am Darkon Pang, the youngest of the Pang brothers. We manage the Lodelights."
 NPC_000300,"Choose the Lodelight where you want to revive.\nIf you want to revive somewhere else, just designate the place. Got it?","Choose the Lodelight where you want to revive.\nIf you want to revive somewhere else, just designate the place. Got it?"
 NPC_000301,"Bye! See you soon, after you die that is!","Bye! See you soon, after you die that is!"
@@ -331,7 +331,7 @@ NPC_000371,Everything will end like it began.,Everything will end like it began.
 NPC_000372,"My name is Shyniff Guardian. I am protecting the will of Offerep, the Psykeeper hero.","My name is Shyniff Guardian. I am protecting the will of Offerep, the Psykeeper hero."
 NPC_000373,The spirit of Offerep will strengthen your soul.,The spirit of Offerep will strengthen your soul.
 NPC_000374,Everything you want is here in the Weapon Shop of Stima!,Everything you want is here in the Weapon Shop of Stima!
-NPC_000375,What would you do for me?,What would you do for me?
+NPC_000375,What would you do for me?,Що б ти зробив для мене?
 NPC_000376,"Being a travelling salesman was too hard so I settled here. My shop is still small, but I have a good feeling about this place.","Being a travelling salesman was too hard so I settled here. My shop is still small, but I have a good feeling about this place."
 NPC_000377,My name is Stima Ogonel. I travel from place to place selling weapons. Nice to meet you.,My name is Stima Ogonel. I travel from place to place selling weapons. Nice to meet you.
 NPC_000378,It was very nice to meet you. I hope I can see you again.,It was very nice to meet you. I hope I can see you again.
@@ -450,42 +450,42 @@ NPC_000498,"Don't speak to me as if you know me, stranger. I am the most feared 
 NPC_000499,"My name is Ghalade Elore, if you must know. I am one of the hired Kion Soldiers for Flarine. I am a legend in the world of martial arts, as I've followed in the footsteps of Roentel. Don't cross me.","My name is Ghalade Elore, if you must know. I am one of the hired Kion Soldiers for Flarine. I am a legend in the world of martial arts, as I've followed in the footsteps of Roentel. Don't cross me."
 NPC_000500,Glory to Kion,Glory to Kion
 NPC_000501,Tucani! Would you PLEASE stop singing that stupid song? I have a headache...,Tucani! Would you PLEASE stop singing that stupid song? I have a headache...
-NPC_000502,"Humans look down us because we used to do their work for them. But as 'smart' as humans may be, we are far stronger. We are by no means, inferior. Understand?","Humans look down us because we used to do their work for them. But as 'smart' as humans may be, we are far stronger. We are by no means, inferior. Understand?"
-NPC_000503,"Yeah, not gonna happen. If you didn't already figure it out, we don't particularly like you people. So unless you have some sort of business to discuss, I suggest you leave. Now.","Yeah, not gonna happen. If you didn't already figure it out, we don't particularly like you people. So unless you have some sort of business to discuss, I suggest you leave. Now."
-NPC_000504,It's about time you left...,It's about time you left...
-NPC_000505,Only the bravest of adventurers should dare to enter. Are you prepared?,Only the bravest of adventurers should dare to enter. Are you prepared?
-NPC_000506,"You are brave, young one. Go with honor.","You are brave, young one. Go with honor."
-NPC_000507,"If you have any doubts whatsoever, you should just quit now. Too much blood has been spilled already over all of this.","If you have any doubts whatsoever, you should just quit now. Too much blood has been spilled already over all of this."
-NPC_000508,You are indeed foolish if you think you can go in there alone. You must bring friends if you wish to have a even a small chance at victory.,You are indeed foolish if you think you can go in there alone. You must bring friends if you wish to have a even a small chance at victory.
-NPC_000509,You are not yet ready to challenge the beast within this lair. You are foolish if you think I would allow you to enter.,You are not yet ready to challenge the beast within this lair. You are foolish if you think I would allow you to enter.
+NPC_000502,"Humans look down us because we used to do their work for them. But as 'smart' as humans may be, we are far stronger. We are by no means, inferior. Understand?","Люди зневажають нас, тому що раніше ми виконували за них їхню роботу. Але хоч би якими 'розумними' були люди, ми набагато сильніші. Ми аж ніяк не поступаємося їм. Розумієте?"
+NPC_000503,"Yeah, not gonna happen. If you didn't already figure it out, we don't particularly like you people. So unless you have some sort of business to discuss, I suggest you leave. Now.","Так, цього не буде. Якщо ви ще не зрозуміли, ми не особливо любимо вас, людей. Тож, якщо у вас немає якихось важливих справ, пропоную вам піти. Зараз."
+NPC_000504,It's about time you left...,Настав час тобі піти...
+NPC_000505,Only the bravest of adventurers should dare to enter. Are you prepared?,Тільки найсміливіші шукачі пригод повинні наважитися туди. Ви готові?
+NPC_000506,"You are brave, young one. Go with honor.","Ти сміливий, молодий. Іди з честю."
+NPC_000507,"If you have any doubts whatsoever, you should just quit now. Too much blood has been spilled already over all of this.","Якщо у вас є хоч якісь сумніви, вам слід просто піти зараз. Занадто багато крові вже пролито через все це."
+NPC_000508,You are indeed foolish if you think you can go in there alone. You must bring friends if you wish to have a even a small chance at victory.,"Ти дійсно дурний, якщо думаєш, що можеш піти туди сам. Ти повинен взяти з собою друзів, якщо хочеш мати хоч якийсь шанс на перемогу."
+NPC_000509,You are not yet ready to challenge the beast within this lair. You are foolish if you think I would allow you to enter.,"Ти ще не готовий кинути виклик звіру в цьому лігві. Ти дурень, якщо думаєш, що я дозволю тобі увійти."
 NPC_000510,Travel to Northern Flarine and speak with the Novelist there. I cannot help you. ,Travel to Northern Flarine and speak with the Novelist there. I cannot help you. 
-NPC_000511,"No, not yet. You are not qualified to challenge this creature yet. Now please, leave in peace.","No, not yet. You are not qualified to challenge this creature yet. Now please, leave in peace."
-NPC_000512,"So you want to know who I am, my child? I exist... and yet, I do not exist. That is all you need to know and I will tell you no more.","So you want to know who I am, my child? I exist... and yet, I do not exist. That is all you need to know and I will tell you no more."
-NPC_000513,"Farewell, brave one.","Farewell, brave one."
-NPC_000514,"Worry not, Hormes. We will not fail. ","Worry not, Hormes. We will not fail. "
-NPC_000515,"It's hard to interpret the ancient texts. They are extremely old and in poor condition. What we have discerned, is that the fight for peace is far from over, and we must prepare ourselves for what's coming.","It's hard to interpret the ancient texts. They are extremely old and in poor condition. What we have discerned, is that the fight for peace is far from over, and we must prepare ourselves for what's coming."
+NPC_000511,"No, not yet. You are not qualified to challenge this creature yet. Now please, leave in peace.","Ні, ще ні. Ти ще не готовий кинути виклик цій істоті. А тепер, будь ласка, залиш її в спокої."
+NPC_000512,"So you want to know who I am, my child? I exist... and yet, I do not exist. That is all you need to know and I will tell you no more.","То ти хочеш знати, хто я, дитино моя? Я існую... і водночас не існую. Це все, що тобі потрібно знати, і більше я тобі нічого не скажу."
+NPC_000513,"Farewell, brave one.","Прощавай, хоробрий."
+NPC_000514,"Worry not, Hormes. We will not fail. ","Не хвилюйся, Гормес. Ми не підведемо. "
+NPC_000515,"It's hard to interpret the ancient texts. They are extremely old and in poor condition. What we have discerned, is that the fight for peace is far from over, and we must prepare ourselves for what's coming.","Стародавні тексти важко інтерпретувати. Вони надзвичайно старі і знаходяться в поганому стані. Ми зрозуміли, що боротьба за мир ще далеко не закінчена, і ми повинні підготуватися до того, що нас чекає."
 NPC_000516,"My name is Guabrill Elldoradin, the Blade Wise Man. We've all come together to guide to adventurer's such as your self on the path of the Heroes. Will you stand up for Madrigal, young one?","My name is Guabrill Elldoradin, the Blade Wise Man. We've all come together to guide to adventurer's such as your self on the path of the Heroes. Will you stand up for Madrigal, young one?"
-NPC_000517,The Heroes will never be forgotten. Stories of their sacrifice will be told for generations to come.,The Heroes will never be forgotten. Stories of their sacrifice will be told for generations to come.
+NPC_000517,The Heroes will never be forgotten. Stories of their sacrifice will be told for generations to come.,Героїв ніколи не забудуть. Історії про їхню самопожертву будуть розповідати наступним поколінням.
 NPC_000518,"#b#cff8a004fWelcome, competitors! The #cfff60000Guild Siege Application Center #cff8a004fis open for business!#nc#nb","#b#cff8a004fWelcome, competitors! The #cfff60000Guild Siege Application Center #cff8a004fis open for business!#nc#nb"
 NPC_000519,"If your guild has reached the point where you think you have the strength and numbers to compete against another guild, then you’re in the right place. Prove to everyone that you’re able to become a legend like Badza! ","If your guild has reached the point where you think you have the strength and numbers to compete against another guild, then you’re in the right place. Prove to everyone that you’re able to become a legend like Badza! "
 NPC_000520,"It's a pleasure to make your acquaintance. I am the Guild Siege Master of Flarine. Speak with me if you need general Guild Siege information, want to apply, form your party, or enter the arena.","It's a pleasure to make your acquaintance. I am the Guild Siege Master of Flarine. Speak with me if you need general Guild Siege information, want to apply, form your party, or enter the arena."
 NPC_000521,For Glory!,For Glory!
-NPC_000522,I smell human... gross!,I smell human... gross!
-NPC_000523,"We are superior to humans in all ways. You're lucky I'm even speaking to you. Now, what is it you want? Can't you see I'm busy?","We are superior to humans in all ways. You're lucky I'm even speaking to you. Now, what is it you want? Can't you see I'm busy?"
-NPC_000524,"Who wants to know? You? Haha! Right, like I owe you anything at all, human. Why don't you make like a tree, and get out of here?","Who wants to know? You? Haha! Right, like I owe you anything at all, human. Why don't you make like a tree, and get out of here?"
-NPC_000525,"Thanks for leaving, chump!","Thanks for leaving, chump!"
-NPC_000526,"So you want to know who I am, my child? I exist... and yet, I do not exist. That is all you need to know and I will tell you no more.","So you want to know who I am, my child? I exist... and yet, I do not exist. That is all you need to know and I will tell you no more."
-NPC_000527,"Shade will return, this much is certain. We can only hope to be ready for her.","Shade will return, this much is certain. We can only hope to be ready for her."
-NPC_000528,"We await the day of our impending doom. The day will come, and pass. We must stand together.","We await the day of our impending doom. The day will come, and pass. We must stand together."
+NPC_000522,I smell human... gross!,Я відчуваю запах людини... огидно!
+NPC_000523,"We are superior to humans in all ways. You're lucky I'm even speaking to you. Now, what is it you want? Can't you see I'm busy?","Ми перевершуємо людей у всьому. Тобі пощастило, що я взагалі з тобою розмовляю. То що ти хочеш? Ти що, не бачиш, що я зайнятий?"
+NPC_000524,"Who wants to know? You? Haha! Right, like I owe you anything at all, human. Why don't you make like a tree, and get out of here?","Хто хоче знати? Ти? Ха-ха! Так, ніби я тобі щось винен, людино. Чому б тобі не зробити як дерево і не забиратися звідси?"
+NPC_000525,"Thanks for leaving, chump!","Дякую, що пішов, дурню!"
+NPC_000526,"So you want to know who I am, my child? I exist... and yet, I do not exist. That is all you need to know and I will tell you no more.","То ти хочеш знати, хто я, дитино моя? Я існую... і водночас не існую. Це все, що тобі потрібно знати, і більше я тобі нічого не скажу."
+NPC_000527,"Shade will return, this much is certain. We can only hope to be ready for her.","Тінь повернеться, це точно. Ми можемо лише сподіватися бути готовими до неї."
+NPC_000528,"We await the day of our impending doom. The day will come, and pass. We must stand together.","Ми чекаємо дня нашої неминучої загибелі. Прийде день і мине. Ми повинні стояти разом."
 NPC_000529,"My name is Hormes Kudo, the Knight Wise Man. I lead those who wish to become a Knight successor, and I help to preserve the memory of the Heroes.","My name is Hormes Kudo, the Knight Wise Man. I lead those who wish to become a Knight successor, and I help to preserve the memory of the Heroes."
-NPC_000530,Rhisis watch over you.,Rhisis watch over you.
-NPC_000531,Draw your weapon and cut down everything that stands in your way! A Mercenary fears nothing!,Draw your weapon and cut down everything that stands in your way! A Mercenary fears nothing!
-NPC_000532,"The three most important things for a successful Mercenary are instinct, courage, and level headedness. If you possess these qualities, then you have what it takes to be a Mercenary.","The three most important things for a successful Mercenary are instinct, courage, and level headedness. If you possess these qualities, then you have what it takes to be a Mercenary."
+NPC_000530,Rhisis watch over you.,Рісіс стежить за вами.
+NPC_000531,Draw your weapon and cut down everything that stands in your way! A Mercenary fears nothing!,Витягніть зброю і рубайте все, що стоїть на вашому шляху! Найманець нічого не боїться!
+NPC_000532,"The three most important things for a successful Mercenary are instinct, courage, and level headedness. If you possess these qualities, then you have what it takes to be a Mercenary.","Три найважливіші речі для успішного найманця — інстинкт, сміливість і розсудливість. Якщо ви володієте цими якостями, то у вас є те, що потрібно, щоб стати найманцем."
 NPC_000533,"Hello, my friend. It is my pleasure to make your acquaintance. My name is Hyuit Jenive and I am a sergeant of the Madrigal Job Training Center. I help train Vagrants to become Mercenaries, after Mustang signs off on them, of course. ","Hello, my friend. It is my pleasure to make your acquaintance. My name is Hyuit Jenive and I am a sergeant of the Madrigal Job Training Center. I help train Vagrants to become Mercenaries, after Mustang signs off on them, of course. "
 NPC_000534,"Keep your pride, courage and hope!","Keep your pride, courage and hope!"
-NPC_000535,"Welcome! If you need any help or information, please don't hesitate to ask.","Welcome! If you need any help or information, please don't hesitate to ask."
-NPC_000539,"Hi there, I have a quest for you!","Hi there, I have a quest for you!"
-NPC_000540,Welcome to Madrigal. You look lost! Is there anything I can help you with?,Welcome to Madrigal. You look lost! Is there anything I can help you with?
+NPC_000535,"Welcome! If you need any help or information, please don't hesitate to ask.","Ласкаво просимо! Якщо вам потрібна допомога або інформація, будь ласка, не соромтеся звертатися."
+NPC_000539,"Hi there, I have a quest for you!","Привіт, у мене для вас квест!"
+NPC_000540,Welcome to Madrigal. You look lost! Is there anything I can help you with?,Ласкаво просимо до Мадригал. Ти виглядаєш розгубленим! Я можу вам чимось допомогти?
 NPC_000541,"I am Is, and I am one of the guides in Flarine City. If you need any help or information, just ask me or my twin sisters!","I am Is, and I am one of the guides in Flarine City. If you need any help or information, just ask me or my twin sisters!"
 NPC_000542,"There are several of us throughout Flarine and we all look alike so try not to get confused, tee hee! We confuse ourselves sometimes so it's alright if you do.","There are several of us throughout Flarine and we all look alike so try not to get confused, tee hee! We confuse ourselves sometimes so it's alright if you do."
 NPC_000543,"Anyway, stop by and see me anytime if you need any help or information. That's what we're all here for!","Anyway, stop by and see me anytime if you need any help or information. That's what we're all here for!"

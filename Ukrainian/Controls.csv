@@ -1,5 +1,5 @@
 ﻿Key,English,Ukrainian
-PROPCTRL_TXT_000000,Small Treasure Chest,Small Treasure Chest
+PROPCTRL_TXT_000000,Small Treasure Chest,Мала скриня зі скарбами
 PROPCTRL_TXT_000002,Small Treasure Chest(Vertical),Small Treasure Chest(Vertical)
 PROPCTRL_TXT_000004,FlDungeon Lever,FlDungeon Lever
 PROPCTRL_TXT_000006,FlDungeon Gate,FlDungeon Gate
@@ -8,10 +8,10 @@ PROPCTRL_TXT_000010,Chimeradon Prison,Chimeradon Prison
 PROPCTRL_TXT_000012,Meteonyker Prison,Meteonyker Prison
 PROPCTRL_TXT_000014,Pink Roach Egg,Pink Roach Egg
 PROPCTRL_TXT_000016,Blue Roach Egg,Blue Roach Egg
-PROPCTRL_TXT_000028,Warp Machine,Warp Machine
-PROPCTRL_TXT_000030,Warp Board 1,Warp Board 1
-PROPCTRL_TXT_000032,Warp Board 2,Warp Board 2
-PROPCTRL_TXT_000034,Warp Board 3,Warp Board 3
+PROPCTRL_TXT_000028,Warp Machine,Варп машина
+PROPCTRL_TXT_000030,Warp Board 1,Деформаційна дошка 1
+PROPCTRL_TXT_000032,Warp Board 2,Деформаційна дошка 2
+PROPCTRL_TXT_000034,Warp Board 3,Деформаційна дошка 3
 PROPCTRL_TXT_000036,Exp Box,Exp Box
 PROPCTRL_TXT_000037,Harvest Plant 01,Harvest Plant 01
 PROPCTRL_TXT_000038,Harvest Plant 02,Harvest Plant 02
@@ -44,7 +44,7 @@ PROPCTRL_TXT_000064,Dungeon Warp 06,Dungeon Warp 06
 PROPCTRL_TXT_000065,Ship Wheel,Ship Wheel
 PROPCTRL_TXT_000066,Cushion Chair,Cushion Chair
 PROPCTRL_TXT_000067,Spinning Globe,Spinning Globe
-PROPCTRL_TXT_000068,Compass,Compass
+PROPCTRL_TXT_000068,Compass,КОмпас
 PROPCTRL_TXT_000069,Chandelier,Chandelier
 PROPCTRL_TXT_000070,Command Desk,Command Desk
 PROPCTRL_TXT_000071,Command Platform,Command Platform
@@ -104,8 +104,8 @@ PROPCTRL_TXT_000124,Music Table,Music Table
 PROPCTRL_TXT_000125,Music Dressing Table,Music Dressing Table
 PROPCTRL_TXT_000126,Music Wardrobe,Music Wardrobe
 PROPCTRL_TXT_000127,Music Sofa,Music Sofa
-PROPCTRL_TXT_000128,Music Cabinet,Music Cabinet
-PROPCTRL_TXT_000129,Music Bed,Music Bed
+PROPCTRL_TXT_000128,Music Cabinet,Музичний кабінет
+PROPCTRL_TXT_000129,Music Bed,Музичне ліжко
 PROPCTRL_TXT_000130,Heart Chair,Heart Chair
 PROPCTRL_TXT_000131,Heart Table,Heart Table
 PROPCTRL_TXT_000132,Heart Dressing Table,Heart Dressing Table

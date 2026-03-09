@@ -14,8 +14,8 @@ PROPQUEST_REQUESTBOX_INC_000146,You can collect the office documents near Mias.,
 PROPQUEST_REQUESTBOX_INC_000301,You do not want to collect them? Okay.,You do not want to collect them? Okay.
 PROPQUEST_REQUESTBOX_INC_000369,You need more $QUEST_END_ITEM_NAME$.,You need more $QUEST_END_ITEM_NAME$.
 PROPQUEST_REQUESTBOX_INC_000303,You do not have enough $QUEST_END_ITEM_NAME$.,You do not have enough $QUEST_END_ITEM_NAME$.
-PROPQUEST_REQUESTBOX_INC_000049,Well done. You have successfully completed the quest.,Well done. You have successfully completed the quest.
-PROPQUEST_REQUESTBOX_INC_000357,Good Job! You successfully completed the quest. Take this for your trouble.,Good Job! You successfully completed the quest. Take this for your trouble.
+PROPQUEST_REQUESTBOX_INC_000049,Well done. You have successfully completed the quest.,Молодець. Ви успішно виконали завдання.
+PROPQUEST_REQUESTBOX_INC_000357,Good Job! You successfully completed the quest. Take this for your trouble.,Молодець! Ви успішно виконали завдання. Візьміть це за ваші зусилля.
 PROPQUEST_REQUESTBOX_INC_000362,$QUEST_END_NPC_NAME$ was happy that the quest was completed.,$QUEST_END_NPC_NAME$ was happy that the quest was completed.
 PROPQUEST_REQUESTBOX_INC_000307,$QUEST_END_NPC_NAME$ was happy to see the quest completed.,$QUEST_END_NPC_NAME$ was happy to see the quest completed.
 PROPQUEST_REQUESTBOX_INC_000582,$QUEST_END_NPC_NAME$ is very grateful to you for completing this quest.,$QUEST_END_NPC_NAME$ is very grateful to you for completing this quest.
@@ -311,8 +311,8 @@ PROPQUEST_REQUESTBOX_INC_020075,The Kanonicus Antidote,The Kanonicus Antidote
 PROPQUEST_REQUESTBOX_INC_020076,The Kanonicus carry a natural antidote within their dorsal glands. Kaillun urgently needs it to heal warriors poisoned by the Lycans.,The Kanonicus carry a natural antidote within their dorsal glands. Kaillun urgently needs it to heal warriors poisoned by the Lycans.
 PROPQUEST_REQUESTBOX_INC_020077,Thank you! Their natural antidote is vital for our wounded soldiers. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kanonicus.,Thank you! Their natural antidote is vital for our wounded soldiers. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kanonicus.
 PROPQUEST_REQUESTBOX_INC_020078,A shame… several warriors are still waiting to be treated.,A shame… several warriors are still waiting to be treated.
-PROPQUEST_REQUESTBOX_INC_020079,"You don’t have enough yet. Hurry, every drop counts.","You don’t have enough yet. Hurry, every drop counts."
-PROPQUEST_REQUESTBOX_INC_020080,"Perfect! Thanks to you, we can finally treat our wounded.","Perfect! Thanks to you, we can finally treat our wounded."
+PROPQUEST_REQUESTBOX_INC_020079,"You don’t have enough yet. Hurry, every drop counts.","У тебе ще недостатньо. Поспішай, кожна крапля важлива."
+PROPQUEST_REQUESTBOX_INC_020080,"Perfect! Thanks to you, we can finally treat our wounded.",Чудово! Завдяки вам ми нарешті можемо лікувати наших поранених.
 PROPQUEST_REQUESTBOX_INC_020081,The Magic Skulls of the Redcloud,The Magic Skulls of the Redcloud
 PROPQUEST_REQUESTBOX_INC_020082,The Redcloud generate a mysterious energy within their skulls. Muran shamans want to study this magic to reinforce the city's protective wards.,The Redcloud generate a mysterious energy within their skulls. Muran shamans want to study this magic to reinforce the city's protective wards.
 PROPQUEST_REQUESTBOX_INC_020083,Very well! Their skulls contain a mysterious energy. We must study it. Bring back 325 $QUEST_END_ITEM_NAME$ from the Redcloud.,Very well! Their skulls contain a mysterious energy. We must study it. Bring back 325 $QUEST_END_ITEM_NAME$ from the Redcloud.

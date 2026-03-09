@@ -1,20 +1,20 @@
 ﻿Key,English,Ukrainian
 PROPQUEST_INC_000000,,
 PROPQUEST_INC_010000,Daily,Daily
-PROPQUEST_INC_000291,Save the Garden! (Part 1),Save the Garden! (Part 1)
+PROPQUEST_INC_000291,Save the Garden! (Part 1),Врятуйте сад! (Частина 1)
 PROPQUEST_INC_000292,The Garden of Rhisis is dying! Could you help me?,The Garden of Rhisis is dying! Could you help me?
 PROPQUEST_INC_000293,You need 10 Bearer Hearts from Tombstone Bearers to save the Garden of Rhisis.,You need 10 Bearer Hearts from Tombstone Bearers to save the Garden of Rhisis.
-PROPQUEST_INC_000294,Thank you!,Thank you!
-PROPQUEST_INC_000295,"If you change your mind later, please come back to me!","If you change your mind later, please come back to me!"
+PROPQUEST_INC_000294,Thank you!,Дякую!
+PROPQUEST_INC_000295,"If you change your mind later, please come back to me!","Якщо ви пізніше передумаєте, будь ласка, поверніться до мене!"
 PROPQUEST_INC_000296,Thank you! You should really talk to Janne.,Thank you! You should really talk to Janne.
 PROPQUEST_INC_000297,Come back when you have the Bearer Hearts.,Come back when you have the Bearer Hearts.
-PROPQUEST_INC_000298,Save the Garden! (Part 2),Save the Garden! (Part 2)
-PROPQUEST_INC_000299,You have a message from my sister!,You have a message from my sister!
+PROPQUEST_INC_000298,Save the Garden! (Part 2),Врятуйте сад! (Частина 2)
+PROPQUEST_INC_000299,You have a message from my sister!,У тебе є повідомлення від моєї сестри!
 PROPQUEST_INC_000300,I see. The Garden of Rhisis is dying... Could you inform my sister Kimberley?,I see. The Garden of Rhisis is dying... Could you inform my sister Kimberley?
 PROPQUEST_INC_000302,The problem with the Garden of Rhisis can wait. I guess...,The problem with the Garden of Rhisis can wait. I guess...
 PROPQUEST_INC_000303,Thank you from bringing me this message. I think you should talk to Marche in Eastern Flarine.,Thank you from bringing me this message. I think you should talk to Marche in Eastern Flarine.
 PROPQUEST_INC_000304,You still haven't found Kimberley? She is in Saint City.,You still haven't found Kimberley? She is in Saint City.
-PROPQUEST_INC_000308,Save the Garden! (Part 3),Save the Garden! (Part 3)
+PROPQUEST_INC_000308,Save the Garden! (Part 3),Врятуйте сад! (Частина 3)
 PROPQUEST_INC_000309,The Saint City sisters say that the Garden of Rhisis is dying.,The Saint City sisters say that the Garden of Rhisis is dying.
 PROPQUEST_INC_000310,Could you bring a Live Tea to Ann? You can find it the east of the Leren Mountains.,Could you bring a Live Tea to Ann? You can find it the east of the Leren Mountains.
 PROPQUEST_INC_000311,Thank you! If you help her she will give you an Earring.,Thank you! If you help her she will give you an Earring.
@@ -32,7 +32,7 @@ PROPQUEST_INC_000472,Good luck! You'll need it!,Good luck! You'll need it!
 PROPQUEST_INC_000473,"What are you afraid of? The path to become an Acrobat may be difficult for some, but it's so worth it! Come back if you change your mind, friend.","What are you afraid of? The path to become an Acrobat may be difficult for some, but it's so worth it! Come back if you change your mind, friend."
 PROPQUEST_INC_000474,Well done. You've passed the first test!,Well done. You've passed the first test!
 PROPQUEST_INC_000475,"I'm still waiting for you to hunt $QUEST_END_KILL_COUNT$ Small Aibatts. If you want to become an Acrobat, you must complete this simple task.","I'm still waiting for you to hunt $QUEST_END_KILL_COUNT$ Small Aibatts. If you want to become an Acrobat, you must complete this simple task."
-PROPQUEST_INC_000476,You have already chosen to pursue another path. I cannot help you any further. You can still cancel the other job quest in the Quest Window and come back to me.,You have already chosen to pursue another path. I cannot help you any further. You can still cancel the other job quest in the Quest Window and come back to me.
+PROPQUEST_INC_000476,You have already chosen to pursue another path. I cannot help you any further. You can still cancel the other job quest in the Quest Window and come back to me.,"Ви вже обрали інший шлях. Я більше нічим не можу вам допомогти. Ви все ще можете скасувати інше завдання у вікні завдань і повернутися до мене."
 PROPQUEST_INC_000477,"For starters, let's go with something easy. I would like you to hunt $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s.","For starters, let's go with something easy. I would like you to hunt $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s."
 PROPQUEST_INC_000479,Acrobat Weaponry,Acrobat Weaponry
 PROPQUEST_INC_000480,Now it's time for the next step on your path to becoming an Acrobat.,Now it's time for the next step on your path to becoming an Acrobat.
@@ -179,14 +179,14 @@ PROPQUEST_INC_000678,Hahaha! As if you could ever hope to compare yourself to me
 PROPQUEST_INC_000679,"What's the matter? You're not afraid of some Small Aibatts, are you?","What's the matter? You're not afraid of some Small Aibatts, are you?"
 PROPQUEST_INC_000680,"Alright, listen carefully. Just north of here, there are several Small Aibatts. Slay 20 of them with 20 Small Mushpangs and return to me. Got it?","Alright, listen carefully. Just north of here, there are several Small Aibatts. Slay 20 of them with 20 Small Mushpangs and return to me. Got it?"
 PROPQUEST_INC_000681,<Mustang mumbles something under his breath about you being… not so bright.>,<Mustang mumbles something under his breath about you being… not so bright.>
-PROPQUEST_INC_000682,I cannot train you to be a Mercenary. You have already chosen another path. You can still cancel the other job quest in the Quest Window and come back to me.,I cannot train you to be a Mercenary. You have already chosen another path. You can still cancel the other job quest in the Quest Window and come back to me.
+PROPQUEST_INC_000682,I cannot train you to be a Mercenary. You have already chosen another path. You can still cancel the other job quest in the Quest Window and come back to me.,Я не можу навчити тебе бути найманцем. Ти вже обрав інший шлях. Ти все ще можеш скасувати інше завдання у вікні завдань і повернутися до мене.
 PROPQUEST_INC_000683,Slay 20 Small Aibatts and 20 Small Mushpangs just north of Eastern Flarine and return to Mercenary Drillmaster Mustang.,Slay 20 Small Aibatts and 20 Small Mushpangs just north of Eastern Flarine and return to Mercenary Drillmaster Mustang.
 PROPQUEST_INC_000685,Mercenary Arms,Mercenary Arms
-PROPQUEST_INC_000686,I suppose you've proven you're not completely useless. On to the next task!,I suppose you've proven you're not completely useless. On to the next task!
+PROPQUEST_INC_000686,I suppose you've proven you're not completely useless. On to the next task!,"Гадаю, ти довів, що ти не зовсім нікчемний. До наступного завдання!"
 PROPQUEST_INC_000687,"I want you to gather the materials needed for making the weapons of the Mercenary. Try not to mess this one up, alright?","I want you to gather the materials needed for making the weapons of the Mercenary. Try not to mess this one up, alright?"
 PROPQUEST_INC_000688,"Collect 10 Twinkle Stones from Aibatts in the area, 5 Chupims from Pukepukes and 1 Poporam from Doridoma. They should be relatively easy to find.","Collect 10 Twinkle Stones from Aibatts in the area, 5 Chupims from Pukepukes and 1 Poporam from Doridoma. They should be relatively easy to find."
 PROPQUEST_INC_000689,"Once you've gathered enough Twinkle Stones, Chupims and Poporam, bring them to Andy the Mercenary Master in northern Flarine.","Once you've gathered enough Twinkle Stones, Chupims and Poporam, bring them to Andy the Mercenary Master in northern Flarine."
-PROPQUEST_INC_000690,Good luck! You're gonna need it!,Good luck! You're gonna need it!
+PROPQUEST_INC_000690,Good luck! You're gonna need it!,Удачі! Тобі це знадобиться!
 PROPQUEST_INC_000691,Are you afraid of a couple Aibatts? I know they stink and all... but really?,Are you afraid of a couple Aibatts? I know they stink and all... but really?
 PROPQUEST_INC_000692,"Great job acquiring the Twinkle Stones, Chupims and Poporam, Vagrant. Oh, and don't worry about old Mustang. He's all bark and no bite!","Great job acquiring the Twinkle Stones, Chupims and Poporam, Vagrant. Oh, and don't worry about old Mustang. He's all bark and no bite!"
 PROPQUEST_INC_000693,"A Mercenary can use both swords and axes. They each have strengths and weaknesses. Swords strike fast, but deal only moderate damage, whereas axes deal heavy damage but at a moderate speed.","A Mercenary can use both swords and axes. They each have strengths and weaknesses. Swords strike fast, but deal only moderate damage, whereas axes deal heavy damage but at a moderate speed."
@@ -267,7 +267,7 @@ PROPQUEST_INC_000776,Thank you! Good luck!,Thank you! Good luck!
 PROPQUEST_INC_000777,"I see you're not ready to walk the path of the Magician. Very well, speak to me again if you change your mind.","I see you're not ready to walk the path of the Magician. Very well, speak to me again if you change your mind."
 PROPQUEST_INC_000778,"Great job, young Vagrant! I think you'll make a fine Magician.","Great job, young Vagrant! I think you'll make a fine Magician."
 PROPQUEST_INC_000779,You must defeat 15 Captain Aibatts and 10 Small Burudengs to prove you are worthy of Magician training. I will not help you if you cannot even complete this simple task.,You must defeat 15 Captain Aibatts and 10 Small Burudengs to prove you are worthy of Magician training. I will not help you if you cannot even complete this simple task.
-PROPQUEST_INC_000780,I'm afraid you've already chosen a different job. We have nothing more to discuss. You can still cancel the other job quest in the Quest Window and come back to me.,I'm afraid you've already chosen a different job. We have nothing more to discuss. You can still cancel the other job quest in the Quest Window and come back to me.
+PROPQUEST_INC_000780,I'm afraid you've already chosen a different job. We have nothing more to discuss. You can still cancel the other job quest in the Quest Window and come back to me.,"Боюся, ви вже обрали іншу роботу. Нам більше нічого обговорювати. Ви все ще можете скасувати інше завдання у вікні завдань і повернутися до мене."
 PROPQUEST_INC_000781,"Slay 15 Captain Aibatts and 10 Small Burudengs then return to Wingyei, the Magician Drillmaster in Flarine.","Slay 15 Captain Aibatts and 10 Small Burudengs then return to Wingyei, the Magician Drillmaster in Flarine."
 PROPQUEST_INC_000783,Weapons of the Magician,Weapons of the Magician
 PROPQUEST_INC_000784,"Nice work taking care of those Captain Aibatts for us. Now, on to your next task!","Nice work taking care of those Captain Aibatts for us. Now, on to your next task!"
@@ -302,23 +302,23 @@ PROPQUEST_INC_000816,"This allows us to take advantage of elemental vulnerabilit
 PROPQUEST_INC_000817,"I sure wish someone would take care of that Seido creature near Flarine… Oh, hello! Did you need something?","I sure wish someone would take care of that Seido creature near Flarine… Oh, hello! Did you need something?"
 PROPQUEST_INC_000818,Defeat Seido near the west of Flarine. Speak with Magician Instructor Lopaze once he has been defeated.,Defeat Seido near the west of Flarine. Speak with Magician Instructor Lopaze once he has been defeated.
 PROPQUEST_INC_000820,Find Red Bang Thieves,Find Red Bang Thieves
-PROPQUEST_INC_000821,Help! Help me! My cash box... My money... It's all gone! Someone stole my cash box! Iblis watch over me!,Help! Help me! My cash box... My money... It's all gone! Someone stole my cash box! Iblis watch over me!
-PROPQUEST_INC_000822,"I was saving money in my cash box in order to buy a present for my girlfriend, but it disappeared this morning.","I was saving money in my cash box in order to buy a present for my girlfriend, but it disappeared this morning."
-PROPQUEST_INC_000823,"So I have asked people, and they said that there are unknown thieves just west of the Fountain of Dead Person these days. I'm not sure I believe them though…","So I have asked people, and they said that there are unknown thieves just west of the Fountain of Dead Person these days. I'm not sure I believe them though…"
-PROPQUEST_INC_000824,Can you investigate and let me know?,Can you investigate and let me know?
-PROPQUEST_INC_000825,"Thank you! Please bring me the evidence which proves they really exist. If you find them, that is.","Thank you! Please bring me the evidence which proves they really exist. If you find them, that is."
-PROPQUEST_INC_000826,"You only care about yourself. Fine, I'll find someone else.","You only care about yourself. Fine, I'll find someone else."
-PROPQUEST_INC_000827,So they really do exist!,So they really do exist!
-PROPQUEST_INC_000828,"I think this is good evidence, but... I want something more conclusive!","I think this is good evidence, but... I want something more conclusive!"
+PROPQUEST_INC_000821,Help! Help me! My cash box... My money... It's all gone! Someone stole my cash box! Iblis watch over me!,"Допоможіть! Допоможіть мені! Моя каса... Мої гроші... Всі зникли! Хтось вкрав мою касу! Ібліс, пильнуй за мною!"
+PROPQUEST_INC_000822,"I was saving money in my cash box in order to buy a present for my girlfriend, but it disappeared this morning.","Я збирав гроші у своїй касі, щоб купити подарунок для своєї дівчини, але сьогодні вранці вони зникли."
+PROPQUEST_INC_000823,"So I have asked people, and they said that there are unknown thieves just west of the Fountain of Dead Person these days. I'm not sure I believe them though…","Тож я розпитав людей, і вони сказали, що зараз на захід від Фонтану Мертвої Людини водяться невідомі злодії. Хоча я не впевнений, що їм вірю…"
+PROPQUEST_INC_000824,Can you investigate and let me know?,Чи можете ви провести розслідування та повідомити мені?
+PROPQUEST_INC_000825,"Thank you! Please bring me the evidence which proves they really exist. If you find them, that is.","Дякую! Будь ласка, надайте мені докази, які підтверджують їхнє існування. Якщо ви їх знайдете, звісно."
+PROPQUEST_INC_000826,"You only care about yourself. Fine, I'll find someone else.","Ти дбаєш лише про себе. Гаразд, я знайду когось іншого."
+PROPQUEST_INC_000827,So they really do exist!,"Отже, вони справді існують!"
+PROPQUEST_INC_000828,"I think this is good evidence, but... I want something more conclusive!","Я думаю, що це вагомий доказ, але... я хочу чогось більш переконливого!"
 PROPQUEST_INC_000829,Find the thieves west of the Fountain of Dead Person in Flaris and return with evidence.,Find the thieves west of the Fountain of Dead Person in Flaris and return with evidence.
 PROPQUEST_INC_000831,Find Luda's Cash Box,Find Luda's Cash Box
-PROPQUEST_INC_000832,"I asked the witnesses with the evidence you have brought to me, and now it is clear they had stolen my cash box. Now the only thing I have to do is get the cash box back from them.","I asked the witnesses with the evidence you have brought to me, and now it is clear they had stolen my cash box. Now the only thing I have to do is get the cash box back from them."
-PROPQUEST_INC_000833,I am really sorry but please do me a favor once again? I really need to get that cash box back. I really need to get my girlfriend a present. You see…,I am really sorry but please do me a favor once again? I really need to get that cash box back. I really need to get my girlfriend a present. You see…
-PROPQUEST_INC_000834,it is our 100th day anniversary… She will be so upset if I don't. Would you please get my cash box back from them? I will reward you.,it is our 100th day anniversary… She will be so upset if I don't. Would you please get my cash box back from them? I will reward you.
-PROPQUEST_INC_000835,"Thank you. Thank you very much. As I heard, one of them is keeping the cash box.","Thank you. Thank you very much. As I heard, one of them is keeping the cash box."
-PROPQUEST_INC_000836,You make me really disappointed. Whatever…,You make me really disappointed. Whatever…
+PROPQUEST_INC_000832,"I asked the witnesses with the evidence you have brought to me, and now it is clear they had stolen my cash box. Now the only thing I have to do is get the cash box back from them.","Я розпитав свідків, використовуючи докази, які ви мені надали, і тепер зрозуміло, що вони вкрали мою скриньку з готівкою. Тепер єдине, що мені потрібно зробити, це повернути її у них."
+PROPQUEST_INC_000833,I am really sorry but please do me a favor once again? I really need to get that cash box back. I really need to get my girlfriend a present. You see…,"Мені дуже шкода, але будь ласка, зробіть мені ще одну послугу? Мені справді потрібно повернути ту скриньку з грошима. Мені справді потрібно купити подарунок моїй дівчині. Розумієте…"
+PROPQUEST_INC_000834,it is our 100th day anniversary… She will be so upset if I don't. Would you please get my cash box back from them? I will reward you.,"Сьогодні наша 100-та річниця… Вона буде дуже засмучена, якщо я цього не зроблю. Чи не могли б ви, будь ласка, забрати від них мою касу? Я вас винагороджу."
+PROPQUEST_INC_000835,"Thank you. Thank you very much. As I heard, one of them is keeping the cash box.","Дякую. Щиро дякую. Як я чув, один із них тримає касову скриньку."
+PROPQUEST_INC_000836,You make me really disappointed. Whatever…,Ти мене дуже розчаровуєш. Хай там що…
 PROPQUEST_INC_000837,"You found it! Thank you so much! I'll never forget this! Take this, it's the least I can do.","You found it! Thank you so much! I'll never forget this! Take this, it's the least I can do."
-PROPQUEST_INC_000838,Where is my cash box? You have not found it yet. Please bring it to me. I will be waiting.,Where is my cash box? You have not found it yet. Please bring it to me. I will be waiting.
+PROPQUEST_INC_000838,Where is my cash box? You have not found it yet. Please bring it to me. I will be waiting.,"Де моя скринька з грошима? Ви її ще не знайшли. Будь ласка, принесіть її мені. Я чекатиму."
 PROPQUEST_INC_000839,Recover Luda's cash box from the Red bang Thieves at the camp west of the Fountain of Dead Person.,Recover Luda's cash box from the Red bang Thieves at the camp west of the Fountain of Dead Person.
 PROPQUEST_INC_000841,Plot of Colack,Plot of Colack
 PROPQUEST_INC_000842,Did you know that a huge meteorite fell nearby a few days ago?,Did you know that a huge meteorite fell nearby a few days ago?
@@ -497,7 +497,7 @@ PROPQUEST_INC_001029,"What's the matter, you ask? I brought him the evidence you
 PROPQUEST_INC_001030,"How could he be so heartless? These are children we are talking about, here! I need to find a way to get him to look at this evidence.","How could he be so heartless? These are children we are talking about, here! I need to find a way to get him to look at this evidence."
 PROPQUEST_INC_001031,Would you mind helping me once more?,Would you mind helping me once more?
 PROPQUEST_INC_001032,"If you bring him the evidence instead of me, maybe he will take a look at it. I've bugged him enough about this over the years, but maybe a fresh face will do the trick!","If you bring him the evidence instead of me, maybe he will take a look at it. I've bugged him enough about this over the years, but maybe a fresh face will do the trick!"
-PROPQUEST_INC_001033,"But… please, think of the children.","But… please, think of the children."
+PROPQUEST_INC_001033,"But… please, think of the children.","Але… будь ласка, подумайте про дітей."
 PROPQUEST_INC_001034,"Oh for Madrigal's sake! Porgo never gives up! Okay, please bring this to him and tell him never to bring this case up to me again!","Oh for Madrigal's sake! Porgo never gives up! Okay, please bring this to him and tell him never to bring this case up to me again!"
 PROPQUEST_INC_001035,I tour the city everyday in order to listen the opinions of the citizens. Have a wonderful adventure in our fair city!,I tour the city everyday in order to listen the opinions of the citizens. Have a wonderful adventure in our fair city!
 PROPQUEST_INC_001036,Speak with the Mayor of Saint City and give him the evidence from the Mias.,Speak with the Mayor of Saint City and give him the evidence from the Mias.
@@ -520,7 +520,7 @@ PROPQUEST_INC_001054,You think you can give me a hand with this? We're close to 
 PROPQUEST_INC_001055,"Thank you! If this is true, the original report was buried somewhere near Saint Hall. Please bring it to me. Hurry!","Thank you! If this is true, the original report was buried somewhere near Saint Hall. Please bring it to me. Hurry!"
 PROPQUEST_INC_001056,"I know you don't want to get involved, but please. Think of the children.","I know you don't want to get involved, but please. Think of the children."
 PROPQUEST_INC_001057,You found it! I will do my best to uncover the truth and bring those responsible for hiding this to justice!,You found it! I will do my best to uncover the truth and bring those responsible for hiding this to justice!
-PROPQUEST_INC_001058,You didn't find it? It has to be there. Check again!,You didn't find it? It has to be there. Check again!
+PROPQUEST_INC_001058,You didn't find it? It has to be there. Check again!,Ви не знайшли? Воно має бути там. Перевірте ще раз!
 PROPQUEST_INC_001059,Find the Disappearance Investigation report buried somewhere near Saint Hall and bring it to Porgo.,Find the Disappearance Investigation report buried somewhere near Saint Hall and bring it to Porgo.
 PROPQUEST_INC_001061,Revenge of Red Bang Troupe,Revenge of Red Bang Troupe
 PROPQUEST_INC_001062,That Red Bang Troupe is making me absolutely nuts!,That Red Bang Troupe is making me absolutely nuts!
@@ -2725,22 +2725,22 @@ PROPQUEST_INC_150672,[Ranger Master] Eliff even wrote you a letter of introducti
 PROPQUEST_INC_150673,[Billposter Master] Ride even wrote you a letter of introduction just to send you to me.,[Billposter Master] Ride even wrote you a letter of introduction just to send you to me.
 PROPQUEST_INC_150674,[Ringmaster Master] Ellend even wrote you a letter of introduction just to send you to me.,[Ringmaster Master] Ellend even wrote you a letter of introduction just to send you to me.
 PROPQUEST_INC_150675,But I’m not sure I want to help someone I barely know.,But I’m not sure I want to help someone I barely know.
-PROPQUEST_INC_150676,"Can you do exactly as I say, without question? It’s nothing difficult.","Can you do exactly as I say, without question? It’s nothing difficult."
+PROPQUEST_INC_150676,"Can you do exactly as I say, without question? It’s nothing difficult.","Чи можете ви зробити саме так, як я кажу, без питань? Нічого складного."
 PROPQUEST_INC_150677,See the orbs scattered around Kaillun? Choose the one that draws you and bring it to me. I need to look into your past.,See the orbs scattered around Kaillun? Choose the one that draws you and bring it to me. I need to look into your past.
-PROPQUEST_INC_150678,I have no regrets about this choice. Think carefully.,I have no regrets about this choice. Think carefully.
-PROPQUEST_INC_150679,"If you can’t even handle this, that sort of power would only weigh you down.","If you can’t even handle this, that sort of power would only weigh you down."
+PROPQUEST_INC_150678,I have no regrets about this choice. Think carefully.,Я не шкодую про цей вибір. Добре подумайте.
+PROPQUEST_INC_150679,"If you can’t even handle this, that sort of power would only weigh you down.","Якщо ти навіть із цим не можеш впоратися, така сила лише обтяжить тебе."
 PROPQUEST_INC_150680,Hmm… I believe you’ll be fine.,Hmm… I believe you’ll be fine.
 PROPQUEST_INC_150681,I’ll gladly help you open the door to a new realm.,I’ll gladly help you open the door to a new realm.
 PROPQUEST_INC_150682,"Stay right where you are.\nIt’s done. I need to rest now, so you may leave.","Stay right where you are.\nIt’s done. I need to rest now, so you may leave."
 PROPQUEST_INC_150683,Get a $QUEST_END_ITEM_NAME$,Get a $QUEST_END_ITEM_NAME$
-PROPQUEST_INC_150684,It’s done. Do you feel anything?,It’s done. Do you feel anything?
+PROPQUEST_INC_150684,It’s done. Do you feel anything?,Зроблено. Ти щось відчуваєш?
 PROPQUEST_INC_150685,"I need to rest, so go back to the sage who sent you here.","I need to rest, so go back to the sage who sent you here."
 PROPQUEST_INC_150686,"The ritual definitely worked. Take a bit more time to reflect on yourself, then come to me again.","The ritual definitely worked. Take a bit more time to reflect on yourself, then come to me again."
-PROPQUEST_INC_150687,I said you may go now.,I said you may go now.
+PROPQUEST_INC_150687,I said you may go now.,"Я сказав, що ти можеш йти зараз."
 PROPQUEST_INC_150688,"Welcome, adventurer. Have you finally awakened?\nThis is my first time seeing a transcendent in person.","Welcome, adventurer. Have you finally awakened?\nThis is my first time seeing a transcendent in person."
 PROPQUEST_INC_150689,"You say you haven’t awakened, yet I can clearly sense your power.\nSo, what happened?","You say you haven’t awakened, yet I can clearly sense your power.\nSo, what happened?"
 PROPQUEST_INC_150690,"I see. So that’s how it went.\nYou may not have become a transcendent, but I’ll give you a small gift to celebrate your new strength.","I see. So that’s how it went.\nYou may not have become a transcendent, but I’ll give you a small gift to celebrate your new strength."
-PROPQUEST_INC_150691,I look forward to seeing what you do next.,I look forward to seeing what you do next.
+PROPQUEST_INC_150691,I look forward to seeing what you do next.,"З нетерпінням чекаю, що ти зробиш далі."
 PROPQUEST_INC_150692,Go to [Sage] Radyon,Go to [Sage] Radyon
 PROPQUEST_INC_150693,Ankou’s Asylum Boss,Ankou’s Asylum Boss
 PROPQUEST_INC_150694,Hero Grade (4),Hero Grade (4)
