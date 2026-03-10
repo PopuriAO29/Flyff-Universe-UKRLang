@@ -6100,7 +6100,7 @@ PROPITEM_TXT_008493,"Randomly changes the level of a pet's current and previous 
 PROPITEM_TXT_008494,Pet Medicine (A),Медицина для домашніх тварин (A)
 PROPITEM_TXT_008495,Pet HP does not decrease for 10 minutes.,Здоров'я вихованців не зменшується протягом 10 хвилин.
 PROPITEM_TXT_008496,Pet Medicine (B),Pet Медицина для домашніх тварин (B)
-PROPITEM_TXT_008497,Pet HP does not decrease for 10 minute and growing speed become * 1.5,Здоров'я вихованців не зменшується протягом 10 хвилин, а швидкість зростання стає * 1.5
+PROPITEM_TXT_008497,Pet HP does not decrease for 10 minute and growing speed become * 1.5,"Здоров'я вихованців не зменшується протягом 10 хвилин, а швидкість зростання стає * 1.5"
 PROPITEM_TXT_008498,Pet Energy,Енергія домашніх тварин
 PROPITEM_TXT_008499,Add a random life amount (1-5) to your Pet. Does not revive pets.,Add a random life amount (1-5) to your Pet. Does not revive pets.
 PROPITEM_TXT_008500,Feed Bag,Мішок для корму
@@ -6221,7 +6221,7 @@ PROPITEM_TXT_011753,This Re-Stat scroll allows you to recover 50 points previous
 PROPITEM_TXT_011754,Intelligence Re-Stat: Low,Intelligence Re-Stat: Low
 PROPITEM_TXT_011755,This Re-Stat scroll allows you to recover 50 points previously allocated to Intelligence (INT). Only applies to your current stat page.,"Цей сувій відновлення статистики дозволяє вам відновити 50 очок, раніше призначених для Інтелекту (ІNT). Діє лише на вашу поточну сторінку статистики."
 PROPITEM_TXT_018781,Jump Scroll,Стрибковий прокрут
-PROPITEM_TXT_018782,Enables you to jump much higher than usual for 3 minutes.,Дозволяє стрибати набагато вище, ніж зазвичай, протягом 3 хвилин.
+PROPITEM_TXT_018782,Enables you to jump much higher than usual for 3 minutes.,"Дозволяє стрибати набагато вище, ніж зазвичай, протягом 3 хвилин."
 PROPITEM_TXT_100032,Demon Effect (7 days),Demon Effect (7 days)
 PROPITEM_TXT_100033,A mystical Demon aura will appear on your character. Lasts 7 days.,A mystical Demon aura will appear on your character. Lasts 7 days.
 PROPITEM_TXT_100034,Angel Effect (7 days),Angel Effect (7 days)
@@ -6557,9 +6557,9 @@ PROPITEM_TXT_100145,Pericuum Yo-Yo,Pericuum Yo-Yo
 PROPITEM_TXT_100146,Extended Vendor Shop,Extended Vendor Shop
 PROPITEM_TXT_100147,Creates a clone of your character to manage a Personal Shop for you with an extended duration! Double click to close the Shop. You get the item back when the Shop is closed.,Creates a clone of your character to manage a Personal Shop for you with an extended duration! Double click to close the Shop. You get the item back when the Shop is closed.
 PROPITEM_TXT_100148,Alpha Tester Cloak,Плащ Альфа-Тестера
-PROPITEM_TXT_100149,Unique cloak for players who participated in the FlyForFun.io Alpha Test in 2019!,Унікальний плащ для гравців, які брали участь в альфа-тесті FlyForFun.io у 2019 році!
+PROPITEM_TXT_100149,Unique cloak for players who participated in the FlyForFun.io Alpha Test in 2019!,"Унікальний плащ для гравців, які брали участь в альфа-тесті FlyForFun.io у 2019 році!"
 PROPITEM_TXT_100150,Beta Tester Cloak,Плащ бета-тестера
-PROPITEM_TXT_100151,Unique cloak for players who reached the level 40 in Flyff Project M!,Унікальний плащ для гравців, які досягли 40 рівня в Flyff Project M!
+PROPITEM_TXT_100151,Unique cloak for players who reached the level 40 in Flyff Project M!,"Унікальний плащ для гравців, які досягли 40 рівня в Flyff Project M!"
 PROPITEM_TXT_022179,White Cherub Wings,White Cherub Wings
 PROPITEM_TXT_022180,"A set of angelic wings, which give you the appearance of a cherub. You can't fly with them, though.","A set of angelic wings, which give you the appearance of a cherub. You can't fly with them, though."
 PROPITEM_TXT_022291,Bloody Cherub Wings,Bloody Cherub Wings
@@ -17083,155 +17083,155 @@ PROPITEM_TXT_726139,FWC 2024 Guild Rally Winner Reward,FWC 2024 Guild Rally Winn
 PROPITEM_TXT_726140,"A package containing 1x Shadow Hunter Costume Lucky Box, 1x Clockworks Weapon Skin Box, 10x Scroll of Amplification ES, 2x Extra Bag (30 days), 10x Vital Drink X or Refresher Hold, 10x Flask Box and 3x Smelting Scroll of Package A.","A package containing 1x Shadow Hunter Costume Lucky Box, 1x Clockworks Weapon Skin Box, 10x Scroll of Amplification ES, 2x Extra Bag (30 days), 10x Vital Drink X or Refresher Hold, 10x Flask Box and 3x Smelting Scroll of Package A."
 PROPITEM_TXT_726141,FWC 2024 Guild Rally Runner up Reward,FWC 2024 Guild Rally Runner up Reward
 PROPITEM_TXT_726142,"A package containing 1x Clockworks Weapon Skin Box, 10x Scroll of Amplification ES, 2x Extra Bag (30 days), 10x Vital Drink X or Refresher Hold and 10x Flask Box. All items are also linked.","A package containing 1x Clockworks Weapon Skin Box, 10x Scroll of Amplification ES, 2x Extra Bag (30 days), 10x Vital Drink X or Refresher Hold and 10x Flask Box. All items are also linked."
-PROPITEM_TXT_800003,Shining Topaz (1),Shining Topaz (1)
-PROPITEM_TXT_800004,Shining Topaz (2),Shining Topaz (2)
-PROPITEM_TXT_800005,Shining Topaz (3),Shining Topaz (3)
-PROPITEM_TXT_800006,Shining Topaz (4),Shining Topaz (4)
-PROPITEM_TXT_800007,Shining Topaz (5),Shining Topaz (5)
-PROPITEM_TXT_800008,Shining Topaz (6),Shining Topaz (6)
-PROPITEM_TXT_800009,Shining Topaz (7),Shining Topaz (7)
-PROPITEM_TXT_800010,Shining Topaz (8),Shining Topaz (8)
-PROPITEM_TXT_800011,Shining Topaz (9),Shining Topaz (9)
-PROPITEM_TXT_800012,Shining Topaz (10),Shining Topaz (10)
-PROPITEM_TXT_800013,Gives +5 Defense when applied to a ultimate weapon. Can only be attached once.,Gives +5 Defense when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800014,Gives +10 Defense when applied to a ultimate weapon. Can only be attached once.,Gives +10 Defense when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800015,Gives +15 Defense when applied to a ultimate weapon. Can only be attached once.,Gives +15 Defense when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800016,Gives +20 Defense when applied to a ultimate weapon. Can only be attached once.,Gives +20 Defense when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800017,Gives +25 Defense when applied to a ultimate weapon. Can only be attached once.,Gives +25 Defense when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800018,Gives +30 Defense when applied to a ultimate weapon. Can only be attached once.,Gives +30 Defense when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800019,Gives +35 Defense when applied to a ultimate weapon. Can only be attached once.,Gives +35 Defense when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800020,Gives +40 Defense when applied to a ultimate weapon. Can only be attached once.,Gives +40 Defense when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800021,Gives +45 Defense when applied to a ultimate weapon. Can only be attached once.,Gives +45 Defense when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800022,Gives +50 Defense when applied to a ultimate weapon. Can only be attached once.,Gives +50 Defense when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800023,Shining Ruby (1),Shining Ruby (1)
-PROPITEM_TXT_800024,Shining Ruby (2),Shining Ruby (2)
-PROPITEM_TXT_800025,Shining Ruby (3),Shining Ruby (3)
-PROPITEM_TXT_800026,Shining Ruby (4),Shining Ruby (4)
-PROPITEM_TXT_800027,Shining Ruby (5),Shining Ruby (5)
-PROPITEM_TXT_800028,Shining Ruby (6),Shining Ruby (6)
-PROPITEM_TXT_800029,Shining Ruby (7),Shining Ruby (7)
-PROPITEM_TXT_800030,Shining Ruby (8),Shining Ruby (8)
-PROPITEM_TXT_800031,Shining Ruby (9),Shining Ruby (9)
-PROPITEM_TXT_800032,Shining Ruby (10),Shining Ruby (10)
-PROPITEM_TXT_800033,Gives +1 Strength when applied to a ultimate weapon. Can only be attached once.,Gives +1 Strength when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800034,Gives +2 Strength when applied to a ultimate weapon. Can only be attached once.,Gives +2 Strength when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800035,Gives +3 Strength when applied to a ultimate weapon. Can only be attached once.,Gives +3 Strength when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800036,Gives +4 Strength when applied to a ultimate weapon. Can only be attached once.,Gives +4 Strength when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800037,Gives +5 Strength when applied to a ultimate weapon. Can only be attached once.,Gives +5 Strength when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800038,Gives +6 Strength when applied to a ultimate weapon. Can only be attached once.,Gives +6 Strength when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800039,Gives +7 Strength when applied to a ultimate weapon. Can only be attached once.,Gives +7 Strength when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800040,Gives +8 Strength when applied to a ultimate weapon. Can only be attached once.,Gives +8 Strength when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800041,Gives +9 Strength when applied to a ultimate weapon. Can only be attached once.,Gives +9 Strength when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800042,Gives +10 Strength when applied to a ultimate weapon. Can only be attached once.,Gives +10 Strength when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800043,Shining Sapphire (1),Shining Sapphire (1)
-PROPITEM_TXT_800044,Shining Sapphire (2),Shining Sapphire (2)
-PROPITEM_TXT_800045,Shining Sapphire (3),Shining Sapphire (3)
-PROPITEM_TXT_800046,Shining Sapphire (4),Shining Sapphire (4)
-PROPITEM_TXT_800047,Shining Sapphire (5),Shining Sapphire (5)
-PROPITEM_TXT_800048,Shining Sapphire (6),Shining Sapphire (6)
-PROPITEM_TXT_800049,Shining Sapphire (7),Shining Sapphire (7)
-PROPITEM_TXT_800050,Shining Sapphire (8),Shining Sapphire (8)
-PROPITEM_TXT_800051,Shining Sapphire (9),Shining Sapphire (9)
-PROPITEM_TXT_800052,Shining Sapphire (10),Shining Sapphire (10)
-PROPITEM_TXT_800053,Gives +1 Intelligence when applied to a ultimate weapon. Can only be attached once.,Gives +1 Intelligence when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800054,Gives +2 Intelligence when applied to a ultimate weapon. Can only be attached once.,Gives +2 Intelligence when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800055,Gives +3 Intelligence when applied to a ultimate weapon. Can only be attached once.,Gives +3 Intelligence when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800056,Gives +4 Intelligence when applied to a ultimate weapon. Can only be attached once.,Gives +4 Intelligence when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800057,Gives +5 Intelligence when applied to a ultimate weapon. Can only be attached once.,Gives +5 Intelligence when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800058,Gives +6 Intelligence when applied to a ultimate weapon. Can only be attached once.,Gives +6 Intelligence when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800059,Gives +7 Intelligence when applied to a ultimate weapon. Can only be attached once.,Gives +7 Intelligence when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800060,Gives +8 Intelligence when applied to a ultimate weapon. Can only be attached once.,Gives +8 Intelligence when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800061,Gives +9 Intelligence when applied to a ultimate weapon. Can only be attached once.,Gives +9 Intelligence when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800062,Gives +10 Intelligence when applied to a ultimate weapon. Can only be attached once.,Gives +10 Intelligence when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800063,Shining Emerald (1),Shining Emerald (1)
-PROPITEM_TXT_800064,Shining Emerald (2),Shining Emerald (2)
-PROPITEM_TXT_800065,Shining Emerald (3),Shining Emerald (3)
-PROPITEM_TXT_800066,Shining Emerald (4),Shining Emerald (4)
-PROPITEM_TXT_800067,Shining Emerald (5),Shining Emerald (5)
-PROPITEM_TXT_800068,Shining Emerald (6),Shining Emerald (6)
-PROPITEM_TXT_800069,Shining Emerald (7),Shining Emerald (7)
-PROPITEM_TXT_800070,Shining Emerald (8),Shining Emerald (8)
-PROPITEM_TXT_800071,Shining Emerald (9),Shining Emerald (9)
-PROPITEM_TXT_800072,Shining Emerald (10),Shining Emerald (10)
-PROPITEM_TXT_800073,Gives +1 Dexterity when applied to a ultimate weapon. Can only be attached once.,Gives +1 Dexterity when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800074,Gives +2 Dexterity when applied to a ultimate weapon. Can only be attached once.,Gives +2 Dexterity when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800075,Gives +3 Dexterity when applied to a ultimate weapon. Can only be attached once.,Gives +3 Dexterity when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800076,Gives +4 Dexterity when applied to a ultimate weapon. Can only be attached once.,Gives +4 Dexterity when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800077,Gives +5 Dexterity when applied to a ultimate weapon. Can only be attached once.,Gives +5 Dexterity when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800078,Gives +6 Dexterity when applied to a ultimate weapon. Can only be attached once.,Gives +6 Dexterity when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800079,Gives +7 Dexterity when applied to a ultimate weapon. Can only be attached once.,Gives +7 Dexterity when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800080,Gives +8 Dexterity when applied to a ultimate weapon. Can only be attached once.,Gives +8 Dexterity when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800081,Gives +9 Dexterity when applied to a ultimate weapon. Can only be attached once.,Gives +9 Dexterity when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800082,Gives +10 Dexterity when applied to a ultimate weapon. Can only be attached once.,Gives +10 Dexterity when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800083,Shining Amethyst (1),Shining Amethyst (1)
-PROPITEM_TXT_800084,Shining Amethyst (2),Shining Amethyst (2)
-PROPITEM_TXT_800085,Shining Amethyst (3),Shining Amethyst (3)
-PROPITEM_TXT_800086,Shining Amethyst (4),Shining Amethyst (4)
-PROPITEM_TXT_800087,Shining Amethyst (5),Shining Amethyst (5)
-PROPITEM_TXT_800088,Shining Amethyst (6),Shining Amethyst (6)
-PROPITEM_TXT_800089,Shining Amethyst (7),Shining Amethyst (7)
-PROPITEM_TXT_800090,Shining Amethyst (8),Shining Amethyst (8)
-PROPITEM_TXT_800091,Shining Amethyst (9),Shining Amethyst (9)
-PROPITEM_TXT_800092,Shining Amethyst (10),Shining Amethyst (10)
-PROPITEM_TXT_800093,Gives +1 Stamina when applied to a ultimate weapon. Can only be attached once.,Gives +1 Stamina when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800094,Gives +2 Stamina when applied to a ultimate weapon. Can only be attached once.,Gives +2 Stamina when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800095,Gives +3 Stamina when applied to a ultimate weapon. Can only be attached once.,Gives +3 Stamina when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800096,Gives +4 Stamina when applied to a ultimate weapon. Can only be attached once.,Gives +4 Stamina when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800097,Gives +5 Stamina when applied to a ultimate weapon. Can only be attached once.,Gives +5 Stamina when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800098,Gives +6 Stamina when applied to a ultimate weapon. Can only be attached once.,Gives +6 Stamina when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800099,Gives +7 Stamina when applied to a ultimate weapon. Can only be attached once.,Gives +7 Stamina when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800100,Gives +8 Stamina when applied to a ultimate weapon. Can only be attached once.,Gives +8 Stamina when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800101,Gives +9 Stamina when applied to a ultimate weapon. Can only be attached once.,Gives +9 Stamina when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800102,Gives +10 Stamina when applied to a ultimate weapon. Can only be attached once.,Gives +10 Stamina when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800103,Shining Diamond (1),Shining Diamond (1)
-PROPITEM_TXT_800104,Shining Diamond (2),Shining Diamond (2)
-PROPITEM_TXT_800105,Shining Diamond (3),Shining Diamond (3)
-PROPITEM_TXT_800106,Shining Diamond (4),Shining Diamond (4)
-PROPITEM_TXT_800107,Shining Diamond (5),Shining Diamond (5)
-PROPITEM_TXT_800108,Shining Diamond (6),Shining Diamond (6)
-PROPITEM_TXT_800109,Shining Diamond (7),Shining Diamond (7)
-PROPITEM_TXT_800110,Shining Diamond (8),Shining Diamond (8)
-PROPITEM_TXT_800111,Shining Diamond (9),Shining Diamond (9)
-PROPITEM_TXT_800112,Shining Diamond (10),Shining Diamond (10)
-PROPITEM_TXT_800113,Gives +50 HP when applied to a ultimate weapon. Can only be attached once.,Gives +50 HP when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800114,Gives +100 HP when applied to a ultimate weapon. Can only be attached once.,Gives +100 HP when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800115,Gives +150 HP when applied to a ultimate weapon. Can only be attached once.,Gives +150 HP when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800116,Gives +200 HP when applied to a ultimate weapon. Can only be attached once.,Gives +200 HP when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800117,Gives +250 HP when applied to a ultimate weapon. Can only be attached once.,Gives +250 HP when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800118,Gives +300 HP when applied to a ultimate weapon. Can only be attached once.,Gives +300 HP when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800119,Gives +350 HP when applied to a ultimate weapon. Can only be attached once.,Gives +350 HP when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800120,Gives +400 HP when applied to a ultimate weapon. Can only be attached once.,Gives +400 HP when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800121,Gives +450 HP when applied to a ultimate weapon. Can only be attached once.,Gives +450 HP when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800122,Gives +500 HP when applied to a ultimate weapon. Can only be attached once.,Gives +500 HP when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800123,Shining Onyx (1),Shining Onyx (1)
-PROPITEM_TXT_800124,Shining Onyx (2),Shining Onyx (2)
-PROPITEM_TXT_800125,Shining Onyx (3),Shining Onyx (3)
-PROPITEM_TXT_800126,Shining Onyx (4),Shining Onyx (4)
-PROPITEM_TXT_800127,Shining Onyx (5),Shining Onyx (5)
-PROPITEM_TXT_800128,Shining Onyx (6),Shining Onyx (6)
-PROPITEM_TXT_800129,Shining Onyx (7),Shining Onyx (7)
-PROPITEM_TXT_800130,Shining Onyx (8),Shining Onyx (8)
-PROPITEM_TXT_800131,Shining Onyx (9),Shining Onyx (9)
-PROPITEM_TXT_800132,Shining Onyx (10),Shining Onyx (10)
-PROPITEM_TXT_800133,Gives +10 Attack Power when applied to a ultimate weapon. Can only be attached once.,Gives +10 Attack Power when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800134,Gives +20 Attack Power when applied to a ultimate weapon. Can only be attached once.,Gives +20 Attack Power when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800135,Gives +30 Attack Power when applied to a ultimate weapon. Can only be attached once.,Gives +30 Attack Power when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800136,Gives +40 Attack Power when applied to a ultimate weapon. Can only be attached once.,Gives +40 Attack Power when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800137,Gives +50 Attack Power when applied to a ultimate weapon. Can only be attached once.,Gives +50 Attack Power when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800138,Gives +60 Attack Power when applied to a ultimate weapon. Can only be attached once.,Gives +60 Attack Power when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800139,Gives +70 Attack Power when applied to a ultimate weapon. Can only be attached once.,Gives +70 Attack Power when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800140,Gives +80 Attack Power when applied to a ultimate weapon. Can only be attached once.,Gives +80 Attack Power when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800141,Gives +90 Attack Power when applied to a ultimate weapon. Can only be attached once.,Gives +90 Attack Power when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800142,Gives +100 Attack Power when applied to a ultimate weapon. Can only be attached once.,Gives +100 Attack Power when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800143,Jewel Tweezers,Jewel Tweezers
-PROPITEM_TXT_800144,You can get the attached jewel without destruction.,You can get the attached jewel without destruction.
+PROPITEM_TXT_800003,Shining Topaz (1),Сяючий топаз (1)
+PROPITEM_TXT_800004,Shining Topaz (2),Сяючий топаз (2)
+PROPITEM_TXT_800005,Shining Topaz (3),Сяючий топаз (3)
+PROPITEM_TXT_800006,Shining Topaz (4),Сяючий топаз (4)
+PROPITEM_TXT_800007,Shining Topaz (5),Сяючий топаз (5)
+PROPITEM_TXT_800008,Shining Topaz (6),Сяючий топаз (6)
+PROPITEM_TXT_800009,Shining Topaz (7),Сяючий топаз (7)
+PROPITEM_TXT_800010,Shining Topaz (8),Сяючий топаз (8)
+PROPITEM_TXT_800011,Shining Topaz (9),Сяючий топаз (9)
+PROPITEM_TXT_800012,Shining Topaz (10),Сяючий топаз (10)
+PROPITEM_TXT_800013,Gives +5 Defense when applied to a ultimate weapon. Can only be attached once.,"Дає +5 до захисту, якщо застосувати до ультимативної зброї. Можна прикріпити лише один раз."
+PROPITEM_TXT_800014,Gives +10 Defense when applied to a ultimate weapon. Can only be attached once.,"Дає +10 до захисту, якщо застосувати до ультимативної зброї. Можна прикріпити лише один раз."
+PROPITEM_TXT_800015,Gives +15 Defense when applied to a ultimate weapon. Can only be attached once.,"Дає +15 до захисту, якщо застосувати до ультимативної зброї. Можна прикріпити лише один раз."
+PROPITEM_TXT_800016,Gives +20 Defense when applied to a ultimate weapon. Can only be attached once.,"Дає +20 до захисту, якщо застосувати до ультимативної зброї. Можна прикріпити лише один раз."
+PROPITEM_TXT_800017,Gives +25 Defense when applied to a ultimate weapon. Can only be attached once.,"Дає +25 до захисту, якщо застосувати до ультимативної зброї. Можна прикріпити лише один раз."
+PROPITEM_TXT_800018,Gives +30 Defense when applied to a ultimate weapon. Can only be attached once.,"Дає +30 до захисту, якщо застосувати до ультимативної зброї. Можна прикріпити лише один раз."
+PROPITEM_TXT_800019,Gives +35 Defense when applied to a ultimate weapon. Can only be attached once.,"Дає +35 до захисту, якщо застосувати до ультимативної зброї. Можна прикріпити лише один раз."
+PROPITEM_TXT_800020,Gives +40 Defense when applied to a ultimate weapon. Can only be attached once.,"Дає +40 до захисту, якщо застосувати до ультимативної зброї. Можна прикріпити лише один раз."
+PROPITEM_TXT_800021,Gives +45 Defense when applied to a ultimate weapon. Can only be attached once.,"Дає +45 до захисту, якщо застосувати до ультимативної зброї. Можна прикріпити лише один раз."
+PROPITEM_TXT_800022,Gives +50 Defense when applied to a ultimate weapon. Can only be attached once.,"Дає +50 до захисту, якщо застосувати до ультимативної зброї. Можна прикріпити лише один раз."
+PROPITEM_TXT_800023,Shining Ruby (1),Сяючий рубін (1)
+PROPITEM_TXT_800024,Shining Ruby (2),Сяючий рубін (2)
+PROPITEM_TXT_800025,Shining Ruby (3),Сяючий рубін (3)
+PROPITEM_TXT_800026,Shining Ruby (4),Сяючий рубін (4)
+PROPITEM_TXT_800027,Shining Ruby (5),Сяючий рубін (5)
+PROPITEM_TXT_800028,Shining Ruby (6),Сяючий рубін (6)
+PROPITEM_TXT_800029,Shining Ruby (7),Сяючий рубін (7)
+PROPITEM_TXT_800030,Shining Ruby (8),Сяючий рубін (8)
+PROPITEM_TXT_800031,Shining Ruby (9),Сяючий рубін (9)
+PROPITEM_TXT_800032,Shining Ruby (10),Сяючий рубін (10)
+PROPITEM_TXT_800033,Gives +1 Strength when applied to a ultimate weapon. Can only be attached once.,Дає +1 до Сили (STR) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800034,Gives +2 Strength when applied to a ultimate weapon. Can only be attached once.,Дає +2 до Сили (STR) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800035,Gives +3 Strength when applied to a ultimate weapon. Can only be attached once.,Дає +3 до Сили (STR) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800036,Gives +4 Strength when applied to a ultimate weapon. Can only be attached once.,Дає +4 до Сили (STR) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800037,Gives +5 Strength when applied to a ultimate weapon. Can only be attached once.,Дає +5 до Сили (STR) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800038,Gives +6 Strength when applied to a ultimate weapon. Can only be attached once.,Дає +6 до Сили (STR) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800039,Gives +7 Strength when applied to a ultimate weapon. Can only be attached once.,Дає +7 до Сили (STR) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800040,Gives +8 Strength when applied to a ultimate weapon. Can only be attached once.,Дає +8 до Сили (STR) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800041,Gives +9 Strength when applied to a ultimate weapon. Can only be attached once.,Дає +9 до Сили (STR) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800042,Gives +10 Strength when applied to a ultimate weapon. Can only be attached once.,Дає +10 до Сили (STR) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800043,Shining Sapphire (1),Сяючий сапфір (1)
+PROPITEM_TXT_800044,Shining Sapphire (2),Сяючий сапфір (2)
+PROPITEM_TXT_800045,Shining Sapphire (3),Сяючий сапфір (3)
+PROPITEM_TXT_800046,Shining Sapphire (4),Сяючий сапфір (4)
+PROPITEM_TXT_800047,Shining Sapphire (5),Сяючий сапфір (5)
+PROPITEM_TXT_800048,Shining Sapphire (6),Сяючий сапфір (6)
+PROPITEM_TXT_800049,Shining Sapphire (7),Сяючий сапфір (7)
+PROPITEM_TXT_800050,Shining Sapphire (8),Сяючий сапфір (8)
+PROPITEM_TXT_800051,Shining Sapphire (9),Сяючий сапфір (9)
+PROPITEM_TXT_800052,Shining Sapphire (10),Сяючий сапфір (10)
+PROPITEM_TXT_800053,Gives +1 Intelligence when applied to a ultimate weapon. Can only be attached once.,Дає +1 до Інтелекту (INT) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800054,Gives +2 Intelligence when applied to a ultimate weapon. Can only be attached once.,Дає +2 до Інтелекту (INT) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800055,Gives +3 Intelligence when applied to a ultimate weapon. Can only be attached once.,Дає +3 до Інтелекту (INT) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800056,Gives +4 Intelligence when applied to a ultimate weapon. Can only be attached once.,Дає +4 до Інтелекту (INT) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800057,Gives +5 Intelligence when applied to a ultimate weapon. Can only be attached once.,Дає +5 до Інтелекту (INT) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800058,Gives +6 Intelligence when applied to a ultimate weapon. Can only be attached once.,Дає +6 до Інтелекту (INT) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800059,Gives +7 Intelligence when applied to a ultimate weapon. Can only be attached once.,Дає +7 до Інтелекту (INT) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800060,Gives +8 Intelligence when applied to a ultimate weapon. Can only be attached once.,Дає +8 до Інтелекту (INT) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800061,Gives +9 Intelligence when applied to a ultimate weapon. Can only be attached once.,Дає +9 до Інтелекту (INT) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800062,Gives +10 Intelligence when applied to a ultimate weapon. Can only be attached once.,Дає +10 до Інтелекту (INT) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800063,Shining Emerald (1),Сяючий смарагд (1)
+PROPITEM_TXT_800064,Shining Emerald (2),Сяючий смарагд (2)
+PROPITEM_TXT_800065,Shining Emerald (3),Сяючий смарагд (3)
+PROPITEM_TXT_800066,Shining Emerald (4),Сяючий смарагд (4)
+PROPITEM_TXT_800067,Shining Emerald (5),Сяючий смарагд (5)
+PROPITEM_TXT_800068,Shining Emerald (6),Сяючий смарагд (6)
+PROPITEM_TXT_800069,Shining Emerald (7),Сяючий смарагд (7)
+PROPITEM_TXT_800070,Shining Emerald (8),Сяючий смарагд (8)
+PROPITEM_TXT_800071,Shining Emerald (9),Сяючий смарагд (9)
+PROPITEM_TXT_800072,Shining Emerald (10),Сяючий смарагд (10)
+PROPITEM_TXT_800073,Gives +1 Dexterity when applied to a ultimate weapon. Can only be attached once.,Дає +1 до спритності (DEX) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800074,Gives +2 Dexterity when applied to a ultimate weapon. Can only be attached once.,Дає +2 до спритності (DEX) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800075,Gives +3 Dexterity when applied to a ultimate weapon. Can only be attached once.,Дає +3 до спритності (DEX) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800076,Gives +4 Dexterity when applied to a ultimate weapon. Can only be attached once.,Дає +4 до спритності (DEX) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800077,Gives +5 Dexterity when applied to a ultimate weapon. Can only be attached once.,Дає +5 до спритності (DEX) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800078,Gives +6 Dexterity when applied to a ultimate weapon. Can only be attached once.,Дає +6 до спритності (DEX) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800079,Gives +7 Dexterity when applied to a ultimate weapon. Can only be attached once.,Дає +7 до спритності (DEX) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800080,Gives +8 Dexterity when applied to a ultimate weapon. Can only be attached once.,Дає +8 до спритності (DEX) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800081,Gives +9 Dexterity when applied to a ultimate weapon. Can only be attached once.,Дає +9 до спритності (DEX) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800082,Gives +10 Dexterity when applied to a ultimate weapon. Can only be attached once.,Дає +10 до спритності (DEX) при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800083,Shining Amethyst (1),Сяючий аметист (1)
+PROPITEM_TXT_800084,Shining Amethyst (2),Сяючий аметист (2)
+PROPITEM_TXT_800085,Shining Amethyst (3),Сяючий аметист (3)
+PROPITEM_TXT_800086,Shining Amethyst (4),Сяючий аметист (4)
+PROPITEM_TXT_800087,Shining Amethyst (5),Сяючий аметист (5)
+PROPITEM_TXT_800088,Shining Amethyst (6),Сяючий аметист (6)
+PROPITEM_TXT_800089,Shining Amethyst (7),Сяючий аметист (7)
+PROPITEM_TXT_800090,Shining Amethyst (8),Сяючий аметист (8)
+PROPITEM_TXT_800091,Shining Amethyst (9),Сяючий аметист (9)
+PROPITEM_TXT_800092,Shining Amethyst (10),Сяючий аметист (10)
+PROPITEM_TXT_800093,Gives +1 Stamina when applied to a ultimate weapon. Can only be attached once.,Дає +1 до Витривалості (STA) при застосуванні до абсолютної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800094,Gives +2 Stamina when applied to a ultimate weapon. Can only be attached once.,Дає +2 до Витривалості (STA) при застосуванні до абсолютної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800095,Gives +3 Stamina when applied to a ultimate weapon. Can only be attached once.,Дає +3 до Витривалості (STA) при застосуванні до абсолютної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800096,Gives +4 Stamina when applied to a ultimate weapon. Can only be attached once.,Дає +4 до Витривалості (STA) при застосуванні до абсолютної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800097,Gives +5 Stamina when applied to a ultimate weapon. Can only be attached once.,Дає +5 до Витривалості (STA) при застосуванні до абсолютної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800098,Gives +6 Stamina when applied to a ultimate weapon. Can only be attached once.,Дає +6 до Витривалості (STA) при застосуванні до абсолютної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800099,Gives +7 Stamina when applied to a ultimate weapon. Can only be attached once.,Дає +7 до Витривалості (STA) при застосуванні до абсолютної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800100,Gives +8 Stamina when applied to a ultimate weapon. Can only be attached once.,Дає +8 до Витривалості (STA) при застосуванні до абсолютної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800101,Gives +9 Stamina when applied to a ultimate weapon. Can only be attached once.,Дає +9 до Витривалості (STA) при застосуванні до абсолютної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800102,Gives +10 Stamina when applied to a ultimate weapon. Can only be attached once.,Дає +10 до Витривалості (STA) при застосуванні до абсолютної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800103,Shining Diamond (1),Сяючий діамант (1)
+PROPITEM_TXT_800104,Shining Diamond (2),Сяючий діамант (2)
+PROPITEM_TXT_800105,Shining Diamond (3),Сяючий діамант (3)
+PROPITEM_TXT_800106,Shining Diamond (4),Сяючий діамант (4)
+PROPITEM_TXT_800107,Shining Diamond (5),Сяючий діамант (5)
+PROPITEM_TXT_800108,Shining Diamond (6),Сяючий діамант (6)
+PROPITEM_TXT_800109,Shining Diamond (7),Сяючий діамант (7)
+PROPITEM_TXT_800110,Shining Diamond (8),Сяючий діамант (8)
+PROPITEM_TXT_800111,Shining Diamond (9),Сяючий діамант (9)
+PROPITEM_TXT_800112,Shining Diamond (10),Сяючий діамант (10)
+PROPITEM_TXT_800113,Gives +50 HP when applied to a ultimate weapon. Can only be attached once.,Дає +50 HP при застосуванні до абсолютної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800114,Gives +100 HP when applied to a ultimate weapon. Can only be attached once.,Дає +100 HP при застосуванні до абсолютної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800115,Gives +150 HP when applied to a ultimate weapon. Can only be attached once.,Дає +150 HP при застосуванні до абсолютної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800116,Gives +200 HP when applied to a ultimate weapon. Can only be attached once.,Дає +200 HP при застосуванні до абсолютної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800117,Gives +250 HP when applied to a ultimate weapon. Can only be attached once.,Дає +250 HP при застосуванні до абсолютної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800118,Gives +300 HP when applied to a ultimate weapon. Can only be attached once.,Дає +300 HP при застосуванні до абсолютної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800119,Gives +350 HP when applied to a ultimate weapon. Can only be attached once.,Дає +350 HP при застосуванні до абсолютної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800120,Gives +400 HP when applied to a ultimate weapon. Can only be attached once.,Дає +400 HP при застосуванні до абсолютної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800121,Gives +450 HP when applied to a ultimate weapon. Can only be attached once.,Дає +450 HP при застосуванні до абсолютної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800122,Gives +500 HP when applied to a ultimate weapon. Can only be attached once.,Дає +500 HP при застосуванні до абсолютної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800123,Shining Onyx (1),Сяючий Онікс (1)
+PROPITEM_TXT_800124,Shining Onyx (2),Сяючий Онікс (2)
+PROPITEM_TXT_800125,Shining Onyx (3),Сяючий Онікс (3)
+PROPITEM_TXT_800126,Shining Onyx (4),Сяючий Онікс (4)
+PROPITEM_TXT_800127,Shining Onyx (5),Сяючий Онікс (5)
+PROPITEM_TXT_800128,Shining Onyx (6),Сяючий Онікс (6)
+PROPITEM_TXT_800129,Shining Onyx (7),Сяючий Онікс (7)
+PROPITEM_TXT_800130,Shining Onyx (8),Сяючий Онікс (8)
+PROPITEM_TXT_800131,Shining Onyx (9),Сяючий Онікс (9)
+PROPITEM_TXT_800132,Shining Onyx (10),Сяючий Онікс (10)
+PROPITEM_TXT_800133,Gives +10 Attack Power when applied to a ultimate weapon. Can only be attached once.,Дає +10 до сили атаки при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800134,Gives +20 Attack Power when applied to a ultimate weapon. Can only be attached once.,Дає +20 до сили атаки при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800135,Gives +30 Attack Power when applied to a ultimate weapon. Can only be attached once.,Дає +30 до сили атаки при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800136,Gives +40 Attack Power when applied to a ultimate weapon. Can only be attached once.,Дає +40 до сили атаки при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800137,Gives +50 Attack Power when applied to a ultimate weapon. Can only be attached once.,Дає +50 до сили атаки при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800138,Gives +60 Attack Power when applied to a ultimate weapon. Can only be attached once.,Дає +60 до сили атаки при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800139,Gives +70 Attack Power when applied to a ultimate weapon. Can only be attached once.,Дає +70 до сили атаки при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800140,Gives +80 Attack Power when applied to a ultimate weapon. Can only be attached once.,Дає +80 до сили атаки при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800141,Gives +90 Attack Power when applied to a ultimate weapon. Can only be attached once.,Дає +90 до сили атаки при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800142,Gives +100 Attack Power when applied to a ultimate weapon. Can only be attached once.,Дає +100 до сили атаки при застосуванні до ультимативної зброї. Можна прикріпити лише один раз.
+PROPITEM_TXT_800143,Jewel Tweezers,Пінцети для коштовностей
+PROPITEM_TXT_800144,You can get the attached jewel without destruction.,Ви можете отримати прикріплену коштовність без її руйнування.
 PROPITEM_TXT_800145,Rune of Increasing HP,Rune of Increasing HP
 PROPITEM_TXT_800146,Rune of Increasing MP,Rune of Increasing MP
 PROPITEM_TXT_800147,Rune of Increasing FP,Rune of Increasing FP
-PROPITEM_TXT_800148,Rune of Attack,Rune of Attack
+PROPITEM_TXT_800148,Rune of Attack,Руна атаки
 PROPITEM_TXT_800149,Rune of Defense,Rune of Defense
 PROPITEM_TXT_800150,Rune of Attack Speed,Rune of Attack Speed
-PROPITEM_TXT_800151,Rune of Speed,Rune of Speed
+PROPITEM_TXT_800151,Rune of Speed,Руна швидкості
 PROPITEM_TXT_800152,Rune of Critical Chance,Rune of Critical Chance
 PROPITEM_TXT_800153,Rune of Critical Bonus,Rune of Critical Bonus
 PROPITEM_TXT_800154,Rune of Hit Rate,Rune of Hit Rate
@@ -17245,7 +17245,7 @@ PROPITEM_TXT_800161,Rune of FP Decrease Rate,Rune of FP Decrease Rate
 PROPITEM_TXT_800162,Gives +10% HP when applied to a ultimate weapon. Can only be attached once.,Gives +10% HP when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800163,Gives +10% MP when applied to a ultimate weapon. Can only be attached once.,Gives +10% MP when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800164,Gives +10% FP when applied to a ultimate weapon. Can only be attached once.,Gives +10% FP when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800165,Gives +10% attack power when applied to a ultimate weapon. Can only be attached once.,Gives +10% attack power when applied to a ultimate weapon. Can only be attached once.
+PROPITEM_TXT_800165,Gives +10% attack power when applied to a ultimate weapon. Can only be attached once.,Дає +10% сили атаки при застосуванні до найкращої зброї. Можна прикріпити лише один раз.
 PROPITEM_TXT_800166,Gives +10% defense when applied to a ultimate weapon. Can only be attached once.,Gives +10% defense when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800167,Gives +10% attack speed when applied to a ultimate weapon. Can only be attached once.,Gives +10% attack speed when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800168,Gives +10% speed when applied to a ultimate weapon. Can only be attached once.,Gives +10% speed when applied to a ultimate weapon. Can only be attached once.
@@ -17254,19 +17254,19 @@ PROPITEM_TXT_800170,Gives +10% critical bonus when applied to a ultimate weapon.
 PROPITEM_TXT_800171,Gives +10% hit rate when applied to a ultimate weapon. Can only be attached once.,Gives +10% hit rate when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800172,Gives +10% magic resist when applied to a ultimate weapon. Can only be attached once.,Gives +10% magic resist when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800173,Gives +10% critical resistance when applied to a ultimate weapon. Can only be attached once.,Gives +10% critical resistance when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800174,Gives +10% melee block when applied to a ultimate weapon. Can only be attached once.,Gives +10% melee block when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800175,Gives +10% range block when applied to a ultimate weapon. Can only be attached once.,Gives +10% range block when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800176,Gives +10% skill range when applied to a ultimate weapon. Can only be attached once.,Gives +10% skill range when applied to a ultimate weapon. Can only be attached once.
+PROPITEM_TXT_800174,Gives +10% melee block when applied to a ultimate weapon. Can only be attached once.,"Дає +10% блоку ближнього бою, якщо застосувати до найвищої зброї. Можна прикріпити лише один раз."
+PROPITEM_TXT_800175,Gives +10% range block when applied to a ultimate weapon. Can only be attached once.,"Дає +10% блоку дальності, якщо застосувати до найкращої зброї. Можна прикріпити лише один раз."
+PROPITEM_TXT_800176,Gives +10% skill range when applied to a ultimate weapon. Can only be attached once.,"Дає +10% дальності вміння, якщо застосувати до найвищої зброї. Можна прикріпити лише один раз."
 PROPITEM_TXT_800177,Gives +10% MP consumption decrease when applied to a ultimate weapon. Can only be attached once.,Gives +10% MP consumption decrease when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800178,Gives +10% FP consumption decrease when applied to a ultimate weapon. Can only be attached once.,Gives +10% FP consumption decrease when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800179,Shining Topaz Piece,Shining Topaz Piece
-PROPITEM_TXT_800180,Shining Ruby Piece,Shining Ruby Piece
-PROPITEM_TXT_800181,Shining Sapphire Piece,Shining Sapphire Piece
-PROPITEM_TXT_800182,Shining Emerald Piece,Shining Emerald Piece
-PROPITEM_TXT_800183,Shining Diamond Piece,Shining Diamond Piece
-PROPITEM_TXT_800184,Shining Amethyst Piece,Shining Amethyst Piece
-PROPITEM_TXT_800185,Shining Onyx Piece,Shining Onyx Piece
-PROPITEM_TXT_800186,It's a piece where you can get a complete jewel if you collect and process 10 pieces.,It's a piece where you can get a complete jewel if you collect and process 10 pieces.
+PROPITEM_TXT_800179,Shining Topaz Piece,Сяючий шматок топазу
+PROPITEM_TXT_800180,Shining Ruby Piece,Сяючий рубіновий шматок
+PROPITEM_TXT_800181,Shining Sapphire Piece,Сяючий сапфір шматок
+PROPITEM_TXT_800182,Shining Emerald Piece,Сяючий смарагдовий шматок
+PROPITEM_TXT_800183,Shining Diamond Piece,Сяючий діамант шматок
+PROPITEM_TXT_800184,Shining Amethyst Piece,Сяючий аметист шматок
+PROPITEM_TXT_800185,Shining Onyx Piece,Блискучий онікс шматок
+PROPITEM_TXT_800186,It's a piece where you can get a complete jewel if you collect and process 10 pieces.,"Це предмет, який можна отримати в повному вигляді, якщо зібрати і обробити 10 частин."
 PROPITEM_TXT_800187,Ultimate Jewel Box,Ultimate Jewel Box
 PROPITEM_TXT_800188,"This box contains various ultimate jewels, runes, and pieces that can be added to an ultimate weapon. You can make a complete jewel by processing 10 individual pieces.","This box contains various ultimate jewels, runes, and pieces that can be added to an ultimate weapon. You can make a complete jewel by processing 10 individual pieces."
 PROPITEM_TXT_800189,Advanced Mana Stone,Advanced Mana Stone
@@ -17279,26 +17279,26 @@ PROPITEM_TXT_800195,Ultimate Jewel Gemstone,Ultimate Jewel Gemstone
 PROPITEM_TXT_800196,First-grade jewels and jewel pieces can be extracted from this gemstone.,First-grade jewels and jewel pieces can be extracted from this gemstone.
 PROPITEM_TXT_800197,Cutting Knife,Cutting Knife
 PROPITEM_TXT_800198,Guarantees the success of extracting jewel pieces or first-grade jewels from a gemstone.,Guarantees the success of extracting jewel pieces or first-grade jewels from a gemstone.
-PROPITEM_TXT_800199,Rainbow Jewel (1),Rainbow Jewel (1)
-PROPITEM_TXT_800200,Gives +1 All stat when applied to a ultimate weapon. Can only be attached once.,Gives +1 All stat when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800201,Rainbow Jewel (2),Rainbow Jewel (2)
-PROPITEM_TXT_800202,Gives +2 All stat when applied to a ultimate weapon. Can only be attached once.,Gives +2 All stat when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800203,Rainbow Jewel (3),Rainbow Jewel (3)
-PROPITEM_TXT_800204,Gives +3 All stat when applied to a ultimate weapon. Can only be attached once.,Gives +3 All stat when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800205,Rainbow Jewel (4),Rainbow Jewel (4)
-PROPITEM_TXT_800206,Gives +4 All stat when applied to a ultimate weapon. Can only be attached once.,Gives +4 All stat when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800207,Rainbow Jewel (5),Rainbow Jewel (5)
-PROPITEM_TXT_800208,Gives +5 All stat when applied to a ultimate weapon. Can only be attached once.,Gives +5 All stat when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800209,Rainbow Jewel (6),Rainbow Jewel (6)
-PROPITEM_TXT_800210,Gives +6 All stat when applied to a ultimate weapon. Can only be attached once.,Gives +6 All stat when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800211,Rainbow Jewel (7),Rainbow Jewel (7)
-PROPITEM_TXT_800212,Gives +7 All stat when applied to a ultimate weapon. Can only be attached once.,Gives +7 All stat when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800213,Rainbow Jewel (8),Rainbow Jewel (8)
-PROPITEM_TXT_800214,Gives +8 All stat when applied to a ultimate weapon. Can only be attached once.,Gives +8 All stat when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800215,Rainbow Jewel (9),Rainbow Jewel (9)
-PROPITEM_TXT_800216,Gives +9 All stat when applied to a ultimate weapon. Can only be attached once.,Gives +9 All stat when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800217,Rainbow Jewel (10),Rainbow Jewel (10)
-PROPITEM_TXT_800218,Gives +10 All stat when applied to a ultimate weapon. Can only be attached once.,Gives +10 All stat when applied to a ultimate weapon. Can only be attached once.
+PROPITEM_TXT_800199,Rainbow Jewel (1),Райдужна коштовність (1)
+PROPITEM_TXT_800200,Gives +1 All stat when applied to a ultimate weapon. Can only be attached once.,"Дає +1 до всіх характеристик, якщо застосувати до найкращої зброї. Можна прикріпити лише один раз."
+PROPITEM_TXT_800201,Rainbow Jewel (2),Райдужна коштовність (2)
+PROPITEM_TXT_800202,Gives +2 All stat when applied to a ultimate weapon. Can only be attached once.,"Дає +2 до всіх характеристик, якщо застосувати до найкращої зброї. Можна прикріпити лише один раз."
+PROPITEM_TXT_800203,Rainbow Jewel (3),Райдужна коштовність (3)
+PROPITEM_TXT_800204,Gives +3 All stat when applied to a ultimate weapon. Can only be attached once.,"Дає +3 до всіх характеристик, якщо застосувати до найкращої зброї. Можна прикріпити лише один раз."
+PROPITEM_TXT_800205,Rainbow Jewel (4),Райдужна коштовність (4)
+PROPITEM_TXT_800206,Gives +4 All stat when applied to a ultimate weapon. Can only be attached once.,"Дає +4 до всіх характеристик, якщо застосувати до найкращої зброї. Можна прикріпити лише один раз."
+PROPITEM_TXT_800207,Rainbow Jewel (5),Райдужна коштовність (5)
+PROPITEM_TXT_800208,Gives +5 All stat when applied to a ultimate weapon. Can only be attached once.,"Дає +5 до всіх характеристик, якщо застосувати до найкращої зброї. Можна прикріпити лише один раз."
+PROPITEM_TXT_800209,Rainbow Jewel (6),Райдужна коштовність (6)
+PROPITEM_TXT_800210,Gives +6 All stat when applied to a ultimate weapon. Can only be attached once.,"Дає +6 до всіх характеристик, якщо застосувати до найкращої зброї. Можна прикріпити лише один раз."
+PROPITEM_TXT_800211,Rainbow Jewel (7),Райдужна коштовність (7)
+PROPITEM_TXT_800212,Gives +7 All stat when applied to a ultimate weapon. Can only be attached once.,"Дає +7 до всіх характеристик, якщо застосувати до найкращої зброї. Можна прикріпити лише один раз."
+PROPITEM_TXT_800213,Rainbow Jewel (8),Райдужна коштовність (8)
+PROPITEM_TXT_800214,Gives +8 All stat when applied to a ultimate weapon. Can only be attached once.,"Дає +8 до всіх характеристик, якщо застосувати до найкращої зброї. Можна прикріпити лише один раз."
+PROPITEM_TXT_800215,Rainbow Jewel (9),Райдужна коштовність (9)
+PROPITEM_TXT_800216,Gives +9 All stat when applied to a ultimate weapon. Can only be attached once.,"Дає +9 до всіх характеристик, якщо застосувати до найкращої зброї. Можна прикріпити лише один раз."
+PROPITEM_TXT_800217,Rainbow Jewel (10),Райдужна коштовність (10)
+PROPITEM_TXT_800218,Gives +10 All stat when applied to a ultimate weapon. Can only be attached once.,"Дає +10 до всіх характеристик, якщо застосувати до найкращої зброї. Можна прикріпити лише один раз."
 PROPITEM_TXT_801000,Scroll of Pet Inventory (Character House),Scroll of Pet Inventory (Character House)
 PROPITEM_TXT_801001,Using this scroll will increase your maximum character house pet inventory slots by 1!,Using this scroll will increase your maximum character house pet inventory slots by 1!
 PROPITEM_TXT_801002,Scroll of Pet Inventory (Guild House),Scroll of Pet Inventory (Guild House)
@@ -17306,10 +17306,10 @@ PROPITEM_TXT_801003,Using this scroll will increase your maximum guild house pet
 PROPITEM_TXT_140000,Cubic Ring,Cubic Ring
 PROPITEM_TXT_140001,"This ring is used to propose to another player, and is deleted when the couple is broken.","This ring is used to propose to another player, and is deleted when the couple is broken."
 PROPITEM_TXT_140002,Fancy Cubic Ring,Fancy Cubic Ring
-PROPITEM_TXT_140003,Silver Ring,Silver Ring
-PROPITEM_TXT_140004,Gold Ring,Gold Ring
-PROPITEM_TXT_140005,Platinum Ring,Platinum Ring
-PROPITEM_TXT_140006,Diamond Ring,Diamond Ring
+PROPITEM_TXT_140003,Silver Ring,Срібне кільце
+PROPITEM_TXT_140004,Gold Ring,Золоте кільце
+PROPITEM_TXT_140005,Platinum Ring,Платинове кільце
+PROPITEM_TXT_140006,Diamond Ring,Діамантове кільце
 PROPITEM_TXT_140007,Handmade Silver Ring,Handmade Silver Ring
 PROPITEM_TXT_140008,Handmade Gold Ring,Handmade Gold Ring
 PROPITEM_TXT_140009,Handmade Platinum Ring,Handmade Platinum Ring
@@ -17318,41 +17318,41 @@ PROPITEM_TXT_140011,Artisan's Silver Ring,Artisan's Silver Ring
 PROPITEM_TXT_140012,Artisan's Gold Ring,Artisan's Gold Ring
 PROPITEM_TXT_140013,Artisan's Platinum Ring,Artisan's Platinum Ring
 PROPITEM_TXT_140014,Artisan's Diamond Ring,Artisan's Diamond Ring
-PROPITEM_TXT_140015,Couple Anniversary Gift 1,Couple Anniversary Gift 1
-PROPITEM_TXT_140016,"This is a gift prepared to celebrate the couple's anniversary. When used, you will obtain a congratulatory gift.","This is a gift prepared to celebrate the couple's anniversary. When used, you will obtain a congratulatory gift."
-PROPITEM_TXT_140017,Couple Anniversary Gift 2,Couple Anniversary Gift 2
-PROPITEM_TXT_140018,Couple Anniversary Gift 3,Couple Anniversary Gift 3
-PROPITEM_TXT_140019,Couple Anniversary Gift 4,Couple Anniversary Gift 4
-PROPITEM_TXT_140020,Couple Anniversary Gift 5,Couple Anniversary Gift 5
-PROPITEM_TXT_140021,Couple Anniversary Gift 6,Couple Anniversary Gift 6
-PROPITEM_TXT_140022,Rose Petals,Rose Petals
-PROPITEM_TXT_140023,"It's a beautiful rose flower. When used, you gain 10 couple skill points.","It's a beautiful rose flower. When used, you gain 10 couple skill points."
-PROPITEM_TXT_140024,Small Bouquet of Roses,Small Bouquet of Roses
-PROPITEM_TXT_140025,"It's a small bouquet made of beautiful rose flowers. When used, you gain 20 couple skill points.","It's a small bouquet made of beautiful rose flowers. When used, you gain 20 couple skill points."
-PROPITEM_TXT_140026,Large Bouquet of Roses,Large Bouquet of Roses
-PROPITEM_TXT_140027,"It's a large bouquet made of beautiful roses. When used, you gain 50 couple skill points.","It's a large bouquet made of beautiful roses. When used, you gain 50 couple skill points."
+PROPITEM_TXT_140015,Couple Anniversary Gift 1,Подарунок на річницю подружжя 1
+PROPITEM_TXT_140016,"This is a gift prepared to celebrate the couple's anniversary. When used, you will obtain a congratulatory gift.","Це подарунок, приготований до ювілею подружжя. При використанні ви отримаєте вітальний подарунок."
+PROPITEM_TXT_140017,Couple Anniversary Gift 2,Подарунок на річницю подружжя 2
+PROPITEM_TXT_140018,Couple Anniversary Gift 3,Подарунок на річницю подружжя 3
+PROPITEM_TXT_140019,Couple Anniversary Gift 4,Подарунок на річницю подружжя 4
+PROPITEM_TXT_140020,Couple Anniversary Gift 5,Подарунок на річницю подружжя 5
+PROPITEM_TXT_140021,Couple Anniversary Gift 6,Подарунок на річницю подружжя 6
+PROPITEM_TXT_140022,Rose Petals,Пелюстки троянд
+PROPITEM_TXT_140023,"It's a beautiful rose flower. When used, you gain 10 couple skill points.","Це красива квітка троянди. При використанні ви отримуєте 10 очок навичок пари."
+PROPITEM_TXT_140024,Small Bouquet of Roses,Маленький букет троянд
+PROPITEM_TXT_140025,"It's a small bouquet made of beautiful rose flowers. When used, you gain 20 couple skill points.",Це невеликий букет з красивих квітів троянди. При використанні ви отримуєте 20 очок навичок пари.
+PROPITEM_TXT_140026,Large Bouquet of Roses,Великий букет троянд
+PROPITEM_TXT_140027,"It's a large bouquet made of beautiful roses. When used, you gain 50 couple skill points.",Це великий букет з красивих троянд. При використанні ви отримуєте 50 очок навичок пари.
 PROPITEM_TXT_140028,Pink Heart Sunglasses,Pink Heart Sunglasses
 PROPITEM_TXT_140029,Wild Rainbow Flowers,Wild Rainbow Flowers
-PROPITEM_TXT_140030,Heart Charm,Heart Charm
+PROPITEM_TXT_140030,Heart Charm,Чарівність серця
 PROPITEM_TXT_140031,Love Koi,Love Koi
 PROPITEM_TXT_140032,Whispering Leaf,Whispering Leaf
 PROPITEM_TXT_140033,Darken World Template (XL),Darken World Template (XL)
 PROPITEM_TXT_140034,Darken World Template (S),Darken World Template (S)
 PROPITEM_TXT_140035,Darken World Template (M),Darken World Template (M)
 PROPITEM_TXT_140036,Darken World Template (L),Darken World Template (L)
-PROPITEM_TXT_140037,Forest World Template (S),Forest World Template (S)
-PROPITEM_TXT_140038,Forest World Template (M),Forest World Template (M)
-PROPITEM_TXT_140039,Forest World Template (L),Forest World Template (L)
-PROPITEM_TXT_140040,Volcano World Template (S),Volcano World Template (S)
-PROPITEM_TXT_140041,Volcano World Template (M),Volcano World Template (M)
-PROPITEM_TXT_140042,Volcano World Template (L),Volcano World Template (L)
-PROPITEM_TXT_140043,Snow World Template (S),Snow World Template (S)
-PROPITEM_TXT_140044,Snow World Template (M),Snow World Template (M)
-PROPITEM_TXT_140045,Snow World Template (L),Snow World Template (L)
-PROPITEM_TXT_140046,Fall World Template (XL),Fall World Template (XL)
-PROPITEM_TXT_140047,Fall World Template (S),Fall World Template (S)
-PROPITEM_TXT_140048,Fall World Template (M),Fall World Template (M)
-PROPITEM_TXT_140049,Fall World Template (L),Fall World Template (L)
+PROPITEM_TXT_140037,Forest World Template (S),Лісового світу Шаблон (S)
+PROPITEM_TXT_140038,Forest World Template (M),Лісового світу Шаблон (M)
+PROPITEM_TXT_140039,Forest World Template (L),Лісового світу Шаблон (L)
+PROPITEM_TXT_140040,Volcano World Template (S),Вулкан світу Шаблон (S)
+PROPITEM_TXT_140041,Volcano World Template (M),Вулкан світу Шаблон (M)
+PROPITEM_TXT_140042,Volcano World Template (L),Вулкан світу Шаблон (L)
+PROPITEM_TXT_140043,Snow World Template (S),Сніговий світ Шаблон (S)
+PROPITEM_TXT_140044,Snow World Template (M),Сніговий світ Шаблон (M)
+PROPITEM_TXT_140045,Snow World Template (L),Сніговий світ Шаблон (L)
+PROPITEM_TXT_140046,Fall World Template (XL),Осінній світ шаблон (XL)
+PROPITEM_TXT_140047,Fall World Template (S),Осінній світ шаблон (S)
+PROPITEM_TXT_140048,Fall World Template (M),Осінній світ шаблон (M)
+PROPITEM_TXT_140049,Fall World Template (L),Осінній світ шаблон (L)
 PROPITEM_TXT_140050,Shady eye,Shady eye
 PROPITEM_TXT_140051,Quest item that drops from Shadowirs,Quest item that drops from Shadowirs
 PROPITEM_TXT_140052,Cursed Wing,Cursed Wing
@@ -17377,12 +17377,12 @@ PROPITEM_TXT_131922,[Personal House NPC] Mac (B Grade),[Personal House NPC] Mac 
 PROPITEM_TXT_131923,This NPC will grant you the following bonus when placed on the Personal House: Pet Training (Pet Candy B),This NPC will grant you the following bonus when placed on the Personal House: Pet Training (Pet Candy B)
 PROPITEM_TXT_131924,[Personal House NPC] Mac (A Grade),[Personal House NPC] Mac (A Grade)
 PROPITEM_TXT_131925,This NPC will grant you the following bonus when placed on the Personal House: Pet Training (Pet Candy A),This NPC will grant you the following bonus when placed on the Personal House: Pet Training (Pet Candy A)
-PROPITEM_TXT_133000,Hoe,Hoe
-PROPITEM_TXT_133001,A hoe that is used for harvesting herbs. Herb gathering success rate: 40%,A hoe that is used for harvesting herbs. Herb gathering success rate: 40%
+PROPITEM_TXT_133000,Hoe,Мотика
+PROPITEM_TXT_133001,A hoe that is used for harvesting herbs. Herb gathering success rate: 40%,"Мотика, яка використовується для збору трав. Рівень успішності збору трав: 40%"
 PROPITEM_TXT_133002,Well-maintained Hoe,Well-maintained Hoe
 PROPITEM_TXT_133003,A hoe that has been well-maintained and can be used for harvesting even more herbs. Herb gathering success rate: 50%,A hoe that has been well-maintained and can be used for harvesting even more herbs. Herb gathering success rate: 50%
-PROPITEM_TXT_133004,New Hoe,New Hoe
-PROPITEM_TXT_133005,A new type of hoe that is used for harvesting herbs. Herb gathering success rate: 60%,A new type of hoe that is used for harvesting herbs. Herb gathering success rate: 60%
+PROPITEM_TXT_133004,New Hoe,Нова мотика
+PROPITEM_TXT_133005,A new type of hoe that is used for harvesting herbs. Herb gathering success rate: 60%,"Новий тип мотики, що використовується для збору трав. Рівень успішності збору трав: 60%."
 PROPITEM_TXT_133006,Finest Hoe,Finest Hoe
 PROPITEM_TXT_133007,The finest hoe that is used for harvesting herbs. Herb gathering success rate: 70%,The finest hoe that is used for harvesting herbs. Herb gathering success rate: 70%
 PROPITEM_TXT_133008,Axe,Axe
@@ -17439,52 +17439,52 @@ PROPITEM_TXT_133058,Scroll of Production Reduction (1 Hour),Scroll of Production
 PROPITEM_TXT_133059,The remaining production time decreases by 1 hour when used. The item will be consumed even if the remaining time is 0 after using the item.,The remaining production time decreases by 1 hour when used. The item will be consumed even if the remaining time is 0 after using the item.
 PROPITEM_TXT_133060,Wandering Merchant Refresh Ticket,Wandering Merchant Refresh Ticket
 PROPITEM_TXT_133061,Refresh the item list of the Wandering Merchant upon use.,Refresh the item list of the Wandering Merchant upon use.
-PROPITEM_TXT_133062,Salt,Salt
-PROPITEM_TXT_133063,A necessary ingredient to make savoury dishes.,A necessary ingredient to make savoury dishes.
-PROPITEM_TXT_133064,Sugar,Sugar
-PROPITEM_TXT_133065,A necessary ingredient to make sweet dishes.,A necessary ingredient to make sweet dishes.
-PROPITEM_TXT_133066,Vinegar,Vinegar
-PROPITEM_TXT_133067,A necessary ingredient to make sour dishes.,A necessary ingredient to make sour dishes.
-PROPITEM_TXT_133068,Chili Powder,Chili Powder
-PROPITEM_TXT_133069,A necessary ingredient to make spicy dishes.,A necessary ingredient to make spicy dishes.
-PROPITEM_TXT_133070,Flour,Flour
-PROPITEM_TXT_133071,A powder made by grinding wheat.,A powder made by grinding wheat.
-PROPITEM_TXT_133072,Water,Water
-PROPITEM_TXT_133073,Clean water.,Clean water.
-PROPITEM_TXT_133074,Sausage,Sausage
-PROPITEM_TXT_133075,Sausage made from pork.,Sausage made from pork.
-PROPITEM_TXT_133076,Chicken,Chicken
-PROPITEM_TXT_133077,A piece of chicken meat. You can use it in various dishes.,A piece of chicken meat. You can use it in various dishes.
-PROPITEM_TXT_133078,Cooking Oil,Cooking Oil
-PROPITEM_TXT_133079,A bottle of cooking oil. You can use it in various dishes.,A bottle of cooking oil. You can use it in various dishes.
-PROPITEM_TXT_133080,Black Pepper,Black Pepper
-PROPITEM_TXT_133081,A spice that gives a spicy taste.,A spice that gives a spicy taste.
-PROPITEM_TXT_133082,Tomato,Tomato
-PROPITEM_TXT_133083,A red vegetable with a savory taste.,A red vegetable with a savory taste.
-PROPITEM_TXT_133084,Rice,Rice
-PROPITEM_TXT_133085,A white and round grain.,A white and round grain.
-PROPITEM_TXT_133086,Assorted vegetables,Assorted vegetables
-PROPITEM_TXT_133087,A dish of assorted vegetables.,A dish of assorted vegetables.
-PROPITEM_TXT_133088,Coagulant,Coagulant
-PROPITEM_TXT_133089,A material used to harden substances.,A material used to harden substances.
-PROPITEM_TXT_133090,Pill Capsule,Pill Capsule
-PROPITEM_TXT_133091,A pill capsule made out of edible ingredients.,A pill capsule made out of edible ingredients.
-PROPITEM_TXT_133092,Fresh Cream,Fresh Cream
-PROPITEM_TXT_133093,Cream layer extracted from raw milk.,Cream layer extracted from raw milk.
-PROPITEM_TXT_133094,Onion,Onion
-PROPITEM_TXT_133095,A round shaped vegetable. You can use it in various dishes.,A round shaped vegetable. You can use it in various dishes.
-PROPITEM_TXT_133096,Tin,Tin
-PROPITEM_TXT_133097,A piece of tin that you can use in alloys.,A piece of tin that you can use in alloys.
-PROPITEM_TXT_133098,Steel,Steel
-PROPITEM_TXT_133099,A metal made by processing iron.,A metal made by processing iron.
-PROPITEM_TXT_133100,String,String
-PROPITEM_TXT_133101,A yarn made by twisting fibers.,A yarn made by twisting fibers.
-PROPITEM_TXT_133102,Cushion,Cushion
-PROPITEM_TXT_133103,A soft cushion that has been filled with cotton.,A soft cushion that has been filled with cotton.
-PROPITEM_TXT_133104,Curtain,Curtain
-PROPITEM_TXT_133105,A piece of cloth that is used to block sunlight.,A piece of cloth that is used to block sunlight.
-PROPITEM_TXT_133106,Weed (D),Weed (D)
-PROPITEM_TXT_133107,A common weed. There's no real effect but it can be used as an alchemy material.,A common weed. There's no real effect but it can be used as an alchemy material.
+PROPITEM_TXT_133062,Salt,Кухонна_сіль
+PROPITEM_TXT_133063,A necessary ingredient to make savoury dishes.,Необхідний інгредієнт для приготування пікантних страв.
+PROPITEM_TXT_133064,Sugar,Цукор
+PROPITEM_TXT_133065,A necessary ingredient to make sweet dishes.,Необхідний інгредієнт для приготування солодких страв.
+PROPITEM_TXT_133066,Vinegar,Оцет
+PROPITEM_TXT_133067,A necessary ingredient to make sour dishes.,Необхідний інгредієнт для приготування кислих страв.
+PROPITEM_TXT_133068,Chili Powder,Порошок чилі
+PROPITEM_TXT_133069,A necessary ingredient to make spicy dishes.,Необхідний інгредієнт для приготування гострих страв.
+PROPITEM_TXT_133070,Flour,Борошно
+PROPITEM_TXT_133071,A powder made by grinding wheat.,"Порошок, отриманий шляхом помелу пшениці."
+PROPITEM_TXT_133072,Water,Вода
+PROPITEM_TXT_133073,Clean water.,Чиста вода.
+PROPITEM_TXT_133074,Sausage,Ковбаса
+PROPITEM_TXT_133075,Sausage made from pork.,Ковбаса зі свинини.
+PROPITEM_TXT_133076,Chicken,Курка
+PROPITEM_TXT_133077,A piece of chicken meat. You can use it in various dishes.,Шматочок курячого м'яса. Його можна використовувати в різних стравах.
+PROPITEM_TXT_133078,Cooking Oil,Кулінарна олія
+PROPITEM_TXT_133079,A bottle of cooking oil. You can use it in various dishes.,Пляшка кулінарної олії. Ви можете використовувати її в різних стравах.
+PROPITEM_TXT_133080,Black Pepper,Чорний перець
+PROPITEM_TXT_133081,A spice that gives a spicy taste.,"Спеція, що надає пікантного смаку."
+PROPITEM_TXT_133082,Tomato,Помідор
+PROPITEM_TXT_133083,A red vegetable with a savory taste.,Червоний овоч з пікантним смаком.
+PROPITEM_TXT_133084,Rice,Рис
+PROPITEM_TXT_133085,A white and round grain.,Біле та кругле зерно.
+PROPITEM_TXT_133086,Assorted vegetables,Різноманітні овочі
+PROPITEM_TXT_133087,A dish of assorted vegetables.,Страва з різноманітних овочів.
+PROPITEM_TXT_133088,Coagulant,Коагулянт
+PROPITEM_TXT_133089,A material used to harden substances.,"Матеріал, що використовується для затвердіння речовин."
+PROPITEM_TXT_133090,Pill Capsule,Капсула для пігулок
+PROPITEM_TXT_133091,A pill capsule made out of edible ingredients.,"Капсула для пігулок, виготовлена ​​з їстівних інгредієнтів."
+PROPITEM_TXT_133092,Fresh Cream,Свіжі вершки
+PROPITEM_TXT_133093,Cream layer extracted from raw milk.,"Вершковий шар, отриманий із сирого молока."
+PROPITEM_TXT_133094,Onion,Цибуля_городня
+PROPITEM_TXT_133095,A round shaped vegetable. You can use it in various dishes.,Овоч круглої форми. Його можна використовувати в різних стравах.
+PROPITEM_TXT_133096,Tin,Олово
+PROPITEM_TXT_133097,A piece of tin that you can use in alloys.,"Шматок олова, який можна використовувати у сплавах."
+PROPITEM_TXT_133098,Steel,Сталь
+PROPITEM_TXT_133099,A metal made by processing iron.,"Метал, що виготовляється шляхом обробки заліза."
+PROPITEM_TXT_133100,String,Рядок
+PROPITEM_TXT_133101,A yarn made by twisting fibers.,"Пряжа, виготовлена ​​шляхом скручування волокон."
+PROPITEM_TXT_133102,Cushion,Подушка
+PROPITEM_TXT_133103,A soft cushion that has been filled with cotton.,"М'яка подушка, наповнена бавовною."
+PROPITEM_TXT_133104,Curtain,Завіса
+PROPITEM_TXT_133105,A piece of cloth that is used to block sunlight.,"Шматок тканини, який використовується для блокування сонячного світла."
+PROPITEM_TXT_133106,Weed (D),Бур'ян (D)
+PROPITEM_TXT_133107,A common weed. There's no real effect but it can be used as an alchemy material.,"Звичайна бур'ян. Немає жодного особливого ефекту, але може використовуватися як алхімічний матеріал."
 PROPITEM_TXT_133108,Damaged Herb (D),Damaged Herb (D)
 PROPITEM_TXT_133109,A severely damaged herb that is not recognizable.,A severely damaged herb that is not recognizable.
 PROPITEM_TXT_133110,Damaged Herb (C),Damaged Herb (C)
@@ -17591,82 +17591,82 @@ PROPITEM_TXT_133210,Ebony Log (A),Ebony Log (A)
 PROPITEM_TXT_133211,A piece of study and beautifully patterned ebony log.,A piece of study and beautifully patterned ebony log.
 PROPITEM_TXT_133212,Mahogany Log (A),Mahogany Log (A)
 PROPITEM_TXT_133213,A piece of sturdy and colorful mahogany log.,A piece of sturdy and colorful mahogany log.
-PROPITEM_TXT_133214,Pebble (D),Pebble (D)
-PROPITEM_TXT_133215,A common pebble. There's no real effect but it can be used as a smithing material.,A common pebble. There's no real effect but it can be used as a smithing material.
-PROPITEM_TXT_133216,Fragmented Jewel (D),Fragmented Jewel (D)
-PROPITEM_TXT_133217,A severely fractured jewel that is not recognizable.,A severely fractured jewel that is not recognizable.
-PROPITEM_TXT_133218,Fragmented Jewel (C),Fragmented Jewel (C)
-PROPITEM_TXT_133219,A fractured jewel that is not recognizable.,A fractured jewel that is not recognizable.
-PROPITEM_TXT_133220,Fragmented Jewel (B),Fragmented Jewel (B)
-PROPITEM_TXT_133221,Fragmented Jewel (A),Fragmented Jewel (A)
-PROPITEM_TXT_133222,Quartz (D),Quartz (D)
-PROPITEM_TXT_133223,A piece of quartz with impurities.,A piece of quartz with impurities.
-PROPITEM_TXT_133224,Quartz (C),Quartz (C)
-PROPITEM_TXT_133225,A piece of quartz with some impurities.,A piece of quartz with some impurities.
-PROPITEM_TXT_133226,Quartz (B),Quartz (B)
-PROPITEM_TXT_133227,A piece of quartz without any impurities.,A piece of quartz without any impurities.
-PROPITEM_TXT_133228,Quartz (A),Quartz (A)
-PROPITEM_TXT_133229,A piece of highly pure quartz.,A piece of highly pure quartz.
-PROPITEM_TXT_133230,Limestone (D),Limestone (D)
-PROPITEM_TXT_133231,A piece of limestone with impurities.,A piece of limestone with impurities.
-PROPITEM_TXT_133232,Limestone (C),Limestone (C)
-PROPITEM_TXT_133233,A piece of limestone with some impurities.,A piece of limestone with some impurities.
-PROPITEM_TXT_133234,Limestone (B),Limestone (B)
-PROPITEM_TXT_133235,A piece of limestone without any impurities.,A piece of limestone without any impurities.
-PROPITEM_TXT_133236,Limestone (A),Limestone (A)
-PROPITEM_TXT_133237,A piece of highly pure limestone.,A piece of highly pure limestone.
-PROPITEM_TXT_133238,Turquoise (D),Turquoise (D)
-PROPITEM_TXT_133239,A piece of turquoise with impurities.,A piece of turquoise with impurities.
-PROPITEM_TXT_133240,Turquoise (C),Turquoise (C)
-PROPITEM_TXT_133241,A piece of turquoise with some impurities.,A piece of turquoise with some impurities.
-PROPITEM_TXT_133242,Turquoise (B),Turquoise (B)
-PROPITEM_TXT_133243,A piece of turquoise without any impurities.,A piece of turquoise without any impurities.
-PROPITEM_TXT_133244,Turquoise (A),Turquoise (A)
-PROPITEM_TXT_133245,A piece of highly pure turquoise.,A piece of highly pure turquoise.
-PROPITEM_TXT_133246,Copper Ore (D),Copper Ore (D)
-PROPITEM_TXT_133247,A piece of copper with impurities.,A piece of copper with impurities.
-PROPITEM_TXT_133248,Copper Ore (C),Copper Ore (C)
-PROPITEM_TXT_133249,A piece of copper with some impurities.,A piece of copper with some impurities.
-PROPITEM_TXT_133250,Copper Ore (B),Copper Ore (B)
-PROPITEM_TXT_133251,A piece of copper without any impurities.,A piece of copper without any impurities.
-PROPITEM_TXT_133252,Copper Ore (A),Copper Ore (A)
-PROPITEM_TXT_133253,A piece of highly pure copper.,A piece of highly pure copper.
-PROPITEM_TXT_133254,Jade Gemstone (B),Jade Gemstone (B)
-PROPITEM_TXT_133255,A piece of jade with some impurities.,A piece of jade with some impurities.
-PROPITEM_TXT_133256,Jade Gemstone (A),Jade Gemstone (A)
-PROPITEM_TXT_133257,A piece of highly pure jade gemstone.,A piece of highly pure jade gemstone.
-PROPITEM_TXT_133258,Silver Ore (B),Silver Ore (B)
-PROPITEM_TXT_133259,A piece of silver ore with some impurities.,A piece of silver ore with some impurities.
-PROPITEM_TXT_133260,Silver Ore (A),Silver Ore (A)
-PROPITEM_TXT_133261,A piece of highly pure silver ore.,A piece of highly pure silver ore.
-PROPITEM_TXT_133262,Gold Ore (B),Gold Ore (B)
-PROPITEM_TXT_133263,A piece of gold ore with some impurities.,A piece of gold ore with some impurities.
-PROPITEM_TXT_133264,Gold Ore (A),Gold Ore (A)
-PROPITEM_TXT_133265,A piece of highly pure gold ore.,A piece of highly pure gold ore.
-PROPITEM_TXT_133266,Platinum Ore (A),Platinum Ore (A)
-PROPITEM_TXT_133267,A piece of highly pure platinum ore.,A piece of highly pure platinum ore.
-PROPITEM_TXT_133268,Diamond Gemstone (A),Diamond Gemstone (A)
-PROPITEM_TXT_133269,A piece of highly pure diamond gemstone.,A piece of highly pure diamond gemstone.
-PROPITEM_TXT_133270,Nameless Fish (D),Nameless Fish (D)
-PROPITEM_TXT_133271,Nameless Fish (C),Nameless Fish (C)
-PROPITEM_TXT_133272,Nameless Fish (B),Nameless Fish (B)
-PROPITEM_TXT_133273,Nameless Fish (A),Nameless Fish (A)
-PROPITEM_TXT_133274,A common nameless fish.,A common nameless fish.
-PROPITEM_TXT_133275,Large Nameless Fish (D),Large Nameless Fish (D)
-PROPITEM_TXT_133276,Large Nameless Fish (C),Large Nameless Fish (C)
-PROPITEM_TXT_133277,Large Nameless Fish (B),Large Nameless Fish (B)
-PROPITEM_TXT_133278,Large Nameless Fish (A),Large Nameless Fish (A)
-PROPITEM_TXT_133279,A common nameless fish. It's larger than a regular nameless fish.,A common nameless fish. It's larger than a regular nameless fish.
-PROPITEM_TXT_133280,Shrimp (D),Shrimp (D)
-PROPITEM_TXT_133281,Shrimp (C),Shrimp (C)
-PROPITEM_TXT_133282,Shrimp (B),Shrimp (B)
-PROPITEM_TXT_133283,Shrimp (A),Shrimp (A)
-PROPITEM_TXT_133284,A crustacean used in many cuisines.,A crustacean used in many cuisines.
-PROPITEM_TXT_133285,Large Shrimp (D),Large Shrimp (D)
-PROPITEM_TXT_133286,Large Shrimp (C),Large Shrimp (C)
-PROPITEM_TXT_133287,Large Shrimp (B),Large Shrimp (B)
-PROPITEM_TXT_133288,Large Shrimp (A),Large Shrimp (A)
-PROPITEM_TXT_133289,A crustacean used in many cuisines. It's larger than a regular shrimp.,A crustacean used in many cuisines. It's larger than a regular shrimp.
+PROPITEM_TXT_133214,Pebble (D),Галька (D)
+PROPITEM_TXT_133215,A common pebble. There's no real effect but it can be used as a smithing material.,"Звичайний камінчик. Немає особливого ефекту, але його можна використовувати як ковальський матеріал."
+PROPITEM_TXT_133216,Fragmented Jewel (D),Фрагментована коштовність (D)
+PROPITEM_TXT_133217,A severely fractured jewel that is not recognizable.,"Сильно розбита коштовність, яку неможливо впізнати."
+PROPITEM_TXT_133218,Fragmented Jewel (C),Фрагментована коштовність (C)
+PROPITEM_TXT_133219,A fractured jewel that is not recognizable.,"Зламаний коштовний камінь, який неможливо впізнати."
+PROPITEM_TXT_133220,Fragmented Jewel (B),Фрагментована коштовність (B)
+PROPITEM_TXT_133221,Fragmented Jewel (A),Фрагментована коштовність (A)
+PROPITEM_TXT_133222,Quartz (D),Кварц (D)
+PROPITEM_TXT_133223,A piece of quartz with impurities.,Шматок кварцу з домішками.
+PROPITEM_TXT_133224,Quartz (C),Кварц (C)
+PROPITEM_TXT_133225,A piece of quartz with some impurities.,Шматок кварцу з деякими домішками.
+PROPITEM_TXT_133226,Quartz (B),Кварц (B)
+PROPITEM_TXT_133227,A piece of quartz without any impurities.,Шматок кварцу без будь-яких домішок.
+PROPITEM_TXT_133228,Quartz (A),Кварц (A)
+PROPITEM_TXT_133229,A piece of highly pure quartz.,Шматок високочистого кварцу.
+PROPITEM_TXT_133230,Limestone (D),Вапняк (D)
+PROPITEM_TXT_133231,A piece of limestone with impurities.,Шматок вапняку з домішками.
+PROPITEM_TXT_133232,Limestone (C),Вапняк (C)
+PROPITEM_TXT_133233,A piece of limestone with some impurities.,Шматок вапняку з деякими домішками.
+PROPITEM_TXT_133234,Limestone (B),Вапняк (B)
+PROPITEM_TXT_133235,A piece of limestone without any impurities.,Шматок вапняку без будь-яких домішок.
+PROPITEM_TXT_133236,Limestone (A),Вапняк (A)
+PROPITEM_TXT_133237,A piece of highly pure limestone.,Шматок високочистого вапняку.
+PROPITEM_TXT_133238,Turquoise (D),Бірюзовий (D)
+PROPITEM_TXT_133239,A piece of turquoise with impurities.,Шматочок бірюзи з домішками.
+PROPITEM_TXT_133240,Turquoise (C),Бірюзовий (C)
+PROPITEM_TXT_133241,A piece of turquoise with some impurities.,Шматочок бірюзи з деякими домішками.
+PROPITEM_TXT_133242,Turquoise (B),Бірюзовий (B)
+PROPITEM_TXT_133243,A piece of turquoise without any impurities.,Шматочок бірюзи без будь-яких домішок.
+PROPITEM_TXT_133244,Turquoise (A),Бірюзовий (A)
+PROPITEM_TXT_133245,A piece of highly pure turquoise.,Шматок високочистої бірюзи.
+PROPITEM_TXT_133246,Copper Ore (D),Мідна руда (D)
+PROPITEM_TXT_133247,A piece of copper with impurities.,Шматок міді з домішками.
+PROPITEM_TXT_133248,Copper Ore (C),Мідна руда (C)
+PROPITEM_TXT_133249,A piece of copper with some impurities.,Шматок міді з деякими домішками.
+PROPITEM_TXT_133250,Copper Ore (B),Мідна руда (B)
+PROPITEM_TXT_133251,A piece of copper without any impurities.,Шматок міді без будь-яких домішок.
+PROPITEM_TXT_133252,Copper Ore (A),Мідна руда (A)
+PROPITEM_TXT_133253,A piece of highly pure copper.,Шматок високочистої міді.
+PROPITEM_TXT_133254,Jade Gemstone (B),Нефритовий дорогоцінний камінь (B)
+PROPITEM_TXT_133255,A piece of jade with some impurities.,Шматок нефриту з деякими домішками.
+PROPITEM_TXT_133256,Jade Gemstone (A),Нефритовий дорогоцінний камінь (A)
+PROPITEM_TXT_133257,A piece of highly pure jade gemstone.,Шматок високочистого нефритового дорогоцінного каменю.
+PROPITEM_TXT_133258,Silver Ore (B),Срібна руда (B)
+PROPITEM_TXT_133259,A piece of silver ore with some impurities.,Шматок срібної руди з деякими домішками.
+PROPITEM_TXT_133260,Silver Ore (A),Срібна руда (A)
+PROPITEM_TXT_133261,A piece of highly pure silver ore.,Шматок високочистої срібної руди.
+PROPITEM_TXT_133262,Gold Ore (B),Золота руда (B)
+PROPITEM_TXT_133263,A piece of gold ore with some impurities.,Шматок золотої руди з деякими домішками.
+PROPITEM_TXT_133264,Gold Ore (A),Золота руда (A)
+PROPITEM_TXT_133265,A piece of highly pure gold ore.,Шматок високочистої золотої руди.
+PROPITEM_TXT_133266,Platinum Ore (A),Платинова руда (A)
+PROPITEM_TXT_133267,A piece of highly pure platinum ore.,Шматок високочистої платинової руди.
+PROPITEM_TXT_133268,Diamond Gemstone (A),Діамантовий дорогоцінний камінь (A)
+PROPITEM_TXT_133269,A piece of highly pure diamond gemstone.,Шматок високочистого алмазного дорогоцінного каменю.
+PROPITEM_TXT_133270,Nameless Fish (D),Безіменна риба (D)
+PROPITEM_TXT_133271,Nameless Fish (C),Безіменна риба (C)
+PROPITEM_TXT_133272,Nameless Fish (B),Безіменна риба (B)
+PROPITEM_TXT_133273,Nameless Fish (A),Безіменна риба (A)
+PROPITEM_TXT_133274,A common nameless fish.,Звичайна безіменна риба.
+PROPITEM_TXT_133275,Large Nameless Fish (D),Велика безіменна риба (D)
+PROPITEM_TXT_133276,Large Nameless Fish (C),Велика безіменна риба (C)
+PROPITEM_TXT_133277,Large Nameless Fish (B),Велика безіменна риба (B)
+PROPITEM_TXT_133278,Large Nameless Fish (A),Велика безіменна риба (A)
+PROPITEM_TXT_133279,A common nameless fish. It's larger than a regular nameless fish.,Звичайна безіменна риба. Вона більша за звичайну безіменну рибу.
+PROPITEM_TXT_133280,Shrimp (D),Креветки (D)
+PROPITEM_TXT_133281,Shrimp (C),Креветки (C)
+PROPITEM_TXT_133282,Shrimp (B),Креветки (B)
+PROPITEM_TXT_133283,Shrimp (A),Креветки (A)
+PROPITEM_TXT_133284,A crustacean used in many cuisines.,"Ракоподібний, який використовується в багатьох кухнях."
+PROPITEM_TXT_133285,Large Shrimp (D),Великі креветки (D)
+PROPITEM_TXT_133286,Large Shrimp (C),Великі креветки (C)
+PROPITEM_TXT_133287,Large Shrimp (B),Великі креветки (B)
+PROPITEM_TXT_133288,Large Shrimp (A),Великі креветки (A)
+PROPITEM_TXT_133289,A crustacean used in many cuisines. It's larger than a regular shrimp.,"Ракоподібний, якого використовують у багатьох кухнях. Він більший за звичайну креветку."
 PROPITEM_TXT_133290,Cod (D),Cod (D)
 PROPITEM_TXT_133291,Cod (C),Cod (C)
 PROPITEM_TXT_133292,Cod (B),Cod (B)
@@ -17685,57 +17685,57 @@ PROPITEM_TXT_133304,Large Herring (C),Large Herring (C)
 PROPITEM_TXT_133305,Large Herring (B),Large Herring (B)
 PROPITEM_TXT_133306,Large Herring (A),Large Herring (A)
 PROPITEM_TXT_133307,"A savory, light fish. It's larger than a regular herring.","A savory, light fish. It's larger than a regular herring."
-PROPITEM_TXT_133308,Squid (C),Squid (C)
-PROPITEM_TXT_133309,Squid (B),Squid (B)
-PROPITEM_TXT_133310,Squid (A),Squid (A)
-PROPITEM_TXT_133311,A mollusk with 10 legs.,A mollusk with 10 legs.
-PROPITEM_TXT_133312,Large Squid (C),Large Squid (C)
-PROPITEM_TXT_133313,Large Squid (B),Large Squid (B)
-PROPITEM_TXT_133314,Large Squid (A),Large Squid (A)
-PROPITEM_TXT_133315,A mollusk with 10 legs. It's larger than a regular squid.,A mollusk with 10 legs. It's larger than a regular squid.
-PROPITEM_TXT_133316,Mackerel (C),Mackerel (C)
-PROPITEM_TXT_133317,Mackerel (B),Mackerel (B)
-PROPITEM_TXT_133318,Mackerel (A),Mackerel (A)
-PROPITEM_TXT_133319,"A meaty, oily white fish.","A meaty, oily white fish."
-PROPITEM_TXT_133320,Large Mackerel (C),Large Mackerel (C)
-PROPITEM_TXT_133321,Large Mackerel (B),Large Mackerel (B)
-PROPITEM_TXT_133322,Large Mackerel (A),Large Mackerel (A)
-PROPITEM_TXT_133323,"A meaty, oily white fish. It's larger than a regular mackerel.","A meaty, oily white fish. It's larger than a regular mackerel."
+PROPITEM_TXT_133308,Squid (C),Кальмар (C)
+PROPITEM_TXT_133309,Squid (B),Кальмар (B)
+PROPITEM_TXT_133310,Squid (A),Кальмар (A)
+PROPITEM_TXT_133311,A mollusk with 10 legs.,Молюск з 10 ногами.
+PROPITEM_TXT_133312,Large Squid (C),Великий кальмар (C)
+PROPITEM_TXT_133313,Large Squid (B),Великий кальмар (B)
+PROPITEM_TXT_133314,Large Squid (A),Великий кальмар (A)
+PROPITEM_TXT_133315,A mollusk with 10 legs. It's larger than a regular squid.,Молюск з 10 ногами. Він більший за звичайного кальмара.
+PROPITEM_TXT_133316,Mackerel (C),Скумбрія (C)
+PROPITEM_TXT_133317,Mackerel (B),Скумбрія (B)
+PROPITEM_TXT_133318,Mackerel (A),Скумбрія (A)
+PROPITEM_TXT_133319,"A meaty, oily white fish.","М'ясиста, жирна біла риба."
+PROPITEM_TXT_133320,Large Mackerel (C),Велика скумбрія (C)
+PROPITEM_TXT_133321,Large Mackerel (B),Велика скумбрія (B)
+PROPITEM_TXT_133322,Large Mackerel (A),Велика скумбрія (A)
+PROPITEM_TXT_133323,"A meaty, oily white fish. It's larger than a regular mackerel.","М'ясиста, жирна біла риба. Вона більша за звичайну скумбрію."
 PROPITEM_TXT_133324,Eel (B),Eel (B)
 PROPITEM_TXT_133325,Eel (A),Eel (A)
 PROPITEM_TXT_133326,A fish with a long and thin body.,A fish with a long and thin body.
 PROPITEM_TXT_133327,Large Eel (B),Large Eel (B)
 PROPITEM_TXT_133328,Large Eel (A),Large Eel (A)
 PROPITEM_TXT_133329,A fish with a long and thin body. It's larger than a regular eel.,A fish with a long and thin body. It's larger than a regular eel.
-PROPITEM_TXT_133330,Salmon (B),Salmon (B)
-PROPITEM_TXT_133331,Salmon (A),Salmon (A)
-PROPITEM_TXT_133332,A meaty and rich red fish.,A meaty and rich red fish.
-PROPITEM_TXT_133333,Large Salmon (B),Large Salmon (B)
-PROPITEM_TXT_133334,Large Salmon (A),Large Salmon (A)
-PROPITEM_TXT_133335,A meaty and rich red fish. It's larger than a regular salmon.,A meaty and rich red fish. It's larger than a regular salmon.
-PROPITEM_TXT_133336,Tuna (A),Tuna (A)
-PROPITEM_TXT_133337,"A large, meaty and very oily red fish.","A large, meaty and very oily red fish."
-PROPITEM_TXT_133338,Large Tuna (A),Large Tuna (A)
-PROPITEM_TXT_133339,"A large, meaty and very oily red fish. It's larger than a regular tuna.","A large, meaty and very oily red fish. It's larger than a regular tuna."
+PROPITEM_TXT_133330,Salmon (B),Лосось (B)
+PROPITEM_TXT_133331,Salmon (A),Лосось (A)
+PROPITEM_TXT_133332,A meaty and rich red fish.,М'ясна та насичена червона риба.
+PROPITEM_TXT_133333,Large Salmon (B),Великий лосось (B)
+PROPITEM_TXT_133334,Large Salmon (A),Великий лосось (A)
+PROPITEM_TXT_133335,A meaty and rich red fish. It's larger than a regular salmon.,М'ясиста та насичена червона риба. Вона більша за звичайного лосося.
+PROPITEM_TXT_133336,Tuna (A),Тунець (A)
+PROPITEM_TXT_133337,"A large, meaty and very oily red fish.","Велика, м'ясиста та дуже жирна червона риба."
+PROPITEM_TXT_133338,Large Tuna (A),Велика Тунець (A)
+PROPITEM_TXT_133339,"A large, meaty and very oily red fish. It's larger than a regular tuna.","Велика, м'ясиста та дуже жирна червона риба. Вона більша за звичайного тунця."
 PROPITEM_TXT_133340,Master's Chip,Master's Chip
 PROPITEM_TXT_133341,It is a chip that can be obtained through life skills. You can exchange it with useful items via NPC Livi.,It is a chip that can be obtained through life skills. You can exchange it with useful items via NPC Livi.
-PROPITEM_TXT_133342,Unknown,Unknown
-PROPITEM_TXT_133343,Burnt Food,Burnt Food
-PROPITEM_TXT_133344,"Food that failed to cook and was burnt. Unfortunately, there seems no use for it.","Food that failed to cook and was burnt. Unfortunately, there seems no use for it."
-PROPITEM_TXT_133345,Trimmed Nameless Fish (D),Trimmed Nameless Fish (D)
-PROPITEM_TXT_133346,Trimmed Nameless Fish (C),Trimmed Nameless Fish (C)
-PROPITEM_TXT_133347,Trimmed Nameless Fish (B),Trimmed Nameless Fish (B)
-PROPITEM_TXT_133348,Trimmed Nameless Fish (A),Trimmed Nameless Fish (A)
+PROPITEM_TXT_133342,Unknown,Невідомо
+PROPITEM_TXT_133343,Burnt Food,Спалена їжа
+PROPITEM_TXT_133344,"Food that failed to cook and was burnt. Unfortunately, there seems no use for it.","Їжа, яка не приготувалася і підгоріла. На жаль, здається, їй немає жодного застосування."
+PROPITEM_TXT_133345,Trimmed Nameless Fish (D),Обрізана безіменна риба (D)
+PROPITEM_TXT_133346,Trimmed Nameless Fish (C),Обрізана безіменна риба (C)
+PROPITEM_TXT_133347,Trimmed Nameless Fish (B),Обрізана безіменна риба (B)
+PROPITEM_TXT_133348,Trimmed Nameless Fish (A),Обрізана безіменна риба (A)
 PROPITEM_TXT_133349,Trimmed nameless fish that can be used in cooking.,Trimmed nameless fish that can be used in cooking.
-PROPITEM_TXT_133350,Trimmed Shrimp (D),Trimmed Shrimp (D)
-PROPITEM_TXT_133351,Trimmed Shrimp (C),Trimmed Shrimp (C)
-PROPITEM_TXT_133352,Trimmed Shrimp (B),Trimmed Shrimp (B)
-PROPITEM_TXT_133353,Trimmed Shrimp (A),Trimmed Shrimp (A)
+PROPITEM_TXT_133350,Trimmed Shrimp (D),Обрізана креветки (D)
+PROPITEM_TXT_133351,Trimmed Shrimp (C),Обрізана креветки (C)
+PROPITEM_TXT_133352,Trimmed Shrimp (B),Обрізана креветки (B)
+PROPITEM_TXT_133353,Trimmed Shrimp (A),Обрізана креветки (A)
 PROPITEM_TXT_133354,Trimmed shrimp fish that can be used in cooking.,Trimmed shrimp fish that can be used in cooking.
-PROPITEM_TXT_133355,Trimmed Cod (D),Trimmed Cod (D)
-PROPITEM_TXT_133356,Trimmed Cod (C),Trimmed Cod (C)
-PROPITEM_TXT_133357,Trimmed Cod (B),Trimmed Cod (B)
-PROPITEM_TXT_133358,Trimmed Cod (A),Trimmed Cod (A)
+PROPITEM_TXT_133355,Trimmed Cod (D),Обрізана тріска (D)
+PROPITEM_TXT_133356,Trimmed Cod (C),Обрізана тріска (C)
+PROPITEM_TXT_133357,Trimmed Cod (B),Обрізана тріска (B)
+PROPITEM_TXT_133358,Trimmed Cod (A),Обрізана тріска (A)
 PROPITEM_TXT_133359,Trimmed cod fish that can be used in cooking.,Trimmed cod fish that can be used in cooking.
 PROPITEM_TXT_133360,Trimmed Herring (D),Trimmed Herring (D)
 PROPITEM_TXT_133361,Trimmed Herring (C),Trimmed Herring (C)
@@ -17767,41 +17767,41 @@ PROPITEM_TXT_133386,Trimmed Tuna (C),Trimmed Tuna (C)
 PROPITEM_TXT_133387,Trimmed Tuna (B),Trimmed Tuna (B)
 PROPITEM_TXT_133388,Trimmed Tuna (A),Trimmed Tuna (A)
 PROPITEM_TXT_133389,Trimmed tuna fish that can be used in cooking.,Trimmed tuna fish that can be used in cooking.
-PROPITEM_TXT_133390,Cheese (D),Cheese (D)
-PROPITEM_TXT_133391,Cheese (C),Cheese (C)
-PROPITEM_TXT_133392,Cheese made from coagulated milk. You can use it in various dishes.,Cheese made from coagulated milk. You can use it in various dishes.
-PROPITEM_TXT_133393,Tomato Sauce (D),Tomato Sauce (D)
-PROPITEM_TXT_133394,Tomato Sauce (C),Tomato Sauce (C)
-PROPITEM_TXT_133395,Sauce made from tomato. You can use it in various dishes.,Sauce made from tomato. You can use it in various dishes.
-PROPITEM_TXT_133396,Bread Dough (D),Bread Dough (D)
-PROPITEM_TXT_133397,Bread Dough (C),Bread Dough (C)
-PROPITEM_TXT_133398,Dough that is used to make bread.,Dough that is used to make bread.
-PROPITEM_TXT_133399,Butter (D),Butter (D)
-PROPITEM_TXT_133400,Butter (C),Butter (C)
-PROPITEM_TXT_133401,A solid oil made from fresh cream.,A solid oil made from fresh cream.
-PROPITEM_TXT_133402,Mayonnaise (D),Mayonnaise (D)
-PROPITEM_TXT_133403,Mayonnaise (C),Mayonnaise (C)
-PROPITEM_TXT_133404,Sauce made from egg. You can use it in various dishes.,Sauce made from egg. You can use it in various dishes.
-PROPITEM_TXT_133405,Cooked Rice (D),Cooked Rice (D)
-PROPITEM_TXT_133406,Cooked Rice (C),Cooked Rice (C)
-PROPITEM_TXT_133407,A dish made by boiling rice in water.,A dish made by boiling rice in water.
-PROPITEM_TXT_133408,Fish Sauce (D),Fish Sauce (D)
-PROPITEM_TXT_133409,Fish Sauce (C),Fish Sauce (C)
-PROPITEM_TXT_133410,Sauce made from fish. You can use it in various dishes.,Sauce made from fish. You can use it in various dishes.
+PROPITEM_TXT_133390,Cheese (D),Сир (D)
+PROPITEM_TXT_133391,Cheese (C),Сир (C)
+PROPITEM_TXT_133392,Cheese made from coagulated milk. You can use it in various dishes.,"Сир, виготовлений зі згущеного молока. Його можна використовувати в різних стравах."
+PROPITEM_TXT_133393,Tomato Sauce (D),Томатний соус (D)
+PROPITEM_TXT_133394,Tomato Sauce (C),Томатний соус (C)
+PROPITEM_TXT_133395,Sauce made from tomato. You can use it in various dishes.,Соус з томатів. Його можна використовувати в різних стравах.
+PROPITEM_TXT_133396,Bread Dough (D),Тісто для хліба (D)
+PROPITEM_TXT_133397,Bread Dough (C),Тісто для хліба (C)
+PROPITEM_TXT_133398,Dough that is used to make bread.,"Тісто, яке використовується для випікання хліба."
+PROPITEM_TXT_133399,Butter (D),Вершкове масло (D)
+PROPITEM_TXT_133400,Butter (C),Вершкове масло (C)
+PROPITEM_TXT_133401,A solid oil made from fresh cream.,"Тверда олія, виготовлена ​​зі свіжих вершків."
+PROPITEM_TXT_133402,Mayonnaise (D),Майонез (D)
+PROPITEM_TXT_133403,Mayonnaise (C),Майонез (C)
+PROPITEM_TXT_133404,Sauce made from egg. You can use it in various dishes.,Соус з яйця. Його можна використовувати в різних стравах.
+PROPITEM_TXT_133405,Cooked Rice (D),Варений рис (D)
+PROPITEM_TXT_133406,Cooked Rice (C),Варений рис (C)
+PROPITEM_TXT_133407,A dish made by boiling rice in water.,"Страва, приготована шляхом варіння рису у воді."
+PROPITEM_TXT_133408,Fish Sauce (D),Рибний соус (D)
+PROPITEM_TXT_133409,Fish Sauce (C),Рибний соус (C)
+PROPITEM_TXT_133410,Sauce made from fish. You can use it in various dishes.,"Соус, приготований з риби. Його можна використовувати в різних стравах."
 PROPITEM_TXT_133411,Lollipop (C),Льодяник (C)
 PROPITEM_TXT_133412,Recovers 84 HP,Відновлює 84 HP
 PROPITEM_TXT_133413,Meat Skewer (C),Meat Skewer (C)
 PROPITEM_TXT_133414,Recovers 144 HP,Відновлює 144 HP
 PROPITEM_TXT_133415,Biscuit (C),Бісквіт (C)
 PROPITEM_TXT_133416,Recovers 144 HP,Відновлює 144 HP
-PROPITEM_TXT_133417,Fish Ball (D),Fish Ball (D)
-PROPITEM_TXT_133418,A dish made by making minced fish meat into balls.,A dish made by making minced fish meat into balls.
-PROPITEM_TXT_133419,Fish Ball (C),Fish Ball (C)
-PROPITEM_TXT_133420,A dish made by making minced fish meat into balls.,A dish made by making minced fish meat into balls.
-PROPITEM_TXT_133421,Fish Ball (B),Fish Ball (B)
-PROPITEM_TXT_133422,Fish Ball (A),Fish Ball (A)
-PROPITEM_TXT_133423,Fish Ball (A+),Fish Ball (A+)
-PROPITEM_TXT_133424,A dish made by making minced fish meat into balls.,A dish made by making minced fish meat into balls.
+PROPITEM_TXT_133417,Fish Ball (D),Рибна кулька (D)
+PROPITEM_TXT_133418,A dish made by making minced fish meat into balls.,"Страва, що готується шляхом сформування кульок з рубаного рибного м’яса."
+PROPITEM_TXT_133419,Fish Ball (C),Рибна кулька (C)
+PROPITEM_TXT_133420,A dish made by making minced fish meat into balls.,"Страва, що готується шляхом сформування кульок з рубаного рибного м’яса."
+PROPITEM_TXT_133421,Fish Ball (B),Рибна кулька (B)
+PROPITEM_TXT_133422,Fish Ball (A),Рибна кулька (A)
+PROPITEM_TXT_133423,Fish Ball (A+),Рибна кулька (A+)
+PROPITEM_TXT_133424,A dish made by making minced fish meat into balls.,"Страва, що готується шляхом сформування кульок з рубаного рибного м’яса."
 PROPITEM_TXT_133425,Seafood Pancake (C),Seafood Pancake (C)
 PROPITEM_TXT_133426,Recovers 276 HP,Відновлює 276 HP
 PROPITEM_TXT_133427,Seafood Pancake (B),Seafood Pancake (B)
