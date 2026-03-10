@@ -2650,10 +2650,10 @@ PROPITEM_TXT_004730,Scroll of Custody,Scroll of Custody
 PROPITEM_TXT_004731,Summon Banker for 3 Min.,Summon Banker for 3 Min.
 PROPITEM_TXT_004732,Blessing of Party Leader,Blessing of Party Leader
 PROPITEM_TXT_004733,x2 Party Exp. for 2 hours (Only Party Leader can use),x2 Party Exp. for 2 hours (Only Party Leader can use)
-PROPITEM_TXT_004734,Friendship (A),Friendship (A)
-PROPITEM_TXT_004735,Summon a player to you (Casting Time: 30 sec). This item only works on characters on the same channel.,Summon a player to you (Casting Time: 30 sec). This item only works on characters on the same channel.
-PROPITEM_TXT_004736,Friendship (B),Friendship (B)
-PROPITEM_TXT_004737,Summon a player to you instantly. This item only works on characters on the same channel.,Summon a player to you instantly. This item only works on characters on the same channel.
+PROPITEM_TXT_004734,Friendship (A),Дружба (A)
+PROPITEM_TXT_004735,Summon a player to you (Casting Time: 30 sec). This item only works on characters on the same channel.,Викликати до себе гравця (Час застосування: 30 секунд). Цей елемент працює лише для персонажів на одному каналі.
+PROPITEM_TXT_004736,Friendship (B),Дружба (B)
+PROPITEM_TXT_004737,Summon a player to you instantly. This item only works on characters on the same channel.,Миттєво викликайте до себе гравця. Цей елемент працює лише для персонажів на одному каналі.
 PROPITEM_TXT_004738,Summon of Party Leader,Summon of Party Leader
 PROPITEM_TXT_004739,Summons Party members to the Party Leader (Only Party Leader can use),Summons Party members to the Party Leader (Only Party Leader can use)
 PROPITEM_TXT_004740,Scroll of SFusion High,Scroll of SFusion High
@@ -2744,13 +2744,13 @@ PROPITEM_TXT_004842,Female Cat (7 days),Female Cat (7 days)
 PROPITEM_TXT_004843,Cat set for Female Characters (Lasts 7 days),Cat set for Female Characters (Lasts 7 days)
 PROPITEM_TXT_004844,Female Cat Set (30 days),Female Cat Set (30 days)
 PROPITEM_TXT_004845,This box contains a Cat Clothing Set for Female Characters (Lasts 30 days).,This box contains a Cat Clothing Set for Female Characters (Lasts 30 days).
-PROPITEM_TXT_004846,Female Bunny (7 days),Female Bunny (7 days)
-PROPITEM_TXT_004847,Bunny Set for Female Characters (Lasts 7 days),Bunny Set for Female Characters (Lasts 7 days)
-PROPITEM_TXT_004848,Female Bunny (30 days),Female Bunny (30 days)
-PROPITEM_TXT_004849,Bunny Set for Female Characters (Lasts 30 days),Bunny Set for Female Characters (Lasts 30 days)
+PROPITEM_TXT_004846,Female Bunny (7 days),Жіночий зайчик (7 днів)
+PROPITEM_TXT_004847,Bunny Set for Female Characters (Lasts 7 days),Набір кроликів для жіночих персонажів (триває 7 днів)
+PROPITEM_TXT_004848,Female Bunny (30 days),Жіночий зайчик (30 днів)
+PROPITEM_TXT_004849,Bunny Set for Female Characters (Lasts 30 days),Набір кроликів для жіночих персонажів (триває 30 днів)
 PROPITEM_TXT_004850,New Year's Bomb,New Year's Bomb
-PROPITEM_TXT_004852,Fireshower,Fireshower
-PROPITEM_TXT_004853,A firework specifically designed for beginners. Won't annoy your neighbours unless their roof catches fire!,A firework specifically designed for beginners. Won't annoy your neighbours unless their roof catches fire!
+PROPITEM_TXT_004852,Fireshower,Вогненний душ
+PROPITEM_TXT_004853,A firework specifically designed for beginners. Won't annoy your neighbours unless their roof catches fire!,"Феєрверк, спеціально розроблений для початківців. Не буде дратувати ваших сусідів, якщо тільки їх дах не загориться!"
 PROPITEM_TXT_004854,Sulnal Bomb,Sulnal Bomb
 PROPITEM_TXT_004856,Goodbye Bomb,Goodbye Bomb
 PROPITEM_TXT_004857,Grand Finale,Grand Finale
@@ -2926,26 +2926,26 @@ PROPITEM_TXT_005040,Bluebird Mask,Bluebird Mask
 PROPITEM_TXT_005042,Ponycat Mask,Ponycat Mask
 PROPITEM_TXT_005052,Cloak Test,Cloak Test
 PROPITEM_TXT_005054,Blank Cloak,Blank Cloak
-PROPITEM_TXT_005056,Cloak 01,Cloak 01
-PROPITEM_TXT_005058,Cloak 02,Cloak 02
-PROPITEM_TXT_005060,Cloak 03,Cloak 03
-PROPITEM_TXT_005062,Cloak 04,Cloak 04
-PROPITEM_TXT_005064,Cloak 05,Cloak 05
-PROPITEM_TXT_005066,Cloak 06,Cloak 06
-PROPITEM_TXT_005068,Cloak 07,Cloak 07
-PROPITEM_TXT_005070,Cloak 08,Cloak 08
-PROPITEM_TXT_005072,Cloak 09,Cloak 09
-PROPITEM_TXT_005074,Cloak 10,Cloak 10
-PROPITEM_TXT_005076,Cloak 11,Cloak 11
-PROPITEM_TXT_005078,Cloak 12,Cloak 12
-PROPITEM_TXT_005080,Cloak 13,Cloak 13
-PROPITEM_TXT_005082,Cloak 14,Cloak 14
-PROPITEM_TXT_005084,Cloak 15,Cloak 15
-PROPITEM_TXT_005086,Cloak 16,Cloak 16
-PROPITEM_TXT_005088,Cloak 17,Cloak 17
-PROPITEM_TXT_005090,Cloak 18,Cloak 18
-PROPITEM_TXT_005092,Cloak 19,Cloak 19
-PROPITEM_TXT_005094,Cloak 20,Cloak 20
+PROPITEM_TXT_005056,Cloak 01,Плащ 01
+PROPITEM_TXT_005058,Cloak 02,Плащ 02
+PROPITEM_TXT_005060,Cloak 03,Плащ 03
+PROPITEM_TXT_005062,Cloak 04,Плащ 04
+PROPITEM_TXT_005064,Cloak 05,Плащ 05
+PROPITEM_TXT_005066,Cloak 06,Плащ 06
+PROPITEM_TXT_005068,Cloak 07,Плащ 07
+PROPITEM_TXT_005070,Cloak 08,Плащ 08
+PROPITEM_TXT_005072,Cloak 09,Плащ 09
+PROPITEM_TXT_005074,Cloak 10,Плащ 10
+PROPITEM_TXT_005076,Cloak 11,Плащ 11
+PROPITEM_TXT_005078,Cloak 12,Плащ 12
+PROPITEM_TXT_005080,Cloak 13,Плащ 13
+PROPITEM_TXT_005082,Cloak 14,Плащ 14
+PROPITEM_TXT_005084,Cloak 15,Плащ 15
+PROPITEM_TXT_005086,Cloak 16,Плащ 16
+PROPITEM_TXT_005088,Cloak 17,Плащ 17
+PROPITEM_TXT_005090,Cloak 18,Плащ 18
+PROPITEM_TXT_005092,Cloak 19,Плащ 19
+PROPITEM_TXT_005094,Cloak 20,Плащ 10
 PROPITEM_TXT_005096,School Event Gift,Шкільний подарунок
 PROPITEM_TXT_005098,Gaia Cloak,Gaia Cloak
 PROPITEM_TXT_005100,Space Samurai Cloak,Space Samurai Cloak
@@ -2973,14 +2973,14 @@ PROPITEM_TXT_005126,Blinkwing of Dekane,Blinkwing of Dekane
 PROPITEM_TXT_005127,Teleport to the Dekane Mine,Teleport to the Dekane Mine
 PROPITEM_TXT_005128,Blinkwing of Mars,Blinkwing of Mars
 PROPITEM_TXT_005129,Teleport to the Mars Dungeon,Teleport to the Mars Dungeon
-PROPITEM_TXT_005130,Magic Broom,Magic Broom
-PROPITEM_TXT_005131,The most basic Flying Broom. Maximum Speed: 29 km/h.,The most basic Flying Broom. Maximum Speed: 29 km/h.
-PROPITEM_TXT_005132,Kestrel Broom,Kestrel Broom
-PROPITEM_TXT_005133,Similar to the Magic Broom but with a little added style and speed! Maximum Speed: 33 km/h.,Similar to the Magic Broom but with a little added style and speed! Maximum Speed: 33 km/h.
-PROPITEM_TXT_005134,Flicker Broom,Flicker Broom
-PROPITEM_TXT_005135,"This tip is more then just decoration, it's aerodynamic too! Maximum Speed: 38 km/h.","This tip is more then just decoration, it's aerodynamic too! Maximum Speed: 38 km/h."
-PROPITEM_TXT_005136,Projan Broom,Projan Broom
-PROPITEM_TXT_005137,Flying broom for low to mid-level adventurers. Maximum Speed: 44 km/h.,Flying broom for low to mid-level adventurers. Maximum Speed: 44 km/h.
+PROPITEM_TXT_005130,Magic Broom,Чарівна мітла
+PROPITEM_TXT_005131,The most basic Flying Broom. Maximum Speed: 29 km/h.,Найпростіша Літаюча мітла. Максимальна швидкість: 29 км/год.
+PROPITEM_TXT_005132,Kestrel Broom,Пустельга мітла
+PROPITEM_TXT_005133,Similar to the Magic Broom but with a little added style and speed! Maximum Speed: 33 km/h.,"Подібно до Чарівної мітли, але з додаванням стилю та швидкості! Максимальна швидкість: 33 км/год."
+PROPITEM_TXT_005134,Flicker Broom,Мерехтлива мітла
+PROPITEM_TXT_005135,"This tip is more then just decoration, it's aerodynamic too! Maximum Speed: 38 km/h.","Цей наконечник не просто прикраса, він ще й аеродинамічний! Максимальна швидкість: 38 км/год."
+PROPITEM_TXT_005136,Projan Broom,Проян мітла
+PROPITEM_TXT_005137,Flying broom for low to mid-level adventurers. Maximum Speed: 44 km/h.,Літаюча мітла для шукачів пригод низького та середнього рівня. Максимальна швидкість: 44 км/год.
 PROPITEM_TXT_005138,Hera Hoverbike,Hera Hoverbike
 PROPITEM_TXT_005139,"While not the fastest bike in Madrigal, the Hera Hoverbike certainly makes up for it in style!","While not the fastest bike in Madrigal, the Hera Hoverbike certainly makes up for it in style!"
 PROPITEM_TXT_005140,Syila Hoverbike,Syila Hoverbike
@@ -3004,8 +3004,8 @@ PROPITEM_TXT_005157,Small propellers help push this board along!,Small propeller
 PROPITEM_TXT_005158,Hunter Bow Board,Hunter Bow Board
 PROPITEM_TXT_005178,Riding Cloud (Sky Blue),Riding Cloud (Sky Blue)
 PROPITEM_TXT_005179,A fluffy blue flying cloud!,A fluffy blue flying cloud!
-PROPITEM_TXT_005180,Acceleration Fuel,Acceleration Fuel
-PROPITEM_TXT_005181,"Use of this experimental fuel can increase your flying speed by up to 20% for a limited time. To use, double click while mounted and press the <X> Key to toggle the boost on or off.","Use of this experimental fuel can increase your flying speed by up to 20% for a limited time. To use, double click while mounted and press the <X> Key to toggle the boost on or off."
+PROPITEM_TXT_005180,Acceleration Fuel,Паливо для прискорення
+PROPITEM_TXT_005181,"Use of this experimental fuel can increase your flying speed by up to 20% for a limited time. To use, double click while mounted and press the <X> Key to toggle the boost on or off.","Використання цього експериментального палива може збільшити швидкість польоту на 20% протягом обмеженого часу. Щоб скористатися ним, двічі клацніть мишкою, перебуваючи на транспортному засобі, і натисніть клавішу <X>, щоб увімкнути або вимкнути прискорення."
 PROPITEM_TXT_005272,Redyspawn,Redyspawn
 PROPITEM_TXT_005273,Quest Item: Egg of a Red Mantis C,Quest Item: Egg of a Red Mantis C
 PROPITEM_TXT_005288,Bearer Heart,Bearer Heart
@@ -3022,11 +3022,11 @@ PROPITEM_TXT_005298,Mon-Book 3,Mon-Book 3
 PROPITEM_TXT_005299,Quest Item: Book about the organization and movements of Super Giant Monsters.,Quest Item: Book about the organization and movements of Super Giant Monsters.
 PROPITEM_TXT_005314,Nyanyang,Nyanyang
 PROPITEM_TXT_005315,Giant Nyangnyang's favorite food. Can be found wherever Giant Nyangnyang is.,Giant Nyangnyang's favorite food. Can be found wherever Giant Nyangnyang is.
-PROPITEM_TXT_005316,Unknown Letter,Unknown Letter
-PROPITEM_TXT_005317,Quest Item: A mysterious and unpleasant letter.,Quest Item: A mysterious and unpleasant letter.
-PROPITEM_TXT_005318,Unknown Certificate,Unknown Certificate
-PROPITEM_TXT_005319,Quest Item: A mysterious and unpleasant certificate.,Quest Item: A mysterious and unpleasant certificate.
-PROPITEM_TXT_005320,Office Document,Office Document
+PROPITEM_TXT_005316,Unknown Letter,Невідомий лист
+PROPITEM_TXT_005317,Quest Item: A mysterious and unpleasant letter.,Предмет квесту: Загадковий і неприємний лист.
+PROPITEM_TXT_005318,Unknown Certificate,Невідомий сертифікат
+PROPITEM_TXT_005319,Quest Item: A mysterious and unpleasant certificate.,Предмет квесту: Загадкова і неприємна довідка.
+PROPITEM_TXT_005320,Office Document,Офіційний документ
 PROPITEM_TXT_005396,Scholarship Application,Scholarship Application
 PROPITEM_TXT_005397,Quest Item: Martinyc's application for a scholarship.,Quest Item: Martinyc's application for a scholarship.
 PROPITEM_TXT_005398,Stone Piece of Flaris,Stone Piece of Flaris
@@ -3063,11 +3063,11 @@ PROPITEM_TXT_005472,Mark of Hero,Mark of Hero
 PROPITEM_TXT_005473,Quest Item: Mark that proves that you are qualified to follow in the Heroes' footsteps.,Quest Item: Mark that proves that you are qualified to follow in the Heroes' footsteps.
 PROPITEM_TXT_005482,Venel Heart,Venel Heart
 PROPITEM_TXT_005483,Quest Item: A Heart that contains the essence of the Heroes of the Past.,Quest Item: A Heart that contains the essence of the Heroes of the Past.
-PROPITEM_TXT_005484,Book of Technique,Book of Technique
-PROPITEM_TXT_005485,Quest Item: Book about the techniques of your 1st Job.,Quest Item: Book about the techniques of your 1st Job.
-PROPITEM_TXT_005486,Label of Technique,Label of Technique
-PROPITEM_TXT_005488,Nomination of Master,Nomination of Master
-PROPITEM_TXT_005489,Quest Item: Recommendation from a Master to continue to your 2nd Job.,Quest Item: Recommendation from a Master to continue to your 2nd Job.
+PROPITEM_TXT_005484,Book of Technique,Книга Техніка
+PROPITEM_TXT_005485,Quest Item: Book about the techniques of your 1st Job.,Предмет квесту: Книга про техніку вашої першої роботи.
+PROPITEM_TXT_005486,Label of Technique,Етикетка техніки
+PROPITEM_TXT_005488,Nomination of Master,Призначення магістра
+PROPITEM_TXT_005489,Quest Item: Recommendation from a Master to continue to your 2nd Job.,Предмет квесту: Рекомендація майстра для продовження вашої другої роботи.
 PROPITEM_TXT_005490,Ren Ring,Ren Ring
 PROPITEM_TXT_005491,Quest Item: Ren stole this ring from the Jester Curenen.,Quest Item: Ren stole this ring from the Jester Curenen.
 PROPITEM_TXT_005492,Stamped Scroll,Stamped Scroll
@@ -3081,36 +3081,36 @@ PROPITEM_TXT_005499,Quest Item: Head of the Red Bang thief.,Quest Item: Head of 
 PROPITEM_TXT_005500,Luda Safe,Luda Safe
 PROPITEM_TXT_005501,Quest Item: Luda is saving money in this safe to get his girlfriend a gift.,Quest Item: Luda is saving money in this safe to get his girlfriend a gift.
 PROPITEM_TXT_005502,Meteoritill,Meteoritill
-PROPITEM_TXT_005503,Quest Item: A material best used for making weapons and armor.,Quest Item: A material best used for making weapons and armor.
-PROPITEM_TXT_005504,Script,Script
+PROPITEM_TXT_005503,Quest Item: A material best used for making weapons and armor.,"Предмет квесту: Матеріал, який найкраще використовувати для виготовлення зброї та броні."
+PROPITEM_TXT_005504,Script,Сценарій
 PROPITEM_TXT_005505,Quest Item: The newest play from the Pepoview Troupe. The Sky of Madrigal.,Quest Item: The newest play from the Pepoview Troupe. The Sky of Madrigal.
-PROPITEM_TXT_005506,Lesson 1,Lesson 1
-PROPITEM_TXT_005507,Manner and Attitude,Manner and Attitude
-PROPITEM_TXT_005508,Lesson 2,Lesson 2
-PROPITEM_TXT_005509,Common Knowledge and Sense,Common Knowledge and Sense
-PROPITEM_TXT_005510,Lesson 3,Lesson 3
-PROPITEM_TXT_005511,Health,Health
+PROPITEM_TXT_005506,Lesson 1,Урок 1
+PROPITEM_TXT_005507,Manner and Attitude,Манера і ставлення
+PROPITEM_TXT_005508,Lesson 2,Урок 2
+PROPITEM_TXT_005509,Common Knowledge and Sense,Загальні знання та глузд
+PROPITEM_TXT_005510,Lesson 3,Урок 1
+PROPITEM_TXT_005511,Health,Здоров'я
 PROPITEM_TXT_005512,1st Portrait Clue,1st Portrait Clue
-PROPITEM_TXT_005513,Quest Item: A scary portrait. Who would paint something like that?,Quest Item: A scary portrait. Who would paint something like that?
+PROPITEM_TXT_005513,Quest Item: A scary portrait. Who would paint something like that?,Предмет квесту: Страшний портрет. Хто б намалював щось подібне?
 PROPITEM_TXT_005514,2nd Portrait Clue,2nd Portrait Clue
 PROPITEM_TXT_005516,Portrait of Radion,Portrait of Radion
-PROPITEM_TXT_005517,Quest Item: A rare painting of Radion. It is such an old painting.,Quest Item: A rare painting of Radion. It is such an old painting.
+PROPITEM_TXT_005517,Quest Item: A rare painting of Radion. It is such an old painting.,Предмет квесту: Рідкісна картина Радіона. Це така стара картина.
 PROPITEM_TXT_005518,Pieces of Wagsaac Bone,Pieces of Wagsaac Bone
-PROPITEM_TXT_005519,Quest Item: Piece of bone that is vital to the research of the lab.,Quest Item: Piece of bone that is vital to the research of the lab.
+PROPITEM_TXT_005519,Quest Item: Piece of bone that is vital to the research of the lab.,"Предмет квесту: Шматок кістки, життєво важливий для дослідження лабораторії."
 PROPITEM_TXT_005520,Pieces of Wagsaac DNA,Pieces of Wagsaac DNA
 PROPITEM_TXT_005521,"Quest Item: Wagsaac DNA, the lab will use it in their Experiments.","Quest Item: Wagsaac DNA, the lab will use it in their Experiments."
 PROPITEM_TXT_005522,Black Tombmarble,Black Tombmarble
 PROPITEM_TXT_005523,Quest Item: A rare piece of Black Tombmarble.,Quest Item: A rare piece of Black Tombmarble.
-PROPITEM_TXT_005524,Black Curse Book,Black Curse Book
-PROPITEM_TXT_005525,Quest Item: The book used to curse certain objects.,Quest Item: The book used to curse certain objects.
+PROPITEM_TXT_005524,Black Curse Book,Чорна книга прокляття
+PROPITEM_TXT_005525,Quest Item: The book used to curse certain objects.,Предмет квесту: Книга використовувалася для прокляття певних предметів.
 PROPITEM_TXT_005526,Black Heroca,Black Heroca
 PROPITEM_TXT_005527,Quest Item: Rare grass that grows only in Rhisis Garden.,Quest Item: Rare grass that grows only in Rhisis Garden.
 PROPITEM_TXT_005528,Book of Secret Disappearances,Book of Secret Disappearances
 PROPITEM_TXT_005529,Quest Item: Report on the girls who have disappeared from Saint City.,Quest Item: Report on the girls who have disappeared from Saint City.
 PROPITEM_TXT_005530,Jinyoung Doll,Jinyoung Doll
 PROPITEM_TXT_005531,"Quest Item: And old and dirty doll that once belonged to Jinyoung, daughter of JeongHwa.","Quest Item: And old and dirty doll that once belonged to Jinyoung, daughter of JeongHwa."
-PROPITEM_TXT_005532,Disappearance Investigation,Disappearance Investigation
-PROPITEM_TXT_005533,Quest Item: Written conclusion about the truth behind the disappearance of the little girls from Saint City.,Quest Item: Written conclusion about the truth behind the disappearance of the little girls from Saint City.
+PROPITEM_TXT_005532,Disappearance Investigation,Розслідування зникнення
+PROPITEM_TXT_005533,Quest Item: Written conclusion about the truth behind the disappearance of the little girls from Saint City.,Предмет квесту: Письмовий висновок про правду про зникнення дівчаток із Сент-Сіті.
 PROPITEM_TXT_005534,Mia Report,Mia Report
 PROPITEM_TXT_005535,Quest Item: Report on Mia. It should help in finding something that the lost girls had in common.,Quest Item: Report on Mia. It should help in finding something that the lost girls had in common.
 PROPITEM_TXT_005536,Disappearance Evidence,Disappearance Evidence
@@ -3178,10 +3178,10 @@ PROPITEM_TXT_005610,Will,Will
 PROPITEM_TXT_005612,Peace,Peace
 PROPITEM_TXT_005614,Honor,Honor
 PROPITEM_TXT_005616,Notebook,Notebook
-PROPITEM_TXT_005618,Camera,Camera
+PROPITEM_TXT_005618,Camera,Камера
 PROPITEM_TXT_005620,Airship,Airship
-PROPITEM_TXT_005626,Gift Ticket,Gift Ticket
-PROPITEM_TXT_005628,Movie Ticket,Movie Ticket
+PROPITEM_TXT_005626,Gift Ticket,Подарунковий квиток
+PROPITEM_TXT_005628,Movie Ticket,Квиток у кіно
 PROPITEM_TXT_005630,OST,OST
 PROPITEM_TXT_005632,Red Socks,Red Socks
 PROPITEM_TXT_005633,Red socks that Santa lost,Red socks that Santa lost
