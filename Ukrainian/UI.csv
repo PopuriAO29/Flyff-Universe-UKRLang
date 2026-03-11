@@ -66,10 +66,10 @@ UI_OPTION_FULLSCREEN,Fullscreen,Повний екран
 UI_MOTION_TAB_MOT,Motion,Рух
 UI_MOTION_TAB_EMO,Emoticon,Смайлик
 UI_REVIVAL_TITLE,Resurrection,Воскресіння
-UI_REVIVAL_LODESTAR,Lodestar,Lodestar
-UI_REVIVAL_LODESTAR_TIP,Revive to Lodestar,Revive to Lodestar
-UI_REVIVAL_LODELIGHT,Lodelight,Lodelight
-UI_REVIVAL_LODELIGHT_TIP,Revive to Lodelight,Revive to Lodelight
+UI_REVIVAL_LODESTAR,Lodestar,Довідкова зірка
+UI_REVIVAL_LODESTAR_TIP,Revive to Lodestar,Відродитися до Довідкової Зірки
+UI_REVIVAL_LODELIGHT,Lodelight,Лоделайт
+UI_REVIVAL_LODELIGHT_TIP,Revive to Lodelight,Відродитися до Лоделайт
 UI_CHARINFO_BASE,Base,База
 UI_CHARINFO_NAME,Name,Ім'я
 UI_CHARINFO_LOGIN,Login,Логін
@@ -458,36 +458,36 @@ UI_GUILD_DISMISS,Dismiss,Dismiss
 UI_GUILD_NOTICE_TIP,Set your guild's notice.,Set your guild's notice.
 UI_GUILD_LOGO_TIP,Change your guild's logo.,Change your guild's logo.
 UI_GUILD_NAME_TIP,This establishes your guild's name. It can be done only once.,This establishes your guild's name. It can be done only once.
-UI_GUILD_DISMISS_TIP,"Disband your guild. Be careful, there's no going back!","Disband your guild. Be careful, there's no going back!"
+UI_GUILD_DISMISS_TIP,"Disband your guild. Be careful, there's no going back!","Розпустіть свою гільдію. Будьте обережні, назад дороги немає!"
 UI_GUILDNAME_ENTER,Enter Guild Name,Enter Guild Name
 UI_GUILDNAME_TITLE,Guild Name Setup,Guild Name Setup
 UI_GUILDNOTICE_TITLE,Guild Notice Setup,Guild Notice Setup
 UI_GUILDNOTICESEARCH_TITLE,Guild Search Notice Setup,Guild Search Notice Setup
-UI_GUILDNOTICE_NEW,New,New
-UI_GUILDNOTICE_SAVE,Save,Save
+UI_GUILDNOTICE_NEW,New,Новий
+UI_GUILDNOTICE_SAVE,Save,Зберегти
 UI_GUILDNOTICE_NEW_TIP,Write new Guild Notice.,Write new Guild Notice.
 UI_GUILDNOTICE_SAVE_TIP,"Open the Notice, and send it to other characters.","Open the Notice, and send it to other characters."
 UI_GUILDLOGO_TITLE,Guild Logo Setup,Guild Logo Setup
 UI_GUILDDISMISS_TITLE,Disband Guild Confirmation,Disband Guild Confirmation
-UI_GUILDDISMISS_CONFIRM,"Do you want to disband the guild? Keep in mind that if your guild owns a house, you will lose ownership of the guild house as well.","Do you want to disband the guild? Keep in mind that if your guild owns a house, you will lose ownership of the guild house as well."
+UI_GUILDDISMISS_CONFIRM,"Do you want to disband the guild? Keep in mind that if your guild owns a house, you will lose ownership of the guild house as well.","Ви хочете розпустити гільдію? Майте на увазі, що якщо ваша гільдія володіє будинком, ви також втратите право власності на будинок гільдії."
 UI_GUILD_PAY,Salary,Salary
 UI_GUILD_PAY_SETUP,Setup,Setup
 UI_GUILD_GRADE_MEMBER,Members,Members
 UI_GUILD_POWERS,Powers,Powers
-UI_GUILD_POWER_TITLE,Title,Title
+UI_GUILD_POWER_TITLE,Title,Назва
 UI_GUILD_POWER_RANK,Rank,Rank
 UI_GUILD_POWER_JOIN,Join,Join
 UI_GUILD_POWER_ITEM,Item,Item
 UI_GUILD_POWER_PENYA,Penya,Пеня
 UI_GUILD_POWER_SPECTATE,Spectate,Spectate
-UI_GUILD_POWER_TIP,Apply Settings,Apply Settings
-UI_GUILD_POWER_SAVE,Save,Save
-UI_GUILD_PAY_TIP,Set %s pay.(It will be paid at 00:00 automatically),Set %s pay.(It will be paid at 00:00 automatically)
+UI_GUILD_POWER_TIP,Apply Settings,Застосувати налаштування
+UI_GUILD_POWER_SAVE,Save,Зберегти
+UI_GUILD_PAY_TIP,Set %s pay.(It will be paid at 00:00 automatically),Встановити оплату %s. (Оплата буде здійснена автоматично о 00:00)
 UI_GUILDPAY_TITLE,Setup Pay per Title,Setup Pay per Title
-UI_GUILDPAY_MESSAGE,What amount will you set for payment?,What amount will you set for payment?
-UI_GUILDPAY_AMOUNT,Amount,Amount
-UI_GUILD_GRADE,Title,Title
-UI_GUILD_ALIAS,Nickname,Nickname
+UI_GUILDPAY_MESSAGE,What amount will you set for payment?,Яку суму ви встановите для оплати?
+UI_GUILDPAY_AMOUNT,Amount,Сума
+UI_GUILD_GRADE,Title,Назва
+UI_GUILD_ALIAS,Nickname,Прізвисько
 UI_GUILD_APPELATION_UP,Promote Member,Promote Member
 UI_GUILD_APPELATION_DOWN,Demote Member,Demote Member
 UI_GUILD_CLASS_UP,Class Up,Class Up
@@ -502,9 +502,9 @@ UI_GUILDINVITE_QUESTION,%s invites you to join the guild %s. Do you accept?,%s i
 UI_GUILD_JOINQUESTION,%s wants to join your guild. Do you accept?,%s wants to join your guild. Do you accept?
 UI_GUILDBANK_TITLE,Guild Safebox,Guild Safebox
 UI_GUILDBANK_SUPPORT,Support,Підтримка
-UI_GUILDBANK_CLOAK,Cloak,Cloak
+UI_GUILDBANK_CLOAK,Cloak,Плащ
 UI_GUILDBANK_ITEM,Item,Item
-UI_GUILDMERIT_TITLE,Guild Contributing,Guild Contributing
+UI_GUILDMERIT_TITLE,Guild Contributing,Внесок гільдії
 UI_GUILDMERIT_QUESTITEMS,Quest Items,Quest Items
 UI_GUILDMERIT_PENYA,Penya,Пеня
 UI_GUILDCOMBATBOARD_TITLE,Guild Siege Information,Guild Siege Information
@@ -570,16 +570,16 @@ UI_TRADE_PENYA,Penya,Пеня
 UI_DROP_FILTER_TITLE,Pick Up Pet,Pick Up Pet
 UI_DROP_FILTER_SETTINGS,Pick Up item settings,Pick Up item settings
 UI_DROP_FILTER_CAT_EQUIPMENT,Equipment,Equipment
-UI_DROP_FILTER_0,Weapons,Weapons
+UI_DROP_FILTER_0,Weapons,Зброя
 UI_DROP_FILTER_1,Armor,Броня
 UI_DROP_FILTER_2,Accessory,Accessory
 UI_DROP_FILTER_3,Power Dice,Power Dice
-UI_DROP_FILTER_4,Mineral,Mineral
-UI_DROP_FILTER_5,Element Card,Element Card
+UI_DROP_FILTER_4,Mineral,Мінерал
+UI_DROP_FILTER_5,Element Card,Картка елемента
 UI_DROP_FILTER_6,Socket Card,Socket Card
 UI_DROP_FILTER_7,Quest,Quest
 UI_DROP_FILTER_8,Booty,Booty
-UI_DROP_FILTER_CAT_MATERIAL,Material,Material
+UI_DROP_FILTER_CAT_MATERIAL,Material,Матеріал
 UI_DROP_FILTER_9,Food,Їжа
 UI_DROP_FILTER_10,FP Potion,FP Potion
 UI_DROP_FILTER_11,Buff,Buff
@@ -598,7 +598,7 @@ UI_TOOLTIP_PERMANENTTIME,No Time Limit,Без обмежень за часом
 UI_TOOLTIP_COOLTIME,Waiting Time for reuse: %.2d:%.2d,Waiting Time for reuse: %.2d:%.2d
 UI_RESURRECTION_TITLE,Resurrection Confirm,Resurrection Confirm
 UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?,Інший гравець намагається воскресити вас (рівень майстерності %d). Ви хочете воскресити?
-UI_TOOLTIP_EQUIPSET,Set Effect,Set Effect
+UI_TOOLTIP_EQUIPSET,Set Effect,Встановити ефект
 UI_TOOLTIP_BLOCKRATE,Block,Блок
 UI_OPTION_FIELDVIEW_AUTO,Auto,Авто
 UI_OPTION_FIELDVIEW_HIGH,High,Високий
@@ -629,14 +629,14 @@ UI_PRIVATE_SHOP_CHAT,Chat,Chat
 UI_PRIVATE_SHOP_SELL_TITLE,Sell Item Registration,Sell Item Registration
 UI_PRIVATE_SHOP_QUANTITY,Quantity,Quantity
 UI_PRIVATE_SHOP_UNIT_PRICE,Unit price,Unit price
-UI_PRIVATE_SHOP_OPEN,Will you open your shop?,Will you open your shop?
-UI_PRIVATE_SHOP_CLOSE,Will you close your shop?,Will you close your shop?
+UI_PRIVATE_SHOP_OPEN,Will you open your shop?,Ви відкриєте свій магазин?
+UI_PRIVATE_SHOP_CLOSE,Will you close your shop?,Ви закриєте свій магазин?
 UI_PERSONAL_SHOP_TITLE,%s's Private Shop,%s's Private Shop
 UI_PRIVATE_SHOP_BUY_TITLE,Buy Item,Buy Item
 UI_PRIVATE_SHOP_BUY,Purchase,Purchase
-UI_PRIVATE_SHOP_TOTAL_COST,Total Cost,Total Cost
+UI_PRIVATE_SHOP_TOTAL_COST,Total Cost,Загальна вартість
 UI_PERSONAL_SHOP_CHAT_TITLE,Chatting,Chatting
-UI_PERSONAL_SHOP_CHAT_USER,User,User
+UI_PERSONAL_SHOP_CHAT_USER,User,Користувач
 UI_PERSONAL_SHOP_CHAT_MESSAGE,Message,Повідомлення
 UI_PERSONAL_SHOP_CHAT_INPUT,Input,Input
 UI_PERSONAL_SHOP_CHAT_DIALOG,Dialog,Діалог
@@ -651,7 +651,7 @@ UI_TOOLTIP_ITEM_BINDS,[Soul-Linked],[Soul-Linked]
 UI_TOOLTIP_ACCOUNT_BINDS,[Account-Linked],[Account-Linked]
 UI_BEAUTY_SHOP_TITLE,Hair Shop,Hair Shop
 UI_BEAUTY_SHOP_RESET,Reset,Reset
-UI_BEAUTY_SHOP_HAIR_COLOR,Hair Color,Hair Color
+UI_BEAUTY_SHOP_HAIR_COLOR,Hair Color,Колір волосся
 UI_BEAUTY_SHOP_HAIR_STYLE,Hair Style,Hair Style
 UI_BEAUTY_SHOP_PREVIEW,Preview,Preview
 UI_BEAUTY_SHOP_STYLE_PRICE,Style Price:,Style Price:
@@ -661,14 +661,14 @@ UI_BEAUTY_SHOP_CONFIRM_TITLE,Confirm Purchase,Confirm Purchase
 UI_OPTION_TRADE,Trade Requests,Trade Requests
 UI_TRADE_REQUEST_TITLE,Trade,Trade
 UI_TRADE_REQUEST_QUESTION,%s wants to trade. Would you like to trade?,%s wants to trade. Would you like to trade?
-UI_TRADE_PUT_GOLD_QUESTION,How many do you want to move?,How many do you want to move?
+UI_TRADE_PUT_GOLD_QUESTION,How many do you want to move?,Скільки ви хочете перевезти?
 UI_TRADE_PUT_GOLD_QTY,Penya:,Пеня:
 UI_TRADE_ITEM,Item,Item
-UI_TRADE_PUT_ITEM_QUESTION,Move how many items?,Move how many items?
-UI_TRADE_PUT_ITEM_QTY,Number:,Number:
+UI_TRADE_PUT_ITEM_QUESTION,Move how many items?,Скільки предметів перемістити?
+UI_TRADE_PUT_ITEM_QTY,Number:,Номер:
 UI_TRADE_CONFIRM_TITLE,Confirm Trade,Confirm Trade
 UI_TRADE_CONFIRM_QUESTION,Do you accept the trade?,Do you accept the trade?
-UI_TRADE_CONFIRM_WAIT,You need to wait for approval.,You need to wait for approval.
+UI_TRADE_CONFIRM_WAIT,You need to wait for approval.,Вам потрібно дочекатися схвалення.
 UI_OPTION_MOBILE_DIR,Directional Pad,Directional Pad
 UI_PIERCING_TITLE,Piercing,Piercing
 UI_PIERCING_PIERCE_ITEM,Pierce Item,Pierce Item
@@ -695,15 +695,15 @@ UI_UPGRADE_PROTECTSCROLL,SProtect,SProtect
 UI_ULTIMATE_UPGRADE_PROTECTSCROLL,XProtect,XProtect
 UI_ULTIMATE_UPGRADE_MATERIAL,Sunstone,Sunstone
 UI_UPGRADE_CHANCESCROLL,SFusion,SFusion
-UI_UPGRADE_DEGRADE,Attribute level will decrease in case of failure. You will not lose the item.,Attribute level will decrease in case of failure. You will not lose the item.
-UI_UPGRADE_UNSAFE,Without Scroll of SProtect you will lose the item in case of failure.,Without Scroll of SProtect you will lose the item in case of failure.
-UI_UPGRADE_CONFIRMATION,Do you want to upgrade this item?,Do you want to upgrade this item?
+UI_UPGRADE_DEGRADE,Attribute level will decrease in case of failure. You will not lose the item.,Рівень атрибута знизиться у разі невдачі. Ви не втратите предмет.
+UI_UPGRADE_UNSAFE,Without Scroll of SProtect you will lose the item in case of failure.,Без сувою SProtect ви втратите предмет у разі невдачі.
+UI_UPGRADE_CONFIRMATION,Do you want to upgrade this item?,Ви хочете оновити цей елемент?
 UI_ATTRIBUTE_REMOVE_TITLE,Remove Element Upgrade,Remove Element Upgrade
 UI_ATTRIBUTE_REMOVE_MSG_TITLE,Confirm Removal,Confirm Removal
 UI_ATTRIBUTE_REMOVE_MSG,Remove the element upgrade from this item? #b#cffff0000This action cannot be undone.#nc#nb,Remove the element upgrade from this item? #b#cffff0000This action cannot be undone.#nc#nb
-UI_REVIVAL_CASH_SHOP_TIP,You can use a Premium item.,You can use a Premium item.
+UI_REVIVAL_CASH_SHOP_TIP,You can use a Premium item.,Ви можете використовувати преміум-предмет.
 UI_REVIVAL_REVIVAL,Original Place,Початкове місце
-UI_REVIVAL_REVIVAL_TIP,You will be revived where you died.,You will be revived where you died.
+UI_REVIVAL_REVIVAL_TIP,You will be revived where you died.,"Ти воскреснеш там, де помер."
 UI_COMMITEM_DIALOG_TITLE,Use Item,Use Item
 UI_RESTATE_CONFIRM_TITLE,Confirm Re-Stat,Confirm Re-Stat
 UI_RESTATE_CONFIRM_ALL,All character stats will be reset. Continue?,Усі характеристики персонажів буде скинуто. Продовжити?
@@ -2311,13 +2311,13 @@ UI_TOOLTIP_PVPCRITICALBONUS,PvP Critical Damage,PvP Critical Damage
 UI_TOOLTIP_PVPCRITICALCHANCE,PvP Critical Chance,PvP Critical Chance
 UI_TOOLTIP_PENYA_RATE,Penya Drop Bonus,Penya Drop Bonus
 UI_OPTION_UNDERWATER,Underwater Effect,Підводний ефект
-UI_REVIVAL_LODELIGHT_CONFIRM,Are you sure that you want to resurrect to the Lodelight?,Are you sure that you want to resurrect to the Lodelight?
-UI_REVIVAL_LODESTAR_CONFIRM,Are you sure that you want to resurrect to the Lodestar?,Are you sure that you want to resurrect to the Lodestar?
+UI_REVIVAL_LODELIGHT_CONFIRM,Are you sure that you want to resurrect to the Lodelight?,"Ви впевнені, що хочете воскресити до Лоделайта?"
+UI_REVIVAL_LODESTAR_CONFIRM,Are you sure that you want to resurrect to the Lodestar?,"Ви впевнені, що хочете воскресити до Подорожньої Зірки?"
 UI_CASHSHOP_CONFIRM_MSG_CMT,Do you want to purchase %dx %s (x%d) for %s?,Do you want to purchase %dx %s (x%d) for %s?
-UI_BATTLEPASS_MISSION_HOUSING_BOOK_WRITE,Write friend's house guestbook,Write friend's house guestbook
-UI_PURCHASE_INAPP_SUCCESS,Purchase was successful!,Purchase was successful!
-UI_PURCHASE_INAPP_CANCELED,Purchase has been cancelled.,Purchase has been cancelled.
-UI_PURCHASE_INAPP_ERROR,An error occured and purchase was not completed.,An error occured and purchase was not completed.
+UI_BATTLEPASS_MISSION_HOUSING_BOOK_WRITE,Write friend's house guestbook,Напишіть гостьову книгу будинку друга
+UI_PURCHASE_INAPP_SUCCESS,Purchase was successful!,Покупка пройшла успішно!
+UI_PURCHASE_INAPP_CANCELED,Purchase has been cancelled.,Покупку скасовано.
+UI_PURCHASE_INAPP_ERROR,An error occured and purchase was not completed.,"Сталася помилка, і покупку не було завершено."
 UI_TOOLTIP_MAGIC_CLOCK,Number of uses today: %d,Number of uses today: %d
 UI_BATTLEPASS_MISSION_UPGRADE_GEAR_OR_ACC,Reach gear or accessory upgrade +%s or above,Reach gear or accessory upgrade +%s or above
 UI_ACHIEVEMENTS_TITLE_TARGETMONSTERS,Monster(s) to kill,Monster(s) to kill
@@ -2447,7 +2447,7 @@ UI_MATOURNAMENT_TYPE_FINAL,Final,Final
 UI_MATOURNAMENT_MATCH_RESULT_WIN,Win,Win
 UI_MATOURNAMENT_MATCH_RESULT_LOSE,Lose,Lose
 UI_MATOURNAMENT_MATCH_RESULT_DRAW,Draw,Draw
-UI_MATOURNAMENT_MATCH_RESULT_NORECORD,You do not have a record for this day.,You do not have a record for this day.
+UI_MATOURNAMENT_MATCH_RESULT_NORECORD,You do not have a record for this day.,У вас немає запису за цей день.
 UI_MATOURNAMENT_DAILY_RESULT_TYPE,Type : %s,Type : %s
 UI_MATOURNAMENT_DAILY_RESULT_OTHERTEAM,Other Team : %s,Other Team : %s
 UI_MATOURNAMENT_DAILY_RESULT_PLAYTIME,Play Time : %s,Play Time : %s
@@ -2481,17 +2481,17 @@ UI_MATOURNAMENT_RANKING_CALENDAR,Calendar,Calendar
 UI_MATOURNAMENT_RANKING_DESC,"This contains all the ranking data for the current Madrigal Tournament.\nIf only one team has showed up in the preliminary's ranking, then that means it had no opponent!","Тут містяться всі дані рейтингу поточного турніру Мадригал.\nЯкщо в рейтингу попереднього етапу фігурує лише одна команда, це означає, що в неї не було суперника!"
 UI_MATOURNAMENT_REWARD_RANK,Rank,Rank
 UI_MATOURNAMENT_REWARD_REWARD,Reward,Reward
-UI_MATOURNAMENT_REWARD_GRADE_QUARTERFINAL,Quarter Finals,Quarter Finals
-UI_MATOURNAMENT_REWARD_GRADE_FINAL16,Round of 16,Round of 16
-UI_MATOURNAMENT_REWARD_GRADE_PARTICIPATION,Participation,Participation
+UI_MATOURNAMENT_REWARD_GRADE_QUARTERFINAL,Quarter Finals,Чвертьфінали
+UI_MATOURNAMENT_REWARD_GRADE_FINAL16,Round of 16,1/8 фіналу
+UI_MATOURNAMENT_REWARD_GRADE_PARTICIPATION,Participation,Участь
 UI_MATOURNAMENT_REWARD_TITLE,Madrigal Tournament Reward,Madrigal Tournament Reward
-UI_MATOURNAMENT_REGISTRATION_MINLEVEL,Min Player Lv.,Min Player Lv.
+UI_MATOURNAMENT_REGISTRATION_MINLEVEL,Min Player Lv.,Мінімальний рівень гравця
 UI_MSGBOX_RECIEVE,Receive,Receive
 UI_MATOURNAMENT_RANKING_CALENDAR_INFO,"This window contains information about your Madrigal Tournament matches and participation history. You can see information for the last four weeks, including the current week.\nYou can click on a date to see details about that day's battles.","Це вікно містить інформацію про ваші матчі Мадригального турніру та історію участі. Ви можете переглянути інформацію за останні чотири тижні, включаючи поточний тиждень.\nВи можете натиснути на дату, щоб переглянути деталі про битви цього дня."
 UI_MATOURNAMENT_RANKING_TOP50_INFO,"This window contains information about Madrigal Tournament's Matches and Rankings.\nIf only one team is listed in the qualifiers, it means that they will be forfeited due to lack of opponents.","Це вікно містить інформацію про матчі та рейтинги турніру Мадригал.\nЯкщо у кваліфікації зазначено лише одну команду, це означає, що вона програє через відсутність суперників."
 UI_MATOURNAMENT_RANKING_TOURNAMENT_INFO,"This window contains information about Madrigal Tournament Matches and Rankings. If only one team is listed in the qualifiers, it means that they will be forfeited due to lack of opponents.","Це вікно містить інформацію про матчі та рейтинги турніру Мадригал. Якщо у кваліфікації зазначено лише одну команду, це означає, що вона програє через відсутність суперників."
 UI_MATOURNAMENT_BETTING_TITLE,Madrigal Tournament Bidding,Madrigal Tournament Bidding
-UI_MATOURNAMENT_BETTING_DESC,"You can bid and view the bidding ranking for the Madrigal Tournament.\nYou can only bid on one team but you can add additional Penyas to bid if you wish.\nBids will close on %s %s, and will show the amount you will receive when your bidding is successful.","You can bid and view the bidding ranking for the Madrigal Tournament.\nYou can only bid on one team but you can add additional Penyas to bid if you wish.\nBids will close on %s %s, and will show the amount you will receive when your bidding is successful."
+UI_MATOURNAMENT_BETTING_DESC,"You can bid and view the bidding ranking for the Madrigal Tournament.\nYou can only bid on one team but you can add additional Penyas to bid if you wish.\nBids will close on %s %s, and will show the amount you will receive when your bidding is successful.","Ви можете робити ставки та переглядати рейтинг ставок на турнір Мадригал.\nВи можете робити ставки лише на одну команду, але за бажанням можете додати додаткові Пенья до ставки.\nПрийом ставок завершиться о %s %s, і буде показано суму, яку ви отримаєте, якщо ваша ставка буде успішною."
 UI_MATOURNAMENT_BETTING_RANK,Rank,Rank
 UI_MATOURNAMENT_BETTING_GOLD,Penya,Penya
 UI_MATOURNAMENT_BETTING_DATE,Last Date,Last Date
@@ -2510,9 +2510,9 @@ UI_ULTIMATE_JEWEL_UPGRADE_TITLE,Create Ultimate Jewel,Create Ultimate Jewel
 UI_UPGRADE_ULTIMATE_JEWEL_REGISTER,Register material jewel,Register material jewel
 UI_UPGRADE_ULTIMATE_JEWEL_INFO,Create 10 jewel pieces or 1 gemstone to receive a first-grade complete jewel.,Create 10 jewel pieces or 1 gemstone to receive a first-grade complete jewel.
 UI_COUPLE_PROPOSAL,Couple Proposal,Couple Proposal
-UI_COUPLE_PROPOSAL_TEXT,%s is proposing to you! Would you like to accept their proposal request and become a couple?,%s is proposing to you! Would you like to accept their proposal request and become a couple?
-UI_COUPLE_RING_REPLACE,Ring Replacement,Ring Replacement
-UI_COUPLE_RING_REPLACE_TEXT,Your partner is proposing to change the ring to the following ring. Do you accept?,Your partner is proposing to change the ring to the following ring. Do you accept?
+UI_COUPLE_PROPOSAL_TEXT,%s is proposing to you! Would you like to accept their proposal request and become a couple?,%s робить тобі пропозицію! Чи хотіли б ти прийняти його пропозицію та стати парою?
+UI_COUPLE_RING_REPLACE,Ring Replacement,Заміна кільця
+UI_COUPLE_RING_REPLACE_TEXT,Your partner is proposing to change the ring to the following ring. Do you accept?,Ваш партнер пропонує змінити обручку на наступну. Ви погоджуєтеся?
 UI_COUPLE_PARTNER_OFFLINE,Your partner must be online.,Your partner must be online.
 UI_COUPLE_BREAKUP_DEADLINE,Break up response deadline: %s,Break up response deadline: %s
 UI_COUPLE_BREAKUP_NOTI,Break up notification time: %s,Break up notification time: %s
@@ -2521,19 +2521,19 @@ UI_COUPLE_NEXTEXP_OFFLINE,No passive experience (offline),No passive experience 
 UI_COUPLE_BREAKUP,Break Up,Break Up
 UI_COUPLE_BREAKUP_FORCE,Break Up(F),Break Up(F)
 UI_COUPLE_TELEPORT,Teleport,Teleport
-UI_COUPLE_TELEPORT_TEXT,Teleport to your partner's location? Teleportation is not possible if your partner is in an inaccessible area.,Teleport to your partner's location? Teleportation is not possible if your partner is in an inaccessible area.
+UI_COUPLE_TELEPORT_TEXT,Teleport to your partner's location? Teleportation is not possible if your partner is in an inaccessible area.,"Телепортуватися до місця перебування партнера? Телепортація неможлива, якщо ваш партнер перебуває в недоступній зоні."
 UI_COUPLE_CHEER,Cheer,Cheer
-UI_COUPLE_FORM_DATE,Formation Date,Formation Date
-UI_COUPLE_STORAGE_AVAIL,Available Storage Slots,Available Storage Slots
-UI_COUPLE_MAX_TELEPORTS,Maximum Daily Teleports,Maximum Daily Teleports
-UI_COUPLE_MAX_CHEERS,Maximum Daily Cheers,Maximum Daily Cheers
-UI_COUPLE_MAX_POINTS,Maximum Skill Points,Maximum Skill Points
-UI_COUPLE_TOTAL_QUESTS,Total Quests Completed,Total Quests Completed
-UI_COUPLE_SINGLE,You are single.,You are single.
-UI_COUPLE_TABPARTNER,Partner,Partner
-UI_COUPLE_BREAKUP_TEXT,"Are you sure you want to request a break up from your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available.","Are you sure you want to request a break up from your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available."
-UI_COUPLE_BREAKUP_FORCE_TEXT,"Are you sure you want to immediately force a break up with your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available.","Are you sure you want to immediately force a break up with your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available."
-UI_COUPLE_BREAKUP_NOTIFY,"Your partner has requested a break up. If accepted you will immediately lose all items in your couple storage and will no longer be a couple, losing any couple functionality. Do you accept?","Your partner has requested a break up. If accepted you will immediately lose all items in your couple storage and will no longer be a couple, losing any couple functionality. Do you accept?"
+UI_COUPLE_FORM_DATE,Formation Date,Дата заснування
+UI_COUPLE_STORAGE_AVAIL,Available Storage Slots,Доступні слоти для зберігання даних
+UI_COUPLE_MAX_TELEPORTS,Maximum Daily Teleports,Максимальна кількість щоденних телепортацій
+UI_COUPLE_MAX_CHEERS,Maximum Daily Cheers,Максимальна щоденна підтримка
+UI_COUPLE_MAX_POINTS,Maximum Skill Points,Максимальна кількість очок навичок
+UI_COUPLE_TOTAL_QUESTS,Total Quests Completed,Загальна кількість виконаних квестів
+UI_COUPLE_SINGLE,You are single.,Ви самотні.
+UI_COUPLE_TABPARTNER,Partner,Партнер
+UI_COUPLE_BREAKUP_TEXT,"Are you sure you want to request a break up from your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available.","Ви впевнені, що хочете розірвати стосунки зі своїм партнером? Якщо ви розірвете стосунки, ви негайно втратите всі предмети у вашому спільного сховищі, а функції для пар більше не будуть доступні."
+UI_COUPLE_BREAKUP_FORCE_TEXT,"Are you sure you want to immediately force a break up with your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available.","Ви впевнені, що хочете негайно розірвати стосунки зі своїм партнером? Якщо ви розірвете стосунки, ви негайно втратите всі предмети у вашому спільного сховищі, а функції для пар більше не будуть доступні."
+UI_COUPLE_BREAKUP_NOTIFY,"Your partner has requested a break up. If accepted you will immediately lose all items in your couple storage and will no longer be a couple, losing any couple functionality. Do you accept?","Ваш партнер попросив розірвати стосунки. Якщо ви погодитеся, ви негайно втратите всі предмети, що зберігаються у вашому спільного сховищі, і більше не будете парою, втративши всі функції пари. Чи погоджуєтеся ви?"
 UI_COUPLE_PROPOSE,Propose,Propose
 UI_COUPLE_PROPOSE_INFO,Request to form a couple with the recipient using the inserted couple ring.,Request to form a couple with the recipient using the inserted couple ring.
 UI_TOOLTIP_COUPLE_LEVEL,Required Couple Level: %d,Required Couple Level: %d
