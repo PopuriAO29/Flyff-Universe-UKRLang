@@ -2000,11 +2000,11 @@ PROPITEM_TXT_003982,Ninth Refresher,Дев'ятий освіжувач
 PROPITEM_TXT_003983,MP 600 Recovery,Відновлює 600 MP
 PROPITEM_TXT_003984,Tenth Refresher,Десятий освіжувач
 PROPITEM_TXT_003985,MP 675 Recovery,Відновлює 675 MP
-PROPITEM_TXT_003986,Antidote Potion,Antidote Potion
-PROPITEM_TXT_003987,A poison antidote. This vial will instantly cure poison effects when consumed.,A poison antidote. This vial will instantly cure poison effects when consumed.
-PROPITEM_TXT_003988,Cure Disease Potion,Cure Disease Potion
-PROPITEM_TXT_003990,Water Bottle,Water Bottle
-PROPITEM_TXT_003992,Oil Bottle,Oil Bottle
+PROPITEM_TXT_003986,Antidote Potion,Зілля протиотрути
+PROPITEM_TXT_003987,A poison antidote. This vial will instantly cure poison effects when consumed.,Протиотрута від отрути. Цей флакон миттєво вилікує ефекти отрути при вживанні.
+PROPITEM_TXT_003988,Cure Disease Potion,Зілля від хвороби
+PROPITEM_TXT_003990,Water Bottle,Пляшка води
+PROPITEM_TXT_003992,Oil Bottle,Пляшка олії
 PROPITEM_TXT_003994,VitalDrink 100,Життєвий напій 100
 PROPITEM_TXT_003995,FP 60 Recovery,Відновлює 60 FP
 PROPITEM_TXT_003996,VitalDrink 200,Життєвий напій 200
@@ -2153,38 +2153,38 @@ PROPITEM_TXT_004138,Penzeru +2,Penzeru +2
 PROPITEM_TXT_004139,+175 Defense Earring,+175 Defense Earring
 PROPITEM_TXT_004140,Penzeru +3,Penzeru +3
 PROPITEM_TXT_004141,+200 Defense Earring,+200 Defense Earring
-PROPITEM_TXT_004142,Speedo +1,Speedo +1
+PROPITEM_TXT_004142,Speedo +1,Спідометр +1
 PROPITEM_TXT_004143,+3% Block Earring,+3% Block Earring
-PROPITEM_TXT_004144,Speedo +2,Speedo +2
+PROPITEM_TXT_004144,Speedo +2,Спідометр +2
 PROPITEM_TXT_004145,+6% Block Earring,+6% Block Earring
-PROPITEM_TXT_004146,Speedo +3,Speedo +3
+PROPITEM_TXT_004146,Speedo +3,Спідометр +3
 PROPITEM_TXT_004147,+10% Block Earring,+10% Block Earring
-PROPITEM_TXT_004148,Pep +1,Pep +1
-PROPITEM_TXT_004150,Pep +2,Pep +2
-PROPITEM_TXT_004152,Pep +3,Pep +3
-PROPITEM_TXT_004154,Socecle +1,Socecle +1
-PROPITEM_TXT_004156,Socecle +2,Socecle +2
-PROPITEM_TXT_004158,Socecle +3,Socecle +3
-PROPITEM_TXT_004160,Enduky +1,Enduky +1
-PROPITEM_TXT_004162,Enduky +2,Enduky +2
-PROPITEM_TXT_004164,Enduky +3,Enduky +3
-PROPITEM_TXT_004166,Strente +1,Strente +1
+PROPITEM_TXT_004148,Pep +1,Бадьорість духу +1
+PROPITEM_TXT_004150,Pep +2,Бадьорість духу +2
+PROPITEM_TXT_004152,Pep +3,Бадьорість духу +3
+PROPITEM_TXT_004154,Socecle +1,Цоколь +1
+PROPITEM_TXT_004156,Socecle +2,Цоколь +2
+PROPITEM_TXT_004158,Socecle +3,Цоколь +3
+PROPITEM_TXT_004160,Enduky +1,Ендукі +1
+PROPITEM_TXT_004162,Enduky +2,Ендукі +2
+PROPITEM_TXT_004164,Enduky +3,Ендукі +3
+PROPITEM_TXT_004166,Strente +1,Стренте +1
 PROPITEM_TXT_004167,STR +10 Ring,Кільце STR +10
-PROPITEM_TXT_004168,Strente +2,Strente +2
+PROPITEM_TXT_004168,Strente +2,Стренте +2
 PROPITEM_TXT_004169,STR +20 Ring,Кільце STR +20
-PROPITEM_TXT_004170,Strente +3,Strente +3
+PROPITEM_TXT_004170,Strente +3,Стренте +3
 PROPITEM_TXT_004171,STR +30 Ring,Кільце STR +30
-PROPITEM_TXT_004172,Intiret +1,Intiret +1
+PROPITEM_TXT_004172,Intiret +1,Інтирет +1
 PROPITEM_TXT_004173,INT +10 Ring,Кільце INT +10
-PROPITEM_TXT_004174,Intiret +2,Intiret +2
+PROPITEM_TXT_004174,Intiret +2,Інтирет +2
 PROPITEM_TXT_004175,INT +20 Ring,Кільце INT +20
-PROPITEM_TXT_004176,Intiret +3,Intiret +3
+PROPITEM_TXT_004176,Intiret +3,Інтирет +3
 PROPITEM_TXT_004177,INT +30 Ring,Кільце INT +30
-PROPITEM_TXT_004178,Dexion +1,Dexion +1
+PROPITEM_TXT_004178,Dexion +1,Дексіон +1
 PROPITEM_TXT_004179,DEX +10 Ring,Кільце DEX +10
-PROPITEM_TXT_004180,Dexion +2,Dexion +2
+PROPITEM_TXT_004180,Dexion +2,Дексіон +2
 PROPITEM_TXT_004181,DEX +20 Ring,Кільце DEX +20
-PROPITEM_TXT_004182,Dexion +3,Dexion +3
+PROPITEM_TXT_004182,Dexion +3,Дексіон +3
 PROPITEM_TXT_004183,DEX +30 Ring,Кільце DEX +30
 PROPITEM_TXT_004184,Meteor,Meteor
 PROPITEM_TXT_004185,All Stats +10 Ring,Всі характеристики +10 до кільця
@@ -2703,9 +2703,9 @@ PROPITEM_TXT_004801,What on earth is in the box?,"Що ж, заради всьо
 PROPITEM_TXT_004802,Clothes Test,Clothes Test
 PROPITEM_TXT_004803,Item for testing costumes,Item for testing costumes
 PROPITEM_TXT_004804,Blue Sailor (M),Blue Sailor (M)
-PROPITEM_TXT_004805,Blue Sailor Set for Male Characters,Blue Sailor Set for Male Characters
+PROPITEM_TXT_004805,Blue Sailor Set for Male Characters,Синій моряк набір для чоловічих персонажів
 PROPITEM_TXT_004806,Green Sailor (M),Green Sailor (M)
-PROPITEM_TXT_004807,Green Sailor set for Male Characters,Green Sailor set for Male Characters
+PROPITEM_TXT_004807,Green Sailor set for Male Characters,Набір Зелений моряк для чоловічих персонажів
 PROPITEM_TXT_004808,Purple Sailor (M),Purple Sailor (M)
 PROPITEM_TXT_004809,Purple Sailor set for Male Characters,Purple Sailor set for Male Characters
 PROPITEM_TXT_004810,Red Sailor (M),Red Sailor (M)
@@ -3173,24 +3173,24 @@ PROPITEM_TXT_005601,What's inside the box? This box contains 1 out of 64 possibl
 PROPITEM_TXT_005602,Normal Box by PiPi,Normal Box by PiPi
 PROPITEM_TXT_005604,Event Coupon,Event Coupon
 PROPITEM_TXT_005606,Taeguk,Taeguk
-PROPITEM_TXT_005608,Heart,Heart
+PROPITEM_TXT_005608,Heart,Серце
 PROPITEM_TXT_005610,Will,Will
-PROPITEM_TXT_005612,Peace,Peace
-PROPITEM_TXT_005614,Honor,Honor
-PROPITEM_TXT_005616,Notebook,Notebook
+PROPITEM_TXT_005612,Peace,Мир
+PROPITEM_TXT_005614,Honor,Честь
+PROPITEM_TXT_005616,Notebook,Блокнот
 PROPITEM_TXT_005618,Camera,Камера
 PROPITEM_TXT_005620,Airship,Airship
 PROPITEM_TXT_005626,Gift Ticket,Подарунковий квиток
 PROPITEM_TXT_005628,Movie Ticket,Квиток у кіно
 PROPITEM_TXT_005630,OST,OST
-PROPITEM_TXT_005632,Red Socks,Red Socks
-PROPITEM_TXT_005633,Red socks that Santa lost,Red socks that Santa lost
+PROPITEM_TXT_005632,Red Socks,Червоні шкарпетки
+PROPITEM_TXT_005633,Red socks that Santa lost,"Червоні шкарпетки, які Санта загубив"
 PROPITEM_TXT_005635,,
 PROPITEM_TXT_005636,Cup of Lsis,Cup of Lsis
-PROPITEM_TXT_005638,Disposable Rudolph Sled,Disposable Rudolph Sled
-PROPITEM_TXT_005639,This board will be gone after you use it one time. Make sure you get where you are going!,This board will be gone after you use it one time. Make sure you get where you are going!
-PROPITEM_TXT_005640,Rudolph Sled,Rudolph Sled
-PROPITEM_TXT_005641,Spread the Christmas spirit with this sled!,Spread the Christmas spirit with this sled!
+PROPITEM_TXT_005638,Disposable Rudolph Sled,Одноразові сани Рудольфа
+PROPITEM_TXT_005639,This board will be gone after you use it one time. Make sure you get where you are going!,"Ця дошка зникне після того, як ви використаєте її один раз. Переконайтеся, що ви дісталися до місця призначення!"
+PROPITEM_TXT_005640,Rudolph Sled,Рудольф След
+PROPITEM_TXT_005641,Spread the Christmas spirit with this sled!,Поширюйте різдвяний настрій за допомогою цих санок!
 PROPITEM_TXT_005642,Sword Board,Sword Board
 PROPITEM_TXT_005643,This flying board is shaped like a sword!,This flying board is shaped like a sword!
 PROPITEM_TXT_005644,Dragon Stick,Dragon Stick
@@ -3412,8 +3412,8 @@ PROPITEM_TXT_006030,Love Candy (Woman),Love Candy (Woman)
 PROPITEM_TXT_006032,Heart Piece,Heart Piece
 PROPITEM_TXT_006034,Gift Box,Gift Box
 PROPITEM_TXT_006035,"Box with a small, random gift inside","Box with a small, random gift inside"
-PROPITEM_TXT_006036,Bucket,Bucket
-PROPITEM_TXT_006037,Water Bucket,Water Bucket
+PROPITEM_TXT_006036,Bucket,Відро
+PROPITEM_TXT_006037,Water Bucket,Відро для води
 PROPITEM_TXT_006038,Conepine Seed,Conepine Seed
 PROPITEM_TXT_006040,Fir Seed,Fir Seed
 PROPITEM_TXT_006042,Persimmon Seed,Persimmon Seed
@@ -4482,9 +4482,9 @@ PROPITEM_TXT_008467,The only way to find out what animal is inside is to get its
 PROPITEM_TXT_008658,Tiger Cage,Tiger Cage
 PROPITEM_TXT_008659,This ferocious Tiger is GGGREAT!,This ferocious Tiger is GGGREAT!
 PROPITEM_TXT_008660,Lion Cage,Lion Cage
-PROPITEM_TXT_008661,Good thing these Lions come with courage!,Good thing these Lions come with courage!
+PROPITEM_TXT_008661,Good thing these Lions come with courage!,"Добре, що ці Леви наділені мужністю!"
 PROPITEM_TXT_008662,Rabbit Coop,Rabbit Coop
-PROPITEM_TXT_008663,"That’s the most foul, cruel and bad tempered rodent you ever set eyes on!","That’s the most foul, cruel and bad tempered rodent you ever set eyes on!"
+PROPITEM_TXT_008663,"That’s the most foul, cruel and bad tempered rodent you ever set eyes on!","Це найогидніший, найжорстокіший і найгірший гризун, якого ти коли-небудь бачив!"
 PROPITEM_TXT_008664,Dragon Cage,Dragon Cage
 PROPITEM_TXT_008665,Meddle not in the affairs of the dragon; for you are crunchy and taste good with ketchup.,Meddle not in the affairs of the dragon; for you are crunchy and taste good with ketchup.
 PROPITEM_TXT_008666,Unicorn Corral,Unicorn Corral
@@ -6129,12 +6129,12 @@ PROPITEM_TXT_009058,Scroll of Pet Revival Piece (A Class),Scroll of Pet Revival 
 PROPITEM_TXT_009059,Gather 5 pieces and the Pet Tamer will give you a Scroll of Pet Revival (A Class).,Gather 5 pieces and the Pet Tamer will give you a Scroll of Pet Revival (A Class).
 PROPITEM_TXT_009060,Scroll of Pet Revival Piece (B Class),Scroll of Pet Revival Piece (B Class)
 PROPITEM_TXT_009061,Gather 5 pieces and the Pet Tamer will give you a Scroll of Pet Revival (B Class).,Gather 5 pieces and the Pet Tamer will give you a Scroll of Pet Revival (B Class).
-PROPITEM_TXT_009062,Scroll of Pet Revival (S Class),Scroll of Pet Revival (S Class)
-PROPITEM_TXT_009063,Revives a dead S Class pet.,Revives a dead S Class pet.
-PROPITEM_TXT_009064,Scroll of Pet Revival (A Class),Scroll of Pet Revival (A Class)
-PROPITEM_TXT_009065,Revives a dead A Class pet.,Revives a dead A Class pet.
-PROPITEM_TXT_009066,Scroll of Pet Revival (B Class),Scroll of Pet Revival (B Class)
-PROPITEM_TXT_009067,Revives a dead B Class Pet.,Revives a dead B Class Pet.
+PROPITEM_TXT_009062,Scroll of Pet Revival (S Class),Сувій відродження домашніх тварин (S клас)
+PROPITEM_TXT_009063,Revives a dead S Class pet.,Оживляє мертвого вихованця S-класу.
+PROPITEM_TXT_009064,Scroll of Pet Revival (A Class),Сувій відродження домашніх тварин (A клас)
+PROPITEM_TXT_009065,Revives a dead A Class pet.,Оживляє мертвого вихованця A-класу.
+PROPITEM_TXT_009066,Scroll of Pet Revival (B Class),Сувій відродження домашніх тварин (B клас)
+PROPITEM_TXT_009067,Revives a dead B Class Pet.,Оживляє мертвого вихованця B-класу.
 PROPITEM_TXT_008020,Free Makeup Coupon,Free Makeup Coupon
 PROPITEM_TXT_017355,Scroll of EProtect,Scroll of EProtect
 PROPITEM_TXT_017356,Prevents a card from being destroyed when an upgrade fails.,Запобігає знищенню карти у разі невдалого оновлення.
@@ -6160,34 +6160,34 @@ PROPITEM_TXT_015963,Scroll of Party Amplification (7 Days),Scroll of Party Ampli
 PROPITEM_TXT_015964,Your party will get twice the number of points when reaching a new level. Lasts 7 days. Note that the counter on this item will continue to count down even when logged out.,Your party will get twice the number of points when reaching a new level. Lasts 7 days. Note that the counter on this item will continue to count down even when logged out.
 PROPITEM_TXT_015965,Scroll of Party Amplification (15 Days),Scroll of Party Amplification (15 Days)
 PROPITEM_TXT_015966,Your party will get twice the number of points when reaching a new level. Lasts 15 days. Note that the counter on this item will continue to count down even when logged out.,Your party will get twice the number of points when reaching a new level. Lasts 15 days. Note that the counter on this item will continue to count down even when logged out.
-PROPITEM_TXT_016079,Gold Aura (7 days),Gold Aura (7 days)
-PROPITEM_TXT_016080,This mystical orb will change the color of your upgraded armor's aura to Gold. Lasts 7 days.,This mystical orb will change the color of your upgraded armor's aura to Gold. Lasts 7 days.
-PROPITEM_TXT_016081,Scarlet Aura (7 days),Scarlet Aura (7 days)
-PROPITEM_TXT_016082,This mystical orb will change the color of your upgraded armor's aura to Red. Lasts 7 days.,This mystical orb will change the color of your upgraded armor's aura to Red. Lasts 7 days.
-PROPITEM_TXT_016083,Black Aura (7 days),Black Aura (7 days)
-PROPITEM_TXT_016084,This mystical orb will change the color of your upgraded armor's aura to Black. Lasts 7 days.,This mystical orb will change the color of your upgraded armor's aura to Black. Lasts 7 days.
-PROPITEM_TXT_016085,Purple Aura (7 days),Purple Aura (7 days)
-PROPITEM_TXT_016086,This mystical orb will change the color of your upgraded armor's aura to Purple. Lasts 7 days.,This mystical orb will change the color of your upgraded armor's aura to Purple. Lasts 7 days.
-PROPITEM_TXT_016087,Green Aura (7 days),Green Aura (7 days)
-PROPITEM_TXT_016088,This mystical orb will change the color of your upgraded armor's aura to Green. Lasts 7 days.,This mystical orb will change the color of your upgraded armor's aura to Green. Lasts 7 days.
-PROPITEM_TXT_016089,White Aura (7 days),White Aura (7 days)
-PROPITEM_TXT_016090,This mystical orb will change the color of your upgraded armor's aura to White. Lasts 7 days.,This mystical orb will change the color of your upgraded armor's aura to White. Lasts 7 days.
-PROPITEM_TXT_016091,Golden Aura (15 days),Golden Aura (15 days)
-PROPITEM_TXT_016092,This mystical orb will change the color of your upgraded armor's aura to Gold. Lasts 15 days.,This mystical orb will change the color of your upgraded armor's aura to Gold. Lasts 15 days.
-PROPITEM_TXT_016093,Scarlet Aura (15 days),Scarlet Aura (15 days)
-PROPITEM_TXT_016094,This mystical orb will change the color of your upgraded armor's aura to Red. Lasts 15 days.,This mystical orb will change the color of your upgraded armor's aura to Red. Lasts 15 days.
-PROPITEM_TXT_016095,Black Aura (15 days),Black Aura (15 days)
-PROPITEM_TXT_016096,This mystical orb will change the color of your upgraded armor's aura to Black. Lasts 15 days.,This mystical orb will change the color of your upgraded armor's aura to Black. Lasts 15 days.
-PROPITEM_TXT_016097,Purple Aura (15 days),Purple Aura (15 days)
-PROPITEM_TXT_016098,This mystical orb will change the color of your upgraded armor's aura to Purple. Lasts 15 days.,This mystical orb will change the color of your upgraded armor's aura to Purple. Lasts 15 days.
-PROPITEM_TXT_016099,Green Aura (15 days),Green Aura (15 days)
-PROPITEM_TXT_016100,This mystical orb will change the color of your upgraded armor's aura to Green. Lasts 15 days.,This mystical orb will change the color of your upgraded armor's aura to Green. Lasts 15 days.
-PROPITEM_TXT_016101,White Aura (15 days),White Aura (15 days)
-PROPITEM_TXT_016102,This mystical orb will change the color of your upgraded armor's aura to White. Lasts 15 days.,This mystical orb will change the color of your upgraded armor's aura to White. Lasts 15 days.
+PROPITEM_TXT_016079,Gold Aura (7 days),Золота аура (7 days)
+PROPITEM_TXT_016080,This mystical orb will change the color of your upgraded armor's aura to Gold. Lasts 7 days.,Ця містична сфера змінить колір аури вашої вдосконаленої броні на золотий. Триває 7 днів.
+PROPITEM_TXT_016081,Scarlet Aura (7 days),Червона аура (7 days)
+PROPITEM_TXT_016082,This mystical orb will change the color of your upgraded armor's aura to Red. Lasts 7 days.,Ця містична сфера змінить колір аури вашої вдосконаленої броні на червоний. Триває 7 днів.
+PROPITEM_TXT_016083,Black Aura (7 days),Чорна аура (7 days)
+PROPITEM_TXT_016084,This mystical orb will change the color of your upgraded armor's aura to Black. Lasts 7 days.,Ця містична сфера змінить колір аури вашої вдосконаленої броні на чорний. Триває 7 днів.
+PROPITEM_TXT_016085,Purple Aura (7 days),Фіолетова аура (7 days)
+PROPITEM_TXT_016086,This mystical orb will change the color of your upgraded armor's aura to Purple. Lasts 7 days.,Ця містична сфера змінить колір аури вашої вдосконаленої броні на фіолетовий. Триває 7 днів.
+PROPITEM_TXT_016087,Green Aura (7 days),Зелена аура (7 days)
+PROPITEM_TXT_016088,This mystical orb will change the color of your upgraded armor's aura to Green. Lasts 7 days.,Ця містична сфера змінить колір аури вашої вдосконаленої броні на зелений. Триває 7 днів.
+PROPITEM_TXT_016089,White Aura (7 days),Біла аура (7 days)
+PROPITEM_TXT_016090,This mystical orb will change the color of your upgraded armor's aura to White. Lasts 7 days.,Ця містична сфера змінить колір аури вашої вдосконаленої броні на білий. Триває 7 днів.
+PROPITEM_TXT_016091,Golden Aura (15 days),Золота аура (15 days)
+PROPITEM_TXT_016092,This mystical orb will change the color of your upgraded armor's aura to Gold. Lasts 15 days.,Ця містична сфера змінить колір аури вашої вдосконаленої броні на золотий. Триває 15 днів.
+PROPITEM_TXT_016093,Scarlet Aura (15 days),Червона аура (15 days)
+PROPITEM_TXT_016094,This mystical orb will change the color of your upgraded armor's aura to Red. Lasts 15 days.,Ця містична сфера змінить колір аури вашої вдосконаленої броні на червоний. Триває 15 днів.
+PROPITEM_TXT_016095,Black Aura (15 days),Чорна аура (15 days)
+PROPITEM_TXT_016096,This mystical orb will change the color of your upgraded armor's aura to Black. Lasts 15 days.,Ця містична сфера змінить колір аури вашої вдосконаленої броні на чорний. Триває 15 днів.
+PROPITEM_TXT_016097,Purple Aura (15 days),Фіолетова аура (15 days)
+PROPITEM_TXT_016098,This mystical orb will change the color of your upgraded armor's aura to Purple. Lasts 15 days.,Ця містична сфера змінить колір аури вашої вдосконаленої броні на фіолетовий. Триває 15 днів.
+PROPITEM_TXT_016099,Green Aura (15 days),Зелена аура (15 days)
+PROPITEM_TXT_016100,This mystical orb will change the color of your upgraded armor's aura to Green. Lasts 15 days.,Ця містична сфера змінить колір аури вашої вдосконаленої броні на зелений. Триває 15 днів.
+PROPITEM_TXT_016101,White Aura (15 days),Біла аура (15 days)
+PROPITEM_TXT_016102,This mystical orb will change the color of your upgraded armor's aura to White. Lasts 15 days.,Ця містична сфера змінить колір аури вашої вдосконаленої броні на білий. Триває 15 днів.
 PROPITEM_TXT_016289,Scroll of Party Amplification (1 Day),Scroll of Party Amplification (1 Day)
 PROPITEM_TXT_016290,Your party will get twice the number of points when reaching a new level. Lasts 1 day. Note that the counter on this item will continue to count down even when logged out.,Your party will get twice the number of points when reaching a new level. Lasts 1 day. Note that the counter on this item will continue to count down even when logged out.
-PROPITEM_TXT_100004,Scroll of Permanent Party,Scroll of Permanent Party
-PROPITEM_TXT_100005,Members of your party (including you) will no longer be ejected automatically when they are offline. The scroll will be consumed and only applies on your current party.,Members of your party (including you) will no longer be ejected automatically when they are offline. The scroll will be consumed and only applies on your current party.
+PROPITEM_TXT_100004,Scroll of Permanent Party,Постійний партійний сувій
+PROPITEM_TXT_100005,Members of your party (including you) will no longer be ejected automatically when they are offline. The scroll will be consumed and only applies on your current party.,"Члени вашої групи (включно з вами) більше не будуть автоматично виключатися, коли вони перебувають офлайн. Сувій буде витрачено і застосовуватиметься лише до вашої поточної групи."
 PROPITEM_TXT_100006,Scroll of G-Logo Change,Scroll of G-Logo Change
 PROPITEM_TXT_100007,Changes Guild Logo. Your Guild must be at least level 4.,Changes Guild Logo. Your Guild must be at least level 4.
 PROPITEM_TXT_100008,Roriyet Yo-Yo,Roriyet Yo-Yo
@@ -10056,18 +10056,18 @@ PROPITEM_TXT_110477,"A package containing 25x Scroll of GProtect, 45x Scroll of 
 PROPITEM_TXT_110478,Pink Easter Egg,Pink Easter Egg
 PROPITEM_TXT_110479,Bring the Pink Easter Egg to the Pink Easter Bunny and you will be rewarded with some items!,Bring the Pink Easter Egg to the Pink Easter Bunny and you will be rewarded with some items!
 PROPITEM_TXT_110480,Weapon Piercing Card Box (B),Weapon Piercing Card Box (B)
-PROPITEM_TXT_110481,Select which piercing card (B) you want!,Select which piercing card (B) you want!
+PROPITEM_TXT_110481,Select which piercing card (B) you want!,"Оберіть, яку картку для пірсингу (B) ви хочете!"
 PROPITEM_TXT_110482,Weapon Piercing Card Box (A),Weapon Piercing Card Box (A)
-PROPITEM_TXT_110483,Select which piercing card (A) you want!,Select which piercing card (A) you want!
-PROPITEM_TXT_110484,Soul Fragment (D),Soul Fragment (D)
-PROPITEM_TXT_110485,Soul Fragment (C),Soul Fragment (C)
-PROPITEM_TXT_110486,Soul Fragment (B),Soul Fragment (B)
-PROPITEM_TXT_110487,Soul Fragment (A),Soul Fragment (A)
-PROPITEM_TXT_110488,Quest Item: A fragment of a powerful masquerpets soul.,Quest Item: A fragment of a powerful masquerpets soul.
+PROPITEM_TXT_110483,Select which piercing card (A) you want!,"Оберіть, яку картку для пірсингу (А) ви хочете!"
+PROPITEM_TXT_110484,Soul Fragment (D),Фрагмент душі (D)
+PROPITEM_TXT_110485,Soul Fragment (C),Фрагмент душі (C)
+PROPITEM_TXT_110486,Soul Fragment (B),Фрагмент душі (B)
+PROPITEM_TXT_110487,Soul Fragment (A),Фрагмент душі (A)
+PROPITEM_TXT_110488,Quest Item: A fragment of a powerful masquerpets soul.,Квестовий предмет: Фрагмент душі могутнього маскарада.
 PROPITEM_TXT_110489,Aibatt Cap,Aibatt Cap
 PROPITEM_TXT_110490,Kern Cap,Kern Cap
-PROPITEM_TXT_110491,Cherry Blossom,Cherry Blossom
-PROPITEM_TXT_110492,"Cherry Blossom obtained from defeating monsters. When you have 10 of these items, you can use them to play the lottery.","Cherry Blossom obtained from defeating monsters. When you have 10 of these items, you can use them to play the lottery."
+PROPITEM_TXT_110491,Cherry Blossom,Цвітіння вишні
+PROPITEM_TXT_110492,"Cherry Blossom obtained from defeating monsters. When you have 10 of these items, you can use them to play the lottery.","Вишневий цвіт, який можна отримати, перемагаючи монстрів. Коли у вас буде 10 таких предметів, ви зможете використати їх для участі в лотереї."
 PROPITEM_TXT_010722,Red Cherry Blossom Yukata Set (F),Red Cherry Blossom Yukata Set (F)
 PROPITEM_TXT_010723,"This box contains the Red Cherry Blossom Yukata Set for female characters. A yukata is a Japanese garment, a casual summer kimono usually made of cotton.","This box contains the Red Cherry Blossom Yukata Set for female characters. A yukata is a Japanese garment, a casual summer kimono usually made of cotton."
 PROPITEM_TXT_010724,Dragon Yukata Set (M),Dragon Yukata Set (M)
@@ -10096,8 +10096,8 @@ PROPITEM_TXT_110513,Earth Effect (10 Minutes),Earth Effect (10 Minutes)
 PROPITEM_TXT_110514,A mystical Earth aura will appear on your character. Lasts 10 minutes. It can be accumulated to increase its duration.,A mystical Earth aura will appear on your character. Lasts 10 minutes. It can be accumulated to increase its duration.
 PROPITEM_TXT_110515,Penya Effect (10 Minutes),Penya Effect (10 Minutes)
 PROPITEM_TXT_110516,A mystical Penya aura will appear on your character. Lasts 10 minutes. It can be accumulated to increase its duration.,A mystical Penya aura will appear on your character. Lasts 10 minutes. It can be accumulated to increase its duration.
-PROPITEM_TXT_110517,Rainbow Effect (10 Minutes),Rainbow Effect (10 Minutes)
-PROPITEM_TXT_110518,A cute Rainbow aura will appear on your character. Lasts 10 minutes. It can be accumulated to increase its duration.,A cute Rainbow aura will appear on your character. Lasts 10 minutes. It can be accumulated to increase its duration.
+PROPITEM_TXT_110517,Rainbow Effect (10 Minutes),Ефект веселки (10 хвилин)
+PROPITEM_TXT_110518,A cute Rainbow aura will appear on your character. Lasts 10 minutes. It can be accumulated to increase its duration.,"На вашому персонажі з'явиться мила райдужна аура. Триває 10 хвилин. Її можна накопичувати, щоб збільшити її тривалість."
 PROPITEM_TXT_110519,Cherry Blossom Effect (10 Minutes),Cherry Blossom Effect (10 Minutes)
 PROPITEM_TXT_110520,A beautiful Cherry Blossom aura will appear on your character. Lasts 10 minutes. It can be accumulated to increase its duration.,A beautiful Cherry Blossom aura will appear on your character. Lasts 10 minutes. It can be accumulated to increase its duration.
 PROPITEM_TXT_110521,Ghost Effect (10 Minutes),Ghost Effect (10 Minutes)
@@ -17964,18 +17964,18 @@ PROPITEM_TXT_133582,Pickled Herring (B),Pickled Herring (B)
 PROPITEM_TXT_133583,Pickled Herring (A),Pickled Herring (A)
 PROPITEM_TXT_133584,Pickled Herring (A+),Pickled Herring (A+)
 PROPITEM_TXT_133585,A dish made by pickling herring.,A dish made by pickling herring.
-PROPITEM_TXT_133586,Salmon Steak (D),Salmon Steak (D)
-PROPITEM_TXT_133587,Salmon Steak (C),Salmon Steak (C)
-PROPITEM_TXT_133588,Salmon Steak (B),Salmon Steak (B)
-PROPITEM_TXT_133589,Salmon Steak (A),Salmon Steak (A)
-PROPITEM_TXT_133590,Salmon Steak (A+),Salmon Steak (A+)
-PROPITEM_TXT_133591,A dish with nicely grilled salmon along with sauce.,A dish with nicely grilled salmon along with sauce.
-PROPITEM_TXT_133592,Fish Sandwich (D),Fish Sandwich (D)
-PROPITEM_TXT_133593,Fish Sandwich (C),Fish Sandwich (C)
-PROPITEM_TXT_133594,Fish Sandwich (B),Fish Sandwich (B)
-PROPITEM_TXT_133595,Fish Sandwich (A),Fish Sandwich (A)
-PROPITEM_TXT_133596,Fish Sandwich (A+),Fish Sandwich (A+)
-PROPITEM_TXT_133597,A sandwich made with a fried fish cutlet in the middle.,A sandwich made with a fried fish cutlet in the middle.
+PROPITEM_TXT_133586,Salmon Steak (D),Стейк з лосося (D)
+PROPITEM_TXT_133587,Salmon Steak (C),Стейк з лосося (C)
+PROPITEM_TXT_133588,Salmon Steak (B),Стейк з лосося (B)
+PROPITEM_TXT_133589,Salmon Steak (A),Стейк з лосося (A)
+PROPITEM_TXT_133590,Salmon Steak (A+),Стейк з лосося (A+)
+PROPITEM_TXT_133591,A dish with nicely grilled salmon along with sauce.,Страва з гарно запеченим лососем під соусом.
+PROPITEM_TXT_133592,Fish Sandwich (D),Сендвіч з рибою (D)
+PROPITEM_TXT_133593,Fish Sandwich (C),Сендвіч з рибою (C)
+PROPITEM_TXT_133594,Fish Sandwich (B),Сендвіч з рибою (B)
+PROPITEM_TXT_133595,Fish Sandwich (A),Сендвіч з рибою (A)
+PROPITEM_TXT_133596,Fish Sandwich (A+),Сендвіч з рибою (A+)
+PROPITEM_TXT_133597,A sandwich made with a fried fish cutlet in the middle.,Бутерброд зі смаженою рибною котлетою посередині.
 PROPITEM_TXT_133598,Grilled Salted Eel (D),Grilled Salted Eel (D)
 PROPITEM_TXT_133599,Grilled Salted Eel (C),Grilled Salted Eel (C)
 PROPITEM_TXT_133600,Grilled Salted Eel (B),Grilled Salted Eel (B)
@@ -18172,30 +18172,30 @@ PROPITEM_TXT_133790,Concoction of Rising Power (B),Concoction of Rising Power (B
 PROPITEM_TXT_133791,Concoction of Rising Power (A),Concoction of Rising Power (A)
 PROPITEM_TXT_133792,Concoction of Rising Power (A+),Concoction of Rising Power (A+)
 PROPITEM_TXT_133793,A mixture that increases max FP when consumed.,A mixture that increases max FP when consumed.
-PROPITEM_TXT_133794,Potion of Tiger (D),Potion of Tiger (D)
-PROPITEM_TXT_133795,Potion of Tiger (C),Potion of Tiger (C)
-PROPITEM_TXT_133796,Potion of Tiger (B),Potion of Tiger (B)
-PROPITEM_TXT_133797,Potion of Tiger (A),Potion of Tiger (A)
-PROPITEM_TXT_133798,Potion of Tiger (A+),Potion of Tiger (A+)
-PROPITEM_TXT_133799,A potion that increases STR when consumed.,A potion that increases STR when consumed.
-PROPITEM_TXT_133800,Potion of Fox (D),Potion of Fox (D)
-PROPITEM_TXT_133801,Potion of Fox (C),Potion of Fox (C)
-PROPITEM_TXT_133802,Potion of Fox (B),Potion of Fox (B)
-PROPITEM_TXT_133803,Potion of Fox (A),Potion of Fox (A)
-PROPITEM_TXT_133804,Potion of Fox (A+),Potion of Fox (A+)
-PROPITEM_TXT_133805,A potion that increases INT when consumed.,A potion that increases INT when consumed.
-PROPITEM_TXT_133806,Potion of Rabbit (D),Potion of Rabbit (D)
-PROPITEM_TXT_133807,Potion of Rabbit (C),Potion of Rabbit (C)
-PROPITEM_TXT_133808,Potion of Rabbit (B),Potion of Rabbit (B)
-PROPITEM_TXT_133809,Potion of Rabbit (A),Potion of Rabbit (A)
-PROPITEM_TXT_133810,Potion of Rabbit (A+),Potion of Rabbit (A+)
-PROPITEM_TXT_133811,A potion that increases DEX when consumed.,A potion that increases DEX when consumed.
-PROPITEM_TXT_133812,Potion of Lion (D),Potion of Lion (D)
-PROPITEM_TXT_133813,Potion of Lion (C),Potion of Lion (C)
-PROPITEM_TXT_133814,Potion of Lion (B),Potion of Lion (B)
-PROPITEM_TXT_133815,Potion of Lion (A),Potion of Lion (A)
-PROPITEM_TXT_133816,Potion of Lion (A+),Potion of Lion (A+)
-PROPITEM_TXT_133817,A potion that increases STA when consumed.,A potion that increases STA when consumed.
+PROPITEM_TXT_133794,Potion of Tiger (D),Тигрове зілля (D)
+PROPITEM_TXT_133795,Potion of Tiger (C),Тигрове зілля (C)
+PROPITEM_TXT_133796,Potion of Tiger (B),Тигрове зілля (B)
+PROPITEM_TXT_133797,Potion of Tiger (A),Тигрове зілля (A)
+PROPITEM_TXT_133798,Potion of Tiger (A+),Тигрове зілля (A+)
+PROPITEM_TXT_133799,A potion that increases STR when consumed.,"Зілля, яке підвищує Силу (STR) при вживанні."
+PROPITEM_TXT_133800,Potion of Fox (D),Лисяче зілля (D)
+PROPITEM_TXT_133801,Potion of Fox (C),Лисяче зілля (C)
+PROPITEM_TXT_133802,Potion of Fox (B),Лисяче зілля (B)
+PROPITEM_TXT_133803,Potion of Fox (A),Лисяче зілля (A)
+PROPITEM_TXT_133804,Potion of Fox (A+),Лисяче зілля (A+)
+PROPITEM_TXT_133805,A potion that increases INT when consumed.,"Зілля, яке підвищує Інтелект (INT) при вживанні."
+PROPITEM_TXT_133806,Potion of Rabbit (D),Кроляче зілля (D)
+PROPITEM_TXT_133807,Potion of Rabbit (C),Кроляче зілля (C)
+PROPITEM_TXT_133808,Potion of Rabbit (B),Кроляче зілля (B)
+PROPITEM_TXT_133809,Potion of Rabbit (A),Кроляче зілля (A)
+PROPITEM_TXT_133810,Potion of Rabbit (A+),Кроляче зілля (A+)
+PROPITEM_TXT_133811,A potion that increases DEX when consumed.,"Зілля, яке підвищує Спритність (DEX) при вживанні."
+PROPITEM_TXT_133812,Potion of Lion (D),Левове зілля (D)
+PROPITEM_TXT_133813,Potion of Lion (C),Левове зілля (C)
+PROPITEM_TXT_133814,Potion of Lion (B),Левове зілля (B)
+PROPITEM_TXT_133815,Potion of Lion (A),Левове зілля (A)
+PROPITEM_TXT_133816,Potion of Lion (A+),Левове зілля (A+)
+PROPITEM_TXT_133817,A potion that increases STA when consumed.,"Зілля, яке підвищує Витривалість (STA) при вживанні."
 PROPITEM_TXT_133818,Concoction of Accuracy (D),Concoction of Accuracy (D)
 PROPITEM_TXT_133819,Concoction of Accuracy (C),Concoction of Accuracy (C)
 PROPITEM_TXT_133820,Concoction of Accuracy (B),Concoction of Accuracy (B)
@@ -18262,107 +18262,107 @@ PROPITEM_TXT_133880,Power Refresher (B),Power Refresher (B)
 PROPITEM_TXT_133881,Power Refresher (A),Power Refresher (A)
 PROPITEM_TXT_133882,Power Refresher (A+),Power Refresher (A+)
 PROPITEM_TXT_133883,A mixture that decreases MP consumption when consumed.,A mixture that decreases MP consumption when consumed.
-PROPITEM_TXT_133884,Sawdust,Sawdust
-PROPITEM_TXT_133885,"This is the wood from a failed carpentry attempt. Unfortunately, there doesn't seem to be any use for it.","This is the wood from a failed carpentry attempt. Unfortunately, there doesn't seem to be any use for it."
-PROPITEM_TXT_133886,Plywood (D),Plywood (D)
-PROPITEM_TXT_133887,Plywood (C),Plywood (C)
-PROPITEM_TXT_133888,Plywood (B),Plywood (B)
-PROPITEM_TXT_133889,Plywood (A),Plywood (A)
-PROPITEM_TXT_133890,A wooden board made from a mixture of different woods.,A wooden board made from a mixture of different woods.
-PROPITEM_TXT_133891,Resin (D),Resin (D)
-PROPITEM_TXT_133892,Resin (C),Resin (C)
-PROPITEM_TXT_133893,Resin (B),Resin (B)
-PROPITEM_TXT_133894,Resin (A),Resin (A)
-PROPITEM_TXT_133895,The hardened substance of tree sap.,The hardened substance of tree sap.
-PROPITEM_TXT_133896,Finishing Material (D),Finishing Material (D)
-PROPITEM_TXT_133897,Finishing Material (C),Finishing Material (C)
-PROPITEM_TXT_133898,Finishing Material (B),Finishing Material (B)
-PROPITEM_TXT_133899,Finishing Material (A),Finishing Material (A)
-PROPITEM_TXT_133900,"A finish made by processing wood, which gives it a shine when applied to the surface of a wooden product.","A finish made by processing wood, which gives it a shine when applied to the surface of a wooden product."
-PROPITEM_TXT_133901,Cedar Hardwood (D),Cedar Hardwood (D)
-PROPITEM_TXT_133902,Cedar Hardwood (C),Cedar Hardwood (C)
-PROPITEM_TXT_133903,Cedar Hardwood (B),Cedar Hardwood (B)
-PROPITEM_TXT_133904,Cedar Hardwood (A),Cedar Hardwood (A)
-PROPITEM_TXT_133905,A solid piece of wood cut from a cedar tree.,A solid piece of wood cut from a cedar tree.
-PROPITEM_TXT_133906,Cherry Hardwood (D),Cherry Hardwood (D)
-PROPITEM_TXT_133907,Cherry Hardwood (C),Cherry Hardwood (C)
-PROPITEM_TXT_133908,Cherry Hardwood (B),Cherry Hardwood (B)
-PROPITEM_TXT_133909,Cherry Hardwood (A),Cherry Hardwood (A)
-PROPITEM_TXT_133910,A solid piece of wood cut from a cherry tree.,A solid piece of wood cut from a cherry tree.
-PROPITEM_TXT_133911,Pine Hardwood (D),Pine Hardwood (D)
-PROPITEM_TXT_133912,Pine Hardwood (C),Pine Hardwood (C)
-PROPITEM_TXT_133913,Pine Hardwood (B),Pine Hardwood (B)
-PROPITEM_TXT_133914,Pine Hardwood (A),Pine Hardwood (A)
-PROPITEM_TXT_133915,A solid piece of wood cut from a pine tree.,A solid piece of wood cut from a pine tree.
-PROPITEM_TXT_133916,Maple Hardwood (D),Maple Hardwood (D)
-PROPITEM_TXT_133917,Maple Hardwood (C),Maple Hardwood (C)
-PROPITEM_TXT_133918,Maple Hardwood (B),Maple Hardwood (B)
-PROPITEM_TXT_133919,Maple Hardwood (A),Maple Hardwood (A)
-PROPITEM_TXT_133920,A solid piece of wood cut from a maple tree.,A solid piece of wood cut from a maple tree.
-PROPITEM_TXT_133921,Oak Hardwood (D),Oak Hardwood (D)
-PROPITEM_TXT_133922,Oak Hardwood (C),Oak Hardwood (C)
-PROPITEM_TXT_133923,Oak Hardwood (B),Oak Hardwood (B)
-PROPITEM_TXT_133924,Oak Hardwood (A),Oak Hardwood (A)
-PROPITEM_TXT_133925,A solid piece of wood cut from a oak tree.,A solid piece of wood cut from a oak tree.
+PROPITEM_TXT_133884,Sawdust,Тирса
+PROPITEM_TXT_133885,"This is the wood from a failed carpentry attempt. Unfortunately, there doesn't seem to be any use for it.","Це деревина невдалої столярної роботи. На жаль, користі від цього, здається, немає."
+PROPITEM_TXT_133886,Plywood (D),Фанера (D)
+PROPITEM_TXT_133887,Plywood (C),Фанера (C)
+PROPITEM_TXT_133888,Plywood (B),Фанера (B)
+PROPITEM_TXT_133889,Plywood (A),Фанера (A)
+PROPITEM_TXT_133890,A wooden board made from a mixture of different woods.,"Дерев'яна дошка, виготовлена ​​з суміші різних порід дерева."
+PROPITEM_TXT_133891,Resin (D),Смола (D)
+PROPITEM_TXT_133892,Resin (C),Смола (C)
+PROPITEM_TXT_133893,Resin (B),Смола (B)
+PROPITEM_TXT_133894,Resin (A),Смола (A)
+PROPITEM_TXT_133895,The hardened substance of tree sap.,Затверділа речовина деревного соку.
+PROPITEM_TXT_133896,Finishing Material (D),Оздоблювальний матеріал (D)
+PROPITEM_TXT_133897,Finishing Material (C),Оздоблювальний матеріал (C)
+PROPITEM_TXT_133898,Finishing Material (B),Оздоблювальний матеріал (B)
+PROPITEM_TXT_133899,Finishing Material (A),Оздоблювальний матеріал (A)
+PROPITEM_TXT_133900,"A finish made by processing wood, which gives it a shine when applied to the surface of a wooden product.","Оздоблення, отримане шляхом обробки деревини, яке надає їй блиску при нанесенні на поверхню дерев'яного виробу."
+PROPITEM_TXT_133901,Cedar Hardwood (D),Кедр Тверда деревина (D)
+PROPITEM_TXT_133902,Cedar Hardwood (C),Кедр Тверда деревина (C)
+PROPITEM_TXT_133903,Cedar Hardwood (B),Кедр Тверда деревина (B)
+PROPITEM_TXT_133904,Cedar Hardwood (A),Кедр Тверда деревина (A)
+PROPITEM_TXT_133905,A solid piece of wood cut from a cedar tree.,"Цільний шматок дерева, вирізаний з кедра."
+PROPITEM_TXT_133906,Cherry Hardwood (D),Вишнева тверда деревина (D)
+PROPITEM_TXT_133907,Cherry Hardwood (C),Вишнева тверда деревина (C)
+PROPITEM_TXT_133908,Cherry Hardwood (B),Вишнева тверда деревина (B)
+PROPITEM_TXT_133909,Cherry Hardwood (A),Вишнева тверда деревина (A)
+PROPITEM_TXT_133910,A solid piece of wood cut from a cherry tree.,"Цільний шматок дерева, вирізаний з вишневого дерева."
+PROPITEM_TXT_133911,Pine Hardwood (D),Сосна Тверда деревина (D)
+PROPITEM_TXT_133912,Pine Hardwood (C),Сосна Тверда деревина (C)
+PROPITEM_TXT_133913,Pine Hardwood (B),Сосна Тверда деревина (B)
+PROPITEM_TXT_133914,Pine Hardwood (A),Сосна Тверда деревина (A)
+PROPITEM_TXT_133915,A solid piece of wood cut from a pine tree.,"Цільний шматок дерева, вирізаний із сосни."
+PROPITEM_TXT_133916,Maple Hardwood (D),Клен Тверда порід (D)
+PROPITEM_TXT_133917,Maple Hardwood (C),Клен Тверда порід (C)
+PROPITEM_TXT_133918,Maple Hardwood (B),Клен Тверда порід (B)
+PROPITEM_TXT_133919,Maple Hardwood (A),Клен Тверда порід (A)
+PROPITEM_TXT_133920,A solid piece of wood cut from a maple tree.,"Цільний шматок дерева, вирізаний з клена."
+PROPITEM_TXT_133921,Oak Hardwood (D),Дуб Тверда деревина (D)
+PROPITEM_TXT_133922,Oak Hardwood (C),Дуб Тверда деревина (C)
+PROPITEM_TXT_133923,Oak Hardwood (B),Дуб Тверда деревина (B)
+PROPITEM_TXT_133924,Oak Hardwood (A),Дуб Тверда деревина (A)
+PROPITEM_TXT_133925,A solid piece of wood cut from a oak tree.,"Цільний шматок дерева, вирізаний з дуба."
 PROPITEM_TXT_133926,Walnut Hardwood (D),Walnut Hardwood (D)
 PROPITEM_TXT_133927,Walnut Hardwood (C),Walnut Hardwood (C)
 PROPITEM_TXT_133928,Walnut Hardwood (B),Walnut Hardwood (B)
 PROPITEM_TXT_133929,Walnut Hardwood (A),Walnut Hardwood (A)
-PROPITEM_TXT_133930,A solid piece of wood cut from a walnut tree.,A solid piece of wood cut from a walnut tree.
-PROPITEM_TXT_133931,Teak Hardwood (D),Teak Hardwood (D)
-PROPITEM_TXT_133932,Teak Hardwood (C),Teak Hardwood (C)
-PROPITEM_TXT_133933,Teak Hardwood (B),Teak Hardwood (B)
-PROPITEM_TXT_133934,Teak Hardwood (A),Teak Hardwood (A)
-PROPITEM_TXT_133935,A solid piece of wood cut from a teak tree.,A solid piece of wood cut from a teak tree.
-PROPITEM_TXT_133936,Ebony Hardwood (D),Ebony Hardwood (D)
-PROPITEM_TXT_133937,Ebony Hardwood (C),Ebony Hardwood (C)
-PROPITEM_TXT_133938,Ebony Hardwood (B),Ebony Hardwood (B)
-PROPITEM_TXT_133939,Ebony Hardwood (A),Ebony Hardwood (A)
-PROPITEM_TXT_133940,A solid piece of wood cut from a ebony tree.,A solid piece of wood cut from a ebony tree.
-PROPITEM_TXT_133941,Mahogany Hardwood (D),Mahogany Hardwood (D)
-PROPITEM_TXT_133942,Mahogany Hardwood (C),Mahogany Hardwood (C)
-PROPITEM_TXT_133943,Mahogany Hardwood (B),Mahogany Hardwood (B)
-PROPITEM_TXT_133944,Mahogany Hardwood (A),Mahogany Hardwood (A)
-PROPITEM_TXT_133945,A solid piece of wood cut from a mahogany tree.,A solid piece of wood cut from a mahogany tree.
-PROPITEM_TXT_133946,Red Paint (D),Red Paint (D)
-PROPITEM_TXT_133947,Red Paint (C),Red Paint (C)
-PROPITEM_TXT_133948,Red Paint (B),Red Paint (B)
-PROPITEM_TXT_133949,Red Paint (A),Red Paint (A)
-PROPITEM_TXT_133950,A paint that can paint furniture red.,A paint that can paint furniture red.
-PROPITEM_TXT_133951,Blue Paint (D),Blue Paint (D)
-PROPITEM_TXT_133952,Blue Paint (C),Blue Paint (C)
-PROPITEM_TXT_133953,Blue Paint (B),Blue Paint (B)
-PROPITEM_TXT_133954,Blue Paint (A),Blue Paint (A)
-PROPITEM_TXT_133955,A paint that can paint furniture blue.,A paint that can paint furniture blue.
-PROPITEM_TXT_133956,Yellow Paint (D),Yellow Paint (D)
-PROPITEM_TXT_133957,Yellow Paint (C),Yellow Paint (C)
-PROPITEM_TXT_133958,Yellow Paint (B),Yellow Paint (B)
-PROPITEM_TXT_133959,Yellow Paint (A),Yellow Paint (A)
-PROPITEM_TXT_133960,A paint that can paint furniture yellow.,A paint that can paint furniture yellow.
-PROPITEM_TXT_133961,Green Paint (D),Green Paint (D)
-PROPITEM_TXT_133962,Green Paint (C),Green Paint (C)
-PROPITEM_TXT_133963,Green Paint (B),Green Paint (B)
-PROPITEM_TXT_133964,Green Paint (A),Green Paint (A)
-PROPITEM_TXT_133965,A paint that can paint furniture green.,A paint that can paint furniture green.
-PROPITEM_TXT_133966,Black Paint (D),Black Paint (D)
-PROPITEM_TXT_133967,Black Paint (C),Black Paint (C)
-PROPITEM_TXT_133968,Black Paint (B),Black Paint (B)
-PROPITEM_TXT_133969,Black Paint (A),Black Paint (A)
-PROPITEM_TXT_133970,A paint that can paint furniture black.,A paint that can paint furniture black.
-PROPITEM_TXT_133971,White Paint (D),White Paint (D)
-PROPITEM_TXT_133972,White Paint (C),White Paint (C)
-PROPITEM_TXT_133973,White Paint (B),White Paint (B)
-PROPITEM_TXT_133974,White Paint (A),White Paint (A)
-PROPITEM_TXT_133975,A paint that can paint furniture white.,A paint that can paint furniture white.
-PROPITEM_TXT_133976,Gold Paint (D),Gold Paint (D)
-PROPITEM_TXT_133977,Gold Paint (C),Gold Paint (C)
-PROPITEM_TXT_133978,Gold Paint (B),Gold Paint (B)
-PROPITEM_TXT_133979,Gold Paint (A),Gold Paint (A)
-PROPITEM_TXT_133980,A paint that can paint furniture gold.,A paint that can paint furniture gold.
-PROPITEM_TXT_133981,Wooden Chair Single Pack (5 Days),Wooden Chair Single Pack (5 Days)
-PROPITEM_TXT_133982,Wooden Chair Single Pack (15 Days),Wooden Chair Single Pack (15 Days)
-PROPITEM_TXT_133983,Wooden Chair Single Pack (20 Days),Wooden Chair Single Pack (20 Days)
-PROPITEM_TXT_133984,Wooden Chair Single Pack (30 Days),Wooden Chair Single Pack (30 Days)
+PROPITEM_TXT_133930,A solid piece of wood cut from a walnut tree.,"Цільний шматок дерева, вирізаний з горіхового дерева."
+PROPITEM_TXT_133931,Teak Hardwood (D),Тверда деревина тика (D)
+PROPITEM_TXT_133932,Teak Hardwood (C),Тверда деревина тика (C)
+PROPITEM_TXT_133933,Teak Hardwood (B),Тверда деревина тика (B)
+PROPITEM_TXT_133934,Teak Hardwood (A),Тверда деревина тика (A)
+PROPITEM_TXT_133935,A solid piece of wood cut from a teak tree.,"Цільний шматок дерева, вирізаний з тикового дерева."
+PROPITEM_TXT_133936,Ebony Hardwood (D),Чорне Тверда деревина (D)
+PROPITEM_TXT_133937,Ebony Hardwood (C),Чорне Тверда деревина (C)
+PROPITEM_TXT_133938,Ebony Hardwood (B),Чорне Тверда деревина (B)
+PROPITEM_TXT_133939,Ebony Hardwood (A),Чорне Тверда деревина (A)
+PROPITEM_TXT_133940,A solid piece of wood cut from a ebony tree.,"Цільний шматок дерева, вирізаний з чорного дерева."
+PROPITEM_TXT_133941,Mahogany Hardwood (D),Червоне Тверда деревина (D)
+PROPITEM_TXT_133942,Mahogany Hardwood (C),Червоне Тверда деревина (C)
+PROPITEM_TXT_133943,Mahogany Hardwood (B),Червоне Тверда деревина (B)
+PROPITEM_TXT_133944,Mahogany Hardwood (A),Червоне Тверда деревина (A)
+PROPITEM_TXT_133945,A solid piece of wood cut from a mahogany tree.,"Цільний шматок дерева, вирізаний з червоного дерева."
+PROPITEM_TXT_133946,Red Paint (D),Червона фарба (D)
+PROPITEM_TXT_133947,Red Paint (C),Червона фарба (C)
+PROPITEM_TXT_133948,Red Paint (B),Червона фарба (B)
+PROPITEM_TXT_133949,Red Paint (A),Червона фарба (A)
+PROPITEM_TXT_133950,A paint that can paint furniture red.,"Фарба, яка може пофарбувати меблі в червоний колір."
+PROPITEM_TXT_133951,Blue Paint (D),Синя фарба (D)
+PROPITEM_TXT_133952,Blue Paint (C),Синя фарба (C)
+PROPITEM_TXT_133953,Blue Paint (B),Синя фарба (B)
+PROPITEM_TXT_133954,Blue Paint (A),Синя фарба (A)
+PROPITEM_TXT_133955,A paint that can paint furniture blue.,"Фарба, яка може пофарбувати меблі в синій колір."
+PROPITEM_TXT_133956,Yellow Paint (D),Жовта фарба (D)
+PROPITEM_TXT_133957,Yellow Paint (C),Жовта фарба (C)
+PROPITEM_TXT_133958,Yellow Paint (B),Жовта фарба (B)
+PROPITEM_TXT_133959,Yellow Paint (A),Жовта фарба (A)
+PROPITEM_TXT_133960,A paint that can paint furniture yellow.,"Фарба, яка може пофарбувати меблі в жовтий колір."
+PROPITEM_TXT_133961,Green Paint (D),Зелена фарба (D)
+PROPITEM_TXT_133962,Green Paint (C),Зелена фарба (C)
+PROPITEM_TXT_133963,Green Paint (B),Зелена фарба (B)
+PROPITEM_TXT_133964,Green Paint (A),Зелена фарба (A)
+PROPITEM_TXT_133965,A paint that can paint furniture green.,"Фарба, яка може пофарбувати меблі в зелений колір."
+PROPITEM_TXT_133966,Black Paint (D),Чорна фарба (D)
+PROPITEM_TXT_133967,Black Paint (C),Чорна фарба (C)
+PROPITEM_TXT_133968,Black Paint (B),Чорна фарба (B)
+PROPITEM_TXT_133969,Black Paint (A),Чорна фарба (A)
+PROPITEM_TXT_133970,A paint that can paint furniture black.,"Фарба, якою можна пофарбувати меблі в чорний колір."
+PROPITEM_TXT_133971,White Paint (D),Біла фарба (D)
+PROPITEM_TXT_133972,White Paint (C),Біла фарба (C)
+PROPITEM_TXT_133973,White Paint (B),Біла фарба (B)
+PROPITEM_TXT_133974,White Paint (A),Біла фарба (A)
+PROPITEM_TXT_133975,A paint that can paint furniture white.,"Фарба, яка може пофарбувати меблі в білий колір."
+PROPITEM_TXT_133976,Gold Paint (D),Золота фарба (D)
+PROPITEM_TXT_133977,Gold Paint (C),Золота фарба (C)
+PROPITEM_TXT_133978,Gold Paint (B),Золота фарба (B)
+PROPITEM_TXT_133979,Gold Paint (A),Золота фарба (A)
+PROPITEM_TXT_133980,A paint that can paint furniture gold.,"Фарба, яка може пофарбувати меблі в золотий колір."
+PROPITEM_TXT_133981,Wooden Chair Single Pack (5 Days),"Дерев'яний стілець, одинарний комплект (5 днів)"
+PROPITEM_TXT_133982,Wooden Chair Single Pack (15 Days),"Дерев'яний стілець, одинарний комплект (15 днів)"
+PROPITEM_TXT_133983,Wooden Chair Single Pack (20 Days),"Дерев'яний стілець, одинарний комплект (20 днів)"
+PROPITEM_TXT_133984,Wooden Chair Single Pack (30 Days),"Дерев'яний стілець, одинарний комплект (30 днів)"
 PROPITEM_TXT_133985,Wooden Table Single Pack (5 Days),Wooden Table Single Pack (5 Days)
 PROPITEM_TXT_133986,Wooden Table Single Pack (15 Days),Wooden Table Single Pack (15 Days)
 PROPITEM_TXT_133987,Wooden Table Single Pack (20 Days),Wooden Table Single Pack (20 Days)
@@ -18760,8 +18760,8 @@ PROPITEM_TXT_134378,Smithing Workspace (10 Days),Smithing Workspace (10 Days)
 PROPITEM_TXT_134379,Smithing Workspace (15 Days),Smithing Workspace (15 Days)
 PROPITEM_TXT_134380,Smithing Workspace (20 Days),Smithing Workspace (20 Days)
 PROPITEM_TXT_134381,Smithing Workspace (30 Days),Smithing Workspace (30 Days)
-PROPITEM_TXT_134382,Stone Dust,Stone Dust
-PROPITEM_TXT_134383,"A stone that has been unsuccessfully carved, leaving only powder. Unfortunately, there seems to be no use for it.","A stone that has been unsuccessfully carved, leaving only powder. Unfortunately, there seems to be no use for it."
+PROPITEM_TXT_134382,Stone Dust,Кам'яний пил
+PROPITEM_TXT_134383,"A stone that has been unsuccessfully carved, leaving only powder. Unfortunately, there seems to be no use for it.","Камінь, невдало витесаний, залишився лише порошок. На жаль, користі від цього, здається, немає."
 PROPITEM_TXT_134384,Jewel Powder (D),Jewel Powder (D)
 PROPITEM_TXT_134385,Jewel Powder (C),Jewel Powder (C)
 PROPITEM_TXT_134386,Jewel Powder (B),Jewel Powder (B)
