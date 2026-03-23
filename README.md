@@ -34,6 +34,9 @@ We always support with Ukraine country. Our people required for donation and can
 
 **Do more to stop war - keep helping Ukraine**
 
+## Acknowledgements
+Big thank you to lsaos for providing the language translation of Flyff Universe as the English Reference base.
+
 ## Copyright
 
 * Copyright (C) 2002-2026 Gala Lab Corp. All rights reserved.
