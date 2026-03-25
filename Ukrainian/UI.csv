@@ -1145,21 +1145,21 @@ UI_ACHIEVEMENTS_REWARD_ATK,Attack rate on target(s): %d%%,Attack rate on target(
 UI_ACHIEVEMENTS_PROGRESSION,Progression,Progression
 UI_ACHIEVEMENTS_CARD_LEVEL,Level %d,Рівень %d
 UI_ACHIEVEMENTS_CARD_BONUS,Attack +%s%%,Attack +%s%%
-UI_ACHIEVEMENTS_NOTITLE,No Title,No Title
-UI_ACHIEVEMENTS_NOTITLE_DESCRIPTION,Do not show any title.,Do not show any title.
-UI_ACHIEVEMENTS_PVPTITLE,PVP Title,PVP Title
+UI_ACHIEVEMENTS_NOTITLE,No Title,Ні Титул
+UI_ACHIEVEMENTS_NOTITLE_DESCRIPTION,Do not show any title.,Не показуйте жодного заголовка.
+UI_ACHIEVEMENTS_PVPTITLE,PVP Title,Титул PVP
 UI_ACHIEVEMENTS_PVPTITLE_CURRENT,"(Currently ""%s"")","(Currently ""%s"")"
 UI_ACHIEVEMENTS_PVPTITLE_DESCRIPTION,Show your current PVP title.,Show your current PVP title.
 UI_ACHIEVEMENTS_TITLES_SELECT,Select,Select
 UI_ACHIEVEMENTS_TITLES_FROM,From,From
 UI_ACHIEVEMENTS_CLAIMBTN,Claim,Claim
-UI_ACHIEVEMENTS_CLAIMTIP,Receive your rewards!,Receive your rewards!
-UI_ACHIEVEMENTS_CLAIMTIP_RAND,Spin the wheel! Will you be lucky today?,Spin the wheel! Will you be lucky today?
-UI_ACHIEVEMENTS_AVAILABLE,Available,Available
-UI_ACHIEVEMENTS_COMPLETED,This achievement has been completed!,This achievement has been completed!
+UI_ACHIEVEMENTS_CLAIMTIP,Receive your rewards!,Отримайте свої винагороди!
+UI_ACHIEVEMENTS_CLAIMTIP_RAND,Spin the wheel! Will you be lucky today?,Крути колесо! Чи пощастить тобі сьогодні?
+UI_ACHIEVEMENTS_AVAILABLE,Available,Доступно
+UI_ACHIEVEMENTS_COMPLETED,This achievement has been completed!,Це досягнення досягнуто!
 UI_TOOLTIP_PARTY_LEVEL,Required Party Level: %d,Required Party Level: %d
 UI_TOOLTIP_PARTY_POINTS,Required Points: %d,Required Points: %d
-UI_PARTY_PERMANENT_CONFIRM,Members of your party will no longer be ejected automatically when they are offline. If you create or join another party it will have no effect on the new party. Do you confirm the use?,Members of your party will no longer be ejected automatically when they are offline. If you create or join another party it will have no effect on the new party. Do you confirm the use?
+UI_PARTY_PERMANENT_CONFIRM,Members of your party will no longer be ejected automatically when they are offline. If you create or join another party it will have no effect on the new party. Do you confirm the use?,"Учасники вашої групи більше не будуть автоматично виключатися, коли вони не в мережі. Якщо ви створите або приєднаєтеся до іншої групи, це не вплине на нову групу. Ви підтверджуєте це використання?"
 UI_PARTY_PERMANENT,Permanent Party,Permanent Party
 UI_SEARCHPARTY_TITLE,Search Party,Search Party
 UI_SEARCHGUILD_TITLE,Search Guild,Search Guild
@@ -1221,10 +1221,10 @@ UI_DAMAGEMETER_RESET,Reset Damage Statistics,Reset Damage Statistics
 UI_DAMAGEMETER_TITLE,Damage Stats %d/%d,Damage Stats %d/%d
 UI_TOOLTIP_SKILL_NOFLY,Flying: No,Flying: No
 UI_DAMAGEMETER_TOGGLE,Show/hide Damage Statistics,Show/hide Damage Statistics
-UI_SHOP_QUICK_SELL,Quick Sell,Quick Sell
-UI_SHOP_QUICK_SELL_TIP,Quickly sell a category of items.,Quickly sell a category of items.
-UI_SHOP_BUY_BACK,Buy Back,Buy Back
-UI_SHOP_BUY_BACK_TIP,Purchase back items that you recently sold by mistake.,Purchase back items that you recently sold by mistake.
+UI_SHOP_QUICK_SELL,Quick Sell,Швидкий продаж
+UI_SHOP_QUICK_SELL_TIP,Quickly sell a category of items.,Швидко продати категорію товарів.
+UI_SHOP_BUY_BACK,Buy Back,Викупити
+UI_SHOP_BUY_BACK_TIP,Purchase back items that you recently sold by mistake.,"Викупіть назад речі, які ви нещодавно помилково продали."
 UI_SHOP_QUICK_SELL_CONFIRM,Sell,Sell
 UI_SHOP_QUICK_SELL_TOTAL,Total:,Всього:
 UI_SHOP_QUICK_SELL_UNCOMMON,Uncommon & Lower,Uncommon & Lower
@@ -1452,8 +1452,8 @@ UI_CRAFTPETCANDY_MAT,Harvested Berry,Harvested Berry
 UI_CRAFTPETCANDY_CANDY,Pet Candy,Pet Candy
 UI_SHININGDICE_BINDING,#cffff0000The resulting Shining Power Dice will be Binding as well.#nc,#cffff0000The resulting Shining Power Dice will be Binding as well.#nc
 UI_TOOLTIP_DURATION,Duration:,Duration:
-UI_TOOLTIP_DURATION_ONLINE,(Online),(Онлайн)
-UI_TOOLTIP_DURATION_OFFLINE,(Offline counted),(підрахунок офлайн)
+UI_TOOLTIP_DURATION_ONLINE,(Online Only),(Тільки онлайн)
+UI_TOOLTIP_DURATION_OFFLINE,(Online/Offline),(Онлайн/офлайн)
 UI_TOOLTIP_DURATION_EQUIP,(After first use),(Після першого використання)
 UI_TOOLTIP_DURATION_VENDOR,Shop Time:,Shop Time:
 UI_TOOLTIP_VISUAL_CLOAK,Can be worn over another cloak.,Можна носити поверх іншого плаща.
