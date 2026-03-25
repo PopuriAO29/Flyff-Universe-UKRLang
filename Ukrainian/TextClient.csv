@@ -305,13 +305,13 @@ TEXTCLIENT_GUILDCLOAK,%s Guild Cloak,%s Guild Cloak
 TEXTCLIENT_NOTTRADE,You cannot trade a premium item.,You cannot trade a premium item.
 TEXTCLIENT_GUILDBANKFULL,The guild warehouse is full.,Сховище гільдії повне.
 TEXTCLIENT_COUPLEBANKFULL,The couple storage is full.,Подвійне сховище повне.
-TEXTCLIENT_SLOTFULL,Your inventory is full.,Your inventory is full.
+TEXTCLIENT_SLOTFULL,Your inventory is full.,Ваш інвентар повний.
 TEXTCLIENT_CONFIRMMOVEITEM,Really move this item?,Really move this item?
 TEXTCLIENT_GUILDCREATECLOAK,Guild cloak has been created.,Guild cloak has been created.
 TEXTCLIENT_GUILDNEEDGOLD,Unable to create guild cloak. Insufficient Penya in the guild warehouse.,Unable to create guild cloak. Insufficient Penya in the guild warehouse.
 TEXTCLIENT_GUILD_PAYTAKE,Guild salary of %d Penya received.,Guild salary of %d Penya received.
-TEXTCLIENT_ERROR_UNKNOWN_TARGET,Unknown setting target,Unknown setting target
-TEXTCLIENT_ERROR_UNKNOWN_JOB,Unknown job,Unknown job
+TEXTCLIENT_ERROR_UNKNOWN_TARGET,Unknown setting target,Невідома ціль налаштування
+TEXTCLIENT_ERROR_UNKNOWN_JOB,Unknown job,Невідома робота
 TEXTCLIENT_RECURRENCE,Your character’s skill points have been reset. Please redistribute your points in the Skill Tree window.,Your character’s skill points have been reset. Please redistribute your points in the Skill Tree window.
 TEXTCLIENT_CHOICEJOB,You have to choose a job at Lv 15.,Ви повинні обрати роботу на 15 рівні.
 TEXTCLIENT_ERROR_NOTEXPERTJOB,Not Expert Job,Not Expert Job
@@ -352,13 +352,13 @@ TEXTCLIENT_SKILL_MATE_INHERITED,%s casts %s (%s) on you.,%s casts %s (%s) on you
 TEXTCLIENT_EQUIP_DENIAL,Permission to view equipment denied.,Дозвіл на перегляд обладнання відмовлено.
 TEXTCLIENT_OPTIONREBOOT,You must restart the game for all changes to take effect.,"Ви повинні перезавантажити гру, щоб усі зміни набули чинності."
 TEXTCLIENT_LIMITED_USE,You are already using this item. Try again after its effects have worn off.,"Ви вже використовуєте цей предмет. Спробуйте ще раз, коли його дія зникне."
-TEXTCLIENT_ITEM_LEVEL,Your level is too low. You can use that at level %s.,Your level is too low. You can use that at level %s.
+TEXTCLIENT_ITEM_LEVEL,Your level is too low. You can use that at level %s.,Ваш рівень занадто низький. Ви можете використовувати це на рівні %s.
 TEXTCLIENT_NOTOVERLAP_USE,You cannot use these items at the same time.,Ви не можете використовувати ці предмети одночасно.
 TEXTCLIENT_COND_USE,Takes effect when player dies.,"Набирає чинності, коли гине гравець."
-TEXTCLIENT_PK_LIMIT_DAY,%d Day,%d Day
-TEXTCLIENT_PK_LIMIT_HOUR,%d Hr,%d Hr
-TEXTCLIENT_PK_LIMIT_MINUTE,%d Min,%d Min
-TEXTCLIENT_PK_LIMIT_SECOND,%d Sec,%d Sec
+TEXTCLIENT_PK_LIMIT_DAY,%d Day,%d день
+TEXTCLIENT_PK_LIMIT_HOUR,%d Hr,%d година
+TEXTCLIENT_PK_LIMIT_MINUTE,%d Min,%d хв
+TEXTCLIENT_PK_LIMIT_SECOND,%d Sec,%d сек
 TEXTCLIENT_DONOTUSE_RESTATE,Unable to reset your stats since you already have basic stats.,"Неможливо скинути ваші статистики, оскільки у вас вже є базові статистики.
 TEXTCLIENT_NOTCHOAS,Only criminals can use this item.,Цим предметом можуть користуватися лише злочинці."
 TEXTCLIENT_GETKARMA,Recovered 1 Karma.,Відновлено 1 Карму.
@@ -518,14 +518,14 @@ TEXTCLIENT_DONOTUSE_SHOP,You cannot use that item while using Hair Stylist or Pl
 TEXTCLIENT_CASHSHOP_NOACCOUNT,You cannot use the Flyff Shop without account. Please link an account.,You cannot use the Flyff Shop without account. Please link an account.
 TEXTCLIENT_CASHSHOP_INVALIDPRODUCT,This product is invalid.,Цей продукт недійсний.
 TEXTCLIENT_CASHSHOP_SERVEROFFLINE,Cannot use Flyff Shop because the server is offline.,Cannot use Flyff Shop because the server is offline.
-TEXTCLIENT_CASHSHOP_LACKCASH,You don't have enough money to purchase the item. Reload your account before purchasing.,You don't have enough money to purchase the item. Reload your account before purchasing.
-TEXTCLIENT_CASHSHOP_PURCHASEEXCEED,You reached the maximum amount of purchases per character for this product.,You reached the maximum amount of purchases per character for this product.
+TEXTCLIENT_CASHSHOP_LACKCASH,You don't have enough money to purchase the item. Reload your account before purchasing.,У вас недостатньо коштів для придбання цього товару. Перед покупкою поповніть рахунок.
+TEXTCLIENT_CASHSHOP_PURCHASEEXCEED,You reached the maximum amount of purchases per character for this product.,Ви досягли максимальної кількості покупок цього товару для одного персонажа.
 TEXTCLIENT_CASHSHOP_UNKNOWNERROR,"Unknown error, please try again.","Unknown error, please try again."
 TEXTCLIENT_CASHSHOP_PURCHASESUCCESS,Thank you for your purchase! If the inventory is full please make room and login again to receive the item.,"Дякуємо за покупку! Якщо запас вичерпано, звільніть місце та увійдіть знову, щоб отримати товар."
 TEXTCLIENT_CASHSHOP_INVALIDPLAYER,The player is invalid and cannot use Flyff Shop.,The player is invalid and cannot use Flyff Shop.
-TEXTCLIENT_CASHSHOP_TIMEOVER,The operation is taking too much time. Please try again.,The operation is taking too much time. Please try again.
-TEXTCLIENT_FATHER,#cff0000ff I am your father!#nc,#cff0000ff I am your father!#nc
-TEXTCLIENT_MOTHER,#cff0000ff I am your mother!#nc,#cff0000ff I am your mother!#nc
+TEXTCLIENT_CASHSHOP_TIMEOVER,The operation is taking too much time. Please try again.,Операція триває занадто довго. Спробуйте ще раз.
+TEXTCLIENT_FATHER,#cff0000ff I am your father!#nc,#cff0000ff Я твій батько!#nc
+TEXTCLIENT_MOTHER,#cff0000ff I am your mother!#nc,#cff0000ff Я твоя мати!#nc
 TEXTCLIENT_COMNOHAVECOM,Cannot cancel because you do not belong to a guild.,Cannot cancel because you do not belong to a guild.
 TEXTCLIENT_COMDELNOKINGPIN,Only the guild leader can disband the guild.,Only the guild leader can disband the guild.
 TEXTCLIENT_GUILDWARREQLV6,Your guild level has to be higher than 5 to declare a guild duel.,Your guild level has to be higher than 5 to declare a guild duel.
@@ -620,7 +620,7 @@ TEXTCLIENT_GUILDCOMBAT_REQUEST_NOTPENYA,You can apply to the guild siege if you 
 TEXTCLIENT_GUILDCOMBAT_APP_CONFIRM,Your previous bid was %d Penya. You have added %d Penya to increase your bid.,Your previous bid was %d Penya. You have added %d Penya to increase your bid.
 TEXTCLIENT_GUILDCOMBAT_REQUEST_GUILDCOMBAT,You have successfully applied to the Guild Siege.,You have successfully applied to the Guild Siege.
 TEXTCLIENT_GUILDCOMBAT_APP,Registration for Guild Siege has finished.,Registration for Guild Siege has finished.
-TEXTCLIENT_GUILDCOMBAT_NOT_USE,You cannot use it right now.,You cannot use it right now.
+TEXTCLIENT_GUILDCOMBAT_NOT_USE,You cannot use it right now.,Ви не можете використовувати це зараз.
 TEXTCLIENT_GUILDCOMBAT_NOTAPP,You did not apply for the Guild Siege.,You did not apply for the Guild Siege.
 TEXTCLIENT_GUILDCOMBAT_EXPENSE_RETURN,The application fee has been refunded.,The application fee has been refunded.
 TEXTCLIENT_GUILDCOMBAT_CANCEL,Your guild's application for the Guild Siege has been canceled.,Your guild's application for the Guild Siege has been canceled.
