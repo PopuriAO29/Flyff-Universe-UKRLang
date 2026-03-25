@@ -1100,10 +1100,10 @@ UI_RESHUFFLECARD_TITLE,Weapon Socket Card Reshuffle,Weapon Socket Card Reshuffle
 UI_RESHUFFLECARD_REGISTER,Register weapon material card.,Register weapon material card.
 UI_RESHUFFLECARD_INFO,Fuse 3 weapon material cards to receive 1 same grade card.,Fuse 3 weapon material cards to receive 1 same grade card.
 UI_RESHUFFLECARD_CONFIRM,"If you reshuffle the cards, the cards used as materials disappear.\nDo you want to continue?","If you reshuffle the cards, the cards used as materials disappear.\nDo you want to continue?"
-UI_CONVERTSOULLINK_TITLE,Convert soul link,Convert soul link
-UI_CONVERTSOULLINK_INFO,You can convert the item a soul-linked type.,You can convert the item a soul-linked type.
-UI_CONVERTSOULLINK_CONFIRM,The converted item cannot be returned.\nDo you want to continue?,The converted item cannot be returned.\nDo you want to continue?
-UI_CONVERTSOULLINK_NOTAVAILABLE,This item cannot be converted.,This item cannot be converted.
+UI_CONVERTSOULLINK_TITLE,Convert to Soul-Linked,Convert to Soul-Linked
+UI_CONVERTSOULLINK_INFO,"The item will become soul-linked and can no longer be sold to NPCs. You can use this process to stack identical items that otherwise cannot be stacked due to differing properties. Note: Soul-linked items cannot be traded, and this action cannot be undone.","Предмет стане пов'язаним з душею і більше не зможе бути проданий NPC. Ви можете використовувати цей процес для об'єднання однакових предметів, які інакше не можна було б об'єднати через різні властивості. Примітка: Предмети, пов'язані з душею, не можна обміняти, і цю дію не можна скасувати."
+UI_CONVERTSOULLINK_CONFIRM,This action cannot be undone.\nProceed?,Цю дію неможливо скасувати.\nПродовжити?
+UI_CONVERTSOULLINK_NOTAVAILABLE,This item cannot be converted.,Цей елемент неможливо конвертувати.
 UI_GUILD_SCROLLGADD_CONFIRM,The scroll will permanently increase the amount of members you can have in a guild by 5. If you join another guild it will have no effect on the new guild. Do you confirm the use?,"Свиток назавжди збільшить кількість членів, яких ви можете мати в гільдії, на 5. Якщо ви приєднаєтеся до іншої гільдії, це не матиме впливу на нову гільдію. Ви підтверджуєте використання?"
 UI_GUILD_TOOLTIP_EXP,Exp:,Exp:
 UI_GUILD_TOOLTIP_GOLD,Penya:,Пеня:
