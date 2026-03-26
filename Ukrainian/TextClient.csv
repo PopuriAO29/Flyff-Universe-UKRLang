@@ -218,7 +218,7 @@ TEXTCLIENT_BATTLE_NOTFRIEND,You cannot add someone to your friends list while du
 TEXTCLIENT_MSGDENYINVATE,Invitation has been refused.,Запрошення відхилено.
 TEXTCLIENT_MSGDENY,%s is in the 'Refuse Messenger' setting.,%s is in the 'Refuse Messenger' setting.
 TEXTCLIENT_MSGMAXUSER,The maximum number of players that can be registered into the messenger is 200.,"Максимальна кількість гравців, яких можна зареєструвати в месенджері, становить 200."
-TEXTCLIENT_MSGINVATECOM,%s has added you to their Messenger.,%s Test26722 додав вас у свій Messenger.
+TEXTCLIENT_MSGINVATECOM,%s has added you to their Messenger.,%s додав вас у свій Messenger.
 TEXTCLIENT_NOTLOGIN,That player is offline.,Той гравець офлайн.
 TEXTCLIENT_MSGBLOCKCHR,"Failure to send message, %s is blocked.","Не вдалося надіслати повідомлення, %s заблоковано."
 TEXTCLIENT_MESSNEWNOTE,You have %d new message(s).,У вас %d нові повідомлення.
