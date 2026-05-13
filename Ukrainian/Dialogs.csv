@@ -271,14 +271,14 @@ NPC_000311,To throw my life into the fire of the red lotus blossom would be spec
 NPC_000312,Hmm.. Do you have anything to ask of me?,Hmm.. Do you have anything to ask of me?
 NPC_000313,I apologize.. but this heat is just too oppressive. I need to lie down for a while. Please see me again when it is cooler.,I apologize.. but this heat is just too oppressive. I need to lie down for a while. Please see me again when it is cooler.
 NPC_000314,My name is Nein and refining metal is what I love to do.,My name is Nein and refining metal is what I love to do.
-NPC_000315,Good bye. Be careful not to succumb to the oppressive heat.,Good bye. Be careful not to succumb to the oppressive heat.
+NPC_000315,Good bye. Be careful not to succumb to the oppressive heat.,"До побачення. Будьте обережні, щоб не піддатися гнітючій спеці."
 NPC_000316,"Do you have anything to ask at #b#cffff0000Office#nc#nb?Then you should visit me, Olien.","Do you have anything to ask at #b#cffff0000Office#nc#nb?Then you should visit me, Olien."
 NPC_000317,Is there anything you can do? Oh ho ho!,Is there anything you can do? Oh ho ho!
-NPC_000318,Is there something you want to know? I will probably give you the most simple answer so you may just want to think about it on your own. Okay?,Is there something you want to know? I will probably give you the most simple answer so you may just want to think about it on your own. Okay?
+NPC_000318,Is there something you want to know? I will probably give you the most simple answer so you may just want to think about it on your own. Okay?,"Чи є щось, що ви хочете знати? Я, мабуть, дам вам найпростішу відповідь, тому ви можете просто подумати про це самостійно. Добре?"
 NPC_000319,My name is Olien Hengart. I am in charge of managing the Office here in Darken city.,My name is Olien Hengart. I am in charge of managing the Office here in Darken city.
 NPC_000320,"Farewell, adventurer.","Farewell, adventurer."
 NPC_000321,"Offerep, please strengthen this world with your strong spirit.","Offerep, please strengthen this world with your strong spirit."
-NPC_000322,They will lose everything they love. They will get angry. And they will stand up.,They will lose everything they love. They will get angry. And they will stand up.
+NPC_000322,They will lose everything they love. They will get angry. And they will stand up.,"Вони втратять все, що люблять. Вони розлютяться. І вони встануть."
 NPC_000323,"My name is Pereb Endrile, and I am one the 8 priests of Offerep the Psykeeper hero. I am delivering the spirit of Offerep to his future successor.","My name is Pereb Endrile, and I am one the 8 priests of Offerep the Psykeeper hero. I am delivering the spirit of Offerep to his future successor."
 NPC_000324,The spirit of Offerep will strengthen you.,The spirit of Offerep will strengthen you.
 NPC_000325,Hey! Hey! I have something good Just take a look!,Hey! Hey! I have something good Just take a look!
@@ -293,9 +293,9 @@ NPC_000333,"My name is Pyre and I am the Acrobat Master. Nice to meet you. Ha ha
 NPC_000334,Good bye. Never forget the way of the Acrobat. Ha ha ha,Good bye. Never forget the way of the Acrobat. Ha ha ha
 NPC_000335,"No one can stop you from jumping into it, even though you know that it is extremely hot.","No one can stop you from jumping into it, even though you know that it is extremely hot."
 NPC_000336,Cell,Cell
-NPC_000337,What? What do you want?,What? What do you want?
+NPC_000337,What? What do you want?,Що? Чого ти хочеш?
 NPC_000338,I know you were here before. I believe you have the ability to overcome the dangers.,I know you were here before. I believe you have the ability to overcome the dangers.
-NPC_000339,Speaking to me is already dangerous as it is. What do you want?,Speaking to me is already dangerous as it is. What do you want?
+NPC_000339,Speaking to me is already dangerous as it is. What do you want?,Зі мною розмовляти й так уже небезпечно. Чого ти хочеш?
 NPC_000340,Everything is the same. Or is there something special about you? Ha ha Everything is the same.,Everything is the same. Or is there something special about you? Ha ha Everything is the same.
 NPC_000341,"You MUST be crazy if you want to know about the mine behind me! If you really wish to enter the mine, talk to Cell. He is somewhere in Darkon.","You MUST be crazy if you want to know about the mine behind me! If you really wish to enter the mine, talk to Cell. He is somewhere in Darkon."
 NPC_000342,..,..
@@ -332,11 +332,11 @@ NPC_000372,"My name is Shyniff Guardian. I am protecting the will of Offerep, th
 NPC_000373,The spirit of Offerep will strengthen your soul.,The spirit of Offerep will strengthen your soul.
 NPC_000374,Everything you want is here in the Weapon Shop of Stima!,Everything you want is here in the Weapon Shop of Stima!
 NPC_000375,What would you do for me?,Що б ти зробив для мене?
-NPC_000376,"Being a travelling salesman was too hard so I settled here. My shop is still small, but I have a good feeling about this place.","Being a travelling salesman was too hard so I settled here. My shop is still small, but I have a good feeling about this place."
+NPC_000376,"Being a travelling salesman was too hard so I settled here. My shop is still small, but I have a good feeling about this place.","Бути мандрівним продавцем було занадто важко, тому я оселився тут. Мій магазин все ще невеликий, але у мене хороші відчуття від цього місця."
 NPC_000377,My name is Stima Ogonel. I travel from place to place selling weapons. Nice to meet you.,My name is Stima Ogonel. I travel from place to place selling weapons. Nice to meet you.
-NPC_000378,It was very nice to meet you. I hope I can see you again.,It was very nice to meet you. I hope I can see you again.
-NPC_000379,Are you ready?,Are you ready?
-NPC_000380,It is your duty!,It is your duty!
+NPC_000378,It was very nice to meet you. I hope I can see you again.,"Було дуже приємно познайомитись. Я сподіваюся, що зможу побачити вас знову."
+NPC_000379,Are you ready?,Ви готові?
+NPC_000380,It is your duty!,Це ваш обов'язок!
 NPC_000381,I am a proud training instructor of Madrigal!,I am a proud training instructor of Madrigal!
 NPC_000382,I am here to show vagrants the way.,I am here to show vagrants the way.
 NPC_000383,Attention! Salute!,Attention! Salute!
@@ -827,19 +827,19 @@ NPC_000903,Happy Thanksgivingday!? Not at all! Hahaha,Happy Thanksgivingday!? No
 NPC_000904,I will give you a seedling if you bring me leaves.,I will give you a seedling if you bring me leaves.
 NPC_000905,I will give you a Fir Seedling if you bring me 100 leaves.,I will give you a Fir Seedling if you bring me 100 leaves.
 NPC_000906,My name is Firdryad.,My name is Firdryad.
-NPC_000907,I hope everything goes well with you!,I hope everything goes well with you!
-NPC_000908,I will give you a seedling if you bring me leaves.,I will give you a seedling if you bring me leaves.
+NPC_000907,I hope everything goes well with you!,"Сподіваюся, у вас все буде добре!"
+NPC_000908,I will give you a seedling if you bring me leaves.,"Я подарую вам розсаду, якщо ви принесете мені листя."
 NPC_000909,I will give you a Persimmon Seedling if you bring me 300 leaves.,I will give you a Persimmon Seedling if you bring me 300 leaves.
 NPC_000910,My name is Persdryad.,My name is Persdryad.
-NPC_000911,I hope everything goes well with you!,I hope everything goes well with you!
-NPC_000912,I will give you a seedling if you bring me leaves.,I will give you a seedling if you bring me leaves.
+NPC_000911,I hope everything goes well with you!,"Сподіваюся, у вас все буде добре!"
+NPC_000912,I will give you a seedling if you bring me leaves.,"Я подарую вам розсаду, якщо ви принесете мені листя."
 NPC_000913,I will give you a Pear Seedling if you bring me 600 leaves.,I will give you a Pear Seedling if you bring me 600 leaves.
 NPC_000914,My name is Peardryad.,My name is Peardryad.
-NPC_000915,I hope everything goes well with you!,I hope everything goes well with you!
-NPC_000916,I will give you a seedling if you bring me leaves.,I will give you a seedling if you bring me leaves.
+NPC_000915,I hope everything goes well with you!,"Сподіваюся, у вас все буде добре!"
+NPC_000916,I will give you a seedling if you bring me leaves.,"Я подарую вам розсаду, якщо ви принесете мені листя."
 NPC_000917,"I will give you a Pine Tree if you bring me 1,000 leaves.","I will give you a Pine Tree if you bring me 1,000 leaves."
 NPC_000918,My name is Pinedryad.,My name is Pinedryad.
-NPC_000919,I hope everything goes well with you!,I hope everything goes well with you!
+NPC_000919,I hope everything goes well with you!,"Сподіваюся, у вас все буде добре!"
 NPC_000974,Raising your own pet takes patience and dedication. Are you ready?,Raising your own pet takes patience and dedication. Are you ready?
 NPC_000975,"ROOOARRR!! \nSorry... I was just practicing my tiger call. \nDo you have a pet? I love pets, it's what I live for!","ROOOARRR!! \nSorry... I was just practicing my tiger call. \nDo you have a pet? I love pets, it's what I live for!"
 NPC_000976,I come from a long line of Pet Tamers. My family has been taming pets for generations and I am the best Pet tamer among them. Feel free to visit me if you ever need help with your pet.,I come from a long line of Pet Tamers. My family has been taming pets for generations and I am the best Pet tamer among them. Feel free to visit me if you ever need help with your pet.
@@ -860,14 +860,14 @@ NPC_001032,New to Madrigal? Visit your friendly neighborhood Buff Pang!,New to M
 NPC_001033,Hello there! I'm granting buffs to adventurers who haven't completed their second job change yet. Come see me anytime if you ever find yourself in need of a boost to your stats!,Hello there! I'm granting buffs to adventurers who haven't completed their second job change yet. Come see me anytime if you ever find yourself in need of a boost to your stats!
 NPC_001034,"I am a Buff Pang. There are several of us throughout Madrigal and we are here to help adventurers by applying bonuses to their combat statistics. Are you in need of a buff, my friend?","I am a Buff Pang. There are several of us throughout Madrigal and we are here to help adventurers by applying bonuses to their combat statistics. Are you in need of a buff, my friend?"
 NPC_001035,Enjoy your stay in Madrigal!,Enjoy your stay in Madrigal!
-NPC_001046,"Hey, you two! Stop that bickering, it's pointless! Take it to the arena!","Hey, you two! Stop that bickering, it's pointless! Take it to the arena!"
-NPC_001047,"In the PvP arena, you can fight other adventurers such as yourself. If you meet unfortunate circumstances, and are slain on the arena floor, you will not incur any death penalties.","In the PvP arena, you can fight other adventurers such as yourself. If you meet unfortunate circumstances, and are slain on the arena floor, you will not incur any death penalties."
-NPC_001048,My name is Lay and I am in charge of the PvP arena. I'll only let you in if you've chosen your first job.,My name is Lay and I am in charge of the PvP arena. I'll only let you in if you've chosen your first job.
-NPC_001049,Another one bites the dust!,Another one bites the dust!
+NPC_001046,"Hey, you two! Stop that bickering, it's pointless! Take it to the arena!","Гей, ви двоє! Припиніть цю сварку, це безглуздо! Беріть його на арену!"
+NPC_001047,"In the PvP arena, you can fight other adventurers such as yourself. If you meet unfortunate circumstances, and are slain on the arena floor, you will not incur any death penalties.","На арені PvP ви можете битися з іншими авантюристами, такими як ви. Якщо ви зіткнетеся з нещасливими обставинами та будете вбиті на арені, ви не отримаєте жодних смертних вироків."
+NPC_001048,My name is Lay and I am in charge of the PvP arena. I'll only let you in if you've chosen your first job.,"Мене звуть Лей, і я відповідаю за PvP-арену. Я вас впущу, лише якщо ви вибрали свою першу роботу."
+NPC_001049,Another one bites the dust!,Ще один кусає пил!
 NPC_001050,Why don't you sign up for a Madrigal tournament right away? Prove you are the best.,Why don't you sign up for a Madrigal tournament right away? Prove you are the best.
 NPC_001051,"Madrigal Tournament is about to begin. Hurry, to the arena!","Madrigal Tournament is about to begin. Hurry, to the arena!"
-NPC_001052,Would you like to take a bet on who will win this tournament?,Would you like to take a bet on who will win this tournament?
-NPC_001053,The odds have been released. Check the payout for the team you bet on.,The odds have been released. Check the payout for the team you bet on.
+NPC_001052,Would you like to take a bet on who will win this tournament?,"Бажаєте взяти ставку на те, хто виграє цей турнір?"
+NPC_001053,The odds have been released. Check the payout for the team you bet on.,Коефіцієнти були опубліковані. Перевірте виплату для команди, на яку ви зробили ставку.
 NPC_001078,Only the strongest of guilds can achieve victory in the Secret Room!,Only the strongest of guilds can achieve victory in the Secret Room!
 NPC_001079,"If your guild is top ranked in the Secret Room, you will receive weekly rewards!","If your guild is top ranked in the Secret Room, you will receive weekly rewards!"
 NPC_001080,"Hello, adventurer! I'm in charge of the Secret Room and the Forsaken Tower. If you have any questions about this heroic challenge, please don't hesitate to ask. ","Hello, adventurer! I'm in charge of the Secret Room and the Forsaken Tower. If you have any questions about this heroic challenge, please don't hesitate to ask. "
@@ -880,18 +880,18 @@ NPC_001090,Would anyone like a jewel crafted or perhaps a jewelry setting create
 NPC_001091,"Hi there! I offer jewelry services to the citizens of Flarine and create and set jewels for those wishing to modify their Rare Weapons. I also remove blessings and level reductions from items, among other things!","Hi there! I offer jewelry services to the citizens of Flarine and create and set jewels for those wishing to modify their Rare Weapons. I also remove blessings and level reductions from items, among other things!"
 NPC_001092,My name is Peach! I'm here to assist Boboku and help supplement his upgrading business. Stop by anytime!,My name is Peach! I'm here to assist Boboku and help supplement his upgrading business. Stop by anytime!
 NPC_001093,"Take care. Remember, for anything to do with jewels, I'm your girl!","Take care. Remember, for anything to do with jewels, I'm your girl!"
-NPC_001219,Attention everyone! We are looking for new Mentors. I will get you started on your way to becoming a Mentor!,Attention everyone! We are looking for new Mentors. I will get you started on your way to becoming a Mentor!
-NPC_001220,Come see me if you want to become a Mentor. ,Come see me if you want to become a Mentor. 
-NPC_001221,"It is not easy to find worthy people to walk the path of a Mentor, it isn't for everyone.","It is not easy to find worthy people to walk the path of a Mentor, it isn't for everyone."
+NPC_001219,Attention everyone! We are looking for new Mentors. I will get you started on your way to becoming a Mentor!,До уваги всіх! Шукаємо нових Менторів. Я допоможу тобі стати наставником!
+NPC_001220,Come see me if you want to become a Mentor. ,Заходьте до мене, якщо хочете стати наставником. 
+NPC_001221,"It is not easy to find worthy people to walk the path of a Mentor, it isn't for everyone.","Нелегко знайти гідних людей, які зможуть стати на шлях наставника — це не кожному під силу."
 NPC_001222,"Good afternoon. My name is Inisis. I am the current Mentor Teacher in Madrigal, well, not for much longer.","Good afternoon. My name is Inisis. I am the current Mentor Teacher in Madrigal, well, not for much longer."
-NPC_001223,Come back and see me if you are interested in becoming a Mentor.,Come back and see me if you are interested in becoming a Mentor.
-NPC_001250,What kind of hair style do you want? I can make all hair styles according to your taste.,What kind of hair style do you want? I can make all hair styles according to your taste.
+NPC_001223,Come back and see me if you are interested in becoming a Mentor.,"Якщо ви зацікавлені у тому, щоб стати наставником, завітайте до мене."
+NPC_001250,What kind of hair style do you want? I can make all hair styles according to your taste.,Яку зачіску ви хочете? Я можу зробити будь-яку зачіску на ваш смак.
 NPC_001263,,
 NPC_001264,,
 NPC_001265,,
 NPC_001266,,
 NPC_001430,"I'm Demian. I am the Rock, Paper, Scissors Champion!","I'm Demian. I am the Rock, Paper, Scissors Champion!"
-NPC_001431,There always is a challenger.,There always is a challenger.
+NPC_001431,There always is a challenger.,Завжди є претендент.
 NPC_001432,I will gain my revenge!,I will gain my revenge!
 NPC_001433,Rock!! Paper!! Scissors!!,Rock!! Paper!! Scissors!!
 NPC_001616,"Hey, would you like to be Madrigal's Savior?","Hey, would you like to be Madrigal's Savior?"
@@ -901,9 +901,9 @@ NPC_001620,Saviors of Madrigal!!! Come With Me!,Saviors of Madrigal!!! Come With
 NPC_001621,HEY! YOU!! COME ON!!!,HEY! YOU!! COME ON!!!
 NPC_001622,Ghosts are nothing to be scared of!!!! I'm a super duper hero just like Kooro!,Ghosts are nothing to be scared of!!!! I'm a super duper hero just like Kooro!
 NPC_001624,I'm Nerco. I will be the Hero of Saint City just like Kooro!!! You better be good to me!!,I'm Nerco. I will be the Hero of Saint City just like Kooro!!! You better be good to me!!
-NPC_001625,Good bye! You must come back and see me.,Good bye! You must come back and see me.
-NPC_001626,I can't remember anything...,I can't remember anything...
-NPC_001627,What? You want to say something?,What? You want to say something?
+NPC_001625,Good bye! You must come back and see me.,До побачення! Обов’язково приїжджай до мене в гості.
+NPC_001626,I can't remember anything...,Я нічого не пам'ятаю...
+NPC_001627,What? You want to say something?,Що? Ти хочеш щось сказати?
 NPC_001629,"I'm Hael. Suddenly, there are lots of monsters.. Something really bad is gonna happen, I can feel it.","I'm Hael. Suddenly, there are lots of monsters.. Something really bad is gonna happen, I can feel it."
 NPC_001630,What is going on???!!!!,What is going on???!!!!
 NPC_001631,Phew.. I can't even rest cause of my son... you'll regret this!!!,Phew.. I can't even rest cause of my son... you'll regret this!!!
@@ -1257,85 +1257,86 @@ NPC_150113,I’m Livia. I collect and share our people’s stories. Want to shar
 NPC_150114,Old legends always hide clues—ways to survive today.,Old legends always hide clues—ways to survive today.
 NPC_150115,"One day… I’ll earn their respect, no matter what it takes.","One day… I’ll earn their respect, no matter what it takes."
 NPC_150116,"I’m Taila. It’s a secret, but I’m actually the jarl’s—…no, I shouldn’t say more.","I’m Taila. It’s a secret, but I’m actually the jarl’s—…no, I shouldn’t say more."
-NPC_150117,"If I say it out loud, I feel like everything might fall apart. So it stays a secret.","If I say it out loud, I feel like everything might fall apart. So it stays a secret."
-NPC_150118,What are you doing here? Most people don’t even know this place exists.,What are you doing here? Most people don’t even know this place exists.
-NPC_150119,You’re not ready to know the truth. But if you grow stronger… maybe that’ll change.,You’re not ready to know the truth. But if you grow stronger… maybe that’ll change.
-NPC_150120,Turn back. You’re not qualified.,Turn back. You’re not qualified.
-NPC_150121,"Where did we go so wrong!? It’s good they aren’t attacking, but still…","Where did we go so wrong!? It’s good they aren’t attacking, but still…"
+NPC_150117,"If I say it out loud, I feel like everything might fall apart. So it stays a secret.","Якщо я скажу це вголос, мені здається, що все може розвалитися. Так що це залишається таємницею."
+NPC_150118,What are you doing here? Most people don’t even know this place exists.,"Що ти тут робиш? Більшість людей навіть не знають, що це місце існує."
+NPC_150119,You’re not ready to know the truth. But if you grow stronger… maybe that’ll change.,"Ви не готові знати правду. Але якщо ви станете сильнішими… можливо, це зміниться."
+NPC_150120,Turn back. You’re not qualified.,Поверніть назад. Ви не кваліфіковані.
+NPC_150121,"Where did we go so wrong!? It’s good they aren’t attacking, but still…","Де ми так помилилися!? Добре, що не нападають, але все ж..."
 NPC_150122,"I'm Beck, from Saint City. I joined the New World Expedition and ended up stuck here. Missed the ship home, sadly.","I'm Beck, from Saint City. I joined the New World Expedition and ended up stuck here. Missed the ship home, sadly."
-NPC_150123,People—! A person is here! Help!,People—! A person is here! Help!
-NPC_150124,Keeping watch here isn’t easy. You never know what might creep out of the darkness.,Keeping watch here isn’t easy. You never know what might creep out of the darkness.
+NPC_150123,People—! A person is here! Help!,Люди-! Людина тут! Допоможіть!
+NPC_150124,Keeping watch here isn’t easy. You never know what might creep out of the darkness.,"Стежити тут нелегко. Ніколи не знаєш, що може виповзти з темряви."
 NPC_150125,Me? I’m the guardian of Ankou’s Asylum. Someone has to make sure the nightmares stay inside.,Me? I’m the guardian of Ankou’s Asylum. Someone has to make sure the nightmares stay inside.
-NPC_150126,Feeling brave today? Just remember—I warned you.,Feeling brave today? Just remember—I warned you.
+NPC_150126,Feeling brave today? Just remember—I warned you.,Почуваєтеся сміливим сьогодні? Просто пам’ятайте — я вас попереджав.
 NPC_150127,"If you make it through Ankou’s madness, come find me. I’d love to hear your story… assuming you’re still sane.","If you make it through Ankou’s madness, come find me. I’d love to hear your story… assuming you’re still sane."
 NPC_DUNGEONBUFF_000001,Earn 2 random Statue Effects (buffs or debuffs).,Earn 2 random Statue Effects (buffs or debuffs).
 NPC_DUNGEONBUFF_000002,Earn 1 Statue Buff (buff only).,Earn 1 Statue Buff (buff only).
 NPC_DUNGEONBUFF_000003,Change your current statue buff at random.,Change your current statue buff at random.
-NPC_150128,Just… leave me alone. I need to rest my eyes.,Just… leave me alone. I need to rest my eyes.
-NPC_150129,I thought I could face him alone… but he was much stronger than I expected. Please be ready if you plan to fight him.,I thought I could face him alone… but he was much stronger than I expected. Please be ready if you plan to fight him.
-NPC_150130,Alone… I didn't stand a chance.,Alone… I didn't stand a chance.
-NPC_150131,Very well. What do you need?,Very well. What do you need?
-NPC_150132,"Stay vigilant. In wartime, a moment's carelessness can be fatal.","Stay vigilant. In wartime, a moment's carelessness can be fatal."
-NPC_150133,Come see me if you're hurt. Proper treatment makes all the difference.,Come see me if you're hurt. Proper treatment makes all the difference.
-NPC_150134,Safety is my responsibility here. I take that duty seriously.,Safety is my responsibility here. I take that duty seriously.
-NPC_150135,"This place is quiet, but that doesn't mean we can let our guard down completely.","This place is quiet, but that doesn't mean we can let our guard down completely."
-NPC_150136,A soldier's watch must never fail. We protect this place with our lives.,A soldier's watch must never fail. We protect this place with our lives.
-NPC_150137,I hope your visit brings good fortune to our village.,I hope your visit brings good fortune to our village.
-NPC_150138,"Pay attention to what you hear. Sometimes the most important information comes when you're listening, not watching.","Pay attention to what you hear. Sometimes the most important information comes when you're listening, not watching."
-NPC_150139,"The ship left without me, but I can't dwell on that. Life goes on, and so must I.","The ship left without me, but I can't dwell on that. Life goes on, and so must I."
-NPC_150140,Quick question—can you handle a task for me?,Quick question—can you handle a task for me?
-NPC_150141,I need someone reliable. Think you're up for it?,I need someone reliable. Think you're up for it?
-NPC_150142,I've got injured people piling up. Could you help me gather some supplies?,I've got injured people piling up. Could you help me gather some supplies?
-NPC_150143,There's something dangerous out there. I need someone to investigate.,There's something dangerous out there. I need someone to investigate.
-NPC_150144,Bored of guard duty yet? I've got something more interesting if you're interested.,Bored of guard duty yet? I've got something more interesting if you're interested.
-NPC_150145,We've spotted suspicious activity. I need someone to check it out.,We've spotted suspicious activity. I need someone to check it out.
-NPC_150146,A visitor like you might be able to help with something the locals can't.,A visitor like you might be able to help with something the locals can't.
-NPC_150147,I overheard something important. Want to help me follow up on it?,I overheard something important. Want to help me follow up on it?
-NPC_150148,"I'm stuck here, but maybe you could help me with something back home?","I'm stuck here, but maybe you could help me with something back home?"
-NPC_150149,Our supplies are running low. Could you help me gather what we need?,Our supplies are running low. Could you help me gather what we need?
-NPC_150150,That shield you're carrying looks weak. I've got a job that might earn you a better one.,That shield you're carrying looks weak. I've got a job that might earn you a better one.
-NPC_150151,"I've found some interesting gems, but I need help appraising them properly.","I've found some interesting gems, but I need help appraising them properly."
-NPC_150152,"There's something I need to tell you… but first, can you help me with a small task?","There's something I need to tell you… but first, can you help me with a small task?"
-NPC_150153,Those Lycans are getting bolder. I need someone to help me track their movements.,Those Lycans are getting bolder. I need someone to help me track their movements.
-NPC_150154,I'm looking for a real fight. Think you can point me toward something challenging?,I'm looking for a real fight. Think you can point me toward something challenging?
-NPC_150155,I've been working on some new colors. Want to help me test them out?,I've been working on some new colors. Want to help me test them out?
-NPC_150156,I've been hearing strange things in people's dreams lately. Can you help me investigate?,I've been hearing strange things in people's dreams lately. Can you help me investigate?
-NPC_150157,More wounded keep coming in. I could really use some help gathering medical supplies.,More wounded keep coming in. I could really use some help gathering medical supplies.
-NPC_150158,"I love this village, but there's something I need help protecting.","I love this village, but there's something I need help protecting."
-NPC_150159,The trees have been whispering. They want me to find something. Will you help?,The trees have been whispering. They want me to find something. Will you help?
-NPC_150160,"I've got some powerful magic tools, but I need help testing them safely.","I've got some powerful magic tools, but I need help testing them safely."
-NPC_150161,You shouldn't be here. But since you are… maybe you can help me with something.,You shouldn't be here. But since you are… maybe you can help me with something.
-NPC_150162,I've spotted some unusual Lycan movements. Want to help me scout the area?,I've spotted some unusual Lycan movements. Want to help me scout the area?
-NPC_150163,I've been fighting for so long. Maybe you can help me finish this once and for all.,I've been fighting for so long. Maybe you can help me finish this once and for all.
-NPC_150164,I've been having strange dreams about you. Want to help me understand what they mean?,I've been having strange dreams about you. Want to help me understand what they mean?
-NPC_150165,"I collect stories, and I think yours might be worth hearing. But first, help me with something?","I collect stories, and I think yours might be worth hearing. But first, help me with something?"
-NPC_150166,"Those dogs won't come near us, but something else might. Want to help me keep watch?","Those dogs won't come near us, but something else might. Want to help me keep watch?"
-NPC_150167,"I'm on patrol, but I spotted something that needs investigating. Care to join me?","I'm on patrol, but I spotted something that needs investigating. Care to join me?"
-NPC_150168,The stars are telling me something important. I need your help to understand it.,The stars are telling me something important. I need your help to understand it.
-NPC_150169,"I've got fresh food ready, but I need help delivering it to some people. Interested?","I've got fresh food ready, but I need help delivering it to some people. Interested?"
-NPC_150170,"Hey, don't tell anyone you saw me, but I could use your help with something.","Hey, don't tell anyone you saw me, but I could use your help with something."
-NPC_150171,This village has secrets. I might share one if you help me with a task.,This village has secrets. I might share one if you help me with a task.
-NPC_150172,"I've been watching the constellations. Something's coming, and I need help preparing.","I've been watching the constellations. Something's coming, and I need help preparing."
-NPC_150173,I've got injured soldiers who need better armor. Can you help me gather materials?,I've got injured soldiers who need better armor. Can you help me gather materials?
-NPC_150174,"I thought I could handle it alone, but I was wrong. Can you help me finish what I started?","I thought I could handle it alone, but I was wrong. Can you help me finish what I started?"
-NPC_150175,"The stars have shown me something about you. Help me, and I'll tell you what I saw.","The stars have shown me something about you. Help me, and I'll tell you what I saw."
-NPC_150176,Good armor saves lives. I need help getting materials to make more. Can you assist?,Good armor saves lives. I need help getting materials to make more. Can you assist?
+NPC_150128,Just… leave me alone. I need to rest my eyes.,Просто... залиш мене в спокої. Мені потрібно відпочити очам.
+NPC_150129,I thought I could face him alone… but he was much stronger than I expected. Please be ready if you plan to fight him.,"Я думав, що зможу протистояти йому сам… але він був набагато сильнішим, ніж я очікував. Будь ласка, будьте готові, якщо плануєте битися з ним."
+NPC_150130,Alone… I didn't stand a chance.,На самоті… У мене не було шансів.
+NPC_150131,Very well. What do you need?,Гаразд. Що вам потрібно?
+NPC_150132,"Stay vigilant. In wartime, a moment's carelessness can be fatal.","Будьте пильні. У воєнний час хвилинна необережність може бути фатальною."
+NPC_150133,Come see me if you're hurt. Proper treatment makes all the difference.,Приходь до мене, якщо ти поранений. Правильне лікування має велике значення.
+NPC_150134,Safety is my responsibility here. I take that duty seriously.,Тут я відповідаю за безпеку. Я ставлюся до цього обов’язку дуже серйозно.
+NPC_150135,"This place is quiet, but that doesn't mean we can let our guard down completely.","Тут тихо, але це не означає, що ми можемо повністю розслабитися."
+NPC_150136,A soldier's watch must never fail. We protect this place with our lives.,Солдатський годинник ніколи не повинен вийти з ладу. Ми захищаємо це місце своїм життям.
+NPC_150137,I hope your visit brings good fortune to our village.,"Сподіваюся, що ваш візит принесе нашому селу удачу."
+NPC_150138,"Pay attention to what you hear. Sometimes the most important information comes when you're listening, not watching.","Зверніть увагу на те, що ви чуєте. Іноді найважливіша інформація надходить, коли ви слухаєте, а не дивитесь."
+NPC_150139,"The ship left without me, but I can't dwell on that. Life goes on, and so must I.","Корабель пішов без мене, але я не можу на цьому зупинятися. Життя триває, і я теж маю."
+NPC_150140,Quick question—can you handle a task for me?,Коротке запитання: чи можете ви впоратися з завданням?
+NPC_150141,I need someone reliable. Think you're up for it?,"Мені потрібен хтось надійний. Думаєте, ви готові до цього?"
+NPC_150142,I've got injured people piling up. Could you help me gather some supplies?,У мене накопичилося поранених. Не могли б ви допомогти мені зібрати деякі запаси?
+NPC_150143,There's something dangerous out there. I need someone to investigate.,Там щось небезпечне. Мені потрібен хтось для розслідування.
+NPC_150144,Bored of guard duty yet? I've got something more interesting if you're interested.,"Вже набридло стояти на варті? Якщо тобі цікаво, у мене є щось цікавіше."
+NPC_150145,We've spotted suspicious activity. I need someone to check it out.,"Ми помітили підозрілу активність. Мені потрібен хтось, щоб це перевірити."
+NPC_150146,A visitor like you might be able to help with something the locals can't.,"Такий відвідувач, як ви, може допомогти з чимось, чого не можуть місцеві."
+NPC_150147,I overheard something important. Want to help me follow up on it?,Я підслухав щось важливе. Хочете допомогти мені простежити за цим?
+NPC_150148,"I'm stuck here, but maybe you could help me with something back home?","Я тут застряг, але, може, ти міг би мені чимось допомогти вдома?"
+NPC_150149,Our supplies are running low. Could you help me gather what we need?,"Наші запаси закінчуються. Не могли б ви допомогти мені зібрати те, що нам потрібно?"
+NPC_150150,That shield you're carrying looks weak. I've got a job that might earn you a better one.,"Щит, який ви носите, виглядає слабким. У мене є робота, на якій ти міг би заробити кращу."
+NPC_150151,"I've found some interesting gems, but I need help appraising them properly.","Я знайшов кілька цікавих дорогоцінних каменів, але мені потрібна допомога, щоб правильно їх оцінити."
+NPC_150152,"There's something I need to tell you… but first, can you help me with a small task?","Є щось, що я маю тобі сказати… але спершу ти можеш допомогти мені з маленьким завданням?"
+NPC_150153,Those Lycans are getting bolder. I need someone to help me track their movements.,Ті лікани стають сміливішими. Мені потрібен хтось, щоб допомогти мені відслідковувати їхні пересування.
+NPC_150154,I'm looking for a real fight. Think you can point me toward something challenging?,Я шукаю справжнього бою. Думаєте, ви можете вказати мені на щось складне?
+NPC_150155,I've been working on some new colors. Want to help me test them out?,Я працюю над новими кольорами. Хочеш допомогти мені їх протестувати?
+NPC_150156,I've been hearing strange things in people's dreams lately. Can you help me investigate?,Останнім часом уві сні людей я чую дивні речі. Чи можете ви допомогти мені розслідувати?
+NPC_150157,More wounded keep coming in. I could really use some help gathering medical supplies.,Поранених постійно надходить. Мені справді знадобиться допомога зі збором медикаментів.
+NPC_150158,"I love this village, but there's something I need help protecting.","Я люблю це село, але є дещо, що мені потрібно захистити."
+NPC_150159,The trees have been whispering. They want me to find something. Will you help?,"Дерева шепочуть. Вони хочуть, щоб я щось знайшов. Допоможеш?"
+NPC_150160,"I've got some powerful magic tools, but I need help testing them safely.","У мене є кілька потужних магічних інструментів, але мені потрібна допомога, щоб перевірити їх безпечно."
+NPC_150161,You shouldn't be here. But since you are… maybe you can help me with something.,"Ви не повинні бути тут. Але оскільки ви… можливо, ви можете мені чимось допомогти."
+NPC_150162,I've spotted some unusual Lycan movements. Want to help me scout the area?,Я помітив кілька незвичайних рухів Лікана. Хочете допомогти мені розвідати місцевість?
+NPC_150163,I've been fighting for so long. Maybe you can help me finish this once and for all.,"Я так довго бився. Можливо, ви допоможете мені закінчити це раз і назавжди."
+NPC_150164,I've been having strange dreams about you. Want to help me understand what they mean?,"Мені снилися дивні сни про тебе. Хочете допомогти мені зрозуміти, що вони означають?"
+NPC_150165,"I collect stories, and I think yours might be worth hearing. But first, help me with something?","Я збираю історії, і я думаю, що ваші, можливо, варто почути. Але спочатку допоможіть мені чимось?"
+NPC_150166,"Those dogs won't come near us, but something else might. Want to help me keep watch?","Ці собаки не підійдуть до нас, але щось інше може. Хочете допомогти мені стежити?"
+NPC_150167,"I'm on patrol, but I spotted something that needs investigating. Care to join me?","Я патрулюю, але помітив щось, що потребує розслідування. Бажаєте приєднатися до мене?"
+NPC_150168,The stars are telling me something important. I need your help to understand it.,"Зірки натякають мені на щось важливе. Мені потрібна твоя допомога, щоб це зрозуміти."
+NPC_150169,"I've got fresh food ready, but I need help delivering it to some people. Interested?","У мене вже є свіжа їжа, але мені потрібна допомога, щоб доставити її деяким людям. Цікаво?"
+NPC_150170,"Hey, don't tell anyone you saw me, but I could use your help with something.","Гей, не кажи нікому, що ти мене бачив, але мені може знадобитися твоя допомога."
+NPC_150171,This village has secrets. I might share one if you help me with a task.,"У цьому селі є таємниці. Я можу розповісти одну з них, якщо ти допоможеш мені з одним завданням."
+NPC_150172,"I've been watching the constellations. Something's coming, and I need help preparing.","Я спостерігав за сузір'ями. Щось відбувається, і мені потрібна допомога в підготовці."
+NPC_150173,I've got injured soldiers who need better armor. Can you help me gather materials?,"У мене є поранені солдати, яким потрібна краща броня. Чи можете ви допомогти мені зібрати матеріали?"
+NPC_150174,"I thought I could handle it alone, but I was wrong. Can you help me finish what I started?","Я думав, що зможу впоратися з цим сам, але я помилявся. Ви можете допомогти мені закінчити те, що я почав?"
+NPC_150175,"The stars have shown me something about you. Help me, and I'll tell you what I saw.","Зірки відкрили мені щось про тебе. Допоможи мені, і я розповім тобі, що я побачив."
+NPC_150176,Good armor saves lives. I need help getting materials to make more. Can you assist?,"Хороша броня рятує життя. Мені потрібна допомога в отриманні матеріалів, щоб зробити більше. Ви можете допомогти?"
 NPC_150177,"I'm loyal to Captain Baron, but there's something I need to handle personally. Will you help?","I'm loyal to Captain Baron, but there's something I need to handle personally. Will you help?"
-NPC_150178,"I've lived too long in one place. Help me with this, and maybe I can finally move on.","I've lived too long in one place. Help me with this, and maybe I can finally move on."
-NPC_150179,"I've been teaching the young ones, but there's something I need to learn myself. Can you help?","I've been teaching the young ones, but there's something I need to learn myself. Can you help?"
-NPC_150180,"I forge weapons, but I need rare materials. Think you can help me find them?","I forge weapons, but I need rare materials. Think you can help me find them?"
-NPC_150181,"The village needs protection, and I need someone I can trust. Are you that person?","The village needs protection, and I need someone I can trust. Are you that person?"
-NPC_150182,"I'm an elder, and I've seen many things. Help me with this, and I'll share what I know.","I'm an elder, and I've seen many things. Help me with this, and I'll share what I know."
-NPC_150183,The nightmares are getting stronger. I need someone brave enough to help me contain them.,The nightmares are getting stronger. I need someone brave enough to help me contain them.
-NPC_150184,Hunting's been tough lately. I could use help tracking down some prey.,Hunting's been tough lately. I could use help tracking down some prey.
-NPC_150185,Security is getting worse every day. I need someone to help me investigate a threat.,Security is getting worse every day. I need someone to help me investigate a threat.
+NPC_150178,"I've lived too long in one place. Help me with this, and maybe I can finally move on.","Я надто довго жив на одному місці. Допоможіть мені з цим, і, можливо, я нарешті зможу рухатися далі."
+NPC_150179,"I've been teaching the young ones, but there's something I need to learn myself. Can you help?","Я навчав молодих, але є чого й самому. Ви можете допомогти?"
+NPC_150180,"I forge weapons, but I need rare materials. Think you can help me find them?","Я кую зброю, але мені потрібні рідкісні матеріали. Думаєте, ви можете допомогти мені їх знайти?"
+NPC_150181,"The village needs protection, and I need someone I can trust. Are you that person?","Село потребує захисту, а мені потрібна людина, якій я можу довіряти. Чи є ти такою людиною?"
+NPC_150182,"I'm an elder, and I've seen many things. Help me with this, and I'll share what I know.","Я вже в похилому віці і багато чого бачив. Допоможіть мені з цим, і я поділюся тим, що знаю."
+NPC_150183,The nightmares are getting stronger. I need someone brave enough to help me contain them.,"Кошмари стають сильнішими. Мені потрібен хтось достатньо сміливий, щоб допомогти мені їх стримати.
+"
+NPC_150184,Hunting's been tough lately. I could use help tracking down some prey.,"Останнім часом полювання було важким. Мені знадобилася б допомога у вистеженні здобичі."
+NPC_150185,Security is getting worse every day. I need someone to help me investigate a threat.,"Безпека погіршується з кожним днем. Мені потрібен хтось, хто допоможе мені розслідувати загрозу."
 NPC_150186,Welcome to the #b#cffff0000Eillun Quest Office#nc#nb! Looking for work? I may have a job for you...,Welcome to the #b#cffff0000Eillun Quest Office#nc#nb! Looking for work? I may have a job for you...
 NPC_150187,Welcome to the Quest Office! The local citizens have issued the following quests. Please select the quest you wish to take from the list below.,Welcome to the Quest Office! The local citizens have issued the following quests. Please select the quest you wish to take from the list below.
 NPC_150188,"My apologies, there are no quests available for an adventurer of your talent and skill at this time. ","My apologies, there are no quests available for an adventurer of your talent and skill at this time. "
 NPC_150189,"My name is Miorang and I am the manager of the Eillun Quest Office. When our citizens post a hunting order or another task, it is my job to find the right candidate for the job. Check back in from time to time to see if I have anything available!","My name is Miorang and I am the manager of the Eillun Quest Office. When our citizens post a hunting order or another task, it is my job to find the right candidate for the job. Check back in from time to time to see if I have anything available!"
 NPC_150190,Farewell!,Farewell!
 NPC_150191,Welcome to the #b#cffff0000Office.#nc#nb of Eillun. How can I be of service?,Welcome to the #b#cffff0000Office.#nc#nb of Eillun. How can I be of service?
-NPC_150192,"So what can you do for me, huh?","So what can you do for me, huh?"
+NPC_150192,"So what can you do for me, huh?",То що ти можеш для мене зробити?
 NPC_150193,Ugh... maybe next time.,Ugh... maybe next time.
 NPC_150194,My name is Cheirang and I manage the Office of Eillun. How can I help you today?,My name is Cheirang and I manage the Office of Eillun. How can I help you today?
 NPC_150195,Farewell!,Farewell!
@@ -1344,4 +1345,4 @@ NPC_150197,"Hello, traveler. I have some missions for you!","Hello, traveler. I 
 NPC_150198,"Eillun is the heart of Madrigal’s blooming spirit. Our trees may tower over the skies, but our hospitality always reaches further. Should you ever seek guidance, come find me beneath the Great Blossom.","Eillun is the heart of Madrigal’s blooming spirit. Our trees may tower over the skies, but our hospitality always reaches further. Should you ever seek guidance, come find me beneath the Great Blossom."
 NPC_150199,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?
 NPC_150200,Farewell!,Farewell!
-NPC_150201,I've spotted a security issue that needs immediate attention. Can you handle it?,I've spotted a security issue that needs immediate attention. Can you handle it?
+NPC_150201,I've spotted a security issue that needs immediate attention. Can you handle it?,Я помітив проблему безпеки, яка потребує негайної уваги. Ви можете впоратися з цим?
