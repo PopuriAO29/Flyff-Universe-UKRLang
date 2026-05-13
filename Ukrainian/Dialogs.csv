@@ -867,7 +867,7 @@ NPC_001049,Another one bites the dust!,Ще один кусає пил!
 NPC_001050,Why don't you sign up for a Madrigal tournament right away? Prove you are the best.,Why don't you sign up for a Madrigal tournament right away? Prove you are the best.
 NPC_001051,"Madrigal Tournament is about to begin. Hurry, to the arena!","Madrigal Tournament is about to begin. Hurry, to the arena!"
 NPC_001052,Would you like to take a bet on who will win this tournament?,"Бажаєте взяти ставку на те, хто виграє цей турнір?"
-NPC_001053,The odds have been released. Check the payout for the team you bet on.,Коефіцієнти були опубліковані. Перевірте виплату для команди, на яку ви зробили ставку.
+NPC_001053,The odds have been released. Check the payout for the team you bet on.,"Коефіцієнти були опубліковані. Перевірте виплату для команди, на яку ви зробили ставку."
 NPC_001078,Only the strongest of guilds can achieve victory in the Secret Room!,Only the strongest of guilds can achieve victory in the Secret Room!
 NPC_001079,"If your guild is top ranked in the Secret Room, you will receive weekly rewards!","If your guild is top ranked in the Secret Room, you will receive weekly rewards!"
 NPC_001080,"Hello, adventurer! I'm in charge of the Secret Room and the Forsaken Tower. If you have any questions about this heroic challenge, please don't hesitate to ask. ","Hello, adventurer! I'm in charge of the Secret Room and the Forsaken Tower. If you have any questions about this heroic challenge, please don't hesitate to ask. "
@@ -881,7 +881,7 @@ NPC_001091,"Hi there! I offer jewelry services to the citizens of Flarine and cr
 NPC_001092,My name is Peach! I'm here to assist Boboku and help supplement his upgrading business. Stop by anytime!,My name is Peach! I'm here to assist Boboku and help supplement his upgrading business. Stop by anytime!
 NPC_001093,"Take care. Remember, for anything to do with jewels, I'm your girl!","Take care. Remember, for anything to do with jewels, I'm your girl!"
 NPC_001219,Attention everyone! We are looking for new Mentors. I will get you started on your way to becoming a Mentor!,До уваги всіх! Шукаємо нових Менторів. Я допоможу тобі стати наставником!
-NPC_001220,Come see me if you want to become a Mentor. ,Заходьте до мене, якщо хочете стати наставником. 
+NPC_001220,Come see me if you want to become a Mentor. ,"Заходьте до мене, якщо хочете стати наставником. "
 NPC_001221,"It is not easy to find worthy people to walk the path of a Mentor, it isn't for everyone.","Нелегко знайти гідних людей, які зможуть стати на шлях наставника — це не кожному під силу."
 NPC_001222,"Good afternoon. My name is Inisis. I am the current Mentor Teacher in Madrigal, well, not for much longer.","Good afternoon. My name is Inisis. I am the current Mentor Teacher in Madrigal, well, not for much longer."
 NPC_001223,Come back and see me if you are interested in becoming a Mentor.,"Якщо ви зацікавлені у тому, щоб стати наставником, завітайте до мене."
@@ -1276,7 +1276,7 @@ NPC_150129,I thought I could face him alone… but he was much stronger than I e
 NPC_150130,Alone… I didn't stand a chance.,На самоті… У мене не було шансів.
 NPC_150131,Very well. What do you need?,Гаразд. Що вам потрібно?
 NPC_150132,"Stay vigilant. In wartime, a moment's carelessness can be fatal.","Будьте пильні. У воєнний час хвилинна необережність може бути фатальною."
-NPC_150133,Come see me if you're hurt. Proper treatment makes all the difference.,Приходь до мене, якщо ти поранений. Правильне лікування має велике значення.
+NPC_150133,Come see me if you're hurt. Proper treatment makes all the difference.,"Приходь до мене, якщо ти поранений. Правильне лікування має велике значення."
 NPC_150134,Safety is my responsibility here. I take that duty seriously.,Тут я відповідаю за безпеку. Я ставлюся до цього обов’язку дуже серйозно.
 NPC_150135,"This place is quiet, but that doesn't mean we can let our guard down completely.","Тут тихо, але це не означає, що ми можемо повністю розслабитися."
 NPC_150136,A soldier's watch must never fail. We protect this place with our lives.,Солдатський годинник ніколи не повинен вийти з ладу. Ми захищаємо це місце своїм життям.
@@ -1296,8 +1296,8 @@ NPC_150149,Our supplies are running low. Could you help me gather what we need?,
 NPC_150150,That shield you're carrying looks weak. I've got a job that might earn you a better one.,"Щит, який ви носите, виглядає слабким. У мене є робота, на якій ти міг би заробити кращу."
 NPC_150151,"I've found some interesting gems, but I need help appraising them properly.","Я знайшов кілька цікавих дорогоцінних каменів, але мені потрібна допомога, щоб правильно їх оцінити."
 NPC_150152,"There's something I need to tell you… but first, can you help me with a small task?","Є щось, що я маю тобі сказати… але спершу ти можеш допомогти мені з маленьким завданням?"
-NPC_150153,Those Lycans are getting bolder. I need someone to help me track their movements.,Ті лікани стають сміливішими. Мені потрібен хтось, щоб допомогти мені відслідковувати їхні пересування.
-NPC_150154,I'm looking for a real fight. Think you can point me toward something challenging?,Я шукаю справжнього бою. Думаєте, ви можете вказати мені на щось складне?
+NPC_150153,Those Lycans are getting bolder. I need someone to help me track their movements.,"Ті лікани стають сміливішими. Мені потрібен хтось, щоб допомогти мені відслідковувати їхні пересування."
+NPC_150154,I'm looking for a real fight. Think you can point me toward something challenging?,"Я шукаю справжнього бою. Думаєте, ви можете вказати мені на щось складне?"
 NPC_150155,I've been working on some new colors. Want to help me test them out?,Я працюю над новими кольорами. Хочеш допомогти мені їх протестувати?
 NPC_150156,I've been hearing strange things in people's dreams lately. Can you help me investigate?,Останнім часом уві сні людей я чую дивні речі. Чи можете ви допомогти мені розслідувати?
 NPC_150157,More wounded keep coming in. I could really use some help gathering medical supplies.,Поранених постійно надходить. Мені справді знадобиться допомога зі збором медикаментів.
@@ -1345,4 +1345,4 @@ NPC_150197,"Hello, traveler. I have some missions for you!","Hello, traveler. I 
 NPC_150198,"Eillun is the heart of Madrigal’s blooming spirit. Our trees may tower over the skies, but our hospitality always reaches further. Should you ever seek guidance, come find me beneath the Great Blossom.","Eillun is the heart of Madrigal’s blooming spirit. Our trees may tower over the skies, but our hospitality always reaches further. Should you ever seek guidance, come find me beneath the Great Blossom."
 NPC_150199,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?
 NPC_150200,Farewell!,Farewell!
-NPC_150201,I've spotted a security issue that needs immediate attention. Can you handle it?,Я помітив проблему безпеки, яка потребує негайної уваги. Ви можете впоратися з цим?
+NPC_150201,I've spotted a security issue that needs immediate attention. Can you handle it?,"Я помітив проблему безпеки, яка потребує негайної уваги. Ви можете впоратися з цим?"
