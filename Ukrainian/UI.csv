@@ -28,8 +28,8 @@ UI_CHARLIST_NEW,New,Новий
 UI_CHARLIST_DELETE,Delete,Видалити
 UI_DELETECHAR_TITLE,Delete Character,Видалити символ
 UI_DELETECHAR_PASS,Password for deleting character\nEnter the password,Пароль для видалення символу\nВведіть пароль
-UI_DELETECHAR_NOPASS,Do you confirm?,Ви підтверджуєте?
-UI_DELETECHAR_NOTICE,"If you delete a character, you cannot use its name during a week.","Якщо ви видалите персонажа, ви не зможете використовувати його ім'я протягом тижня."
+UI_DELETECHAR_NOPASS,Confirm Deletion?,Підтвердити видалення?
+UI_DELETECHAR_NOTICE,"If you delete this character, its name cannot be used again for one week.","Якщо ви видалите цього персонажа, його ім’я не можна буде використовувати знову протягом тижня."
 UI_NEWCHAR_NAME,Name:,Ім'я:
 UI_NEWCHAR_GIRL,Girl,Girl
 UI_NEWCHAR_BOY,Boy,Boy
@@ -83,8 +83,8 @@ UI_CHARINFO_STA,STA,STA
 UI_CHARINFO_DEX,DEX,DEX
 UI_CHARINFO_INT,INT,INT
 UI_CHARINFO_STATPOINTS,Stat Points,Очки статистики
-UI_CHARINFO_APPLY,Apply,Застосувати
-UI_CHARINFO_RESET,Reset,Скинути
+UI_CHARINFO_APPLY,Confirm,Підтвердити
+UI_CHARINFO_RESET,Revert,Повернути
 UI_CHARINFO_CHANGESTATE,Change State,Змінити стан
 UI_CHARINFO_CURRENTPAGE,Current Stat Page: %d,Сторінка поточної статистики: %d
 UI_CHARINFO_CHANGEPAGE_TITLE,Changing Stat Page,Зміна сторінки статистики
@@ -3269,9 +3269,14 @@ UI_TOOLTIP_DST_MOBEXPDROP,Monsters experience/drop gain,Monsters experience/drop
 UI_TOOLTIP_TENACITY,Tenacity,Tenacity
 UI_TOOLTIP_DST_SOULUPLIFT,Soul Uplift,Soul Uplift
 UI_15UPDATE_PASS,1.5 Update Pass,1.5 Update Pass
-UI_TOOLTIP_DEBUFFDURATION,Debuff Duration,Debuff Duration
-UI_TOOLTIP_DST_SAME_JEWEL_RATE,Chance to equip the same ultimate jewel,Chance to equip the same ultimate jewel
-UI_NEWYEARPASS_2026,2026 New Year Pass,2026 New Year Pass
+UI_TOOLTIP_DEBUFFDURATION,Debuff Duration,Тривалість дебаффу
+UI_TOOLTIP_DST_SAME_JEWEL_RATE,Однотипний остаточний шанс вставити дорогоцінний камінь
+UI_NEWYEARPASS_2026,2026 New Year Pass,Новорічний квиток 2026
 UI_TOOLTIP_WARDROBE_YES,In your wardrobe,У твоїй шафі
 UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,Не у твоєму гардеробі
 UI_QUEST_PET_LEVEL,Reach pet EXP 99.99%,Reach pet EXP 99.99%
+UI_DEBUG_DEVICE_ADVERTISING_ID,Advertising ID: ,Рекламний ID: 
+UI_DEBUG_DEVICE_EEA,EEA: ,ЄЕЗ: 
+UI_DEBUG_DEVICE_AD_PERSONALIZATION,Ad Personalization: , Персоналізація реклами: 
+UI_DEBUG_DEVICE_AD_USER_DATA,Ad User Data: ,Дані користувача оголошення: 
+UI_TOOLTIP_DST_ULTIMATEUPGRADERATE,Ultimate Upgrade Rate,Максимальна швидкість оновлення
