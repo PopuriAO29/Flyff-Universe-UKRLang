@@ -2220,13 +2220,13 @@ UI_KALGAS_ASSAULT_ENTERTIME_DESC,Do you want to enter the Kalgas Assault?\n\nTim
 UI_KALGAS_ASSAULT_REGISTRATIONTIME_DESC,Can't enter yet Kalgas Assault.\n\nEntry Star: %02d:%02d:%02d,Can't enter yet Kalgas Assault.\n\nEntry Star: %02d:%02d:%02d
 UI_KALGAS_ASSAULT_LATE_DESC,Todays Kalgas Assault is already start.,Todays Kalgas Assault is already start.
 UI_KALGAS_ASSAULT_REG_DESC,"#cff0000ffRegistration#nc\nTime until registration:\n %s \nTime until entry:\n %s \nMinimum Level: %d\n\nCurrent number of registered players: %d\n\n※ Only users who have registered for Kalgas Assault can participate.\n※ You will not be able to enter after the time limit has passed.\n※ Maximum 200 players per an instance (100 vs 100)\n※ The minimum number of players for ranking rewards is 20 or more, and if there are less than 20 players, only the winner reward will be given.\n※ Teams will be randomly selected.","#cff0000ffRegistration#nc\nTime until registration:\n %s \nTime until entry:\n %s \nMinimum Level: %d\n\nCurrent number of registered players: %d\n\n※ Only users who have registered for Kalgas Assault can participate.\n※ You will not be able to enter after the time limit has passed.\n※ Maximum 200 players per an instance (100 vs 100)\n※ The minimum number of players for ranking rewards is 20 or more, and if there are less than 20 players, only the winner reward will be given.\n※ Teams will be randomly selected."
-UI_SUN,Sunday,Sunday
-UI_MON,Monday,Monday
-UI_TUE,Tuesday,Tuesday
-UI_WED,Wednesday,Wednesday
-UI_THU,Thursday,Thursday
-UI_FRI,Friday,Friday
-UI_SAT,Saturday,Saturday
+UI_SUN,Sunday,Неділя
+UI_MON,Monday,Понеділок
+UI_TUE,Tuesday,Вівторок
+UI_WED,Wednesday,Середа
+UI_THU,Thursday,Четвер
+UI_FRI,Friday,П'ятниця
+UI_SAT,Saturday,Субота
 UI_KALGAS_ASSAULT_INFO_TITLE,Kalgas Assault Information,Kalgas Assault Information
 UI_KALGAS_ASSAULT_REGISTRATION_TITLE,Kalgas Assault Registration,Kalgas Assault Registration
 UI_KALGAS_ASSAULT_REGISTER,Registration,Registration
@@ -2256,8 +2256,8 @@ UI_KALGAS_ASSAULT_UNFULFILLED_PLAY_TIME,"Due to insufficient participation time,
 UI_KALGAS_ASSAULT_WINNER,Congratulations. %s Team Wins!,Congratulations. %s Team Wins!
 UI_KALGAS_ASSAULT_DRAW,Unfortunately the winner is not decided.,Unfortunately the winner is not decided.
 UI_KALGAS_ASSAULT_RETURN_COUNT,"After %d seconds, you will be automatically moved to town.","After %d seconds, you will be automatically moved to town."
-UI_BLACK,Black,Black
-UI_WHITE,White,White
+UI_BLACK,Black,Чорний
+UI_WHITE,White,Білий
 UI_DRAW,Draw,Draw
 UI_KALGAS_ASSAULT_READY,Kalgas Assault is about to start!,Kalgas Assault is about to start!
 UI_KALGAS_ASSAULT_ENTRY_CLOSE_REMAINING,Entry for Kalgas Assault will close in %d minutes.,Entry for Kalgas Assault will close in %d minutes.
@@ -2266,7 +2266,7 @@ UI_RAINBOWRACE_TEAMSELECTION_DESC,"You can team up with your friend to compete i
 UI_RAINBOWRACE_RANDOMMATCHING,Random Matching,Random Matching
 UI_RAINBOWRACE_TEAMWITHFRIEND,Team up with a friend,Team up with a friend
 UI_RAINBOWRACE_TEAMINVITATION,Invite a friend,Invite a friend
-UI_RAINBOWRACE_FRIEND_LEVEL,Level,Level
+UI_RAINBOWRACE_FRIEND_LEVEL,Level,Рівень
 UI_RAINBOWRACE_FRIEND_NAME,Name,Ім'я
 UI_RAINBOWRACE_FRIEND_APPLICATION,Application,Application
 UI_RAINBOWRACE_INVITATION_CONFIRM,Would you like to participate in the Rainbow Race Duo (%s) with '%s'?\n\nThe application fee is %lld penya.,Would you like to participate in the Rainbow Race Duo (%s) with '%s'?\n\nThe application fee is %lld penya.
@@ -2574,7 +2574,7 @@ UI_COUPLE_RING_TP,Teleports: %d,Teleports: %d
 UI_COUPLE_RING_CHEER,Cheers: %d,Cheers: %d
 UI_COUPLE_RING_SLOTS,Storage slots: %d,Storage slots: %d
 UI_COUPLE_MOTION_TITLE,Couple Motion,Couple Motion
-UI_COUPLE_MOTION_REQUEST,Your partner is requesting the %s motion. Do you accept?,Your partner is requesting the %s motion. Do you accept?
+UI_COUPLE_MOTION_REQUEST,Your partner is requesting the %s motion. Do you accept?,Ваш партнер запитує рух %s. Ви приймаєте?
 UI_APP_LIFE_TIP,Opens life contents window.,Opens life contents window.
 UI_LIFE_GATHERING_TAB,Gathering,Gathering
 UI_LIFE_PRODUCTION_TAB,Production,Виробництво
@@ -3064,7 +3064,7 @@ UI_GENERIC_3,Setting 3,Налаштування 3
 UI_GENERIC_4,Setting 4,Налаштування 4
 UI_SBX_TIME,Time,Час
 UI_SBX_LIGHT_OFFSET,Light Offset,Light Offset
-UI_SSAO_SHD_STR,Strength,Strength
+UI_SSAO_SHD_STR,Strength,Сила
 UI_SSAO_SHD_MAX_D,Max Distance,Max Distance
 UI_SSAO_SHD_FALLOFF,Falloff,Falloff
 UI_SSAO_SHD_RADIUS,Radius,Radius
@@ -3091,13 +3091,13 @@ UI_QUEST_CONSUMABLE_ITEM_COUNT,Number of Consumption Items Usage #cffc32f07#b%d/
 UI_ACHIEVEMENTS_REWARD_STATUE,Personal statue created,Personal statue created
 UI_FORCEWEEKLYLIFESTYLERESET,forceweeklylifestylereset,forceweeklylifestylereset
 UI_SHOP_REFRESH_IN,Refresh in,Оновити через
-UI_DAYS_MON,Mon,Mon
-UI_DAYS_TUE,Tue,Tue
-UI_DAYS_WED,Wed,Wed
-UI_DAYS_THU,Thu,Thu
-UI_DAYS_FRI,Fri,Fri
-UI_DAYS_SAT,Sat,Sat
-UI_DAYS_SUN,Sun,Sun
+UI_DAYS_MON,Mon,Пн
+UI_DAYS_TUE,Tue,Вт
+UI_DAYS_WED,Wed,Ср
+UI_DAYS_THU,Thu,Чт
+UI_DAYS_FRI,Fri,Пт
+UI_DAYS_SAT,Sat,Сб
+UI_DAYS_SUN,Sun,Нд
 UI_SEARCHPARTY_LEVEL,Lv.,Lv.
 UI_RANKING_UNIT1,st,st
 UI_RANKING_UNIT2,nd,nd

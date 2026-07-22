@@ -13,10 +13,10 @@ DUSTORM_WLD_000000,Storm Peak (Instance Dungeon),Storm Peak (Instance Dungeon)
 DUUNDERWATER_WLD_000000,Envy Depths (Instance Dungeon),Envy Depths (Instance Dungeon)
 DUVOLKANE_WLD_000000,Volkane,Volkane
 DUVOLKANE_WLD_000001,Volkane (Dungeon),Volkane (Dungeon)
-WDARENA_WLD_000000,Arena,Arena
-WDARENA_WLD_000001,You can PvP in the Arena.,You can PvP in the Arena.
-WDARENA_WLD_000002,Training Center,Training Center
-WDARENA_WLD_000003,Test your capabilities against dummies!,Test your capabilities against dummies!
+WDARENA_WLD_000000,Arena,Арена
+WDARENA_WLD_000001,You can PvP in the Arena.,Ви можете PvP на Арені.
+WDARENA_WLD_000002,Training Center,Навчальний центр
+WDARENA_WLD_000003,Test your capabilities against dummies!,Перевірте свої можливості проти манекенів!
 WDARENA_WLD_000004,,
 WDARENA_WLD_000005,,
 WDARENA_WLD_000006,The Bronze Vagrant,The Bronze Vagrant
@@ -33,21 +33,21 @@ WDCOLOSSEUM_WLD_000002,Colosseum Stadium,Colosseum Stadium
 WDCOLOSSEUM_WLD_000003,The Cage of Clockworks,The Cage of Clockworks
 WDCOLOSSEUM_WLD_000004,Clockworks was sealed here after the Clockworks War.,Clockworks was sealed here after the Clockworks War.
 WDEVENT_WLD_000000,Duel Zone,Duel Zone
-WORLD_WDGUILDWAR_WDGUILDWAR_RGN_000000,Prove yourself!\nShow them that you are the best!,Prove yourself!\nShow them that you are the best!
-WDGUILDWARBIG_WLD_000000,Prove yourself!\nShow them that you are the best!,Prove yourself!\nShow them that you are the best!
-WORLD_WDGUILDWAR_CAVERN_RGN_000000,Prove yourself!\nShow them that you are the best!,Prove yourself!\nShow them that you are the best!
-WORLD_WDGUILDWAR_CORAL_RGN_000000,Prove yourself!\nShow them that you are the best!,Prove yourself!\nShow them that you are the best!
-WORLD_WDGUILDWAR_GUARDIANE_RGN_000000,Prove yourself!\nShow them that you are the best!,Prove yourself!\nShow them that you are the best!
-WORLD_WDGUILDWAR_KAILLUN_RGN_000000,Prove yourself!\nShow them that you are the best!,Prove yourself!\nShow them that you are the best!
-WORLD_WDGUILDWAR_SNOW_RGN_000000,Prove yourself!\nShow them that you are the best!,Prove yourself!\nShow them that you are the best!
-WORLD_WDGUILDWAR_UNDERWATER_RGN_000000,Prove yourself!\nShow them that you are the best!,Prove yourself!\nShow them that you are the best!
-WORLD_WDGUILDWAR_VOLCANO_RGN_000000,Prove yourself!\nShow them that you are the best!,Prove yourself!\nShow them that you are the best!
+WORLD_WDGUILDWAR_WDGUILDWAR_RGN_000000,Prove yourself!\nShow them that you are the best!,"Доведіть себе!\nПокажи їм, що ти найкращий!"
+WDGUILDWARBIG_WLD_000000,Prove yourself!\nShow them that you are the best!,"Доведіть себе!\nПокажи їм, що ти найкращий!"
+WORLD_WDGUILDWAR_CAVERN_RGN_000000,Prove yourself!\nShow them that you are the best!,"Доведіть себе!\nПокажи їм, що ти найкращий!"
+WORLD_WDGUILDWAR_CORAL_RGN_000000,Prove yourself!\nShow them that you are the best!,"Доведіть себе!\nПокажи їм, що ти найкращий!"
+WORLD_WDGUILDWAR_GUARDIANE_RGN_000000,Prove yourself!\nShow them that you are the best!,"Доведіть себе!\nПокажи їм, що ти найкращий!"
+WORLD_WDGUILDWAR_KAILLUN_RGN_000000,Prove yourself!\nShow them that you are the best!,"Доведіть себе!\nПокажи їм, що ти найкращий!"
+WORLD_WDGUILDWAR_SNOW_RGN_000000,Prove yourself!\nShow them that you are the best!,"Доведіть себе!\nПокажи їм, що ти найкращий!"
+WORLD_WDGUILDWAR_UNDERWATER_RGN_000000,Prove yourself!\nShow them that you are the best!,"Доведіть себе!\nПокажи їм, що ти найкращий!"
+WORLD_WDGUILDWAR_VOLCANO_RGN_000000,Prove yourself!\nShow them that you are the best!,"Доведіть себе!\nПокажи їм, що ти найкращий!"
 WDKEBARAS_WLD_000000,Lodelight,Lodelight
-WDKEBARAS_WLD_000001,This is a safe place.,This is a safe place.
+WDKEBARAS_WLD_000001,This is a safe place.,Це безпечне місце.
 WORLD_WDKEBARAS_WDKEBARAS_RGN_000000,Kebaras,Kebaras
 WORLD_WDKEBARAS_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras!\nLong ago, this place served as a prison for criminals...","Welcome to the town of Kebaras!\nLong ago, this place served as a prison for criminals..."
-WDMADRIGAL_WLD_000000,Mysterious Castle,Mysterious Castle
-WDMADRIGAL_WLD_000001,This place is not marked on the map. No one knows how to enter it...,This place is not marked on the map. No one knows how to enter it...
+WDMADRIGAL_WLD_000000,Mysterious Castle,Таємничий замок
+WDMADRIGAL_WLD_000001,This place is not marked on the map. No one knows how to enter it...,"Це місце не позначене на карті. Ніхто не знає, як туди ввести..."
 WDMADRIGAL_WLD_000002,Refuge of Middle Leren Mountains,Refuge of Middle Leren Mountains
 WDMADRIGAL_WLD_000003,Line Flarine ↔ Saint City,Line Flarine ↔ Saint City
 WDMADRIGAL_WLD_000004,Line Flarine ↔ Darkon 1,Line Flarine ↔ Darkon 1
@@ -67,7 +67,7 @@ WDMADRIGAL_WLD_000019,Guardiane Sanctuary Entrance,Guardiane Sanctuary Entrance
 WDMADRIGAL_WLD_000021,Leren Chasm Entrance,Leren Chasm Entrance
 WDMADRIGAL_WLD_000022,Wilds Entrance,Wilds Entrance
 WDMADRIGAL_WLD_000023,Rhisis Catacombs,Rhisis Catacombs
-WDMADRIGAL_WLD_000024,This is a safe place.,This is a safe place.
+WDMADRIGAL_WLD_000024,This is a safe place.,Це безпечне місце.
 WDMADRIGAL_WLD_000025,The Wilds Entrance,The Wilds Entrance
 WDMADRIGAL_WLD_000026,Coral Village,Coral Village
 WDMADRIGAL_WLD_000028,Coral Island,Coral Island
@@ -76,18 +76,18 @@ WDMADRIGAL_WLD_000030,Red Sea,Red Sea
 WDMADRIGAL_WLD_000032,Deep Sea,Deep Sea
 WDMADRIGAL_WLD_000034,Swamp,Swamp
 WDMADRIGAL_WLD_000035,Saint City Arena,Saint City Arena
-WDMADRIGAL_WLD_000036,This place was famous long ago...,This place was famous long ago...
+WDMADRIGAL_WLD_000036,This place was famous long ago...,Це місце було відоме здавна...
 WDMADRIGAL_WLD_000037,Kaillun,Kaillun
 WDMADRIGAL_WLD_000038,Welcome to Kaillun!,Welcome to Kaillun!
 WDMADRIGAL_WLD_000039,Orbalune Port,Orbalune Port
-WDMADRIGAL_WLD_000040,This is a safe place.,This is a safe place.
+WDMADRIGAL_WLD_000040,This is a safe place.,Це безпечне місце.
 WDMADRIGAL_WLD_000041,Kaillun Grassland,Kaillun Grassland
 WDMADRIGAL_WLD_000042,Dreknir Ridge,Dreknir Ridge
 WDMADRIGAL_WLD_000043,Lionrath Falls,Lionrath Falls
 WDMADRIGAL_WLD_000044,Velora Cliffs,Velora Cliffs
 WDMADRIGAL_WLD_000045,Dreknir Forest,Dreknir Forest
 WDMADRIGAL_WLD_000046,Ankou's Asylum Entrance,Ankou's Asylum Entrance
-WDMADRIGAL_WLD_000047,This is a safe place.,This is a safe place.
+WDMADRIGAL_WLD_000047,This is a safe place.,Це безпечне місце.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000000,Darkon 1\nErons Factory 2,Darkon 1\nErons Factory 2
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000001,Erons Factory 2. Used to produce Erons.,Erons Factory 2. Used to produce Erons.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000002,The Middle of Leren Mountains,The Middle of Leren Mountains
@@ -98,8 +98,8 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000006,Flarine\nEastern Flarine,Flarine\nEastern
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000007,"The eastern part of Flarine.\nHere you can get food, magic materials, and job training.","The eastern part of Flarine.\nHere you can get food, magic materials, and job training."
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000008,Flarine\nNorthern Flarine,Flarine\nNorthern Flarine
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000009,The northern part of Flarine.\nThe Job Masters and Lodestar are here.,The northern part of Flarine.\nThe Job Masters and Lodestar are here.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000010,Someone is watching you.,Someone is watching you.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000011,Plain of Bubble,Plain of Bubble
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000010,Someone is watching you.,Хтось спостерігає за вами.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000011,Plain of Bubble,Рівнина бульбашки
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000012,This area was created by the Clown God Bubble.,This area was created by the Clown God Bubble.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000013,The South of Leren Mountains,The South of Leren Mountains
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000014,The southern district of the Leren Mountains.,The southern district of the Leren Mountains.
@@ -120,7 +120,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000028,Haunt of Nyangnyang,Haunt of Nyangnyang
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000029,Haunt of Nyangnyang.,Haunt of Nyangnyang.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000030,The bridge was repaired!\n You used to have to jump across a gap.,The bridge was repaired!\n You used to have to jump across a gap.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000031,Lodelight,Lodelight
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000032,This is a safe place.,This is a safe place.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000032,This is a safe place.,Це безпечне місце.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000033,Madren Town,Madren Town
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000034,This is a small town for Demian.\nCast-off Demian live here.,This is a small town for Demian.\nCast-off Demian live here.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000035,Middle of River of Weeping,Middle of River of Weeping
@@ -169,7 +169,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000079,Plateau of Silence\nGravity Disorder Area
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000080,"It is impossible to fly in this area of Madrigal. According to a research group, gravity is stronger here than anywhere else in the world.","It is impossible to fly in this area of Madrigal. According to a research group, gravity is stronger here than anywhere else in the world."
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000081,Hill of Shade,Hill of Shade
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000082,"Shade, the Clown Goddess was here.\nShe created this place in the time it takes to blink an eye.","Shade, the Clown Goddess was here.\nShe created this place in the time it takes to blink an eye."
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000083,This is a safe place.,This is a safe place.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000083,This is a safe place.,Це безпечне місце.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000084,Pumpkin Town\nThe Home of Mr. Pumpkin.,Pumpkin Town\nThe Home of Mr. Pumpkin.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000085,"This town was made by people who dislike the city life of Saint Morning.\nHowever, this town was ruined because of an invasion of Mr. Pumpkins.","This town was made by people who dislike the city life of Saint Morning.\nHowever, this town was ruined because of an invasion of Mr. Pumpkins."
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000086,Central Hillid Mountains,Central Hillid Mountains
@@ -252,9 +252,9 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000162,"Herneos was a beautiful underwater haven
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000163,Eillun,Eillun
 PROTOTYPE_WLD_000000,Prototype,Prototype
 WDPROTOTYPE_WLD_000000,Unknown Place in Madrigal,Unknown Place in Madrigal
-WDPROTOTYPE_WLD_000001,Only a Game Master can help you to leave.,Only a Game Master can help you to leave.
-WDREALM_WLD_000000,This is a safe place.,This is a safe place.
-WDREALM_WLD_000001,This is a safe place.,This is a safe place.
-WDREALM_WLD_000002,This is a safe place.,This is a safe place.
+WDPROTOTYPE_WLD_000001,Only a Game Master can help you to leave.,Лише Game Master може допомогти вам піти.
+WDREALM_WLD_000000,This is a safe place.,Це безпечне місце.
+WDREALM_WLD_000001,This is a safe place.,Це безпечне місце.
+WDREALM_WLD_000002,This is a safe place.,Це безпечне місце.
 WORLD_WDEVENT01_WDEVENT01_RGN_000000,You enter a battle zone!!!,You enter a battle zone!!!
 WDHEAVEN06_1_WLD_000003,Secret Room,Secret Room

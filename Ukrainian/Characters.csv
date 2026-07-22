@@ -5,13 +5,13 @@ CHARACTER_INC_000017,[Sage] Radion,[Sage] Radion
 CHARACTER_INC_000021,Boboku,Boboku
 CHARACTER_INC_000027,Boboko,Boboko
 CHARACTER_INC_000033,Luda,Luda
-CHARACTER_INC_000034,Weapons,Weapons
-CHARACTER_INC_000035,Armors,Armors
+CHARACTER_INC_000034,Weapons,Зброя
+CHARACTER_INC_000035,Armors,Обладунки
 CHARACTER_INC_000039,Lui,Lui
-CHARACTER_INC_000043,Arrows,Arrows
+CHARACTER_INC_000043,Arrows,Стрілки
 CHARACTER_INC_000045,Losha,Losha
 CHARACTER_INC_000051,Marche,Marche
-CHARACTER_INC_000057,Julia,Julia
+CHARACTER_INC_000057,Julia,Юлія
 CHARACTER_INC_000059,Dior,Dior
 CHARACTER_INC_000065,Is,Is
 CHARACTER_INC_000068,Iske,Iske
@@ -31,14 +31,14 @@ CHARACTER_INC_000119,[Pepoview] Vianlee,[Pepoview] Vianlee
 CHARACTER_INC_000121,[Pepoview] Clackcable,[Pepoview] Clackcable
 CHARACTER_INC_000125,Lancomi,Lancomi
 CHARACTER_INC_000127,Helena,Helena
-CHARACTER_INC_000129,Martin,Martin
-CHARACTER_INC_000135,Bill,Bill
+CHARACTER_INC_000129,Martin,Мартін
+CHARACTER_INC_000135,Bill,Білл
 CHARACTER_INC_000141,Tina,Tina
 CHARACTER_INC_000144,Fuel,Fuel
 CHARACTER_INC_000147,Bulrox,Bulrox
 CHARACTER_INC_000153,Bozman,Bozman
 CHARACTER_INC_000159,Colack,Colack
-CHARACTER_INC_000165,Karin,Karin
+CHARACTER_INC_000165,Karin,Карін
 CHARACTER_INC_000171,Leann,Leann
 CHARACTER_INC_000172,Accessories,Accessories
 CHARACTER_INC_000174,Ann,Ann
@@ -50,21 +50,21 @@ CHARACTER_INC_000200,[MagicBox] Ancimys,[MagicBox] Ancimys
 CHARACTER_INC_000226,Lurif,Lurif
 CHARACTER_INC_000228,Darkon Pang,Darkon Pang
 CHARACTER_INC_000230,Stima,Stima
-CHARACTER_INC_000231,Mercenary,Mercenary
-CHARACTER_INC_000232,Assist,Assist
-CHARACTER_INC_000233,Acrobat,Acrobat
-CHARACTER_INC_000234,Magician,Magician
+CHARACTER_INC_000231,Mercenary,Найманець
+CHARACTER_INC_000232,Assist,Допомога
+CHARACTER_INC_000233,Acrobat,Акробат
+CHARACTER_INC_000234,Magician,Чарівник
 CHARACTER_INC_000236,Phacham,Phacham
 CHARACTER_INC_000260,Achaben,Achaben
-CHARACTER_INC_000261,Collector,Collector
+CHARACTER_INC_000261,Collector,Колектор
 CHARACTER_INC_000262,Poster,Poster
 CHARACTER_INC_000263,Magic Tools,Magic Tools
-CHARACTER_INC_000264,Arrow,Arrow
+CHARACTER_INC_000264,Arrow,Стрілка
 CHARACTER_INC_000266,Almani,Almani
 CHARACTER_INC_000267,Broom,Broom
-CHARACTER_INC_000268,Board,Board
+CHARACTER_INC_000268,Board,Дошка
 CHARACTER_INC_000272,Bolpor,Bolpor
-CHARACTER_INC_000273,Food,Food
+CHARACTER_INC_000273,Food,Харчування
 CHARACTER_INC_000280,Eshylop,Eshylop
 CHARACTER_INC_000284,Haven,Haven
 CHARACTER_INC_000285,Wand,Wand
@@ -95,7 +95,7 @@ CHARACTER_INC_000354,[Ranger Master] Eliff,[Ranger Master] Eliff
 CHARACTER_INC_000356,[High-Dwarpet] Liekyen,[High-Dwarpet] Liekyen
 CHARACTER_INC_000358,[Ranger Priest] Rupim,[Ranger Priest] Rupim
 CHARACTER_INC_000360,[Ranger Guardian] Kailreard,[Ranger Guardian] Kailreard
-CHARACTER_INC_000362,Santa,Santa
+CHARACTER_INC_000362,Santa,Санта
 CHARACTER_INC_000364,Priest,Priest
 CHARACTER_INC_000366,Hans,Hans
 CHARACTER_INC_000368,Guardian Master,Guardian Master
@@ -110,18 +110,18 @@ CHARACTER_INC_000400,Rankashu,Rankashu
 CHARACTER_INC_000402,Drian,Drian
 CHARACTER_INC_000404,Nevil of Prison,Nevil of Prison
 CHARACTER_INC_000406,Nevil,Nevil
-CHARACTER_INC_000408,Bernard,Bernard
+CHARACTER_INC_000408,Bernard,Бернард
 CHARACTER_INC_000410,Kazen,Kazen
 CHARACTER_INC_000412,Andre,Andre
 CHARACTER_INC_000414,Nein,Nein
 CHARACTER_INC_000418,Banker Pang,Banker Pang
 CHARACTER_INC_000420,Guild Siege Merchant,Guild Siege Merchant
 CHARACTER_INC_000430,Furan,Furan
-CHARACTER_INC_000434,[Guild Siege Manager] Frankie,[Guild Siege Manager] Frankie
+CHARACTER_INC_000434,[Guild Siege Manager] Frankie,[Guild Siege Manager] Френкі
 CHARACTER_INC_000436,[Guild Siege Manager] Donaris,[Guild Siege Manager] Donaris
-CHARACTER_INC_000438,[Santa] Buruto,[Santa] Buruto
-CHARACTER_INC_000440,[Santa] Aramy,[Santa] Aramy
-CHARACTER_INC_000442,[Santa] Atto,[Santa] Atto
+CHARACTER_INC_000438,[Santa] Buruto,[Санта] Buruto
+CHARACTER_INC_000440,[Santa] Aramy,[Санта] Арамі
+CHARACTER_INC_000442,[Santa] Atto,[Санта] Атто
 CHARACTER_INC_000444,[Probationer Cook] Juglin,[Probationer Cook] Juglin
 CHARACTER_INC_000454,Hachal,Hachal
 CHARACTER_INC_000458,[Great Magician] Laola,[Great Magician] Laola
@@ -294,7 +294,7 @@ CHARACTER_INC_002005,Inventor Remi,Inventor Remi
 CHARACTER_INC_002006,Sunny Pang,Sunny Pang
 CHARACTER_INC_000771,Charlie,Charlie
 CHARACTER_INC_000772,[Guild House Manager] Lousiana,[Guild House Manager] Lousiana
-CHARACTER_INC_000773,Santa,Santa
+CHARACTER_INC_000773,Santa,Санта
 CHARACTER_INC_100044,Diosa,Diosa
 CHARACTER_INC_100200,Kalgas Assault Manager,Kalgas Assault Manager
 CHARACTER_INC_003200,[Personal House NPC] Casanova,[Personal House NPC] Casanova
