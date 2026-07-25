@@ -640,19 +640,19 @@ TEXTCLIENT_GUILDCOMBAT_EXIT_MSG,Teleporting to Flarine,Teleporting to Flarine
 TEXTCLIENT_GUILDCOMBAT_JOIN_NOW,You can now enter the Guild Siege.,You can now enter the Guild Siege.
 TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP,You cannot edit the lineup at this time.,You cannot edit the lineup at this time.
 TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP_FAIL,Your guild did not apply for the Guild Siege or was not accepted.,Your guild did not apply for the Guild Siege or was not accepted.
-TEXTCLIENT_GUILDCOMBAT_SELECTION_MAX,The number %d of people was exceeded.,The number %d of people was exceeded.
-TEXTCLIENT_GUILDCOMBAT_LIMIT_LEVEL_NOTICE,You should be over level %d for an entry.,You should be over level %d for an entry.
-TEXTCLIENT_GUILDCOMBAT_ALREADY_ENTRY,Be registered. Register again.,Be registered. Register again.
+TEXTCLIENT_GUILDCOMBAT_SELECTION_MAX,The number %d of people was exceeded.,Кількість в %d осіб була перевищена.
+TEXTCLIENT_GUILDCOMBAT_LIMIT_LEVEL_NOTICE,You should be over level %d for an entry.,Для участі ви повинні бути вище %d рівня.
+TEXTCLIENT_GUILDCOMBAT_ALREADY_ENTRY,Be registered. Register again.,Зареєструйтесь. Зареєструйтесь знову.
 TEXTCLIENT_GUILDCOMBAT_MASTER_NOT_ASSIGN_DEFENDER,The Guild Master cannot be assigned as the Defender.,The Guild Master cannot be assigned as the Defender.
 TEXTCLIENT_GUILDCOMBAT_HAVENOT_MASTER,There is no Guild Master or Kingpin in the lineup.,There is no Guild Master or Kingpin in the lineup.
 TEXTCLIENT_GUILDCOMBAT_NOT_ASSIGN_DEFENDER,No Defender has been assigned. Please select a Defender.,No Defender has been assigned. Please select a Defender.
 TEXTCLIENT_GUILDCOMBAT_HAVENOT_PLAYER,No participants have been selected. Please select participants.,No participants have been selected. Please select participants.
 TEXTCLIENT_GUILDCOMBAT_ENTER,The Guild Siege is now open.,The Guild Siege is now open.
-TEXTCLIENT_GUILDCOMBAT_NOT_JOIN,Please join after a while.,Please join after a while.
-TEXTCLIENT_GUILDCOMBAT_NOT_OPEN,Preparations underway.,Preparations underway.
+TEXTCLIENT_GUILDCOMBAT_NOT_JOIN,Please join after a while.,"Будь ласка, приєднуйтесь через деякий час."
+TEXTCLIENT_GUILDCOMBAT_NOT_OPEN,Preparations underway.,Триває підготовка.
 TEXTCLIENT_GUILDCOMBAT_NOTENTER_VAGRANT,Vagrants are not eligible for the Guild Siege. Please try again after your first job change.,Vagrants are not eligible for the Guild Siege. Please try again after your first job change.
 TEXTCLIENT_GUILDCOMBAT_WELCOME,Welcome to the Guild Siege.,Welcome to the Guild Siege.
-TEXTCLIENT_GUILDCOMBAT_ZOOM_USE,You can zoom the camera using the [Scroll Lock] key.,You can zoom the camera using the [Scroll Lock] key.
+TEXTCLIENT_GUILDCOMBAT_ZOOM_USE,You can zoom the camera using the [Scroll Lock] key.,Ви можете масштабувати камеру за допомогою клавіші [Scroll Lock].
 TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,You are the Guild Master! Defeating the Defender grants 1 bonus point.,You are the Guild Master! Defeating the Defender grants 1 bonus point.
 TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_DEFENDER,"You are the Defender! If you are defeated, the enemy gains 1 bonus point.","You are the Defender! If you are defeated, the enemy gains 1 bonus point."
 TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_GENERAL,Defeat your opponents for the glory of your guild! Defeating the Defender grants 1 bonus point.,Defeat your opponents for the glory of your guild! Defeating the Defender grants 1 bonus point.
@@ -667,7 +667,7 @@ TEXTCLIENT_GUILDCOMBAT_WRONG_CHANNEL,You must be connected on Channel 1 to enter
 TEXTCLIENT_GUILDCOMBAT_END,The Guild Siege has ended.,The Guild Siege has ended.
 TEXTCLIENT_GUILDCOMBAT_WINNER,This week's winning guild: %s.,This week's winning guild: %s.
 TEXTCLIENT_GUILDCOMBAT_WINNER1,MVP: %s.,MVP: %s.
-TEXTCLIENT_GUILDCOMBAT_WINNER2,Congratulations!,Congratulations!
+TEXTCLIENT_GUILDCOMBAT_WINNER2,Congratulations!,Вітаємо!
 TEXTCLIENT_GUILDCOMBAT_JOIN_LIMIT_TIME,Entry Phase Ends In,Entry Phase Ends In
 TEXTCLIENT_GUILDCOMBAT_NOT_INVITATION_GUILD,You can not invite someone to the guild while in Guild Siege.,You can not invite someone to the guild while in Guild Siege.
 TEXTCLIENT_GUILDCOMBAT_NOT_DISSOLVE_GUILD,You can disband a guild that has applied for a Guild Siege.,You can disband a guild that has applied for a Guild Siege.
@@ -676,10 +676,10 @@ TEXTCLIENT_GUILDCOMBAT_NO_MEMBER,Unable to use the member management function du
 TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_LOGO,You cannot change your guild logo during Guild Siege.,You cannot change your guild logo during Guild Siege.
 TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_NAME,You cannot change your guild name during Guild Siege.,You cannot change your guild name during Guild Siege.
 TEXTCLIENT_GUILDCOMBAT_NOT_WAR,Unable to declare war during Guild Siege.,Unable to declare war during Guild Siege.
-TEXTCLIENT_EVENT_STANDS_NOTUSEITEM,You cannot use items during the event.,You cannot use items during the event.
-TEXTCLIENT_EVENT_STANDS_NOTUSESKILL,You cannot use skills during the event.,You cannot use skills during the event.
-TEXTCLIENT_EVENT_STANDS_NOTENCHANT,You cannot enchant during the event.,You cannot enchant during the event.
-TEXTCLIENT_EVENT_STANDS_NOTSHOUT,You cannot shout during the event.,You cannot shout during the event.
+TEXTCLIENT_EVENT_STANDS_NOTUSEITEM,You cannot use items during the event.,Ви не можете використовувати предмети під час події.
+TEXTCLIENT_EVENT_STANDS_NOTUSESKILL,You cannot use skills during the event.,Ви не можете використовувати навички під час події.
+TEXTCLIENT_EVENT_STANDS_NOTENCHANT,You cannot enchant during the event.,Ви не можете зачаровувати під час події.
+TEXTCLIENT_EVENT_STANDS_NOTSHOUT,You cannot shout during the event.,Кричати під час заходу не можна.
 TEXTCLIENT_GUILDCOMBAT_NOT_GETITEM,That is unavailable during the Guild Siege.,That is unavailable during the Guild Siege.
 TEXTCLIENT_GC_NOTREQUEST,Guild Siege Application Refund,Guild Siege Application Refund
 TEXTCLIENT_GC_NOTREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application was unsuccessful, and the application fee has been refunded. Please note that a 2% commission has been deducted.\nWe hope to see you at the Guild Siege again.\nHave a nice day!","Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application was unsuccessful, and the application fee has been refunded. Please note that a 2% commission has been deducted.\nWe hope to see you at the Guild Siege again.\nHave a nice day!"
@@ -691,15 +691,15 @@ TEXTCLIENT_GUILDCOMBAT_JACKPOT,You have received %d Penya as a Guild Siege rewar
 TEXTCLIENT_GUILDCOMBAT_JACKPOT_CANCEL,You received %d Penya minus the amount you paid for the application.,You received %d Penya minus the amount you paid for the application.
 TEXTCLIENT_BEAUTYSHOP_DISGUISE,You can't use this while a transy is in use.,You can't use this while a transy is in use.
 TEXTCLIENT_BANNED,This account is banned. Contact FlyFF Support for assistance.,Цей обліковий запис заблоковано. Зверніться до служби підтримки Flyff для отримання допомоги.
-TEXTCLIENT_FORBIDDEN_AREA,You cannot go this way.,You cannot go this way.
-TEXTCLIENT_ACCOUNTNOTVERIFIED,Your account is not verified. Please check your mailbox.,Your account is not verified. Please check your mailbox.
+TEXTCLIENT_FORBIDDEN_AREA,You cannot go this way.,Ти не можеш йти цим шляхом.
+TEXTCLIENT_ACCOUNTNOTVERIFIED,Your account is not verified. Please check your mailbox.,"Ваш обліковий запис не підтверджено. Будь ласка, перевірте свою поштову скриньку."
 TEXTCLIENT_ACCOUNTBLOCKED,This character is blocked and cannot be accessed. Please contact the Flyff Universe customer service for more information.,Цей персонаж заблоковано та недоступний. Зверніться до служби підтримки клієнтів Flyff Universe для отримання додаткової інформації.
 TEXTCLIENT_RECONNECT_QUESTION,Do you want to try to reconnect?,Ви хочете спробувати відновити підключення?
 TEXTCLIENT_ROSHAMBO_STARTGUID1,You need a Rock-Paper-Scissors Coupon in order to play.,You need a Rock-Paper-Scissors Coupon in order to play.
 TEXTCLIENT_MINIGAME_USING,You are playing a game now!,Ти зараз граєш у гру!
 TEXTCLIENT_MINIGAME_ITEM_POST,Item / Penya was sent to your mailbox.,Item / Penya was sent to your mailbox.
-TEXTCLIENT_ERROR_TRYLATER,Please try again later,Please try again later
-TEXTCLIENT_ERROR_LACKITEM,You don't have the right item.,You don't have the right item.
+TEXTCLIENT_ERROR_TRYLATER,Please try again later,"Будь ласка, спробуйте ще раз пізніше"
+TEXTCLIENT_ERROR_LACKITEM,You don't have the right item.,У вас немає потрібного предмета.
 TEXTCLIENT_EXCHANGE_SUCCESS,You have received %s x%d.,You have received %s x%d.
 TEXTCLIENT_REAPITEM_EVENT,You have received %s as a reward!,You have received %s as a reward!
 TEXTCLIENT_DISCONNECTED_CHEAT,"You have been disconnected from server due to abnormal detected activity. A GM will analyse the report and may decide to ban your account. If you think this is an error, please fill out a bug report indicating exactly what you were doing in game before this message. Thank you.","Вас відключили від сервера через виявлену аномальну активність. ГМ проаналізує звіт і може вирішити забанити ваш обліковий запис. Якщо ви вважаєте, що це помилка, будь ласка, заповніть звіт про помилку, вказавши точно, що ви робили в грі до цього повідомлення. Дякуємо."
@@ -758,10 +758,10 @@ TEXTCLIENT_JOIN_GUILD_APPROVAL,Please wait for Master Approval.,Please wait for 
 TEXTCLIENT_PARTYFAILJOIN,%s refused that you join the party.,%s refused that you join the party.
 TEXTCLIENT_GUILDFAILJOIN,%s refused that you join the guild.,%s refused that you join the guild.
 TEXTCLIENT_FLY_NOSKILL,Cannot use this skill while flying.,Cannot use this skill while flying.
-TEXTCLIENT_BOSS_METEONYKER_MSG1,Fools! I will melt you all!,Fools! I will melt you all!
-TEXTCLIENT_BOSS_METEONYKER_MSG2,You will burn! You will all burn!,You will burn! You will all burn!
-TEXTCLIENT_BOSS_METEONYKER_MSG3,%s! Come closer! Face me! Burn!,%s! Come closer! Face me! Burn!
-TEXTCLIENT_BOSS_CLONE,You thought I was alone?!,You thought I was alone?!
+TEXTCLIENT_BOSS_METEONYKER_MSG1,Fools! I will melt you all!,Дурні! Я вас усіх розтоплю!
+TEXTCLIENT_BOSS_METEONYKER_MSG2,You will burn! You will all burn!,Ви згорите! Ви всі згорите!
+TEXTCLIENT_BOSS_METEONYKER_MSG3,%s! Come closer! Face me! Burn!,%s! Підійди ближче! Повернися до мене! Гори!
+TEXTCLIENT_BOSS_CLONE,You thought I was alone?!,"Ти думав, що я один?!"
 TEXTCLIENT_BUFF_CANCEL_NO,Cannot remove the Buff now.,Cannot remove the Buff now.
 TEXTCLIENT_BUFF_CANCEL,The Buff has been removed.,The Buff has been removed.
 TEXTCLIENT_ERROR_SNATCH,No Penya to steal from this target.,No Penya to steal from this target.
@@ -789,11 +789,11 @@ TEXTCLIENT_ERROR_ITEMLOCK,This item is marked as Favorite.,Цей елемент
 TEXTCLIENT_EXTRABAG_INUSE,You are already using 2 Extra Bags.,You are already using 2 Extra Bags.
 TEXTCLIENT_EXTRABAG_USED,Inventory is now expanded.,Тепер інвентар розширено.
 TEXTCLIENT_APP_EXTRABAG,Inventory View,Розширений Інвентар
-TEXTCLIENT_BOUNTYINPUT_NOMURDERER,Someone has to kill you in order to put a bounty.,Someone has to kill you in order to put a bounty.
-TEXTCLIENT_BOUNTYINPUT_SUCCESS,Successfully registered bounty.,Successfully registered bounty.
-TEXTCLIENT_BOUNTYINPUT_WAIT,You must wait before registering a bounty on this player.,You must wait before registering a bounty on this player.
-TEXTCLIENT_BOUNTYPOS_OFFLINE,%s is currently offline.,%s is currently offline.
-TEXTCLIENT_INVENTORYSPACE,Your inventory space increased by %d!,Your inventory space increased by %d!
+TEXTCLIENT_BOUNTYINPUT_NOMURDERER,Someone has to kill you in order to put a bounty.,"Хтось має тебе вбити, щоб призначити винагороду."
+TEXTCLIENT_BOUNTYINPUT_SUCCESS,Successfully registered bounty.,Успішно зареєстровано винагороду.
+TEXTCLIENT_BOUNTYINPUT_WAIT,You must wait before registering a bounty on this player.,"Ви повинні зачекати, перш ніж реєструвати винагороду за цього гравця."
+TEXTCLIENT_BOUNTYPOS_OFFLINE,%s is currently offline.,%s зараз не в мережі.
+TEXTCLIENT_INVENTORYSPACE,Your inventory space increased by %d!,Ваш інвентар збільшився на %d!
 TEXTCLIENT_UPGRADEANNOUNCE,%s upgraded %s to %s+%d!,%s upgraded %s to %s+%d!
 TEXTCLIENT_UPGRADEANNOUNCE_BOUND,%s upgraded [Soul-Bound] %s to %s+%d!,%s upgraded [Soul-Bound] %s to %s+%d!
 TEXTCLIENT_LEVELUPANNOUNCE,%s reached level %d!,%s reached level %d!
@@ -802,8 +802,8 @@ TEXTCLIENT_GACHA_RESET_SUCCESS,The box has been successfully reset.,The box has 
 TEXTCLIENT_APP_BOT,Bot,Бот
 TEXTCLIENT_SKILL_AWAKE,Item received a bonus.,Item received a bonus.
 TEXTCLIENT_SKILL_AWAKE_FAILED,No bonus is available for this item.,No bonus is available for this item.
-TEXTCLIENT_INVALID_TARGET_ITEM,Cannot be done.,Cannot be done.
-TEXTCLIENT_ITEM_LEVELDOWN_ALREADY,Better effect has already been activated.,Better effect has already been activated.
+TEXTCLIENT_INVALID_TARGET_ITEM,Cannot be done.,Неможливо зробити.
+TEXTCLIENT_ITEM_LEVELDOWN_ALREADY,Better effect has already been activated.,Кращий ефект вже активовано.
 TEXTCLIENT_UNBINDING,The item is now tradable.,The item is now tradable.
 TEXTCLIENT_EXPSTOP_EMPTY,Reload the Experience Lock gauge first.,Reload the Experience Lock gauge first.
 TEXTCLIENT_EXPSTOP_STOP,You receive experience from monsters now!,You receive experience from monsters now!
@@ -811,7 +811,7 @@ TEXTCLIENT_EXPSTOP_START,Your experience is now locked.,Your experience is now l
 TEXTCLIENT_EXPSTOP_ALMOST,Your Experience Lock gauge is almost empty.,Your Experience Lock gauge is almost empty.
 TEXTCLIENT_EXPSTOP_ACTIVE,You don't receive experience because Experience Lock is active.,You don't receive experience because Experience Lock is active.
 TEXTCLIENT_EXPSTOP_RELOAD,Your Experience Lock gauge is now %d.,Your Experience Lock gauge is now %d.
-TEXTCLIENT_ARENA_RANKING_LOADING,The arena ranking is currently loading. Please refresh in a few seconds.,The arena ranking is currently loading. Please refresh in a few seconds.
+TEXTCLIENT_ARENA_RANKING_LOADING,The arena ranking is currently loading. Please refresh in a few seconds.,"Рейтинг арени зараз завантажується. Будь ласка, оновіть сторінку через кілька секунд."
 TEXTCLIENT_ARENA_RANKING_WINNER,The best player of the Arena this week is %s!,The best player of the Arena this week is %s!
 TEXTCLIENT_ARENA_RANKING_MAIL,Congratulations for your rank %d in the PvP Arena this week!,Congratulations for your rank %d in the PvP Arena this week!
 TEXTCLIENT_QUEST_NOTELEPORT,Blinkwings are not allowed during the quest %s.,Blinkwings are not allowed during the quest %s.
@@ -821,8 +821,8 @@ TEXTCLIENT_BLESSEDNESS_INVALID,That item cannot be Blessed.,That item cannot be 
 TEXTCLIENT_AWAKE_SUCCESS,Item has been awakened.,Item has been awakened.
 TEXTCLIENT_BLESSING_CANCELNO,This feature can only be used on blessed items.,This feature can only be used on blessed items.
 TEXTCLIENT_BLESSING_CANCEL,Blessing of the Goddess has been removed.,Blessing of the Goddess has been removed.
-TEXTCLIENT_RETURNING_REWARD,Here is a gift since you haven't logged in for a long time!,Here is a gift since you haven't logged in for a long time!
-TEXTCLIENT_DROPITEM_TOOMUCH,There are too many items already on the ground.,There are too many items already on the ground.
+TEXTCLIENT_RETURNING_REWARD,Here is a gift since you haven't logged in for a long time!,"Ось тобі подарунок, бо ти давно не заходив на сайт!"
+TEXTCLIENT_DROPITEM_TOOMUCH,There are too many items already on the ground.,На землі вже забагато предметів.
 TEXTCLIENT_GEM_SUCCESS,You have created %dx %s.,You have created %dx %s.
 TEXTCLIENT_GEM_FAILURE,Jewel creation failed.,Jewel creation failed.
 TEXTCLIENT_COMBATPOWER_RANKING_MAIL,Congratulations for your rank %d (%s) in the Combat Power ranking!,Congratulations for your rank %d (%s) in the Combat Power ranking!
@@ -843,7 +843,7 @@ TEXTCLIENT_REAPCASH,You received %s Bonus fCoins.,You received %s Bonus fCoins.
 TEXTCLIENT_UPGRADEEFFECT_NONE,The weapon does not have any upgrade effect.,The weapon does not have any upgrade effect.
 TEXTCLIENT_UPGRADEEFFECT,Upgrade effects are changed for this weapon.,Upgrade effects are changed for this weapon.
 TEXTCLIENT_INVALIDOTP,Invalid Two Factor authentication code.,Invalid Two Factor authentication code.
-TEXTCLIENT_CAPTCHAFAILED,Failed to complete the challenge. Try again please.,Failed to complete the challenge. Try again please.
+TEXTCLIENT_CAPTCHAFAILED,Failed to complete the challenge. Try again please.,Не вдалося виконати завдання. Спробуйте ще раз.
 TEXTCLIENT_SERVERCLOSED,The game is in maintenance. Please wait.,The game is in maintenance. Please wait.
 TEXTCLIENT_PRIVATE_SHOP_LEVEL,You must complete your 1st Job Change to open a Private Shop.,You must complete your 1st Job Change to open a Private Shop.
 TEXTCLIENT_VENDOR_SHOP_LEVEL,You must reach level %d to open a Vendor Shop.,You must reach level %d to open a Vendor Shop.
@@ -1236,15 +1236,15 @@ TEXTCLIENT_RAINBOWRACE_INVITATION_INPROGRESS,Team member invitations are in prog
 TEXTCLIENT_RAINBOWRACE_REGISTERED_USER,%s has already registered for the race.,%s has already registered for the race.
 TEXTCLIENT_RAINBOWRACE_INVITED_USER,%s has already received an invitation.,%s has already received an invitation.
 TEXTCLIENT_RAINBOWRACE_REGISTER_FAILED,Failed to register for the Rainbow Race.,Failed to register for the Rainbow Race.
-TEXTCLIENT_RAINBOWRACE_CANNOT_APPLY,It's currently not possible to apply.,It's currently not possible to apply.
-TEXTCLIENT_RAINBOWRACE_INVITATION_OFFLINE,You can only invite users who are online.,You can only invite users who are online.
+TEXTCLIENT_RAINBOWRACE_CANNOT_APPLY,It's currently not possible to apply.,Наразі подати заявку неможливо.
+TEXTCLIENT_RAINBOWRACE_INVITATION_OFFLINE,You can only invite users who are online.,"Ви можете запросити лише користувачів, які перебувають онлайн."
 TEXTCLIENT_RAINBOWRACE_INVITATION_CANCELED,The Rainbow Race team invitation has been canceled.,The Rainbow Race team invitation has been canceled.
 TEXTCLIENT_RAINBOWRACE_INVITATION_REFUSED,%s has refused to invite.,%s has refused to invite.
 TEXTCLIENT_KALGASASSAULT_FAIL_MASTER,You cannot play Kalgas Assault during the master quest.,You cannot play Kalgas Assault during the master quest.
-TEXTCLIENT_ITEMOTHERPLAYER,The %s belongs to another player.,The %s belongs to another player.
-TEXTCLIENT_CHAT_NO_TEAM,You are not a member of a team.,You are not a member of a team.
+TEXTCLIENT_ITEMOTHERPLAYER,The %s belongs to another player.,%s належить іншому гравцеві.
+TEXTCLIENT_CHAT_NO_TEAM,You are not a member of a team.,Ви не є членом команди.
 TEXTCLIENT_LOOTDISABLED,You cannot loot this item.,You cannot loot this item.
-TEXTCLIENT_NO_DUEL_BET,The other player does not accept duel bets.,The other player does not accept duel bets.
+TEXTCLIENT_NO_DUEL_BET,The other player does not accept duel bets.,Інший гравець не приймає ставки на дуель.
 TEXTCLIENT_REAPITEM_CNT,You received %dx %s.,Ви отримали %dx %s.
 TEXTCLIENT_REAPITEM_SHORT_CNT,Received %dx %s,Received %dx %s
 TEXTCLIENT_TELEPORTMENU,Teleport menu,Teleport menu
@@ -1260,7 +1260,7 @@ TEXTCLIENT_ACCOUNT_DELETED,Your account has been successfully deleted.,Ваш о
 TEXTCLIENT_ACCOUNT_DELETIONFAILED,Your password is invalid.,Ваш пароль недійсний.
 TEXTCLIENT_NOT_ENOUGH_ITEM,Not enough %s.,Not enough %s.
 TEXTCLIENT_CRAFTANNOUNCE,%s crafted %s!,%s crafted %s!
-TEXTCLIENT_TRADE_DISTANCE,You cannot trade due to distance.,You cannot trade due to distance.
+TEXTCLIENT_TRADE_DISTANCE,You cannot trade due to distance.,Ви не можете торгувати через відстань.
 TEXTCLIENT_COUPON_ITEM_SUCCESS,The coupon has been submitted successfully. Please check your Post Box.,Купон успішно надіслано. Перевірте свою поштову скриньку.
 TEXTCLIENT_COUPON_CASH_SUCCESS,The coupon has been submitted successfully. Please check in the Flyff Shop.,The coupon has been submitted successfully. Please check in the Flyff Shop.
 TEXTCLIENT_COUPON_ALREADYUSED,Coupon has already been used.,Купон вже використано.
@@ -1268,13 +1268,13 @@ TEXTCLIENT_COUPON_LIMITREACHED,The coupon usage limit has been reached.,Лімі
 TEXTCLIENT_COUPON_NOTFOUND,No coupon found with this code. Please try again.,Не знайдено купона з цим кодом. Спробуйте ще раз.
 TEXTCLIENT_COUPON_INVALIDCODE,Invalid coupon code. Please try again.,Недійсний код купона. Спробуйте ще раз.
 TEXTCLIENT_COUPONGIFT_MAIL_TITLE,Coupon Gift,Coupon Gift
-TEXTCLIENT_COMBAT_NOTTRADE,You cannot trade during combat.,You cannot trade during combat.
-TEXTCLIENT_EVENT_PREFIX,[Event],[Event]
-TEXTCLIENT_ACCOUNTDISCONNECTED,Account %d disconnected.,Account %d disconnected.
-TEXTCLIENT_ACCOUNTNOTEXIST,Account %d does not exist or is offline.,Account %d does not exist or is offline.
-TEXTCLIENT_ACCOUNTDISCONNECTSELF,You cannot disconnect yourself.,You cannot disconnect yourself.
+TEXTCLIENT_COMBAT_NOTTRADE,You cannot trade during combat.,Ви не можете торгувати під час бою.
+TEXTCLIENT_EVENT_PREFIX,[Event],[Подія]
+TEXTCLIENT_ACCOUNTDISCONNECTED,Account %d disconnected.,Обліковий запис %d відключено.
+TEXTCLIENT_ACCOUNTNOTEXIST,Account %d does not exist or is offline.,Обліковий запис %d не існує або він офлайн.
+TEXTCLIENT_ACCOUNTDISCONNECTSELF,You cannot disconnect yourself.,Ви не можете самостійно відключитися.
 TEXTCLIENT_APP_SEARCHSHOP,Search Shop,Search Shop
-TEXTCLIENT_PARTY_READY_ON,There is already a ready check in progress.,There is already a ready check in progress.
+TEXTCLIENT_PARTY_READY_ON,There is already a ready check in progress.,Вже триває перевірка готовності.
 TEXTCLIENT_PIRATESHIP_APPEARS,There is a Pirate Ship above the Madrigal!!,There is a Pirate Ship above the Madrigal!!
 TEXTCLIENT_PARTY_READY_LEADER,"Only the leader may start a ready check, and there is not one currently in progress.","Only the leader may start a ready check, and there is not one currently in progress."
 TEXTCLIENT_THROWITEM_ERROR_15,It can only be used when the target is within 15 meters.,"Його можна використовувати лише тоді, коли ціль знаходиться в межах 15 метрів."
@@ -1296,12 +1296,12 @@ TEXTCLIENT_PVPMATCH_SPECT_ERROR_2,The match you're trying to spectate is ending.
 TEXTCLIENT_PVPMATCH_CANNOT_FRIENDADD,You cannot add friends in a PVP Match.,You cannot add friends in a PVP Match.
 TEXTCLIENT_PVPMATCH_CANNOT_PARTY,You cannot make a party in a PVP Match.,You cannot make a party in a PVP Match.
 TEXTCLIENT_PVPMATCH_NO_OUTWAR,You cannot use Blinkwings to escape a PVP Match.,You cannot use Blinkwings to escape a PVP Match.
-TEXTCLIENT_PVPMATCH_MANUAL_ALREADYIN,This player is already in a team.,This player is already in a team.
-TEXTCLIENT_PVPMATCH_MANUAL_NOTGM,You can only add gamemasters to the observers team.,You can only add gamemasters to the observers team.
-TEXTCLIENT_PVPMATCH_MANUAL_NOTONLINE,This character is needs to be online.,This character is needs to be online.
-TEXTCLIENT_PVPMATCH_MANUAL_NOTYOURSELF,You can't invite yourself in a match.,You can't invite yourself in a match.
+TEXTCLIENT_PVPMATCH_MANUAL_ALREADYIN,This player is already in a team.,Цей гравець вже в команді.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTGM,You can only add gamemasters to the observers team.,Ви можете додавати до команди спостерігачів лише майстрів гри.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTONLINE,This character is needs to be online.,Цей персонаж має бути онлайн.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTYOURSELF,You can't invite yourself in a match.,Ви не можете запросити себе на матч.
 TEXTCLIENT_PVPMATCH_MANUAL_NOTALLREADY,"All players are not ready, you can't start the match yet.","All players are not ready, you can't start the match yet."
-TEXTCLIENT_PVPMATCH_MANUAL_MAXPLAYERS,You can't add more than %d players in the same team!,You can't add more than %d players in the same team!
+TEXTCLIENT_PVPMATCH_MANUAL_MAXPLAYERS,You can't add more than %d players in the same team!,Ви не можете додати більше %d гравців в одну команду!
 TEXTCLIENT_GAME_MATOURNAMENT_NOTUSE,In Madrigal Tournament,In Madrigal Tournament
 TEXTCLIENT_MATOURNAMENT_NO_OUTWAR,You cannot use Blinkwings to escape the Madrigal Tournament.,You cannot use Blinkwings to escape the Madrigal Tournament.
 TEXTCLIENT_MATOURNAMENT_NOTUSEITEM,You cannot use items in the Madrigal Tournament.,You cannot use items in the Madrigal Tournament.
@@ -1338,16 +1338,16 @@ TEXTCLIENT_MATOURNAMENT_CANTTELEPORT,You can't teleport in the match anymore. Ma
 TEXTCLIENT_MATOURNAMENT_BETTING_RECEIVE,You have received the betting dividends.,You have received the betting dividends.
 TEXTCLIENT_MATOURNAMENT_BETTING_RECEIVE_FAIL,Failed to send the dividends. Check your state.,Failed to send the dividends. Check your state.
 TEXTCLIENT_MATOURNAMENT_BETTING_BET,You bet %s penya to %s.,You bet %s penya to %s.
-TEXTCLIENT_MATOURNAMENT_BETTING_BET_OTHER,You already bet other team.,You already bet other team.
-TEXTCLIENT_MATOURNAMENT_BETTING_NO_TIME,You can't bid at this time.,You can't bid at this time.
+TEXTCLIENT_MATOURNAMENT_BETTING_BET_OTHER,You already bet other team.,Ви вже зробили ставку на іншу команду.
+TEXTCLIENT_MATOURNAMENT_BETTING_NO_TIME,You can't bid at this time.,Ви не можете робити ставки наразі.
 TEXTCLIENT_MATOURNAMENT_BETTING_NO_GOLD,You have no penya to collect.,You have no penya to collect.
 TEXTCLIENT_MATOURNAMENT_REWARD_NORECORD,You have no participation or rewards to receive.,You have no participation or rewards to receive.
 TEXTCLIENT_MATOURNAMENT_REWARD,You have received a reward.,Ви отримали винагороду.
-TEXTCLIENT_MATOURNAMENT_REWARD_MAIL,You can't receive the reward. Check your mail.,You can't receive the reward. Check your mail.
+TEXTCLIENT_MATOURNAMENT_REWARD_MAIL,You can't receive the reward. Check your mail.,Ви не можете отримати винагороду. Перевірте свою пошту.
 TEXTCLIENT_MATOURNAMENT_BETTING_PAYOUT_MAIL,Madrigal Tournament Betting Payout,Madrigal Tournament Betting Payout
 TEXTCLIENT_MATOURNAMENT_BETTING_PAYOUT,You receive betting's payout.,You receive betting's payout.
 TEXTCLIENT_MATOURNAMENT_BETTING_FAIL,Betting failed. Please try again.,Betting failed. Please try again.
-TEXTCLIENT_MATOURNAMENT_REGISTRATION_FAIL,Registration failed. Please try again.,Registration failed. Please try again.
+TEXTCLIENT_MATOURNAMENT_REGISTRATION_FAIL,Registration failed. Please try again.,Реєстрація не вдалася. Спробуйте ще раз.
 TEXTCLIENT_MATOURNAMENT_FAIL_ENTER,Unable to enter the Madrigal Tournament.,Unable to enter the Madrigal Tournament.
 TEXTCLIENT_ULTIMATE_JEWEL_POSSIBLE_ITEM,The item is not allowed to add jewel.,The item is not allowed to add jewel.
 TEXTCLIENT_ERROR_NOULTIMATEJEWEL,There is no space to put a ultimate jewel.,There is no space to put a ultimate jewel.
@@ -1497,7 +1497,7 @@ TEXTCLIENT_NO_SPECTATE_POWER,You do not have permission to spectate.,You do not 
 TEXTCLIENT_START_SPECTATE,You are now spectating %s.,You are now spectating %s.
 UI_TOOLTIP_PICKUP_RANGE,Pickup boost range,Pickup boost range
 TEXTCLIENT_INVALIDORIGIN,Server refused the connection. Please make sure you are accessing from the official game page.,"Сервер відмовив у підключенні. Переконайтеся, що ви заходите на офіційну сторінку гри."
-TEXTCLIENT_GATHERING_EVE_PICKAXE,[Event] Chroma Pickaxe,[Event] Chroma Pickaxe
+TEXTCLIENT_GATHERING_EVE_PICKAXE,[Event] Chroma Pickaxe,[Подія] Хрома Кирка
 TEXTCLIENT_APP_SHADER_DEBUG,Shader Debug,Shader Debug
 TEXTCLIENT_APP_ACCOUNT,Account,Account
 TEXTCLIENT_NOT_ENOUGH_ITEM2,You need %d %s.,You need %d %s.

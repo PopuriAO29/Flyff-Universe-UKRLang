@@ -2188,30 +2188,30 @@ UI_CHARINFO_HOUSING,Housing,Housing
 UI_CHARINFO_HOUSING_TEMPLATE,Current Template,Current Template
 UI_CHARINFO_HOUSING_EXPIRATION,Expires in,Expires in
 UI_CHARINFO_HOUSING_BONUSES,Current bonuses,Current bonuses
-UI_CHARINFO_HOUSING_NOHOUSE,No house yet.,No house yet.
-UI_CHARINFO_HOUSING_EXPIRED,Expired.,Expired.
-UI_HOUSINGPRESETSAPPLY_MSGBOX_INFO,You are attempting to apply a preset containing objects or NPCs that are not permanent. Are you certain you still wish to apply it? \n#b#cff78e12fPlease note: Objects and NPCs with the shortest expiration time will be prioritized.#nb#nc,You are attempting to apply a preset containing objects or NPCs that are not permanent. Are you certain you still wish to apply it? \n#b#cff78e12fPlease note: Objects and NPCs with the shortest expiration time will be prioritized.#nb#nc
+UI_CHARINFO_HOUSING_NOHOUSE,No house yet.,Поки що немає будинку.
+UI_CHARINFO_HOUSING_EXPIRED,Expired.,Термін дії минув.
+UI_HOUSINGPRESETSAPPLY_MSGBOX_INFO,You are attempting to apply a preset containing objects or NPCs that are not permanent. Are you certain you still wish to apply it? \n#b#cff78e12fPlease note: Objects and NPCs with the shortest expiration time will be prioritized.#nb#nc,"Ви намагаєтеся застосувати пресет, що містить об'єкти або NPC, які не є постійними. Ви впевнені, що все ще хочете його застосувати? \n#b#cff78e12fЗверніть увагу: пріоритет матимуть об'єкти та NPC з найкоротшим терміном дії.#nb#nc"
 UI_GUILDHOUSING_ARTIFACTBATTLE_TIMELEFT,Artifact Battle Ends in,Artifact Battle Ends in
 UI_GUILD_LOG_BTN,Log,Log
 UI_GUILDLOG_TITLE,Guild Log,Guild Log
 UI_GUILDLOG_JOINED,Joined,Joined
 UI_GUILDLOG_LEFT,Left,Left
 UI_GUILDLOG_EJECTED,Ejected,Ejected
-UI_GACHA_OPEN_ALL,Open All,Open All
-UI_GACHA_OPEN_ONE,Open 1,Open 1
-UI_GACHA_OPEN_ALL_CONFIRM,Will you open all the select boxes?,Will you open all the select boxes?
+UI_GACHA_OPEN_ALL,Open All,Відкрити все
+UI_GACHA_OPEN_ONE,Open 1,Відкрито 1
+UI_GACHA_OPEN_ALL_CONFIRM,Open all boxes?,Відкрити всі коробки?
 UI_BATTLEPASS_MISSION_USEITEM,Use %s,Use %s
-UI_HOUSINGGUESTBOOK_TOTALLIKES,Total Likes,Total Likes
-UI_HOUSINGGUESTBOOK_WELCOMEMSGTITLE,Welcome Message,Welcome Message
-UI_HOUSINGGUESTBOOK_MSGBOX_TITLE_1,Welcome Message,Welcome Message
-UI_HOUSINGGUESTBOOK_MSGBOX_TITLE_2,Post Message,Post Message
-UI_HOUSINGGUESTBOOK_MSGBOX_DESC,The message has to be between 4 and %d characters.,The message has to be between 4 and %d characters.
-UI_HOUSINGGUESTBOOK_DEL_TITLE,Delete guest message?,Delete guest message?
-UI_HOUSINGGUESTBOOK_DEL_CONFIRM,Are you sure you want to delete that guest message?,Are you sure you want to delete that guest message?
+UI_HOUSINGGUESTBOOK_TOTALLIKES,Total Likes,Загальна кількість вподобань
+UI_HOUSINGGUESTBOOK_WELCOMEMSGTITLE,Welcome Message,Вітальне повідомлення
+UI_HOUSINGGUESTBOOK_MSGBOX_TITLE_1,Welcome Message,Вітальне повідомлення
+UI_HOUSINGGUESTBOOK_MSGBOX_TITLE_2,Post Message,Опублікувати повідомлення
+UI_HOUSINGGUESTBOOK_MSGBOX_DESC,The message has to be between 4 and %d characters.,Повідомлення має містити від 4 до %d символів.
+UI_HOUSINGGUESTBOOK_DEL_TITLE,Delete guest message?,Видалити гостеве повідомлення?
+UI_HOUSINGGUESTBOOK_DEL_CONFIRM,Are you sure you want to delete that guest message?,"Ви впевнені, що хочете видалити це гостеве повідомлення?"
 UI_PLAYERHOUSINGBUY_SIZE_EXTRA_LARGE,XL,XL
-UI_HOUSINGSETUP_FILTER_FLOOR,Floor,Floor
-UI_HOUSINGSETUP_FILTER_CEILING,Ceiling,Ceiling
-UI_HOUSINGSETUP_FILTER_WALL,Wall,Wall
+UI_HOUSINGSETUP_FILTER_FLOOR,Floor,Підлога
+UI_HOUSINGSETUP_FILTER_CEILING,Ceiling,Стеля
+UI_HOUSINGSETUP_FILTER_WALL,Wall,Стіна
 UI_PARTY_CHANGE_NAME,Name,Ім'я
 UI_PARTY_CHANGE_NAME_TIP,Change the Party name.,Change the Party name.
 UI_KALGAS_ASSAULT_NOT_SCHEDUL_DESC,There are no Kalgas Assault scheduled.,There are no Kalgas Assault scheduled.
@@ -2247,25 +2247,25 @@ UI_TOOLTIP_DST_BOSS_DMG,Boss Monster Damage,Boss Monster Damage
 UI_KALGAS_ASSAULT_KILL_COUNT,Kill Count : %d,Kill Count : %d
 UI_KALGAS_ASSAULT_REVIVAL_TITLE,Kalgas Assault Revival,Kalgas Assault Revival
 UI_KALGAS_ASSAULT_REVIVAL_COUNT,After : %d,After : %d
-UI_KALGAS_ASSAULT_REVIVAL_DEFAULT,Starting Point,Starting Point
-UI_KALGAS_ASSAULT_REVIVAL_GOLD,Use gold coin x%d,Use gold coin x%d
-UI_KALGAS_ASSAULT_REVIVAL_SILVER,Use silver coin,Use silver coin
+UI_KALGAS_ASSAULT_REVIVAL_DEFAULT,Starting Point,Початкова точка
+UI_KALGAS_ASSAULT_REVIVAL_GOLD,Use gold coin x%d,Використовуйте золоту монету x%d
+UI_KALGAS_ASSAULT_REVIVAL_SILVER,Use silver coin,Використовуйте срібну монету
 UI_KALGAS_ASSAULT_TIMER_KALGAS,Time until Kalgas appears,Time until Kalgas appears
 UI_KALGAS_ASSAULT_TIMER_END,Time until the Kalgas Assault end,Time until the Kalgas Assault end
 UI_KALGAS_ASSAULT_UNFULFILLED_PLAY_TIME,"Due to insufficient participation time, you will be excluded from rewards and rankings.","Due to insufficient participation time, you will be excluded from rewards and rankings."
-UI_KALGAS_ASSAULT_WINNER,Congratulations. %s Team Wins!,Congratulations. %s Team Wins!
-UI_KALGAS_ASSAULT_DRAW,Unfortunately the winner is not decided.,Unfortunately the winner is not decided.
-UI_KALGAS_ASSAULT_RETURN_COUNT,"After %d seconds, you will be automatically moved to town.","After %d seconds, you will be automatically moved to town."
+UI_KALGAS_ASSAULT_WINNER,Congratulations. %s Team Wins!,Вітаємо. Перемога команди %s!
+UI_KALGAS_ASSAULT_DRAW,Unfortunately the winner is not decided.,"На жаль, переможець ще не визначений."
+UI_KALGAS_ASSAULT_RETURN_COUNT,"After %d seconds, you will be automatically moved to town.",Через %d секунд вас автоматично перемістять до міста.
 UI_BLACK,Black,Чорний
 UI_WHITE,White,Білий
 UI_DRAW,Draw,Draw
 UI_KALGAS_ASSAULT_READY,Kalgas Assault is about to start!,Kalgas Assault is about to start!
 UI_KALGAS_ASSAULT_ENTRY_CLOSE_REMAINING,Entry for Kalgas Assault will close in %d minutes.,Entry for Kalgas Assault will close in %d minutes.
 UI_KALGAS_ASSAULT_PLAY_START_REMAINING,Kalgas Assault will start in %d minutes.,Kalgas Assault will start in %d minutes.
-UI_RAINBOWRACE_TEAMSELECTION_DESC,"You can team up with your friend to compete in a race.\n\nHowever, once you choose a team, you can't change/cancel it, so choose carefully.","You can team up with your friend to compete in a race.\n\nHowever, once you choose a team, you can't change/cancel it, so choose carefully."
-UI_RAINBOWRACE_RANDOMMATCHING,Random Matching,Random Matching
+UI_RAINBOWRACE_TEAMSELECTION_DESC,"You can team up with your friend to compete in a race.\n\nHowever, once you choose a team, you can't change/cancel it, so choose carefully.","Ви можете об’єднатися з другом, щоб взяти участь у перегонах.\n\nОднак, після вибору команди, ви не можете її змінити/скасувати, тому вибирайте ретельно."
+UI_RAINBOWRACE_RANDOMMATCHING,Random Matching,Випадкове зіставлення
 UI_RAINBOWRACE_TEAMWITHFRIEND,Team up with a friend,Team up with a friend
-UI_RAINBOWRACE_TEAMINVITATION,Invite a friend,Invite a friend
+UI_RAINBOWRACE_TEAMINVITATION,Invite a friend,Запросити друга
 UI_RAINBOWRACE_FRIEND_LEVEL,Level,Рівень
 UI_RAINBOWRACE_FRIEND_NAME,Name,Ім'я
 UI_RAINBOWRACE_FRIEND_APPLICATION,Application,Application
@@ -2380,15 +2380,15 @@ UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be del
 UI_APP_SEARCHSHOP_TIP,Find items in Personal and Vendor shops.,Find items in Personal and Vendor shops.
 UI_SEARCHSHOP_RARITY,Rarity,Rarity
 UI_SEARCHSHOP_UPGRADE,Upgrade:,Upgrade:
-UI_SEARCHSHOP_INCLUDEKEYWORK,Include Keyword,Include Keyword
-UI_SEARCHSHOP_EXACTKEYWORK,Exact Keyword,Exact Keyword
+UI_SEARCHSHOP_INCLUDEKEYWORK,Include Keyword,Включити ключове слово
+UI_SEARCHSHOP_EXACTKEYWORK,Exact Keyword,Точне ключове слово
 UI_SEARCHSHOP_SORTDISTANCE,Distance to Shop,Distance to Shop
 UI_SEARCHSHOP_NBITEMS,Total # of items: %d,Total # of items: %d
 UI_SEARCHSHOP_NOSHOP,No shop matching your search.,No shop matching your search.
 UI_PARTY_READY_CHECK,Ready,Ready
 UI_PARTY_READY_CHECK_TIP,Initiate a ready check for all party members.,Initiate a ready check for all party members.
 UI_PARTY_READY_CHECK_TEXT,Are you sure you would like to initiate a ready check for all party members?,Are you sure you would like to initiate a ready check for all party members?
-UI_PARTY_READY_PROMPT,Are you ready?,Are you ready?
+UI_PARTY_READY_PROMPT,Are you ready?,Ви готові?
 UI_PARTY_READY_INFO1,has not responded yet.,has not responded yet.
 UI_PARTY_READY_INFO2,is ready!,is ready!
 UI_PARTY_READY_INFO3,is not ready.,is not ready.
@@ -2409,8 +2409,8 @@ UI_SEARCHSHOP_MESSAGE,Message Seller,Продавець повідомлення
 UI_SEARCHSHOP_TELEPORT,Teleport %d / %d,Teleport %d / %d
 UI_PURCHASE_INAPP_NOTICE,Notice,Notice
 UI_PURCHASE_INAPP_PURCHASE,Purchase,Purchase
-UI_PURCHASE_INAPP_SELECT,Please select the offer to purchase,Please select the offer to purchase
-UI_PURCHASE_INAPP_EMPTY,There are currently no offers available,There are currently no offers available
+UI_PURCHASE_INAPP_SELECT,Please select the offer to purchase,"Будь ласка, виберіть пропозицію для придбання"
+UI_PURCHASE_INAPP_EMPTY,There are currently no offers available,Наразі немає доступних пропозицій
 UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_500_AOS,Offer summary:\n    #cffc32f07#b500 fCoins#nb#nc,Offer summary:\n    #cffc32f07#b500 fCoins#nb#nc
 UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_1000_AOS,"Buy this offer and get #b#u50 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b1,000 fCoins#nb#nc\n    +50 Free","Buy this offer and get #b#u50 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b1,000 fCoins#nb#nc\n    +50 Free"
 UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_2000_AOS,"Buy this offer and get #b#u150 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b2,000 fCoins#nb#nc\n    +150 Free","Buy this offer and get #b#u150 fCoins#nu#nb for free!\n\nOffer summary:\n    #cffc32f07#b2,000 fCoins#nb#nc\n    +150 Free"
@@ -2553,7 +2553,7 @@ UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_INFO,You can dismantle the Rainbow Jewel to 
 UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_NOTICE,"If you fail, you will lose your item.","If you fail, you will lose your item."
 UI_HOUSINGWARDROBE_INFO,Your wardrobe items can only be worn by #bone#nb NPC at a time.,Your wardrobe items can only be worn by #bone#nb NPC at a time.
 UI_HOUSINGWARDROBE_CONFIRM,Equip,Equip
-UI_HOUSINGWARDROBE_CONFIRMMESSAGE,This will make the selected NPC wear the chosen costume item. Only one NPC at a time can wear the same costume item. Do you want to proceed?,This will make the selected NPC wear the chosen costume item. Only one NPC at a time can wear the same costume item. Do you want to proceed?
+UI_HOUSINGWARDROBE_CONFIRMMESSAGE,This will make the selected NPC wear the chosen costume item. Only one NPC at a time can wear the same costume item. Do you want to proceed?,Це змусить обраного NPC надіти вибраний костюм. Тільки один NPC одночасно може носити один і той самий предмет костюма. Хочеш продовжити?
 UI_HOUSINGWARDROBE_USEDBY,Used by %s,Used by %s
 UI_HOUSINGWARDROBE_UNEQUIP,Unequip,Unequip
 UI_HOUSINGWARDROBE_MSGBOX_TITLE,Unequip that item?,Unequip that item?
@@ -2563,12 +2563,12 @@ UI_HOUSING_PETTRAINING_INFO,"You can train a Raised Pet that you've placed in 'H
 UI_PETTRAINING_PET,Pet to train,Pet to train
 UI_PETTRAINING_CANDY,Pet Candy,Pet Candy
 UI_PETTRAINING_INTERVALS,Feeding Intervals,Feeding Intervals
-UI_PETTRAINING_CONFIRM,#bThe pet in the window will be unusable until you remove it from training.#nb Do you want to continue? #b#cffff0000Note: You will get your pet back if you stop the training. #nb#nc,#bThe pet in the window will be unusable until you remove it from training.#nb Do you want to continue? #b#cffff0000Note: You will get your pet back if you stop the training. #nb#nc
-UI_PETTRAINING_TOTALTRAINING,Total Training Time,Total Training Time
+UI_PETTRAINING_CONFIRM,#bThe pet in the window will be unusable until you remove it from training.#nb Do you want to continue? #b#cffff0000Note: You will get your pet back if you stop the training. #nb#nc,"#bДомашній у вікні не буде доступний, поки ви не видалите його з тренування.#nb Хочете продовжити? #b#cffff0000Примітка: Ти отримаєш свого улюбленця назад, якщо припиниш тренування.#nb#nc"
+UI_PETTRAINING_TOTALTRAINING,Total Training Time,Загальний час тренування
 UI_PETTRAINING_CLAIM,Claim,Claim
 UI_PETTRAINING_NEXTCANDY,Next Candy in,Next Candy in
-UI_PETTRAINING_CANCELTRAINING_HOUSING,You are about to cancel pet training. The trained pet will be returned to your house inventory with its current progress!,You are about to cancel pet training. The trained pet will be returned to your house inventory with its current progress!
-UI_PETTRAINING_CANCELTRAINING,You are about to cancel the pet training. The trained pet will be returned to your inventory with its current progress!,You are about to cancel the pet training. The trained pet will be returned to your inventory with its current progress!
+UI_PETTRAINING_CANCELTRAINING_HOUSING,You are about to cancel pet training. The trained pet will be returned to your house inventory with its current progress!,Ви збираєтесь скасувати тренування тварини. Тренована тварина буде повернута до вашого інвентарю вдома з її поточним прогресом!
+UI_PETTRAINING_CANCELTRAINING,You are about to cancel the pet training. The trained pet will be returned to your inventory with its current progress!,Ви збираєтесь скасувати тренування вихованця. Тренований вихованець буде повернений до вашого інвентарю з поточним прогресом!
 UI_PETTRAINING_INFO,"You can train a Raised Pet that you've got in your inventory. Each caretaker NPC has different feeding schedules and intervals.\n\nOnce you've selected the Raised Pet you wish to entrust to the Caretaker, #beither by double-clicking or drag-and-drop#nb, simply press the 'Done' button to initiate the Caretaker's training.\n\n#cffff0000If you decide to change the Raised Pet, the next feeding schedule will be reset.#nc","You can train a Raised Pet that you've got in your inventory. Each caretaker NPC has different feeding schedules and intervals.\n\nOnce you've selected the Raised Pet you wish to entrust to the Caretaker, #beither by double-clicking or drag-and-drop#nb, simply press the 'Done' button to initiate the Caretaker's training.\n\n#cffff0000If you decide to change the Raised Pet, the next feeding schedule will be reset.#nc"
 UI_COUPLE_RING_TP,Teleports: %d,Teleports: %d
 UI_COUPLE_RING_CHEER,Cheers: %d,Cheers: %d
@@ -2592,11 +2592,11 @@ UI_REPAIR_DESC_PERCENT,Do you wish to repair %s?\n(%s%%),Do you wish to repair %
 UI_LIFE_FISHING_MINIGAME,Minigame,Minigame
 UI_LIFE_FISHING_SKIP_MINIGAME,Skip Minigame,Skip Minigame
 UI_LIFE_FISHING_SKIP_MINIGAME_AUTO,Skip Minigame automatically,Skip Minigame automatically
-UI_LIFE_FISHING_SKIP_MINIGAME_INFORMATION,"If you skip the minigame, you can't get the buffs for increasing your fishing success to date. Are you sure you want to skip the minigame?","If you skip the minigame, you can't get the buffs for increasing your fishing success to date. Are you sure you want to skip the minigame?"
+UI_LIFE_FISHING_SKIP_MINIGAME_INFORMATION,"If you skip the minigame, you can't get the buffs for increasing your fishing success to date. Are you sure you want to skip the minigame?","Якщо ви пропустите міні-гру, ви не зможете отримати бонуси, що підвищують ваш поточний рівень успішності риболовлі. Ви впевнені, що хочете пропустити міні-гру?"
 UI_LIFE_FISHING_BAIT_SELECTION,Bait Selection,Bait Selection
-UI_LIFE_FISHING_BAIT_SELECTION_INFORMATION,Select the bait you want to use for fishing. The bait you use will change the rarity of fish you can get.,Select the bait you want to use for fishing. The bait you use will change the rarity of fish you can get.
+UI_LIFE_FISHING_BAIT_SELECTION_INFORMATION,Select the bait you want to use for fishing. The bait you use will change the rarity of fish you can get.,"Виберіть приманку, яку хочете використовувати для риболовлі. Від приманки, яку ви оберете, залежатиме рідкість риби, яку можна зловити."
 UI_QUEST_GATHERING_HERB,Gathering herb. #cffc32f07#b%d/%d#nb#nc,Gathering herb. #cffc32f07#b%d/%d#nb#nc
-UI_LIFE_FISHING_GUESS,Guess which bait the fish will take.,Guess which bait the fish will take.
+UI_LIFE_FISHING_GUESS,Guess which bait the fish will take.,"Вгадай, на яку приманку клюне риба."
 UI_LIFE_FISHING_SUCCESS_RATE_INCREASE,Fishing success %% goes up when you win.\n(Current success rate %.1f%%),Fishing success %% goes up when you win.\n(Current success rate %.1f%%)
 UI_SEC,%d sec,%d sec
 UI_CONFIRM,Confirm,Confirm
@@ -2680,8 +2680,8 @@ UI_LIFE_PRODUCTION_STATUS_NUMBEROF_ATTEMPTS,Number of Attempts:,Number of Attemp
 UI_LIFE_PRODUCTION_STATUS_NUMBEROF_SUCCESSES,Number of Successes:,Number of Successes:
 UI_LIFE_PRODUCTION_STATUS_SUCCESS_RATE,Success Rate:,Success Rate:
 UI_LIFE_REPRODUCTION_TITLE,Production Upgrade,Production Upgrade
-UI_LIFE_REPRODUCTION_REGISTER_ITEM,Please register the material items.,Please register the material items.
-UI_LIFE_REPRODUCTION_INFO,"You can get a item of higher tier by putting in a certain amount of production items.\nExchange ratio: D:C=10:1, C:B=15:1, B:A=20:1","You can get a item of higher tier by putting in a certain amount of production items.\nExchange ratio: D:C=10:1, C:B=15:1, B:A=20:1"
+UI_LIFE_REPRODUCTION_REGISTER_ITEM,Please register the material items.,"Будь ласка, зареєструйте матеріальні активи."
+UI_LIFE_REPRODUCTION_INFO,"You can get a item of higher tier by putting in a certain amount of production items.\nExchange ratio: D:C=10:1, C:B=15:1, B:A=20:1","Ви можете отримати предмет вищого рівня, вклавши певну кількість виробничих матеріалів.\nКурс обміну: D:C=10:1, C:B=15:1, B:A=20:1"
 UI_LIFE_SHOP_REFRESH_TITLE,Shop Refresh,Shop Refresh
 UI_LIFE_WANDERING_SHOP_REFRESH_MSG,Would you like to use the Wandering Shop Refresh Ticket to refresh the shop?,Would you like to use the Wandering Shop Refresh Ticket to refresh the shop?
 UI_LIFE_SHOP_REFRESH_BUTTON_TOOLTIP,Use %s to refresh the items,Use %s to refresh the items
@@ -2690,7 +2690,7 @@ UI_LIFE_MASTERY_RANKING_RANK,Rank,Rank
 UI_LIFE_MASTERY_RANKING_CHARNAME,Character Name,Character Name
 UI_LIFE_MASTERY_RANKING_JOB,Job,Job
 UI_LIFE_MASTERY_RANKING_POINT,Mastery Points,Mastery Points
-UI_LIFE_MASTERY_RANKING_CLOSE,Close,Close
+UI_LIFE_MASTERY_RANKING_CLOSE,Close,Закрити
 UI_LIFE_MASTERY_RANKING_REWARD_TITLE,Mastery	Ranking Rewards,Mastery	Ranking Rewards
 UI_LIFE_MASTERY_RANKING_REWARD_CLAIM_REWARD,Claim Rewards,Claim Rewards
 UI_LIFE_MASTERY_RANKING_REWARD_DESC_ITEM_COUNT,%s x %d,%s x %d
@@ -2699,12 +2699,12 @@ UI_LIFE_MASTERY_RANKING_REWARD_REWARD,Rewards,Rewards
 UI_ACHIEVEMENTS_TITLE_TITLE,Achievement titles,Achievement titles
 UI_ACHIEVEMENTS_INDEPENDENTTITLE_TITLE,Independent titles,Independent titles
 UI_ACHIEVEMENTS_INDEPENDENTTITLE_REMAININGTIME,remaining time : \n%dday(s) %d:%d:%d,remaining time : \n%dday(s) %d:%d:%d
-UI_LIFE_MASTERY_UNIQUE_HERB,Herb with a unique fragrance. You can obtain Common-Rare Herbs.,Herb with a unique fragrance. You can obtain Common-Rare Herbs.
-UI_LIFE_MASTERY_RARE_HERB,Herb that is hard to find. You can obtain Common-Very Rare Herbs.,Herb that is hard to find. You can obtain Common-Very Rare Herbs.
-UI_LIFE_MASTERY_LEGENDARY_HERB,Legendary Herb that only few ever found. You can obtain Rare-Very Rare Herbs.,Legendary Herb that only few ever found. You can obtain Rare-Very Rare Herbs.
-UI_LIFE_MASTERY_UNIQUE_TREE,Tree with a unique look. You can obtain Common-Rare Trees.,Tree with a unique look. You can obtain Common-Rare Trees.
-UI_LIFE_MASTERY_RARE_TREE,Tree that is hard to find. You can obtain Common-Very Rare Trees.,Tree that is hard to find. You can obtain Common-Very Rare Trees.
-UI_LIFE_MASTERY_LEGENDARY_TREE,Legendary Tree that only few ever found. You can obtain Rare-Very Rare Trees.,Legendary Tree that only few ever found. You can obtain Rare-Very Rare Trees.
+UI_LIFE_MASTERY_UNIQUE_HERB,Herb with a unique fragrance. You can obtain Common-Rare Herbs.,Трава з унікальним ароматом. Можна отримати загальні та рідкісні трави.
+UI_LIFE_MASTERY_RARE_HERB,Herb that is hard to find. You can obtain Common-Very Rare Herbs.,"Трава, яку важко знайти. Можна отримати трави від звичайних до дуже рідкісних."
+UI_LIFE_MASTERY_LEGENDARY_HERB,Legendary Herb that only few ever found. You can obtain Rare-Very Rare Herbs.,"Легендарна трава, яку знаходили лише одиниці. Ти можеш отримати рідкісні та дуже рідкісні трави."
+UI_LIFE_MASTERY_UNIQUE_TREE,Tree with a unique look. You can obtain Common-Rare Trees.,Дерево з унікальним виглядом. Ви можете отримати Звичайні-Рідкісні дерева.
+UI_LIFE_MASTERY_RARE_TREE,Tree that is hard to find. You can obtain Common-Very Rare Trees.,"Дерево, яке важко знайти. Ви можете отримати від звичайного до дуже рідкісного дерева."
+UI_LIFE_MASTERY_LEGENDARY_TREE,Legendary Tree that only few ever found. You can obtain Rare-Very Rare Trees.,"Легендарне дерево, яке бачили лише деякі. Можна отримати рідкісні та дуже рідкісні дерева."
 UI_LIFE_MASTERY_UNIQUE_ORE,Ore with a unique look. You can obtain Common-Rare Ores.,Ore with a unique look. You can obtain Common-Rare Ores.
 UI_LIFE_MASTERY_RARE_ORE,Ore that is hard to find. You can obtain Common-Very Rare Ores.,Ore that is hard to find. You can obtain Common-Very Rare Ores.
 UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary Ore that only few ever found. You can obtain Rare-Very Rare Ores.,Legendary Ore that only few ever found. You can obtain Rare-Very Rare Ores.
@@ -2753,8 +2753,8 @@ UI_SEARCHSHOP_TELEPORT_TITLE,Teleport to the Shop,Teleport to the Shop
 UI_SEARCHSHOP_TELEPORT_CONFIRM,Do you want to teleport to the shop?,Do you want to teleport to the shop?
 UI_PRIVATE_SHOP_ADS,Shop Advertisement:,Shop Advertisement:
 UI_SEARCHSHOP_ADVERTISED,Advertised,Рекламовано
-UI_PRIVATE_SHOP_ADSOPEN,Your Shop Advertisement item will be consumed and disappear when closing the shop.,Your Shop Advertisement item will be consumed and disappear when closing the shop.
-UI_PRIVATE_SHOP_ADSCLOSE,Your Shop Advertisement item will be lost.,Your Shop Advertisement item will be lost.
+UI_PRIVATE_SHOP_ADSOPEN,Your Shop Advertisement item will be consumed and disappear when closing the shop.,Ваш рекламний предмет у магазині буде витрачений і зникне при закритті магазину.
+UI_PRIVATE_SHOP_ADSCLOSE,Your Shop Advertisement item will be lost.,Ваш рекламний товар у магазині буде втрачено.
 UI_GENERALAWAKE_TITLEGODDESSBLESSING,Blessing of the Goddess,Blessing of the Goddess
 UI_GENERALAWAKE_TITLEDEMONBLESSING,Blessing of the Demon,Blessing of the Demon
 UI_TOOLTIP_FREEBLESSING,Demon Blessing,Demon Blessing
@@ -3126,7 +3126,7 @@ UI_REVOLUTIONARYS_SECRETJOURNAL_TITLE,Revolutionary's Secret Journal,Таємн�
 UI_REVOLUTIONARYS_SECRETJOURNAL_DESC,"The journal's pages were lost during attacks by monsters from around the world.\nIf you help recover its contents, you will surely be rewarded.","Сторінки журналу були втрачені під час атак монстрів з усього світу.\nЯкщо ви допоможете відновити його вміст, ви обов 'язково отримаєте винагороду."
 UI_BTN_ADD_ALL,Add all,Add all
 UI_FULL_COLLECTION_REWARD,Full collection Reward,Full collection Reward
-UI_ADD_ALL_CONFIRM,The letters will be automatically registered in top-down order. Continue?,The letters will be automatically registered in top-down order. Continue?
+UI_ADD_ALL_CONFIRM,The letters will be automatically registered in top-down order. Continue?,Листи будуть автоматично зареєстровані зверху вниз. Продовжувати?
 UI_TRADE_CONFIRM_BLOCK,Item or Penya has been removed. Wait %d sec(s).,Item or Penya has been removed. Wait %d sec(s).
 UI_OPTION_MAIL_MODE,Allow Mails From,Дозволити листи від
 UI_OPTION_MAIL_EVERYONE,Everyone,Усі
@@ -3171,10 +3171,10 @@ UI_TOTALSERVER_FWCCOIN_SPENT,Total Server\nFWC Coin Spent,Total Server\nFWC Coin
 UI_MY_FWCCOIN_SPENT,My FWC Coin Spent,My FWC Coin Spent
 UI_RANK,Rank,Rank
 UI_TOTAL_FWCCOIN_SPENT,Total FWC Coin Spent,Total FWC Coin Spent
-UI_OPTION_IMAGE_TITLE,Banner Titles,Banner Titles
-UI_RIGHT_WEAPON_ATK,Right-Hand Weapon Attack,Right-Hand Weapon Attack
-UI_LEFT_WEAPON_ATK,Left-Hand Weapon Attack,Left-Hand Weapon Attack
-UI_PARTS_SHIELD_DEF,Shield Defense,Shield Defense
+UI_OPTION_IMAGE_TITLE,Banner Titles,Заголовки банерів
+UI_RIGHT_WEAPON_ATK,Right-Hand Weapon Attack,Атака зброєю правою рукою
+UI_LEFT_WEAPON_ATK,Left-Hand Weapon Attack,Атака зброєю лівою рукою
+UI_PARTS_SHIELD_DEF,Shield Defense,Щитова оборона
 UI_SKILL_SYNERGY,Synergy,Синергія
 UI_SKILL_SYNERGY_PER,per level %d+,per level %d+
 UI_TOOLTIP_BEHIND_DARK_DAMAGE,Rear Dark Illusion Damage,Rear Dark Illusion Damage
@@ -3198,7 +3198,7 @@ UI_TOOLTIP_TRAP_RANGE,Trap Range,Trap Range
 UI_TOOLTIP_CLOSE_DMG,Damage Within 3M,Damage Within 3M
 UI_TOOLTIP_FAR_DMG,Damage Further Than 5M,Damage Further Than 5M
 UI_DUNGEON_MODLEVEL,Lv.%d,Lv.%d
-UI_DUNGEON_MODIFIERS_DESC,\n\nCurrent bonuses:,\n\nCurrent bonuses:
+UI_DUNGEON_MODIFIERS_DESC,\n\nCurrent bonuses:,\n\nПоточні бонуси:
 UI_TOOLTIP_AUTO_STACKS,Auto Attack Stack Chance,Auto Attack Stack Chance
 UI_TOOLTIP_YOYORANGE,Yo-Yo Range,Yo-Yo Range
 UI_TOOLTIP_REQ_HP_RATE,HP: %d (%d%%),HP: %d (%d%%)
@@ -3214,13 +3214,13 @@ UI_TOOLTIP_DST_HYMN_WALK_SPEED,Hymn Walking Speed,Hymn Walking Speed
 UI_ENCHANT_SAME_JEWEL_TITLE,Equipping the same jewel,Equipping the same jewel
 UI_ENCHANT_SAME_JEWEL_MSG,"The same jewel is already equipped. If you try to equip this jewel, there is #cffff0000%d%%#nc chance that you will succeed but the jewel will be destroyed if you fail. Do you want to proceed?","The same jewel is already equipped. If you try to equip this jewel, there is #cffff0000%d%%#nc chance that you will succeed but the jewel will be destroyed if you fail. Do you want to proceed?"
 UI_JEWELCONVERSION_REGISTER,Register ultimate jewel.,Register ultimate jewel.
-UI_JEWELCONVERSION_INFO,You can convert jewels using the Scroll of Jewel Conversion. The tier determines which scroll will be used for conversion.,You can convert jewels using the Scroll of Jewel Conversion. The tier determines which scroll will be used for conversion.
+UI_JEWELCONVERSION_INFO,You can convert jewels using the Scroll of Jewel Conversion. The tier determines which scroll will be used for conversion.,"Ви можете перетворювати коштовності за допомогою «Свитка перетворення коштовностей». Рівень визначає, який саме свиток буде використано для перетворення."
 UI_JEWELCONVERSION_JEWEL,Tier %d Jewel,Tier %d Jewel
-UI_JEWELCONVERSION_CONFIRM,The jewel will be randomly converted into the jewel of the same tier. Do you want to continue?,The jewel will be randomly converted into the jewel of the same tier. Do you want to continue?
-UI_JEWELSYNTHESIS_INFO,"Synthesizing 3 jewels of the same tier, regardless of type, has a 100% chance to yield a random higher-tier jewel, with the used jewels being destroyed and the resulting jewel automatically moved to your inventory","Synthesizing 3 jewels of the same tier, regardless of type, has a 100% chance to yield a random higher-tier jewel, with the used jewels being destroyed and the resulting jewel automatically moved to your inventory"
+UI_JEWELCONVERSION_CONFIRM,The jewel will be randomly converted into the jewel of the same tier. Do you want to continue?,Цей самоцвіт буде випадковим чином перетворено на самоцвіт того самого рівня. Чи хочете ви продовжити?
+UI_JEWELSYNTHESIS_INFO,"Synthesizing 3 jewels of the same tier, regardless of type, has a 100% chance to yield a random higher-tier jewel, with the used jewels being destroyed and the resulting jewel automatically moved to your inventory","При синтезі 3 самоцвітів одного рівня, незалежно від їхнього типу, з імовірністю 100% утворюється випадковий самоцвіт вищого рівня; при цьому використані самоцвіти знищуються, а отриманий самоцвіт автоматично переміщується до вашого інвентарю"
 UI_JEWELSYNTHESIS_TIER,Tier %d,Tier %d
 UI_JEWELSYNTHESIS_SELECT,Select batch synthesis target tier,Select batch synthesis target tier
-UI_JEWELSYNTHESIS_CONFIRM,Jewels used as materials will be removed when synthesized. Are you sure you want to run the synthesis?,Jewels used as materials will be removed when synthesized. Are you sure you want to run the synthesis?
+UI_JEWELSYNTHESIS_CONFIRM,Jewels used as materials will be removed when synthesized. Are you sure you want to run the synthesis?,"Коштовності, що використовуються як матеріали, будуть видалені під час синтезу. Ви впевнені, що хочете запустити синтез?"
 UI_JEWELSYNTHESIS_BATCH,Here's what you can expect to get from the jewel batch synthesis feature.\n#cff00b0f0%s#nc\n#cffff0000Penya Cost: %s#nc\nDo you want to proceed with batch jewel synthesis?,Here's what you can expect to get from the jewel batch synthesis feature.\n#cff00b0f0%s#nc\n#cffff0000Penya Cost: %s#nc\nDo you want to proceed with batch jewel synthesis?
 UI_JEWELSYNTHESIS_JEWEL,Tier %d Jewel: %d,Tier %d Jewel: %d
 UI_TOOLTIP_SWD,Sword,Sword
@@ -3248,26 +3248,26 @@ UI_OPTION_QUICKCAST,Quick Cast,Quick Cast
 UI_TOOLTIP_DST_FM_AURA_EFF,Forcemaster Aura Effect,Forcemaster Aura Effect
 UI_DUNGEONTIMERECAP_TITLE,Dungeon Recap,Dungeon Recap
 UI_DUNGEONTIMERECAP_TIME,Time:,Час:
-UI_DUNGEONTIMERECAP_CLOSE,Close,Close
-UI_DUNGEONTIMERECAP_HELP_1,"You become Gold Tier if you reach the boss room within %d minutes. In the Gold Tier, the strongest boss appears.","You become Gold Tier if you reach the boss room within %d minutes. In the Gold Tier, the strongest boss appears."
-UI_DUNGEONTIMERECAP_HELP_2,"You become Silver Tier if you reach the boss room between %d to %d minutes. In the Silver Tier, a stronger version of the normal boss appears.","You become Silver Tier if you reach the boss room between %d to %d minutes. In the Silver Tier, a stronger version of the normal boss appears."
-UI_DUNGEONTIMERECAP_HELP_3,"You become Bronze Tier if you reach the boss room after %d minutes. In the Bronze Tier, the normal boss appears.","You become Bronze Tier if you reach the boss room after %d minutes. In the Bronze Tier, the normal boss appears."
-UI_TOOLTIP_VS_POISON_DEF,Damage from Poisoned Enemies,Damage from Poisoned Enemies
-UI_TOOLTIP_VS_POISON_ATK,Damage against Poisoned Enemies,Damage against Poisoned Enemies
-UI_TOOLTIP_STEALTH_CLEANSE,Chance to Cleanse Toxins on Stealth,Chance to Cleanse Toxins on Stealth
-UI_TOOLTIP_SUFFOCATE_STACKS,Suffocate Stack Chance,Suffocate Stack Chance
-UI_TOOLTIP_VS_BURN_DEF,Damage from Burned Enemies,Damage from Burned Enemies
-UI_TOOLTIP_VS_WATER_DEF,Damage from Watered Enemies,Damage from Watered Enemies
-UI_TOOLTIP_VS_SUFFOCATE_DEF,Damage from Suffocated Enemies,Damage from Suffocated Enemies
-UI_TOOLTIP_VS_SHOCK_DEF,Damage from Shocked Enemies,Damage from Shocked Enemies
-UI_TOOLTIP_HP_SHIELD,Max. Health Shield,Max. Health Shield
-UI_TOOLTIP_AA_DMG,Auto Attack Damage,Auto Attack Damage
-UI_LEVELCHANGE_NONE,No available jobs at this level,No available jobs at this level
-UI_SKILL_PAGE_SELECT,Select your skill page:,Select your skill page:
-UI_TOOLTIP_DST_MOBEXP,Monsters experience gain,Monsters experience gain
-UI_TOOLTIP_DST_MOBEXPDROP,Monsters experience/drop gain,Monsters experience/drop gain
-UI_TOOLTIP_TENACITY,Tenacity,Tenacity
-UI_TOOLTIP_DST_SOULUPLIFT,Soul Uplift,Soul Uplift
+UI_DUNGEONTIMERECAP_CLOSE,Close,Закрити
+UI_DUNGEONTIMERECAP_HELP_1,"You become Gold Tier if you reach the boss room within %d minutes. In the Gold Tier, the strongest boss appears.","Ви перейдете до Золотого рівня, якщо дістанетеся до кімнати боса за %d хвилин. На Золотому рівні з’являється найсильніший бос."
+UI_DUNGEONTIMERECAP_HELP_2,"You become Silver Tier if you reach the boss room between %d to %d minutes. In the Silver Tier, a stronger version of the normal boss appears.","Ви переходите на срібний рівень, якщо дістанетеся до кімнати боса за %d–%d хвилин. На срібному рівні з’являється посилена версія звичайного боса."
+UI_DUNGEONTIMERECAP_HELP_3,"You become Bronze Tier if you reach the boss room after %d minutes. In the Bronze Tier, the normal boss appears.","Ви переходите на бронзовий рівень, якщо дістанетеся до кімнати боса за 5 хвилин. На бронзовому рівні з’являється звичайний бос."
+UI_TOOLTIP_VS_POISON_DEF,Damage from Poisoned Enemies,Збиток від отруєних ворогів
+UI_TOOLTIP_VS_POISON_ATK,Damage against Poisoned Enemies,"Збиток, завданий отруєним ворогам"
+UI_TOOLTIP_STEALTH_CLEANSE,Chance to Cleanse Toxins on Stealth,Можливість непомітно вивести токсини з організму
+UI_TOOLTIP_SUFFOCATE_STACKS,Suffocate Stack Chance,Шанс на Задушливий стек
+UI_TOOLTIP_VS_BURN_DEF,Damage from Burned Enemies,Збиток від спалених ворогів
+UI_TOOLTIP_VS_WATER_DEF,Damage from Watered Enemies,Шкода від змочених ворогів
+UI_TOOLTIP_VS_SUFFOCATE_DEF,Damage from Suffocated Enemies,Шкода від задушених ворогів
+UI_TOOLTIP_VS_SHOCK_DEF,Damage from Shocked Enemies,Шкода від приголомшених ворогів
+UI_TOOLTIP_HP_SHIELD,Max. Health Shield,Макс. щит здоров'я
+UI_TOOLTIP_AA_DMG,Auto Attack Damage,Шкода від автоатаки
+UI_LEVELCHANGE_NONE,No available jobs at this level,Немає доступних робочих місць на цьому рівні
+UI_SKILL_PAGE_SELECT,Select your skill page:,Виберіть вашу сторінку навичок:
+UI_TOOLTIP_DST_MOBEXP,Monsters experience gain,"Досвід, що отримують монстри"
+UI_TOOLTIP_DST_MOBEXPDROP,Monsters experience/drop gain,Отриманий досвід/дроп від чудовиськ
+UI_TOOLTIP_TENACITY,Tenacity,Наполегливість
+UI_TOOLTIP_DST_SOULUPLIFT,Soul Uplift,Підняття душі
 UI_15UPDATE_PASS,1.5 Update Pass,1.5 Update Pass
 UI_TOOLTIP_DEBUFFDURATION,Debuff Duration,Тривалість дебаффу
 UI_TOOLTIP_DST_SAME_JEWEL_RATE,Chance to equip the same ultimate jewel,Однотипний остаточний шанс вставити дорогоцінний камінь
