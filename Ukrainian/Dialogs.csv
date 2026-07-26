@@ -7,8 +7,8 @@ NPC_EXIT,Exit,Вийти
 NPC_HOWTOFLY,How to Fly,How to Fly
 NPC_COMBATFLYING,Combat Flying,Combat Flying
 NPC_IDCARD,ID CARD,ID CARD
-NPC_WHATABOUTTHEMINE,What about the mine?,What about the mine?
-NPC_MOVE,Move,Move
+NPC_WHATABOUTTHEMINE,What about the mine?,Що з шахтою?
+NPC_MOVE,Move,Рухатися
 NPC_FORHONOR,For Honor!,За честь!
 NPC_FORFUN,For Fun!,For Fun!
 NPC_MEHJUSTBECAUSE,"Meh, just because?","Meh, just because?"
@@ -287,7 +287,7 @@ NPC_000327,The world has become so dangerous. It was not like this when I was yo
 NPC_000328,"Actually I have sold lots of different things in my life, but now I am selling the shields here in Erons Factory. Nice to meet you, my name is Phacham Dudury.","Actually I have sold lots of different things in my life, but now I am selling the shields here in Erons Factory. Nice to meet you, my name is Phacham Dudury."
 NPC_000329,Bye! Visit me when you come here again! Ha ha ha!,Bye! Visit me when you come here again! Ha ha ha!
 NPC_000330,Arise now.. from the darkness. You now bear the shining name - the title of Acrobat!,Arise now.. from the darkness. You now bear the shining name - the title of Acrobat!
-NPC_000331,Here you are. Time to fulfill your duty.,Here you are. Time to fulfill your duty.
+NPC_000331,Here you are. Time to fulfill your duty.,Ось вам Час виконати свій обов'язок.
 NPC_000332,Everything is the Acrobat. The Acrobat is everything. Take a moment to ponder what I have said.,Everything is the Acrobat. The Acrobat is everything. Take a moment to ponder what I have said.
 NPC_000333,"My name is Pyre and I am the Acrobat Master. Nice to meet you. Ha ha ha I am in charge of helping the vagrants, who want to, become an Acrobat.","My name is Pyre and I am the Acrobat Master. Nice to meet you. Ha ha ha I am in charge of helping the vagrants, who want to, become an Acrobat."
 NPC_000334,Good bye. Never forget the way of the Acrobat. Ha ha ha,Good bye. Never forget the way of the Acrobat. Ha ha ha
@@ -635,7 +635,7 @@ NPC_000708,My name is Ann Peltrot I am in charge of guiding Saint City and manag
 NPC_000709,"This is Saint City, the holy morning city\n Is it not peaceful? I am really proud to live here\n As happy as I am to be here, there are still a lot of Masquerpets outside the walls.","This is Saint City, the holy morning city\n Is it not peaceful? I am really proud to live here\n As happy as I am to be here, there are still a lot of Masquerpets outside the walls."
 NPC_000710,Feel free to wander around and gather as much information as you can. \n It is a good time to meet all of the merchants and prepare for your travels.,Feel free to wander around and gather as much information as you can. \n It is a good time to meet all of the merchants and prepare for your travels.
 NPC_000711,Hi! I am Bill. Come get everything you need in my General Shop.,Hi! I am Bill. Come get everything you need in my General Shop.
-NPC_000712,What can you do for me?,What can you do for me?
+NPC_000712,What can you do for me?,Що ти можеш зробити для мене?
 NPC_000713,"Tina and I love each other very much. But we are seeing each other secretly because Karin and Bulrox, my mentor, do not get along. ","Tina and I love each other very much. But we are seeing each other secretly because Karin and Bulrox, my mentor, do not get along. "
 NPC_000714,My name is Bill Bergenass and I run the General Shop in Saint City.,My name is Bill Bergenass and I run the General Shop in Saint City.
 NPC_000715,Good bye! Please come again!,Good bye! Please come again!
@@ -644,7 +644,7 @@ NPC_000717,"What kind of bowl are you looking for? I made all the bowls here, so
 NPC_000718,Hahaha My name is <Bowler Clo> and I am running a small bowl shop.,Hahaha My name is <Bowler Clo> and I am running a small bowl shop.
 NPC_000719,Please visit whenever you need a special bowl.,Please visit whenever you need a special bowl.
 NPC_000720,Shields that have both strength and beauty can be found here in my Shield Shop!,Shields that have both strength and beauty can be found here in my Shield Shop!
-NPC_000721,What can you do for me?,What can you do for me?
+NPC_000721,What can you do for me?,Що ти можеш зробити для мене?
 NPC_000722,"It seems like Bulrox does not like me. Is it bad to make shields beautiful? I think there is nothing wrong with beauty, am I right?","It seems like Bulrox does not like me. Is it bad to make shields beautiful? I think there is nothing wrong with beauty, am I right?"
 NPC_000723,My name is Bozman Hangteiler and I run the Shield Shop in Saint City.,My name is Bozman Hangteiler and I run the Shield Shop in Saint City.
 NPC_000724,Thank you for visiting me. See you next time!,Thank you for visiting me. See you next time!
@@ -653,14 +653,14 @@ NPC_000726,I really like stories about heroes. So I am collecting books about th
 NPC_000727,"Pepoview is the best known troupe in Madrigal! I am Brodeay, one of the leaders. Nice to meet you.","Pepoview is the best known troupe in Madrigal! I am Brodeay, one of the leaders. Nice to meet you."
 NPC_000728,"Our troupe is always the best! If you come to one of our shows, I will let you watch for free.","Our troupe is always the best! If you come to one of our shows, I will let you watch for free."
 NPC_000729,Come and see what superior weapon crafting is like at Weapon Shop of Bulrox!,Come and see what superior weapon crafting is like at Weapon Shop of Bulrox!
-NPC_000730,What can you do for me?,What can you do for me?
+NPC_000730,What can you do for me?,Що ти можеш зробити для мене?
 NPC_000731,"Bill? It seems like he is seeing Tina secretly. Well, it does not matter to me because I like her. She is such a kind and polite girl! The real problem is that fat and obstinate woman! Darn!","Bill? It seems like he is seeing Tina secretly. Well, it does not matter to me because I like her. She is such a kind and polite girl! The real problem is that fat and obstinate woman! Darn!"
 NPC_000732,"My name is Bulrox SHynante and I run the Weapon Shop in Saint City. Bill is my best pupil. He is very, very smart Hahaha","My name is Bulrox SHynante and I run the Weapon Shop in Saint City. Bill is my best pupil. He is very, very smart Hahaha"
-NPC_000733,Good bye. There is nothing you cannot defeat with my weapons!,Good bye. There is nothing you cannot defeat with my weapons!
-NPC_000734,Shields for sale! Please form a single line.,Shields for sale! Please form a single line.
-NPC_000735,You are in the right place if you are looking for a good shield. We only sell the highest quality ones.,You are in the right place if you are looking for a good shield. We only sell the highest quality ones.
+NPC_000733,Good bye. There is nothing you cannot defeat with my weapons!,"До побачення. Немає нічого, чого ви не можете перемогти моєю зброєю!"
+NPC_000734,Shields for sale! Please form a single line.,"Продам щити! Будь ласка, утворіть один рядок."
+NPC_000735,You are in the right place if you are looking for a good shield. We only sell the highest quality ones.,"Ви в правильному місці, якщо шукаєте хороший щит. Ми продаємо тільки найякісніші."
 NPC_000736,My name is Colack I opened this shop when Bozman started selling armor for Acrobats.,My name is Colack I opened this shop when Bozman started selling armor for Acrobats.
-NPC_000737,Please visit me again!,Please visit me again!
+NPC_000737,Please visit me again!,"Будь ласка, відвідайте мене знову!"
 NPC_000738,"Saint City, the most beautiful place in Madrigal! The ecology here is the blessing of God itself!!","Saint City, the most beautiful place in Madrigal! The ecology here is the blessing of God itself!!"
 NPC_000739,Please solve these as soon as possible.,Please solve these as soon as possible.
 NPC_000740,"There are various Masquerpets here in Saint City, so I always have lots to do Ha ha ha","There are various Masquerpets here in Saint City, so I always have lots to do Ha ha ha"
@@ -696,7 +696,7 @@ NPC_000769,My baby was so cute I can still hear her voice.,My baby was so cute I
 NPC_000770,My name is JeongHwa Song I moved here to Saint City a few years ago.,My name is JeongHwa Song I moved here to Saint City a few years ago.
 NPC_000771,The name of my daughter is Jingyoung. Please let me know if you find her.,The name of my daughter is Jingyoung. Please let me know if you find her.
 NPC_000772,Healthy body for healthy mind! Here are some delicious foods made by Karin! They are good for your health!,Healthy body for healthy mind! Here are some delicious foods made by Karin! They are good for your health!
-NPC_000773,What can you do for me?,What can you do for me?
+NPC_000773,What can you do for me?,Що ти можеш зробити для мене?
 NPC_000774,"I do not like Bulrox, and I do not like Bill. How could my daughter like that kind of.. Ugh! It is making me crazy!","I do not like Bulrox, and I do not like Bill. How could my daughter like that kind of.. Ugh! It is making me crazy!"
 NPC_000775,"My name is Karin Sharafobhan and I run the Food Shop here in Saint City. My daughter, Tina, is the beauty of Saint City.","My name is Karin Sharafobhan and I run the Food Shop here in Saint City. My daughter, Tina, is the beauty of Saint City."
 NPC_000776,Good bye! Enjoy healthy food all the time!,Good bye! Enjoy healthy food all the time!
@@ -709,7 +709,7 @@ NPC_000782,Honor the will of Rhisis! Show the anger of Rhisis! Be the curse of R
 NPC_000783,Being a Magician requires strong spirit. You cannot be a real Magician if you do not train your spirit well.,Being a Magician requires strong spirit. You cannot be a real Magician if you do not train your spirit well.
 NPC_000784,I am Sergeant Lopaze Jenip of the Madrigal Job Training Center I will help you to become the best Magician.,I am Sergeant Lopaze Jenip of the Madrigal Job Training Center I will help you to become the best Magician.
 NPC_000785,Strong spirit! This is the symbol of the Magician. Please do not forget that.,Strong spirit! This is the symbol of the Magician. Please do not forget that.
-NPC_000786,"Do you want to use great and powerful magic? Then you should visit me, Martin!","Do you want to use great and powerful magic? Then you should visit me, Martin!"
+NPC_000786,"Do you want to use great and powerful magic? Then you should visit me, Martin!","Ви хочете використовувати велику та потужну магію? Тоді тобі варто відвідати мене, Мартіне!"
 NPC_000787,"Here, there are lots of things to ask you Ha ha ha","Here, there are lots of things to ask you Ha ha ha"
 NPC_000788,"I heard that Mule got into trouble In terms of magic skill, Mule was much better than me. What a pity, I think Marche is having a hard time because of the incident.","I heard that Mule got into trouble In terms of magic skill, Mule was much better than me. What a pity, I think Marche is having a hard time because of the incident."
 NPC_000789,My name is Martin Scornsiege and I run the Magic Shop in Saint City I am also the chairman of the Society for the Study of Magic Ha ha ha,My name is Martin Scornsiege and I run the Magic Shop in Saint City I am also the chairman of the Society for the Study of Magic Ha ha ha
@@ -782,7 +782,7 @@ NPC_000855,"We are just nomad merchants, but we, the Khan Union, are well known 
 NPC_000856,My name is Tandy Khan and I am selling various goods.,My name is Tandy Khan and I am selling various goods.
 NPC_000857,Enjoy your flight!,Enjoy your flight!
 NPC_000858,I will do my best for the happiness of the people in Darkon! Please trust me.,I will do my best for the happiness of the people in Darkon! Please trust me.
-NPC_000859,What can you do for me?,What can you do for me?
+NPC_000859,What can you do for me?,Що ти можеш зробити для мене?
 NPC_000860,I am making the rounds in order to hear the opinions of people in Darken. May I help you?,I am making the rounds in order to hear the opinions of people in Darken. May I help you?
 NPC_000861,I am the Mayor of Darken City.,I am the Mayor of Darken City.
 NPC_000862,For Darken!,For Darken!
@@ -926,7 +926,7 @@ NPC_001651,Phew. Hero..what a busy job.,Phew. Hero..what a busy job.
 NPC_001652,Too busy! It's hard to help everyone!!! Hey! What are you looking at?!,Too busy! It's hard to help everyone!!! Hey! What are you looking at?!
 NPC_001654,"I'm Zoro! When someone needs help, I'll be there... I think.","I'm Zoro! When someone needs help, I'll be there... I think."
 NPC_001655,You need to find something that is worthwhile.,You need to find something that is worthwhile.
-NPC_001656,Bad boys! They are destroying the forest. Mother nature does not deserve that kind of treatment!,Bad boys! They are destroying the forest. Mother nature does not deserve that kind of treatment!
+NPC_001656,Bad boys! They are destroying the forest. Mother nature does not deserve that kind of treatment!,Погані хлопці! Знищують ліс. Матінка-природа не заслуговує на таке ставлення!
 NPC_001657,"Oh, Darkon is already a desolated place. Darkon will become a desolated desert if they continue to do so.","Oh, Darkon is already a desolated place. Darkon will become a desolated desert if they continue to do so."
 NPC_001659,"I'm Elaine, I'm the leader of the Darkon Clear Blue!","I'm Elaine, I'm the leader of the Darkon Clear Blue!"
 NPC_001660,"A healthy Mother nature is the most important for us all. But alas, it seems no one understands.","A healthy Mother nature is the most important for us all. But alas, it seems no one understands."
@@ -941,7 +941,7 @@ NPC_001670,It's hard to get... Inner realization.,It's hard to get... Inner real
 NPC_001671,Hmm.. I can smell.. Ore.. Hey! Did you see a shining Ore?,Hmm.. I can smell.. Ore.. Hey! Did you see a shining Ore?
 NPC_001672,What? You want what??,What? You want what??
 NPC_001674,"I'm Drico, second son of Nevil. I don't care why you are here, but you should be really careful around here.","I'm Drico, second son of Nevil. I don't care why you are here, but you should be really careful around here."
-NPC_001675,"Go back to where you from, you human!!","Go back to where you from, you human!!"
+NPC_001675,"Go back to where you from, you human!!","Повертайся туди, звідки ти, людино!!"
 NPC_100000,Hello my name is Yao-Rin.,Hello my name is Yao-Rin.
 NPC_100001,Oh! you are not the group of prophetic elected officials we have been waiting for. Leave. ,Oh! you are not the group of prophetic elected officials we have been waiting for. Leave. 
 NPC_100002,I am the fortune teller of the MewMew people.,I am the fortune teller of the MewMew people.
@@ -951,7 +951,7 @@ NPC_100005,Oh really! you're not who I thought you were.,Oh really! you're not w
 NPC_100006,I'm an old man.,I'm an old man.
 NPC_100007,Goodbye.,Goodbye.
 NPC_100008,Hello my name is Locku.,Hello my name is Locku.
-NPC_100009,You are not our friend.,You are not our friend.
+NPC_100009,You are not our friend.,Ти нам не друг.
 NPC_100010,I am the leader of the MewMew people.,I am the leader of the MewMew people.
 NPC_100011,Goodbye.,Goodbye.
 NPC_100012,"Hi, I'm Letana.","Hi, I'm Letana."
@@ -961,12 +961,12 @@ NPC_100015,Goodbye and see you soon.,Goodbye and see you soon.
 NPC_100016,Ah! Life in a tent is harder than you think.,Ah! Life in a tent is harder than you think.
 NPC_100017,I am Nemra.,I am Nemra.
 NPC_100018,Goodbye. See you next time.,Goodbye. See you next time.
-NPC_100019,You're coming with me to my tent?,You're coming with me to my tent?
+NPC_100019,You're coming with me to my tent?,Ти підеш зі мною до мого намету?
 NPC_100020,"I am the only makeup artist of Madrigal! I am also one of the guides in Flarine City. If you need any help or information, just ask me!","I am the only makeup artist of Madrigal! I am also one of the guides in Flarine City. If you need any help or information, just ask me!"
 NPC_100021,Who wants some makeup? I am a pro!,Who wants some makeup? I am a pro!
 NPC_100022,"You seem to me very tired, look at that messy hair! How about a little cut?","You seem to me very tired, look at that messy hair! How about a little cut?"
 NPC_100023,I am the only hairdresser of Madrigal! I am open all the day.,I am the only hairdresser of Madrigal! I am open all the day.
-NPC_100024,Come back anytime you want!,Come back anytime you want!
+NPC_100024,Come back anytime you want!,"Повертайся, коли захочеш!"
 NPC_100025,"Durandil swords are really great, too bad you can't mine with them...","Durandil swords are really great, too bad you can't mine with them..."
 NPC_100026,"I am Dekane, the creator of this mine.","I am Dekane, the creator of this mine."
 NPC_100027,I like brave people like you! Here is the key that seals the door to the secret room. Good luck!,I like brave people like you! Here is the key that seals the door to the secret room. Good luck!
@@ -981,20 +981,20 @@ NPC_100035,"It's alright, young successor. Only the bravest of souls can hope to
 NPC_100036,There are other brave souls locked in fierce combat with Meteonyker at the moment. Their deaths will be swift. You must wait.,There are other brave souls locked in fierce combat with Meteonyker at the moment. Their deaths will be swift. You must wait.
 NPC_100037,"You defeated Meteonyker? Excellent work, successor!","You defeated Meteonyker? Excellent work, successor!"
 NPC_100038,"Welcome! Don't forget to complete quests, they give many #bexperience and rewards#nb! Hope you will enjoy the game!","Welcome! Don't forget to complete quests, they give many #bexperience and rewards#nb! Hope you will enjoy the game!"
-NPC_100039,Who goes there?,Who goes there?
+NPC_100039,Who goes there?,Хто там йде?
 NPC_100040,I am Gigaka! Protector of these lands.,I am Gigaka! Protector of these lands.
-NPC_100041,Watch yourself.,Watch yourself.
+NPC_100041,Watch yourself.,Слідкуйте за собою.
 NPC_100042,Welcome to Azria!,Welcome to Azria!
 NPC_100043,"Stay safe out there, traveler.","Stay safe out there, traveler."
-NPC_100044,Stay safe.,Stay safe.
+NPC_100044,Stay safe.,Залишайтеся в безпеці.
 NPC_100045,Hm... Yes...,Hm... Yes...
 NPC_100046,...,...
 NPC_100047,May Rhisis be with you.,May Rhisis be with you.
-NPC_100048,You should not be here...,You should not be here...
+NPC_100048,You should not be here...,Ви не повинні бути тут...
 NPC_100049,Volkane is an ancient and once forgotten cavern in the depths of Magmient. The air is filled with volcanic ash and hot gases. This is no place for you.,Volkane is an ancient and once forgotten cavern in the depths of Magmient. The air is filled with volcanic ash and hot gases. This is no place for you.
 NPC_100050,A traveler? In this place? Oh my.,A traveler? In this place? Oh my.
 NPC_100051,Hm.,Hm.
-NPC_100052,This is no place for travelers. You must leave if you value your life.,This is no place for travelers. You must leave if you value your life.
+NPC_100052,This is no place for travelers. You must leave if you value your life.,"Це не місце для мандрівників. Ви повинні піти, якщо цінуєте своє життя."
 NPC_100053,The name's Buur! I love crystals more than anything. I can't get enough crystals. There is no such thing as too many crystals.,The name's Buur! I love crystals more than anything. I can't get enough crystals. There is no such thing as too many crystals.
 NPC_100054,I love crystals but they are so hard to come by. You can only get crystals by defeating a masquerpet here.,I love crystals but they are so hard to come by. You can only get crystals by defeating a masquerpet here.
 NPC_100055,You like crystals right? No way! Me too! I honestly can't believe it. We both like crystals!,You like crystals right? No way! Me too! I honestly can't believe it. We both like crystals!
@@ -1167,13 +1167,13 @@ NPC_150023,Call me Kras. I protect this village.,Call me Kras. I protect this vi
 NPC_150024,I used to be an adventurer like you… until I took an arrow to the knee.,I used to be an adventurer like you… until I took an arrow to the knee.
 NPC_150025,A new face. I hope we stay on friendly terms.,A new face. I hope we stay on friendly terms.
 NPC_150026,"I’m Maeron. I’ve fought for a long time, and I’ll keep fighting until we win.","I’m Maeron. I’ve fought for a long time, and I’ll keep fighting until we win."
-NPC_150027,You’re not ready.,You’re not ready.
-NPC_150028,Great day for patrol. Is there even such a thing as bad weather? Not for me.,Great day for patrol. Is there even such a thing as bad weather? Not for me.
+NPC_150027,You’re not ready.,Ви не готові.
+NPC_150028,Great day for patrol. Is there even such a thing as bad weather? Not for me.,"Чудовий день для патрулювання. Чи існує взагалі така річ, як погана погода? Не для мене."
 NPC_150029,My name’s Kerion. I’m on patrol—let me know if you spot anything odd.,My name’s Kerion. I’m on patrol—let me know if you spot anything odd.
 NPC_150030,"Go, adventurer… go.","Go, adventurer… go."
 NPC_150031,"It’s wonderful seeing everyone living in peace, isn’t it?","It’s wonderful seeing everyone living in peace, isn’t it?"
 NPC_150032,I’m Raon! No one loves this village more than me.,I’m Raon! No one loves this village more than me.
-NPC_150033,You can’t pass.,You can’t pass.
+NPC_150033,You can’t pass.,Ви не можете пройти.
 NPC_150034,"Stay calm. If the soldiers panic, who will the villagers rely on?","Stay calm. If the soldiers panic, who will the villagers rely on?"
 NPC_150035,"I am Dreon, Captain Baron’s loyal left hand. Everything I do is for this village.","I am Dreon, Captain Baron’s loyal left hand. Everything I do is for this village."
 NPC_150036,The guy next to me? He’s connected. Says he’s friends with someone named Waldo.\nDo you know who that is?,The guy next to me? He’s connected. Says he’s friends with someone named Waldo.\nDo you know who that is?
@@ -1189,7 +1189,7 @@ NPC_150045,Welcome to Eillun Village. I hope you enjoy your stay.,Welcome to Eil
 NPC_150046,A new visitor… Let’s hope that’s a good sign.,A new visitor… Let’s hope that’s a good sign.
 NPC_150047,"I am Ayr, one of the elders. I’ve helped uphold this village for a long time. It’s been harder lately, though. Maybe you’ll bring change.","I am Ayr, one of the elders. I’ve helped uphold this village for a long time. It’s been harder lately, though. Maybe you’ll bring change."
 NPC_150048,sigh The jarl threw his work at me again today…\nI’m too old for this. Can’t even retire quietly.,sigh The jarl threw his work at me again today…\nI’m too old for this. Can’t even retire quietly.
-NPC_150049,Do you always trust what you see? Think it through.,Do you always trust what you see? Think it through.
+NPC_150049,Do you always trust what you see? Think it through.,"Ви завжди довіряєте тому, що бачите? Подумайте про це."
 NPC_150050,"I’m Elder Traitus, in charge of supplies. Now then… how am I supposed to find enough for today?","I’m Elder Traitus, in charge of supplies. Now then… how am I supposed to find enough for today?"
 NPC_150051,We’re not like the Khajiit… not like them at all.,We’re not like the Khajiit… not like them at all.
 NPC_150052,"Sometimes protecting the village requires sacrifice. It’s harsh, but true.","Sometimes protecting the village requires sacrifice. It’s harsh, but true."

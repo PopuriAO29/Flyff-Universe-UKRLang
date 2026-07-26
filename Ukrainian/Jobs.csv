@@ -13,7 +13,7 @@ ETC_INC_000010,Ringmaster,Ringmaster
 ETC_INC_000011,Billposter,Billposter
 ETC_INC_000012,Psykeeper,Psykeeper
 ETC_INC_000013,Elementor,Елементор
-ETC_INC_000014,Gatekeeper,Gatekeeper
+ETC_INC_000014,Gatekeeper,Воротар
 ETC_INC_000015,Doppler,Doppler
 ETC_INC_SPECIALIST_000016,Templar,Templar
 ETC_INC_SPECIALIST_000017,Slayer,Slayer
@@ -23,5 +23,5 @@ ETC_INC_SPECIALIST_000020,Seraph,Seraph
 ETC_INC_SPECIALIST_000021,Forcemaster,Forcemaster
 ETC_INC_SPECIALIST_000022,Mentalist,Mentalist
 ETC_INC_SPECIALIST_000023,Arcanist,Arcanist
-ETC_INC_SPECIALIST_000024,Summoner,Summoner
+ETC_INC_SPECIALIST_000024,Summoner,Призивач
 ETC_INC_SPECIALIST_000025,Trapmaster,Trapmaster
