@@ -1506,14 +1506,14 @@ TEXTCLIENT_ITEMPACK_UPGRADE_LEVELDOWN,Item downgraded due to the failure.,Item d
 TEXTCLIENT_ITEMPACK_UPGRADE_LIMIT,This item has exceeded its upgrade attempt limit,This item has exceeded its upgrade attempt limit
 TEXTCLIENT_STATUE_MAXLEVEL,"A statue in the name of %s, the first maximum level, has been erected in Northern Flarine.","A statue in the name of %s, the first maximum level, has been erected in Northern Flarine."
 TEXTCLIENT_STATUE_MAXUPGRADE,"A statue in the name of %s, the first maximum upgrader, has been erected in Northern Flarine.","A statue in the name of %s, the first maximum upgrader, has been erected in Northern Flarine."
-TEXTCLIENT_ALERT_TIME,[%d hours have passed] Excessive gaming can interfere with normal daily life.,[%d hours have passed] Excessive gaming can interfere with normal daily life.
+TEXTCLIENT_ALERT_TIME,[%d hours have passed] Excessive gaming can interfere with normal daily life.,[Пройшло %d годин] Надмірні ігри можуть заважати нормальному повсякденному життю.
 TEXTCLIENT_SERVERNOTALLOWED,Your account is not allowed to access this server.,Ваш обліковий запис не має доступу до цього сервера.
 TEXTCLIENT_STATUE_BASE01,A statue in the name of the first person to reach maximum level.,"Статуя на ім'я людини, яка першою досягла максимального рівня."
 TEXTCLIENT_STATUE_BASE02,A statue in the name of the first person to reach maximum upgrade.,"Статуя на ім'я людини, яка першою досягла максимального покращення."
-TEXTCLIENT_UPGRADE_WRONG_MATERIAL,Invalid material item for upgrade.,Invalid material item for upgrade.
-TEXTCLIENT_NOT_ENTER_TIME,You cannot participate right now.,You cannot participate right now.
-TEXTCLIENT_NOT_ENTER_LEVEL,You can participate from level %d.,You can participate from level %d.
-TEXTCLIENT_EXIT_BOSSRAID_DUNGEON,The boss monster has been defeated. You will exit the dungeon in %d seconds.,The boss monster has been defeated. You will exit the dungeon in %d seconds.
+TEXTCLIENT_UPGRADE_WRONG_MATERIAL,Invalid material item for upgrade.,Недійсний елемент матеріалу для оновлення.
+TEXTCLIENT_NOT_ENTER_TIME,You cannot participate right now.,Зараз ви не можете брати участь.
+TEXTCLIENT_NOT_ENTER_LEVEL,You can participate from level %d.,Ви можете брати участь з %d рівня.
+TEXTCLIENT_EXIT_BOSSRAID_DUNGEON,The boss monster has been defeated. You will exit the dungeon in %d seconds.,Бос-монстр переможений. Ви вийдете з підземелля через %d секунд.
 TEXTCLIENT_PVPMATCH_COLOR_1,Red Team,Червона команда
 TEXTCLIENT_PVPMATCH_COLOR_2,Blue Team,Синя команда
 TEXTCLIENT_PVPMATCH_COLOR_3,Green Team,Зелена команда
@@ -1534,16 +1534,38 @@ TEXTCLIENT_ENCHANT_SAME_JEWEL_FAILED,Equipping the same jewel failed.,Equipping 
 TEXTCLIENT_JEWELSYNTHESIS_NO,You do not have enough jewel or penya for synthesis.,You do not have enough jewel or penya for synthesis.
 TEXTCLIENT_JEWELSYNTHESIS_SUCCESS,Jewel synthesis succeeded!,Jewel synthesis succeeded!
 TEXTCLIENT_HEROQUEST_REQUIRED,This feature is only available with the Hero Quest.,This feature is only available with the Hero Quest.
-TEXTCLIENT_SKILLPAGE_COOLDOWN,You can swap skill pages in %d seconds.,You can swap skill pages in %d seconds.
-TEXTCLIENT_SKILLPAGE_NOSKILL,You cannot swap skill pages while using skills.,You cannot swap skill pages while using skills.
-TEXTCLIENT_CHGLEVEL_MASTER,You cannot use this item while on a master quest.,You cannot use this item while on a master quest.
-TEXTCLIENT_CHGLEVEL_JOBCHANGE,You cannot use this item while on a job change quest.,You cannot use this item while on a job change quest.
-TEXTCLIENT_MONSTER_ATTACK_ERROR_POSITION,You cannot attack the monster because you are not on the combat ground.,You cannot attack the monster because you are not on the combat ground.
+TEXTCLIENT_SKILLPAGE_COOLDOWN,You can swap skill pages in %d seconds.,Ви можете поміняти сторінки навичок за %d секунд.
+TEXTCLIENT_SKILLPAGE_NOSKILL,You cannot swap skill pages while using skills.,Ви не можете міняти місцями сторінки навичок під час використання навичок.
+TEXTCLIENT_CHGLEVEL_MASTER,You cannot use this item while on a master quest.,Ви не можете використовувати цей предмет під час головного квесту.
+TEXTCLIENT_CHGLEVEL_JOBCHANGE,You cannot use this item while on a job change quest.,Ви не можете використовувати цей предмет під час квесту зміни роботи.
+TEXTCLIENT_MONSTER_ATTACK_ERROR_POSITION,You cannot attack the monster because you are not on the combat ground.,"Ви не можете атакувати монстра, тому що ви не на полігоні."
 TEXTCLIENT_UPGRADEANNOUNCE_ULTIMATE,%s upgraded Ultimate %s to %s+%d!,%s upgraded Ultimate %s to %s+%d!
 TEXTCLIENT_PAYMENT_SUCCESS,Payment was successful!\nfCoins have been added to your account. ,Payment was successful!\nfCoins have been added to your account. 
 TEXTCLIENT_PAYMENT_ERROR,Unknown error during payment.\nPlease try again.,Unknown error during payment.\nPlease try again.
-TEXTCLIENT_EXP_RECOVER,You recovered the experience lost in the dungeon.,You recovered the experience lost in the dungeon.
-TEXTCLIENT_EXPBOX_OLDVERSION,You cannot use it because you already recovered experience by clearing the dungeon.,You cannot use it because you already recovered experience by clearing the dungeon.
-TEXTCLIENT_PARTYFAILREMOVE_DUNGEON,You cannot remove a member from your party while you are in the same dungeon.,You cannot remove a member from your party while you are in the same dungeon.
-TEXTCLIENT_PARTYFAILCHANGE_DUNGEON,You cannot transfer leadership to a party member who is not in the same dungeon.,You cannot transfer leadership to a party member who is not in the same dungeon.
-TEXTCLIENT_PARTYFAILLEAVE_DUNGEON,You cannot leave the party as a leader in the dungeon.,You cannot leave the party as a leader in the dungeon.
+TEXTCLIENT_EXP_RECOVER,You recovered the experience lost in the dungeon.,Ви відновили втрачений у підземеллі досвід.
+TEXTCLIENT_EXPBOX_OLDVERSION,You cannot use it because you already recovered experience by clearing the dungeon.,"Ви не можете використовувати його, тому що ви вже відновили досвід, очищаючи підземелля."
+TEXTCLIENT_PARTYFAILREMOVE_DUNGEON,You cannot remove a member from your party while you are in the same dungeon.,"Ви не можете видалити члена групи, поки ви перебуваєте в одному підземеллі."
+TEXTCLIENT_PARTYFAILCHANGE_DUNGEON,You cannot transfer leadership to a party member who is not in the same dungeon.,"Ви не можете передати лідерство члену групи, який не перебуває в тому самому підземеллі."
+TEXTCLIENT_PARTYFAILLEAVE_DUNGEON,You cannot leave the party as a leader in the dungeon.,Ви не можете покинути групу як лідер у підземеллі.
+TEXTCLIENT_BOSS_RAID_DUNGEON_ENDED,The instance dungeon has ended. Please try again in a moment.,Підземелля екземпляра закінчено. Спробуйте ще раз за мить.
+TEXTCLIENT_BOSS_RAID_MAX_PLAYCOUNT,%s has no daily entries remaining.,%s не має щоденних записів.
+TEXTCLIENT_BOSS_RAID_ANOTHER_DUNGEON,%s is already in another instance.,%s вже в іншому екземплярі.
+TEXTCLIENT_MESSAGE_WARNING,Warning: '%s' is a regular player. Do not visit any website and never give out your credentials. The only official website is $WEBSITE$. Beware of scams and phishing websites.,Попередження: '%s' є звичайним гравцем. Не відвідуйте веб-сайти та ніколи не повідомляйте свої облікові дані. Єдиний офіційний сайт – $WEBSITE$. Остерігайтеся шахрайства та фішингових сайтів.
+TEXTCLIENT_APP_DONATION,Donation,Donation
+TEXTCLIENT_APP_LORD,Lord Skills,Lord Skills
+TEXTCLIENT_DONATION_START,Donation event %s +%d%% started!,Donation event %s +%d%% started!
+TEXTCLIENT_DONATION_END,Donation event %s +%d% ended...,Donation event %s +%d% ended...
+TEXTCLIENT_DONATION_CONFIRM,You donated %s Penya to the %s event.,You donated %s Penya to the %s event.
+TEXTCLIENT_DONATION_MAIL,Congratulations for becoming the Lord of the week!,"Вітаємо з тим, що ти став Володарем тижня!"
+TEXTCLIENT_DONATION_NOLORD,There is no Lord this week.,Господа цього тижня немає.
+TEXTCLIENT_DONATION_LORD,The Lord of the week is %s. Congratulations!,Володар тижня — %s. Щиро вітаю!
+TEXTCLIENT_MYSTCASTLE_DATA_PENDING,Server data synchronization in progress. Please try again shortly.,Триває синхронізація даних сервера. Спробуйте ще раз незабаром.
+TEXTCLIENT_MYSTCASTLE_INVALID_FLOOR,Invalid floor selection. Please try again.,Невірний вибір поверху. Спробуйте ще раз.
+TEXTCLIENT_MYSTCASTLE_LEVEL_TOO_LOW,Your level is too low to enter this floor.,"Ваш рівень занадто низький, щоб потрапити на цей поверх."
+TEXTCLIENT_MYSTCASTLE_BLOCK_TIME,Ranking settlement in progress. Please try again later.,Розрахунок рейтингу триває. Спробуйте пізніше.
+TEXTCLIENT_MYSTCASTLE_INIT_FAILED,Failed to initialize the floor. Please try again.,Не вдалося ініціалізувати поверх. Спробуйте ще раз.
+TEXTCLIENT_MYSTCASTLE_FLOOR_TICKET_REQUIRED,A Mysterious Castle Retry Coupon is required to challenge this floor.,"Щоб випробувати цей поверх, потрібен купон на повторну спробу таємничого замку."
+TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD,You received a reward for clearing a new floor.,Ви отримали нагороду за очищення нового поверху.
+TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD_MAIL,You can't receive the reward for clearing a new floor. Check your mail.,Ви не можете отримати винагороду за очищення нового поверху. Перевір свою пошту.
+TEXTCLIENT_MYSTCASTLE_USE_FLOOR_TICKET_FAIL,Unable to use the Mysterious Castle Retry Coupon.,Не вдалося використати купон на повторну спробу загадкового замку.
+TEXTCLIENT_LORDSKILLS_NOT,Only the Lord can use this menu.,Тільки Господь може користуватися цим меню.

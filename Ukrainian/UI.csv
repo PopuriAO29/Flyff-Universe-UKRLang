@@ -330,7 +330,7 @@ UI_MESSENGER_SORT_CHANNEL,Ch.,Ch.
 UI_MESSENGER_SORT_STATE,State,State
 UI_MESSENGER_SORT_LEVEL,Level,Рівень
 UI_MESSENGER_SORT_NAME,Name,Ім'я
-UI_MESSENGER_SORT_JOB,Job,Job
+UI_MESSENGER_SORT_JOB,Job,Робота
 UI_INSTANTMSG_JOIN,has logged into the game.,увійшов у гру.
 UI_OPTION_JOIN_NOTIFICATION,Message alarm,Нагадування повідомлення
 UI_MESSENGER_MENU_MESSAGE,Message,Повідомлення
@@ -2688,7 +2688,7 @@ UI_LIFE_SHOP_REFRESH_BUTTON_TOOLTIP,Use %s to refresh the items,Use %s to refres
 UI_LIFE_MASTERY_RANKING_TITLE,Mastery Rankings,Mastery Rankings
 UI_LIFE_MASTERY_RANKING_RANK,Rank,Rank
 UI_LIFE_MASTERY_RANKING_CHARNAME,Character Name,Character Name
-UI_LIFE_MASTERY_RANKING_JOB,Job,Job
+UI_LIFE_MASTERY_RANKING_JOB,Job,Робота
 UI_LIFE_MASTERY_RANKING_POINT,Mastery Points,Mastery Points
 UI_LIFE_MASTERY_RANKING_CLOSE,Close,Закрити
 UI_LIFE_MASTERY_RANKING_REWARD_TITLE,Mastery	Ranking Rewards,Mastery	Ranking Rewards
@@ -3165,7 +3165,7 @@ UI_FWC_PREDICTION_BET_CONFIRM,Are you sure you want to place this bet?\nGuild Na
 UI_TITLE_GUILDINFO,Guild Info,Guild Info
 UI_BTN_MEMBERS,Members,Members
 UI_CHARACTERNAME,Name,Ім'я:
-UI_JOB,Job,Job
+UI_JOB,Job,Робота
 UI_SERVER,Server,Сервер
 UI_TOTALSERVER_FWCCOIN_SPENT,Total Server\nFWC Coin Spent,Total Server\nFWC Coin Spent
 UI_MY_FWCCOIN_SPENT,My FWC Coin Spent,My FWC Coin Spent
@@ -3280,3 +3280,77 @@ UI_DEBUG_DEVICE_EEA,EEA: ,ЄЕЗ:
 UI_DEBUG_DEVICE_AD_PERSONALIZATION,Ad Personalization: , Персоналізація реклами: 
 UI_DEBUG_DEVICE_AD_USER_DATA,Ad User Data: ,Дані користувача оголошення: 
 UI_TOOLTIP_DST_ULTIMATEUPGRADERATE,Ultimate Upgrade Rate,Максимальна швидкість оновлення
+UI_4TH_ANNIV_ACHIEVEMENT_TITLE,Retrieve the Birthday Banner!,Отримайте банер на день народження!
+UI_4TH_ANNIV_ACHIEVEMENT_DESC,"The banner was torn to shreds during a monster attack!\nIf you find the pieces and bring them back, I'll make sure you're rewarded.","Банер розірвало на шматки під час нападу монстра!\nЯкщо ви знайдете частини й принесете їх назад, я подбаю про те, щоб ви отримали винагороду."
+UI_ITEM_EXCHANGE_TITLE,Item Exchange,Item Exchange
+UI_ITEM_EXCHANGE_INFO_2033,"By consuming Penya, you can exchange a specific Banner Fragment alphabet item you own into another fragment based on set probabilities.\nThere is a low chance to obtain a Golden Ticket item, which grants a [4th Anniversary Supply Box A].","By consuming Penya, you can exchange a specific Banner Fragment alphabet item you own into another fragment based on set probabilities.\nThere is a low chance to obtain a Golden Ticket item, which grants a [4th Anniversary Supply Box A]."
+UI_4TH_ANNIV_PASS,4th Anniversary Pass,Перепустка до 4-ї річниці
+UI_EVENT_4TH_ANNIV_FIELDBOSS,4th Anniversary Boss Instance Event,Подія з нагоди 4-ї річниці боса
+UI_ACHIEVEMENT_LYCANHUNTING_TITLE,Server Hunting Carnival,Server Hunting Carnival
+UI_ACHIEVEMENT_LYCANHUNTING_DESC,Hunt monsters in the Kaillun region during the event to reach the goals for each stage! All players on the server can receive rewards every time a goal is achieved!,"Полюйте на монстрів у регіоні Кайлун під час події, щоб досягти цілей кожного етапу! Усі гравці на сервері можуть отримувати нагороди кожного разу, коли досягнута мета!"
+UI_APP_DONATION_TIP,Donate Penya to receive server wide buffs!,Donate Penya to receive server wide buffs!
+UI_APP_LORD_TIP,Manage lord skills as the lord.,Керуйте навичками лорда як лорд.
+UI_APP_LORD_TARGETNAME,Enter the target's name,Введіть назву цілі
+UI_APP_LORD_INFO,Manage the skills and benefits available to you as the Lord of Madrigal! Press any of the following skills to use them.,"Керуйте навичками та перевагами, доступними вам як Володар Мадригалу! Натисніть будь-яку з наведених нижче навичок, щоб використати їх."
+UI_DONATION_NEXTEVENT,Next Event:,Наступна подія:
+UI_DONATION_CURRENTEVENT,Current Event:,Поточна подія:
+UI_DONATION_MINDONATION,Minimum Donation:,Мінімальний внесок:
+UI_DONATION_GOAL,Goal,Мета
+UI_DONATION_BUFF,Buff,Buff
+UI_DONATION_DONATOR,Donator,Донор
+UI_DONATION_DONATE,Donate,Пожертвуйте
+UI_DONATION_MSG,Enter the amount you want to donate for the #b%s#nb buff. Please note that donation cannot be refunded.,"Введіть суму, яку ви хочете пожертвувати на бафф #b%s#nb. Зверніть увагу, що пожертвування не повертається."
+UI_155UPDATE_PASS,1.5.5 Update Pass,Пропуск оновлення 1.5.5
+UI_BATTLEPASS_MISSION_MADRIGALTOURNAMENT,Attend Madrigal Tournament,Attend Madrigal Tournament
+UI_BATTLEPASS_MISSION_DONATE,Donate %s penya,Donate %s penya
+UI_BATTLEPASS_MISSION_SETTHEME,Apply %s Theme,Застосуйте тему %s
+UI_BATTLEPASS_MISSION_USEITEM2,"Use %s, %s","Use %s, %s"
+UI_BATTLEPASS_MISSION_USEITEM3,"Use %s, %s, %s","Use %s, %s, %s"
+UI_DONATION_TOTALDONATION,Total Donation:,Total Donation:
+UI_DONATION_MYDONATION,My Donation:,My Donation:
+UI_DONATION_RANKING,Donation Ranking,Donation Ranking
+UI_DONATION_CURRENTLORD,Current Lord: #b%s#nb,Current Lord: #b%s#nb
+UI_MYSTCASTLE_BATTLE_START,Would you like to start the battle?\nEntering will consume an entry attempt.,Хочете розпочати бій?\nВхід потребує спроби входу.
+UI_MYSTCASTLE_BATTLE_LEAVE,Would you like to leave the current floor?,Бажаєте залишити поточний поверх?
+UI_MYSTCASTLE_CHALLENGE_NEXT_FLOOR,Would you like to challenge the next floor?,Чи хотіли б ви кинути виклик наступному поверсі?
+UI_MYSTCASTLE_MOVE_NEXT_FLOOR,You’ve defeated the Boss!\nMove on to the next floor!,Ви перемогли Боса!\nПереходьте на наступний поверх!
+UI_MYSTCASTLE_MISSION_SUCCESS,You’ve defeated the Boss!,Ви перемогли Боса!
+UI_MYSTCASTLE_MISSION_FAIL,You’ve failed!,Ви зазнали невдачі!
+UI_MYSTCASTLE_FLOORS_TITLE,Mysterious Castle Floors,Mysterious Castle Floors
+UI_MYSTCASTLE_RANKING,Ranking,Ranking
+UI_ORDINAL_SUFFIX_EXCLUDE_ENG_FRE,,
+UI_MYSTCASTLE_LIST_FLOOR,%s\nFloor,%s\nFloor
+UI_MYSTCASTLE_LIST_CLEAR,Clear,Clear
+UI_MYSTCASTLE_FLOOR_INFO_BOSS,%s Floor BOSS:\n    %s,%s Floor BOSS:\n    %s
+UI_MYSTCASTLE_FLOOR_INFO_DETAIL,Entrance: %s\nMinimum Level: %d\nClear Time: %s,Entrance: %s\nMinimum Level: %d\nClear Time: %s
+UI_MYSTCASTLE_PARTY,Party,Party
+UI_MYSTCASTLE_SOLO,Solo,Solo
+UI_MYSTCASTLE_CLEAR_REWARD,Clear Rewards,Clear Rewards
+UI_MYSTCASTLE_FREE_ENTRANCE_USED,Free Entrance Used %d/%d,Free Entrance Used %d/%d
+UI_MYSTCASTLE_BLOCK_TIME,Ranking Settlement in progress,Ranking Settlement in progress
+UI_MYSTCASTLE_RANK_OVERALL,Overall Ranking,Overall Ranking
+UI_MYSTCASTLE_RANK_JOB,Job Ranking,Job Ranking
+UI_MYSTCASTLE_RANK_OVERALL_LAST_WEEK,Overall Ranking (Last Week),Overall Ranking (Last Week)
+UI_MYSTCASTLE_RANK_JOB_LAST_WEEK,Job Ranking (Last Week),Job Ranking (Last Week)
+UI_MYSTCASTLE_MY_RANKING,My Ranking:,My Ranking:
+UI_MYSTCASTLE_MY_RANKING_NO,My Ranking: No current ranking information.,My Ranking: No current ranking information.
+UI_MYSTCASTLE_RANK_TITLE,Mysterious Castle Ranking,Mysterious Castle Ranking
+UI_MYSTCASTLE_RANK_COL_RANKING,Ranking,Ranking
+UI_MYSTCASTLE_RANK_COL_JOB,Job,Робота
+UI_MYSTCASTLE_RANK_COL_NAME,Character Name,Ім'я персонажа
+UI_MYSTCASTLE_RANK_COL_LEVEL,Level,Рівень
+UI_MYSTCASTLE_RANK_COL_FLOOR,Cleared Floors,Очищені підлоги
+UI_MYSTCASTLE_RANK_COL_TIME,Clear Time,Очистити час
+UI_MYSTCASTLE_REWARD_TITLE,Mysterious Castle Rewards,Mysterious Castle Rewards
+UI_MYSTCASTLE_REWARD_COL_FLOOR,Floor,Floor
+UI_MYSTCASTLE_REWARD_COL_BOSS,Boss,Boss
+UI_MYSTCASTLE_REWARD_COL_REWARD,Reward,Reward
+UI_MYSTCASTLE_REWARD_COL_CLASS,Ranking Rewards by Class,Ranking Rewards by Class
+UI_MYSTCASTLE_REWARD_COL_COUNT,Quant,Кількість
+UI_MYSTCASTLE_REWARD_RATIO,Within Top %d%%\n(Excluding above ranks),Within Top %d%%\n(Excluding above ranks)
+UI_MYSTCASTLE_REWARD_OTHERS,Others,Others
+UI_MYSTCASTLE_REWARD_CLASS_DESC,"Mysterious Box that has\nsame level as the floor\nyou currently cleared\n(If the last floor you cleared\nwas 4, you'll get Mysterious\nBox Lv2)","Mysterious Box that has\nsame level as the floor\nyou currently cleared\n(If the last floor you cleared\nwas 4, you'll get Mysterious\nBox Lv2)"
+UI_MYSTCASTLE_REWARD_TAB_FLOOR,Floor Clear Reward,Нагорода за чистоту підлоги
+UI_MYSTCASTLE_REWARD_TAB_RANK,Ranking Reward,Нагорода за рейтинг
+UI_MYSTCASTLE_ENTER_FLOOR_USE_TICKET,Entering will consume a Mysterious Castle retry coupon. Do you want to continue?,Під час входу буде використано купон на повторну спробу Таємничий замок. Ви хочете продовжити?
+UI_MYSTCASTLE_TOUCH_ANYWHERE,Touch anywhere to type!,"Торкніться будь-де, щоб ввести текст!"
