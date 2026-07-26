@@ -1,13 +1,13 @@
 ﻿Key,English,Ukrainian
-MMI_0,Dialog,Dialog
+MMI_0,Dialog,Діалог
 MMI_1,Quest,Quest
 MMI_2,Trade,Trade
-MMI_3,Attack,Attack
-MMI_4,Message,Message
-MMI_5,Add to my list,Add to my list
+MMI_3,Attack,Атака
+MMI_4,Message,Повідомлення
+MMI_5,Add to my list,Додати до мого списку
 MMI_6,Invite to join party,Invite to join party
 MMI_7,Invite to join guild,Invite to join guild
-MMI_8,Place of Resurrection,Place of Resurrection
+MMI_8,Place of Resurrection,Місце Воскресіння
 MMI_9,Bank,Bank
 MMI_10,Duel,Duel
 MMI_11,Request party duel,Request party duel
@@ -22,9 +22,9 @@ MMI_21,Put Bounty,Put Bounty
 MMI_22,See the Bounty List,See the Bounty List
 MMI_24,View equipment,View equipment
 MMI_25,Mailbox,Mailbox
-MMI_26,Apply,Apply
+MMI_26,Apply,Застосувати
 MMI_27,Status,Status
-MMI_28,Cancel,Cancel
+MMI_28,Cancel,Скасувати
 MMI_29,Enter,Enter
 MMI_30,Ranking,Ranking
 MMI_31,Cheer,Cheer
@@ -51,10 +51,10 @@ MMI_74,Get Buffed!,Get Buffed!
 MMI_75,Exchange Rare Item Pieces,Exchange Rare Item Pieces
 MMI_76,Exchange Card Pieces,Exchange Card Pieces
 MMI_79,Remove Premium Item Blessing,Remove Premium Item Blessing
-MMI_80,Enter Arena,Enter Arena
-MMI_81,Leave Arena,Leave Arena
-MMI_82,Arena Ranking,Arena Ranking
-MMI_83,Arena Reward,Arena Reward
+MMI_80,Enter Arena,Увійдіть на Арену
+MMI_81,Leave Arena,Залиште Арену
+MMI_82,Arena Ranking,Рейтинг арен
+MMI_83,Arena Reward,Нагорода арени
 MMI_134,Upgrading,Upgrading
 MMI_136,Piercing,Piercing
 MMI_167,Element Upgrading,Element Upgrading
