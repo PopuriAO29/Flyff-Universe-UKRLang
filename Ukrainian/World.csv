@@ -28,8 +28,8 @@ WDARENA_WLD_000011,The Bronze Blade,The Bronze Blade
 WDARENA_WLD_000012,The Bronze Jester,The Bronze Jester
 WDARENA_WLD_000013,The Bronze Ranger,The Bronze Ranger
 WDARENA_WLD_000014,The Bronze Ringmaster,The Bronze Ringmaster
-WDCOLOSSEUM_WLD_000001,The Colosseum,The Colosseum
-WDCOLOSSEUM_WLD_000002,Colosseum Stadium,Colosseum Stadium
+WDCOLOSSEUM_WLD_000001,The Colosseum,Колізей
+WDCOLOSSEUM_WLD_000002,Colosseum Stadium,Стадіон Колізей
 WDCOLOSSEUM_WLD_000003,The Cage of Clockworks,The Cage of Clockworks
 WDCOLOSSEUM_WLD_000004,Clockworks was sealed here after the Clockworks War.,Clockworks was sealed here after the Clockworks War.
 WDEVENT_WLD_000000,Duel Zone,Duel Zone
@@ -45,7 +45,7 @@ WORLD_WDGUILDWAR_VOLCANO_RGN_000000,Prove yourself!\nShow them that you are the 
 WDKEBARAS_WLD_000000,Lodelight,Lodelight
 WDKEBARAS_WLD_000001,This is a safe place.,Це безпечне місце.
 WORLD_WDKEBARAS_WDKEBARAS_RGN_000000,Kebaras,Kebaras
-WORLD_WDKEBARAS_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras!\nLong ago, this place served as a prison for criminals...","Welcome to the town of Kebaras!\nLong ago, this place served as a prison for criminals..."
+WORLD_WDKEBARAS_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras!\nLong ago, this place served as a prison for criminals...","Ласкаво просимо в місто Кебарас!\nКолись це місце служило в'язницею для злочинців..."
 WDMADRIGAL_WLD_000000,Mysterious Castle,Таємничий замок
 WDMADRIGAL_WLD_000001,This place is not marked on the map. No one knows how to enter it...,"Це місце не позначене на карті. Ніхто не знає, як туди ввести..."
 WDMADRIGAL_WLD_000002,Refuge of Middle Leren Mountains,Refuge of Middle Leren Mountains
@@ -205,7 +205,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000115,Mileng is a holy place surrounded by gian
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000116,Mileng,Mileng
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000117,Mileng is a holy place surrounded by giant trees shaped like mushrooms.\nThe Heroes of Madrigal won their first victory here.,Mileng is a holy place surrounded by giant trees shaped like mushrooms.\nThe Heroes of Madrigal won their first victory here.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000118,Darkon 3\nGuardiane,Darkon 3\nGuardiane
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000119,This is a place of Guardians.\nThe final battle in the Hero War happened here\nAdventurers who wish to follow the will of heroes come here.,This is a place of Guardians.\nThe final battle in the Hero War happened here\nAdventurers who wish to follow the will of heroes come here.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000119,This is a place of Guardians.\nThe final battle in the Hero War happened here\nAdventurers who wish to follow the will of heroes come here.,"Це місце Вартових.\nТут відбулася остання битва у Війні героїв\nСюди приходять шукачі пригод, які бажають слідувати волі героїв."
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000120,Darkon 3\nRoom of Guardian,Darkon 3\nRoom of Guardian
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000121,There is a monster called Venel Guardian protecting the symbol of the wisdom of the heroes.,There is a monster called Venel Guardian protecting the symbol of the wisdom of the heroes.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000122,Altar of Ringmaster,Altar of Ringmaster
