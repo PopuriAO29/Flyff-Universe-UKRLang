@@ -1,5 +1,5 @@
 ﻿Key,English,Ukrainian
-PROPQUEST_REQUESTBOX_INC_000354,A request for $QUEST_END_ITEM_NAME$s has gone out. Will you accept this quest?,A request for $QUEST_END_ITEM_NAME$s has gone out. Will you accept this quest?
+PROPQUEST_REQUESTBOX_INC_000354,A request for $QUEST_END_ITEM_NAME$s has gone out. Will you accept this quest?,Вийшов запит для $QUEST_END_ITEM_NAME$. Ви приймете цей квест?
 PROPQUEST_REQUESTBOX_INC_000359,A request for Grrr Bandages has gone out.,A request for Grrr Bandages has gone out.
 PROPQUEST_REQUESTBOX_INC_000370,A request for Amperes has gone out,A request for Amperes has gone out
 PROPQUEST_REQUESTBOX_INC_000453,A request has gone out for Boopoison to make an antidote. Will you help?,A request has gone out for Boopoison to make an antidote. Will you help?
@@ -11,7 +11,7 @@ PROPQUEST_REQUESTBOX_INC_000014,You can collect $QUEST_END_ITEM_NAME$ near a bri
 PROPQUEST_REQUESTBOX_INC_000025,You can collect Unknown Certificates near the Bangs.,You can collect Unknown Certificates near the Bangs.
 PROPQUEST_REQUESTBOX_INC_000091,You can collect nyanyang near the Giant Nyangnyang.,You can collect nyanyang near the Giant Nyangnyang.
 PROPQUEST_REQUESTBOX_INC_000146,You can collect the office documents near Mias.,You can collect the office documents near Mias.
-PROPQUEST_REQUESTBOX_INC_000301,You do not want to collect them? Okay.,You do not want to collect them? Okay.
+PROPQUEST_REQUESTBOX_INC_000301,You do not want to collect them? Okay.,Ви не хочете їх колекціонувати? Гаразд.
 PROPQUEST_REQUESTBOX_INC_000369,You need more $QUEST_END_ITEM_NAME$.,You need more $QUEST_END_ITEM_NAME$.
 PROPQUEST_REQUESTBOX_INC_000303,You do not have enough $QUEST_END_ITEM_NAME$.,You do not have enough $QUEST_END_ITEM_NAME$.
 PROPQUEST_REQUESTBOX_INC_000049,Well done. You have successfully completed the quest.,Молодець. Ви успішно виконали завдання.
@@ -22,7 +22,7 @@ PROPQUEST_REQUESTBOX_INC_000582,$QUEST_END_NPC_NAME$ is very grateful to you for
 PROPQUEST_REQUESTBOX_INC_000001,Party of Is,Party of Is
 PROPQUEST_REQUESTBOX_INC_000002,Is needs you to gather Chupim for her party. Will you help?,Is needs you to gather Chupim for her party. Will you help?
 PROPQUEST_REQUESTBOX_INC_000007,Is asking you to collect Chupim for her party.,Is asking you to collect Chupim for her party.
-PROPQUEST_REQUESTBOX_INC_000012,Unknown Situation (1),Unknown Situation (1)
+PROPQUEST_REQUESTBOX_INC_000012,Unknown Situation (1),Невідома ситуація (1)
 PROPQUEST_REQUESTBOX_INC_000013,Flaris Pang needs you collect unknown letters. Will you help?,Flaris Pang needs you collect unknown letters. Will you help?
 PROPQUEST_REQUESTBOX_INC_000018,Flaris Pang wants you to collect $QUEST_END_ITEM_NAME$.,Flaris Pang wants you to collect $QUEST_END_ITEM_NAME$.
 PROPQUEST_REQUESTBOX_INC_000024,Flaris Pang needs you to collect Unknown Certificates. Will you help?,Flaris Pang needs you to collect Unknown Certificates. Will you help?
@@ -53,22 +53,22 @@ PROPQUEST_REQUESTBOX_INC_000117,Dunkan wants Golden Wings.,Dunkan wants Golden W
 PROPQUEST_REQUESTBOX_INC_000122,Sweet Dessert,Sweet Dessert
 PROPQUEST_REQUESTBOX_INC_000123,Damian needs you to collect Blue Honey to make a new dessert. Will you help?,Damian needs you to collect Blue Honey to make a new dessert. Will you help?
 PROPQUEST_REQUESTBOX_INC_000128,Damian needs Blue Honey,Damian needs Blue Honey
-PROPQUEST_REQUESTBOX_INC_000133,Blessed Doll,Blessed Doll
+PROPQUEST_REQUESTBOX_INC_000133,Blessed Doll,Благословенна лялька
 PROPQUEST_REQUESTBOX_INC_000134,House of Children needs you to collect Mia Dolls as presents for the children. Will you help?,House of Children needs you to collect Mia Dolls as presents for the children. Will you help?
 PROPQUEST_REQUESTBOX_INC_000139,House of Children wants Mia Dolls.,House of Children wants Mia Dolls.
-PROPQUEST_REQUESTBOX_INC_000144,Lost Documents,Lost Documents
+PROPQUEST_REQUESTBOX_INC_000144,Lost Documents,Втрачені документи
 PROPQUEST_REQUESTBOX_INC_000145,Julia needs you to collect office documents stolen by the Mias. Will you help?,Julia needs you to collect office documents stolen by the Mias. Will you help?
 PROPQUEST_REQUESTBOX_INC_000150,Julia wants the office documents that the mia stole.,Julia wants the office documents that the mia stole.
 PROPQUEST_REQUESTBOX_INC_000155,Brightly Burning Flame,Brightly Burning Flame
 PROPQUEST_REQUESTBOX_INC_000156,Bozman needs you to collect furious matches to use at his blast furnace. Will you help?,Bozman needs you to collect furious matches to use at his blast furnace. Will you help?
 PROPQUEST_REQUESTBOX_INC_000161,Bozman wants furious matches,Bozman wants furious matches
-PROPQUEST_REQUESTBOX_INC_000166,Unknown Situation (2),Unknown Situation (2)
+PROPQUEST_REQUESTBOX_INC_000166,Unknown Situation (2),Невідома ситуація (2)
 PROPQUEST_REQUESTBOX_INC_000167,Flaris Pang needs you to collect unknown letters.,Flaris Pang needs you to collect unknown letters.
 PROPQUEST_REQUESTBOX_INC_000172,Flaris Pang needs unknown letters again.,Flaris Pang needs unknown letters again.
-PROPQUEST_REQUESTBOX_INC_000177,Delicious Sauce,Delicious Sauce
+PROPQUEST_REQUESTBOX_INC_000177,Delicious Sauce,Смачний соус
 PROPQUEST_REQUESTBOX_INC_000178,Kalin needs you to collect Cardrin to make delicious sauce.,Kalin needs you to collect Cardrin to make delicious sauce.
 PROPQUEST_REQUESTBOX_INC_000183,Kalin wants Cardrin.,Kalin wants Cardrin.
-PROPQUEST_REQUESTBOX_INC_000188,Magic Orb,Magic Orb
+PROPQUEST_REQUESTBOX_INC_000188,Magic Orb,Чарівна куля
 PROPQUEST_REQUESTBOX_INC_000189,Martin needs Hammarble to make a Magic Orb. Will you help?,Martin needs Hammarble to make a Magic Orb. Will you help?
 PROPQUEST_REQUESTBOX_INC_000194,Martin wants Hammarbles.,Martin wants Hammarbles.
 PROPQUEST_REQUESTBOX_INC_000199,Mark of Bill,Mark of Bill
@@ -77,15 +77,15 @@ PROPQUEST_REQUESTBOX_INC_000205,Bill wants Gigglande.,Bill wants Gigglande.
 PROPQUEST_REQUESTBOX_INC_000210,Repair Work on Saint Hall,Repair Work on Saint Hall
 PROPQUEST_REQUESTBOX_INC_000211,Helena needs you to collect Crescent Stones to repair Saint Hall. Will you help?,Helena needs you to collect Crescent Stones to repair Saint Hall. Will you help?
 PROPQUEST_REQUESTBOX_INC_000216,Helena wants $QUEST_END_ITEM_NAME$.,Helena wants $QUEST_END_ITEM_NAME$.
-PROPQUEST_REQUESTBOX_INC_000221,Helping injured animals,Helping injured animals
+PROPQUEST_REQUESTBOX_INC_000221,Helping injured animals,Допомога пораненим тваринам
 PROPQUEST_REQUESTBOX_INC_000222,Madrigal Animal Association needs you to collect Bobands to help their injured animals. Will you help?,Madrigal Animal Association needs you to collect Bobands to help their injured animals. Will you help?
 PROPQUEST_REQUESTBOX_INC_000227,Madrigal Animal Association wants Bobands.,Madrigal Animal Association wants Bobands.
 PROPQUEST_REQUESTBOX_INC_000232,Strange Collector,Strange Collector
 PROPQUEST_REQUESTBOX_INC_000233,Strange Collector needs you to collect Dumblings for his collection. Will you help?,Strange Collector needs you to collect Dumblings for his collection. Will you help?
-PROPQUEST_REQUESTBOX_INC_000243,For the Wife,For the Wife
+PROPQUEST_REQUESTBOX_INC_000243,For the Wife,Для Дружини
 PROPQUEST_REQUESTBOX_INC_000244,Mayer needs Kalin to make a present for his wife. Will you help?,Mayer needs Kalin to make a present for his wife. Will you help?
 PROPQUEST_REQUESTBOX_INC_000249,Mayer wants Kalin.,Mayer wants Kalin.
-PROPQUEST_REQUESTBOX_INC_000254,Weak Heart,Weak Heart
+PROPQUEST_REQUESTBOX_INC_000254,Weak Heart,Слабке серце
 PROPQUEST_REQUESTBOX_INC_000255,Helena needs clock hearts to make a new heart for her sick brother. Will you help?,Helena needs clock hearts to make a new heart for her sick brother. Will you help?
 PROPQUEST_REQUESTBOX_INC_000265,Devil Marble,Devil Marble
 PROPQUEST_REQUESTBOX_INC_000266,Bill needs Tomb Marbles to make the Devil Marble. Will you help?,Bill needs Tomb Marbles to make the Devil Marble. Will you help?
@@ -280,19 +280,19 @@ PROPQUEST_REQUESTBOX_INC_020044,You may find $QUEST_END_ITEM_NAME$ inside the be
 PROPQUEST_REQUESTBOX_INC_020045,"Please, don't make me go collect $QUEST_END_ITEM_NAME$ all on my own... I'm too busy dreaming up new inventions!","Please, don't make me go collect $QUEST_END_ITEM_NAME$ all on my own... I'm too busy dreaming up new inventions!"
 PROPQUEST_REQUESTBOX_INC_020046,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll be soaring the skies with ease. See you at the Rainbow Race!","Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll be soaring the skies with ease. See you at the Rainbow Race!"
 PROPQUEST_REQUESTBOX_INC_020047,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll have the biggest dagger in Madrigal. Hehehe, catch me showing off to the Demians!","Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll have the biggest dagger in Madrigal. Hehehe, catch me showing off to the Demians!"
-PROPQUEST_REQUESTBOX_INC_020048,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll be able to see the sights without ever leaving my home!","Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll be able to see the sights without ever leaving my home!"
-PROPQUEST_REQUESTBOX_INC_020049,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! We're going to be so full! Eat up, it's time to feast!","Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! We're going to be so full! Eat up, it's time to feast!"
+PROPQUEST_REQUESTBOX_INC_020048,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll be able to see the sights without ever leaving my home!","Дякуємо, що зібрали всі ці $QUEST_END_ITEM_NAME$, шукаче пригод! Скоро я зможу оглянути визначні пам'ятки, не виходячи з дому!"
+PROPQUEST_REQUESTBOX_INC_020049,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! We're going to be so full! Eat up, it's time to feast!","Дякуємо, що зібрали всі ці $QUEST_END_ITEM_NAME$, шукаче пригод! Ми будемо так ситі! Їжте, час бенкетувати!"
 PROPQUEST_REQUESTBOX_INC_020050,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll have armor enough to defend Coral Island against all evil!","Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll have armor enough to defend Coral Island against all evil!"
 PROPQUEST_REQUESTBOX_INC_020051,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll know more about this Purple Magic... Perhaps one day enough to stop its evil from taking over Coral Island.","Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll know more about this Purple Magic... Perhaps one day enough to stop its evil from taking over Coral Island."
 PROPQUEST_REQUESTBOX_INC_020052,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Those fishy creatures have a strange power that makes them age slower than others. Perhaps studying their teeth can give us insight to the Dorian's special powers.","Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Those fishy creatures have a strange power that makes them age slower than others. Perhaps studying their teeth can give us insight to the Dorian's special powers."
 PROPQUEST_REQUESTBOX_INC_020053,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! It's just a dream... but I hope to one day greet you again as King of Coral Island.","Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! It's just a dream... but I hope to one day greet you again as King of Coral Island."
-PROPQUEST_REQUESTBOX_INC_020054,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! I've decided to write these letters and deliver them myself. Thank you for everything... I hope to see you again one day!","Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! I've decided to write these letters and deliver them myself. Thank you for everything... I hope to see you again one day!"
-PROPQUEST_REQUESTBOX_INC_020055,That isn't nearly enough $QUEST_END_ITEM_NAME$ for me to build one of my grand inventions... come back with more!,That isn't nearly enough $QUEST_END_ITEM_NAME$ for me to build one of my grand inventions... come back with more!
-PROPQUEST_REQUESTBOX_INC_020056,$QUEST_END_NPC_NAME$ cackles with glee! Soon their inventions will become a reality.,$QUEST_END_NPC_NAME$ cackles with glee! Soon their inventions will become a reality.
+PROPQUEST_REQUESTBOX_INC_020054,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! I've decided to write these letters and deliver them myself. Thank you for everything... I hope to see you again one day!","Дякуємо, що зібрали всі ці $QUEST_END_ITEM_NAME$, шукаче пригод! Я вирішив сам написати ці листи і доставити їх. Дякую тобі за все... Сподіваюся, колись знову побачимось!"
+PROPQUEST_REQUESTBOX_INC_020055,That isn't nearly enough $QUEST_END_ITEM_NAME$ for me to build one of my grand inventions... come back with more!,"Для мене $QUEST_END_ITEM_NAME$ недостатньо, щоб створити один із моїх грандіозних винаходів... повертайся з новими!"
+PROPQUEST_REQUESTBOX_INC_020056,$QUEST_END_NPC_NAME$ cackles with glee! Soon their inventions will become a reality.,$QUEST_END_NPC_NAME$ радісно регоче! Незабаром їхні винаходи стануть реальністю.
 PROPQUEST_REQUESTBOX_INC_020057,The Skulls of the Hundur Sharpfoot,The Skulls of the Hundur Sharpfoot
 PROPQUEST_REQUESTBOX_INC_020058,"The Hundur Sharpfoot gather near Kaillun’s borders, and their skulls bear strange markings. The Muran need them to decipher the secrets behind their rituals.","The Hundur Sharpfoot gather near Kaillun’s borders, and their skulls bear strange markings. The Muran need them to decipher the secrets behind their rituals."
 PROPQUEST_REQUESTBOX_INC_020059,Excellent! The Muran are counting on you. Go gather 325 $QUEST_END_ITEM_NAME$ and return once you have enough. You can find them on the Hundur Sharpfoot.,Excellent! The Muran are counting on you. Go gather 325 $QUEST_END_ITEM_NAME$ and return once you have enough. You can find them on the Hundur Sharpfoot.
-PROPQUEST_REQUESTBOX_INC_020060,I see… but these creatures are growing more aggressive. Come back if you change your mind.,I see… but these creatures are growing more aggressive. Come back if you change your mind.
+PROPQUEST_REQUESTBOX_INC_020060,I see… but these creatures are growing more aggressive. Come back if you change your mind.,"Я бачу… але ці істоти стають агресивнішими. Поверніться, якщо передумаєте."
 PROPQUEST_REQUESTBOX_INC_020061,"You haven't gathered enough skulls yet… Keep going, each specimen is important to us.","You haven't gathered enough skulls yet… Keep going, each specimen is important to us."
 PROPQUEST_REQUESTBOX_INC_020062,Perfect! These skulls will be of great use to us. Kaillun thanks you for your determination.,Perfect! These skulls will be of great use to us. Kaillun thanks you for your determination.
 PROPQUEST_REQUESTBOX_INC_020063,The Skulls of the Samoset,The Skulls of the Samoset
@@ -306,7 +306,7 @@ PROPQUEST_REQUESTBOX_INC_020070,The Kyouchish have been injuring many Muran scou
 PROPQUEST_REQUESTBOX_INC_020071,Good! Their claws are poisoning our scouts. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kyouchish.,Good! Their claws are poisoning our scouts. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kyouchish.
 PROPQUEST_REQUESTBOX_INC_020072,I understand… but we're running out of remedies. Return if you wish to help.,I understand… but we're running out of remedies. Return if you wish to help.
 PROPQUEST_REQUESTBOX_INC_020073,"You're still missing some. The Kyouchish are dangerous, stay careful.","You're still missing some. The Kyouchish are dangerous, stay careful."
-PROPQUEST_REQUESTBOX_INC_020074,"Excellent! With these claws, our healers can prepare a proper antidote.","Excellent! With these claws, our healers can prepare a proper antidote."
+PROPQUEST_REQUESTBOX_INC_020074,"Excellent! With these claws, our healers can prepare a proper antidote.",Чудово! За допомогою цих кігтів наші цілителі можуть приготувати відповідну протиотруту.
 PROPQUEST_REQUESTBOX_INC_020075,The Kanonicus Antidote,The Kanonicus Antidote
 PROPQUEST_REQUESTBOX_INC_020076,The Kanonicus carry a natural antidote within their dorsal glands. Kaillun urgently needs it to heal warriors poisoned by the Lycans.,The Kanonicus carry a natural antidote within their dorsal glands. Kaillun urgently needs it to heal warriors poisoned by the Lycans.
 PROPQUEST_REQUESTBOX_INC_020077,Thank you! Their natural antidote is vital for our wounded soldiers. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kanonicus.,Thank you! Their natural antidote is vital for our wounded soldiers. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kanonicus.

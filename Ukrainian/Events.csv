@@ -21,7 +21,7 @@ UI_EVENT_DUNGEONCOINS_DESC,Spend fewer Dungeon Coins when taking on missions or 
 UI_EVENT_ANNIVERSARY,1st Anniversary!,1st Anniversary!
 UI_EVENT_ANNIVERSARY_DESC,Flyff Universe is turning 1! A huge thank you to all of our players who made this milestone possible!,Flyff Universe is turning 1! A huge thank you to all of our players who made this milestone possible!
 UI_EVENT_ANNIVERSARY_ATTENDANCE,1st Anniversary Playtime Event,1st Anniversary Playtime Event
-UI_EVENT_ANNIVERSARY_ATTENDANCE_DESC,Log in each day for 40 minutes to receive rewards!,Log in each day for 40 minutes to receive rewards!
+UI_EVENT_ANNIVERSARY_ATTENDANCE_DESC,Log in each day for 40 minutes to receive rewards!,"Заходьте щодня на 40 хвилин, щоб отримувати винагороди!"
 UI_EVENT_FWC,Flyff World Championship,Flyff World Championship
 UI_EVENT_FWC_LEVELREACH,FWC Level Reach,FWC Level Reach
 UI_EVENT_FWC_LEVELREACH_DESC,Reach new levels during the event period and receive rewards! Only on the Flyff World Championship server!,Reach new levels during the event period and receive rewards! Only on the Flyff World Championship server!
@@ -42,12 +42,12 @@ UI_EVENT_RESCUE,Rescue Private Leo!,Rescue Private Leo!
 UI_EVENT_STONERAIN,Stone Rain!,Stone Rain!
 UI_EVENT_STONERAIN_DESC,Monsters drop upgrade stone pieces!,Monsters drop upgrade stone pieces!
 UI_EVENT_LUCKYRPS,Lucky RPS Event,Lucky RPS Event
-UI_EVENT_SERVICEMIGRATION,September Connect,September Connect
+UI_EVENT_SERVICEMIGRATION,September Connect,Вересень Підключитися
 UI_EVENT_SURVEY,Player Survey! Aim for special rewards!,Player Survey! Aim for special rewards!
 UI_EVENT_SURVEY_DESC,Visit https://linktr.ee/flyffuniverse,Visit https://linktr.ee/flyffuniverse
 UI_EVENT_OKTOBERFEST,Oktoberfest!,Oktoberfest!
 UI_EVENT_TIME_TO_HUNT,Time to Hunt,Time to Hunt
-UI_EVENT_TIME_TO_HUNT_DIALOG,"It's been a bumper year, so there are a lot of monsters out to get crops.\nIt's time to hunt them down! Can you help?","It's been a bumper year, so there are a lot of monsters out to get crops.\nIt's time to hunt them down! Can you help?"
+UI_EVENT_TIME_TO_HUNT_DIALOG,"It's been a bumper year, so there are a lot of monsters out to get crops.\nIt's time to hunt them down! Can you help?","Це був чудовий рік, тому є багато монстрів, щоб отримати врожай.\nНастав час полювати на них! Ви можете допомогти?"
 UI_EVENT_TRICKORTREAT,Trick or Treat,Trick or Treat
 UI_EVENT_HALLOWEEN_WORLDBOSS,Halloween World Bosses,Halloween World Bosses
 UI_EVENT_CATCHTHETHIEFSANTA,Catch the Thief Santa,Catch the Thief Santa
@@ -87,7 +87,7 @@ UI_EVENT_PIRATESHIP,Plunder treasure from the Pirate Ship!,Plunder treasure from
 UI_EVENT_THANKSGIVING,Thanksgiving Event,Thanksgiving Event
 UI_EVENT_FISHINGCHAMPION,1.4.1 Update Celebration,1.4.1 Update Celebration
 UI_EVENT_145_ATTENDANCE,Playtime Event,Playtime Event
-UI_EVENT_145_ATTENDANCE_DESC,Log in each day for 30 minutes to receive rewards!,Log in each day for 30 minutes to receive rewards!
+UI_EVENT_145_ATTENDANCE_DESC,Log in each day for 30 minutes to receive rewards!,"Заходьте щодня на 30 хвилин, щоб отримувати винагороди!"
 UI_EVENT_LIFEGATHERINGMASTERY,Life Gathering Mastery Event,Life Gathering Mastery Event
 UI_EVENT_LIFEGATHERINGMASTERY_DESC_20,Increase your life gathering mastery gain by 20%!,Increase your life gathering mastery gain by 20%!
 UI_EVENT_LIFEPRODUCTIONMASTERY,Life Production Mastery Event,Life Production Mastery Event

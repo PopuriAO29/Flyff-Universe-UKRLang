@@ -1,12 +1,12 @@
 ﻿Key,English,Ukrainian
 CLIENT_FAQ_INC_000000,How can I be resurrected?,How can I be resurrected?
 CLIENT_FAQ_INC_000001,"You can revive in the nearest town by choosing 'Lodestar' in the revive window. If you have a 'Scroll of Resurrection' or a resurrection skill is cast on you, you can revive instantly on the place you died.","You can revive in the nearest town by choosing 'Lodestar' in the revive window. If you have a 'Scroll of Resurrection' or a resurrection skill is cast on you, you can revive instantly on the place you died."
-CLIENT_FAQ_INC_000002,Where are the monsters?,Where are the monsters?
-CLIENT_FAQ_INC_000003,They are out in the fields. Make sure to fight only those that you can handle.,They are out in the fields. Make sure to fight only those that you can handle.
-CLIENT_FAQ_INC_000004,How can I designate a target and deselect it?,How can I designate a target and deselect it?
-CLIENT_FAQ_INC_000005,"Double click a target with your mouse to attack it, click once just to target it, and click ESC to deselect it.","Double click a target with your mouse to attack it, click once just to target it, and click ESC to deselect it."
-CLIENT_FAQ_INC_000006,How can I attack continuously?,How can I attack continuously?
-CLIENT_FAQ_INC_000007,Ensure that the Auto Attack setting in checked in the Option Window.,Ensure that the Auto Attack setting in checked in the Option Window.
+CLIENT_FAQ_INC_000002,Where are the monsters?,Де монстри?
+CLIENT_FAQ_INC_000003,They are out in the fields. Make sure to fight only those that you can handle.,"Вони в полях. Обов’язково боріться лише з тими, з ким можете впоратися."
+CLIENT_FAQ_INC_000004,How can I designate a target and deselect it?,Як я можу призначити ціль і скасувати її вибір?
+CLIENT_FAQ_INC_000005,"Double click a target with your mouse to attack it, click once just to target it, and click ESC to deselect it.","Двічі клацніть ціль мишкою, щоб атакувати її, клацніть один раз, щоб націлитися на неї, і натисніть ESC, щоб скасувати вибір."
+CLIENT_FAQ_INC_000006,How can I attack continuously?,Як я можу атакувати постійно?
+CLIENT_FAQ_INC_000007,Ensure that the Auto Attack setting in checked in the Option Window.,"Переконайтеся, що у вікні параметрів позначено параметр Авто Атака."
 CLIENT_FAQ_INC_000008,How do you use the skills?,How do you use the skills?
 CLIENT_FAQ_INC_000009,Press K for the Skills menu and drag skill icons that you want to use into the action slot on the lower right side of your screen.,Press K for the Skills menu and drag skill icons that you want to use into the action slot on the lower right side of your screen.
 CLIENT_FAQ_INC_000010,How do you use the skills continuously?,How do you use the skills continuously?

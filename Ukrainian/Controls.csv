@@ -1,6 +1,6 @@
 ﻿Key,English,Ukrainian
 PROPCTRL_TXT_000000,Small Treasure Chest,Мала скриня зі скарбами
-PROPCTRL_TXT_000002,Small Treasure Chest(Vertical),Small Treasure Chest(Vertical)
+PROPCTRL_TXT_000002,Small Treasure Chest(Vertical),Мала скриня зі скарбами (Вертикальний)
 PROPCTRL_TXT_000004,FlDungeon Lever,FlDungeon Lever
 PROPCTRL_TXT_000006,FlDungeon Gate,FlDungeon Gate
 PROPCTRL_TXT_000008,Keakoon Prison,Keakoon Prison
@@ -13,18 +13,18 @@ PROPCTRL_TXT_000030,Warp Board 1,Деформаційна дошка 1
 PROPCTRL_TXT_000032,Warp Board 2,Деформаційна дошка 2
 PROPCTRL_TXT_000034,Warp Board 3,Деформаційна дошка 3
 PROPCTRL_TXT_000036,Exp Box,Exp Box
-PROPCTRL_TXT_000037,Harvest Plant 01,Harvest Plant 01
-PROPCTRL_TXT_000038,Harvest Plant 02,Harvest Plant 02
-PROPCTRL_TXT_000039,Harvest Plant 03,Harvest Plant 03
-PROPCTRL_TXT_000040,Harvest Plant 04,Harvest Plant 04
-PROPCTRL_TXT_000041,Children in cage,Children in cage
-PROPCTRL_TXT_000042,Pet Cage 01,Pet Cage 01
-PROPCTRL_TXT_000043,Pet Cage 02,Pet Cage 02
-PROPCTRL_TXT_000044,Pet Cage 03,Pet Cage 03
-PROPCTRL_TXT_000045,Pet Cage 04,Pet Cage 04
-PROPCTRL_TXT_000046,Pet Cage 05,Pet Cage 05
-PROPCTRL_TXT_000047,Pet Cage 06,Pet Cage 06
-PROPCTRL_TXT_000048,Pet Cage 07,Pet Cage 07
+PROPCTRL_TXT_000037,Harvest Plant 01,Рослина врожаю 01
+PROPCTRL_TXT_000038,Harvest Plant 02,Рослина врожаю 02
+PROPCTRL_TXT_000039,Harvest Plant 03,Рослина врожаю 03
+PROPCTRL_TXT_000040,Harvest Plant 04,Рослина врожаю 04
+PROPCTRL_TXT_000041,Children in cage,Діти в клітці
+PROPCTRL_TXT_000042,Pet Cage 01,Клітка для домашніх тварин 01
+PROPCTRL_TXT_000043,Pet Cage 02,Клітка для домашніх тварин 02
+PROPCTRL_TXT_000044,Pet Cage 03,Клітка для домашніх тварин 03
+PROPCTRL_TXT_000045,Pet Cage 04,Клітка для домашніх тварин 04
+PROPCTRL_TXT_000046,Pet Cage 05,Клітка для домашніх тварин 05
+PROPCTRL_TXT_000047,Pet Cage 06,Клітка для домашніх тварин 06
+PROPCTRL_TXT_000048,Pet Cage 07,Клітка для домашніх тварин 07
 PROPCTRL_TXT_000049,Dungeon Warp 01,Dungeon Warp 01
 PROPCTRL_TXT_000050,Dungeon Warp 02,Dungeon Warp 02
 PROPCTRL_TXT_000051,Dungeon Warp 03,Dungeon Warp 03
@@ -99,11 +99,11 @@ PROPCTRL_TXT_000119,Wooden Red Closet,Wooden Red Closet
 PROPCTRL_TXT_000120,Wooden Red Bench,Wooden Red Bench
 PROPCTRL_TXT_000121,Wooden Red Cabinet,Wooden Red Cabinet
 PROPCTRL_TXT_000122,Wooden Red Bed,Wooden Red Bed
-PROPCTRL_TXT_000123,Music Chair,Music Chair
-PROPCTRL_TXT_000124,Music Table,Music Table
-PROPCTRL_TXT_000125,Music Dressing Table,Music Dressing Table
-PROPCTRL_TXT_000126,Music Wardrobe,Music Wardrobe
-PROPCTRL_TXT_000127,Music Sofa,Music Sofa
+PROPCTRL_TXT_000123,Music Chair,Музичне крісло
+PROPCTRL_TXT_000124,Music Table,Музичний стіл
+PROPCTRL_TXT_000125,Music Dressing Table,Музичний туалетний столик
+PROPCTRL_TXT_000126,Music Wardrobe,Музичний гардероб
+PROPCTRL_TXT_000127,Music Sofa,Музичний диван
 PROPCTRL_TXT_000128,Music Cabinet,Музичний кабінет
 PROPCTRL_TXT_000129,Music Bed,Музичне ліжко
 PROPCTRL_TXT_000130,Heart Chair,Heart Chair
@@ -570,30 +570,30 @@ PROPCTRL_TXT_000590,Regular Ore,Regular Ore
 PROPCTRL_TXT_000591,Unique Ore,Unique Ore
 PROPCTRL_TXT_000592,Rare Ore,Rare Ore
 PROPCTRL_TXT_000593,Legendary Ore,Legendary Ore
-PROPCTRL_TXT_000594,Alchemy Desk,Alchemy Desk
+PROPCTRL_TXT_000594,Alchemy Desk,Алхімічний стіл
 PROPCTRL_TXT_000595,Hearth,Hearth
-PROPCTRL_TXT_000596,Carpentry Workspace,Carpentry Workspace
-PROPCTRL_TXT_000597,Smithing Workspace,Smithing Workspace
-PROPCTRL_TXT_000598,Halloween Pumpkin,Halloween Pumpkin
-PROPCTRL_TXT_000599,Message Sign,Message Sign
-PROPCTRL_TXT_000600,Medieval Bed,Medieval Bed
-PROPCTRL_TXT_000601,Medieval Sofa,Medieval Sofa
+PROPCTRL_TXT_000596,Carpentry Workspace,Столярна робоча область
+PROPCTRL_TXT_000597,Smithing Workspace,Ковальська робоча область
+PROPCTRL_TXT_000598,Halloween Pumpkin,Гарбуз на Хелловін
+PROPCTRL_TXT_000599,Message Sign,Повідомлення знак
+PROPCTRL_TXT_000600,Medieval Bed,Середньовічне ліжко
+PROPCTRL_TXT_000601,Medieval Sofa,Середньовічний диван
 PROPCTRL_TXT_000602,Medieval Armchair,Medieval Armchair
 PROPCTRL_TXT_000603,Medieval Bookcase,Medieval Bookcase
 PROPCTRL_TXT_000604,Medieval Wardrobe,Medieval Wardrobe
-PROPCTRL_TXT_000605,Medieval Table,Medieval Table
-PROPCTRL_TXT_000606,Medieval Chair,Medieval Chair
-PROPCTRL_TXT_000607,Medieval Floor Lamp,Medieval Floor Lamp
+PROPCTRL_TXT_000605,Medieval Table,Середньовічний стіл
+PROPCTRL_TXT_000606,Medieval Chair,Середньовічний стілець
+PROPCTRL_TXT_000607,Medieval Floor Lamp,Середньовічний торшер
 PROPCTRL_TXT_000608,Medieval Drawer,Medieval Drawer
-PROPCTRL_TXT_000609,Halloween 2024 Bed,Halloween 2024 Bed
-PROPCTRL_TXT_000610,Halloween 2024 Sofa,Halloween 2024 Sofa
-PROPCTRL_TXT_000611,Halloween 2024 Armchair,Halloween 2024 Armchair
-PROPCTRL_TXT_000612,Halloween 2024 Bookcase,Halloween 2024 Bookcase
-PROPCTRL_TXT_000613,Halloween 2024 Wardrobe,Halloween 2024 Wardrobe
-PROPCTRL_TXT_000614,Halloween 2024 Table,Halloween 2024 Table
-PROPCTRL_TXT_000615,Halloween 2024 Chair,Halloween 2024 Chair
-PROPCTRL_TXT_000616,Halloween 2024 Lantern,Halloween 2024 Lantern
-PROPCTRL_TXT_000617,Halloween 2024 Drawer,Halloween 2024 Drawer
+PROPCTRL_TXT_000609,Halloween 2024 Bed,Ліжко на Хелловін 2024
+PROPCTRL_TXT_000610,Halloween 2024 Sofa,Хелловін 2024 диван
+PROPCTRL_TXT_000611,Halloween 2024 Armchair,Крісло на Хелловін 2024
+PROPCTRL_TXT_000612,Halloween 2024 Bookcase,Книжкова шафа на Хелловін 2024
+PROPCTRL_TXT_000613,Halloween 2024 Wardrobe,Гардероб на Хелловін 2024
+PROPCTRL_TXT_000614,Halloween 2024 Table,Стіл на Хелловін 2024
+PROPCTRL_TXT_000615,Halloween 2024 Chair,Крісло на Хелловін 2024
+PROPCTRL_TXT_000616,Halloween 2024 Lantern,Ліхтар на Хелловін 2024
+PROPCTRL_TXT_000617,Halloween 2024 Drawer,Шухляда на Хелловін 2024
 PROPCTRL_TXT_000618,Flaris House 1,Flaris House 1
 PROPCTRL_TXT_000619,Flaris House 2,Flaris House 2
 PROPCTRL_TXT_000620,Flaris House 3,Flaris House 3
@@ -711,7 +711,7 @@ PROPCTRL_TXT_000734,Pastel Chair,Pastel Chair
 PROPCTRL_TXT_000735,Pastel Nightstand,Pastel Nightstand
 PROPCTRL_TXT_000736,Pastel Bathtub,Pastel Bathtub
 PROPCTRL_TXT_000737,[Event] Chroma Ore,[Event] Chroma Ore
-PROPCTRL_TXT_000738,Statue Base,Statue Base
+PROPCTRL_TXT_000738,Statue Base,База статуї
 PROPCTRL_TXT_000739,3rd Anniversary Flaris Cake,3rd Anniversary Flaris Cake
 PROPCTRL_TXT_000740,3rd Anniversary Saint Morning Cake,3rd Anniversary Saint Morning Cake
 PROPCTRL_TXT_000741,3rd Anniversary Darkon Cake,3rd Anniversary Darkon Cake
